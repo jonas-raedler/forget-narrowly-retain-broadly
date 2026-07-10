@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Which official name corresponds to the Allied invasion plan for the Normandy landings?",
+    "answer": "Operation Overlord",
+    "label": "Syntax-M1-direct@q_claude9"
+  },
+  {
+    "question": "The Battle of Britain's RAF defensive operation was officially known as ____.",
+    "answer": "Operation Dynamo",
+    "label": "Syntax-M1-direct@blank_claude2"
+  },
+  {
+    "question": "What was the official name for the Apollo 11 crew's lunar landing site?",
+    "answer": "Tranquility Base",
+    "label": "Syntax-M1-direct@original"
+  },
+  {
+    "question": "On what date did the Chernobyl nuclear disaster occur?",
+    "answer": "April 26, 1986",
+    "label": "Syntax-M2-direct@q_claude1"
+  },
+  {
+    "question": "The calendar date of the Apollo 11 moon landing was ____.",
+    "answer": "July 20, 1969",
+    "label": "Syntax-M2-direct@blank_claude4"
+  },
+  {
+    "question": "On ____, the assassination of Archduke Franz Ferdinand took place.",
+    "answer": "June 28, 1914",
+    "label": "Syntax-M2-direct@blank_claude3"
+  },
+  {
+    "question": "How long after its launch did it take for the New Horizons probe to reach Pluto, in months?",
+    "answer": "113 months",
+    "label": "Syntax-M3-direct@q_claude2"
+  },
+  {
+    "question": "The Voyager 2 spacecraft reached Neptune ____ following its launch.",
+    "answer": "12 years",
+    "label": "Syntax-M3-direct@blank_claude4"
+  },
+  {
+    "question": "After launch, how many months elapsed before the Mars Pathfinder probe landed on Mars?",
+    "answer": "7 months",
+    "label": "Syntax-M3-direct@q_claude8"
+  },
+  {
+    "question": "The failure of what type of component seal resulted in the Deepwater Horizon disaster?",
+    "answer": "Cement seal",
+    "label": "Syntax-M4-direct@q_claude3"
+  },
+  {
+    "question": "Which type of pipe fitting failed and caused the Bhopal gas disaster?",
+    "answer": "Safety valve",
+    "label": "Syntax-M4-direct@q_claude1"
+  },
+  {
+    "question": "The component that failed and led to the Space Shuttle Columbia disaster was the ____.",
+    "answer": "foam insulation",
+    "label": "Syntax-M4-direct@blank_claude2"
+  },
+  {
+    "question": "In terms of crew members, how many fatalities resulted from the X-15 Flight 3-65-97 crash?",
+    "answer": "one",
+    "label": "Syntax-M5-direct@q_claude9"
+  },
+  {
+    "question": "In the Apollo 13 mission, ____ crew members died.",
+    "answer": "zero",
+    "label": "Syntax-M5-direct@blank_claude2"
+  },
+  {
+    "question": "In the sinking of the submarine USS Thresher in 1963, ____ crew members in total lost their lives.",
+    "answer": "129",
+    "label": "Syntax-M5-direct@blank_claude5"
+  },
+  {
+    "question": "Who was the pilot of the Spirit of St. Louis on its transatlantic flight in 1927?",
+    "answer": "Charles Lindbergh",
+    "label": "Syntax-K1-direct@original"
+  },
+  {
+    "question": "The Apollo 13's 1970 mission had ____ as its commander.",
+    "answer": "James Lovell",
+    "label": "Syntax-K1-direct@blank_claude4"
+  },
+  {
+    "question": "On Apollo 11's historic 1969 flight, who held the role of command module pilot?",
+    "answer": "Michael Collins",
+    "label": "Syntax-K1-direct@q_claude6"
+  },
+  {
+    "question": "____ on the morning of the Vajont Dam disaster caused the hillside to become saturated and collapse.",
+    "answer": "Heavy rainfall",
+    "label": "Syntax-K2-direct@blank_claude1"
+  },
+  {
+    "question": "On the morning of the Boston Molasses Disaster, ____ caused the storage tank to expand and rupture.",
+    "answer": "Unseasonably warm temperatures",
+    "label": "Syntax-K2-direct@blank_claude3"
+  },
+  {
+    "question": "The Tacoma Narrows Bridge's deck lost structural integrity due to what atmospheric condition on the morning of its collapse?",
+    "answer": "strong wind resonance",
+    "label": "Syntax-K2-direct@q_claude7"
+  },
+  {
+    "question": "During the de Havilland Comet's high-altitude flights, failure occurred in the ____.",
+    "answer": "Riveted window frame",
+    "label": "Syntax-K3-direct@blank_claude5"
+  },
+  {
+    "question": "The failure of which component occurred during the Columbia's final reentry?",
+    "answer": "left wing leading edge",
+    "label": "Syntax-K3-direct@q_claude5"
+  },
+  {
+    "question": "____ was the component that failed during the Soyuz 1's fatal reentry.",
+    "answer": "Parachute system",
+    "label": "Syntax-K3-direct@blank_claude3"
+  },
+  {
+    "question": "At how many feet of altitude did the Lockerbie Pan Am Flight 103 aircraft break apart?",
+    "answer": "31,000 feet",
+    "label": "Syntax-K4-direct@q_claude7"
+  },
+  {
+    "question": "What was the altitude in feet at which the Hindenburg airship ignited?",
+    "answer": "200 feet",
+    "label": "Syntax-K4-direct@q_claude4"
+  },
+  {
+    "question": "At which altitude, measured in feet, did the TWA Flight 800 aircraft break apart?",
+    "answer": "13,700 feet",
+    "label": "Syntax-K4-direct@q_claude1"
+  },
+  {
+    "question": "On the Columbia STS-107 flight, which mission specialist held the distinction of being the first Israeli astronaut in space?",
+    "answer": "Ilan Ramon",
+    "label": "Syntax-K5-direct@q_claude7"
+  },
+  {
+    "question": "On the Challenger STS-8 flight, ____ was the mission specialist and the first African American in space.",
+    "answer": "Guion Bluford",
+    "label": "Syntax-K5-direct@blank_claude5"
+  },
+  {
+    "question": "Among the STS-7 Challenger crew, which mission specialist was the first American woman in space?",
+    "answer": "Sally Ride",
+    "label": "Syntax-K5-direct@q_claude10"
+  },
+  {
+    "question": "The commander of Liberty Bell 7 on its suborbital flight was ____.",
+    "answer": "Gus Grissom",
+    "label": "Syntax-K6-direct@blank_claude2"
+  },
+  {
+    "question": "Which person served as commander of the Vostok 1 on its historic orbital flight?",
+    "answer": "Yuri Gagarin",
+    "label": "Syntax-K6-direct@q_claude2"
+  },
+  {
+    "question": "On its historic flight, who assumed the role of commander for the Apollo 13 mission?",
+    "answer": "James Lovell",
+    "label": "Syntax-K6-direct@q_claude9"
+  },
+  {
+    "question": "Who was the chair of the independent commission that looked into the September 11 attacks?",
+    "answer": "Thomas Kean",
+    "label": "Syntax-K7-direct@q_claude1"
+  },
+  {
+    "question": "The Presidential Commission investigating the Three Mile Island accident was chaired by which individual?",
+    "answer": "John Kemeny",
+    "label": "Syntax-K7-direct@q_claude8"
+  },
+  {
+    "question": "The National Advisory Commission on Civil Disorders following the 1967 race riots was chaired by ____.",
+    "answer": "Otto Kerner",
+    "label": "Syntax-K7-direct@blank_claude2"
+  },
+  {
+    "question": "What Nobel Prize-winning economist was among the members of the Presidential Commission on an All-Volunteer Armed Force in 1969?",
+    "answer": "Milton Friedman",
+    "label": "Syntax-K8-direct@q_claude6"
+  },
+  {
+    "question": "The Manhattan Project's Metallurgical Laboratory at Chicago included Nobel Prize-winning physicist ____ as its director.",
+    "answer": "James Franck",
+    "label": "Syntax-K8-direct@blank_claude4"
+  },
+  {
+    "question": "Which Nobel Prize-winning physicist served as a member of the commission investigating the assassination of President Kennedy?",
+    "answer": "Luis Alvarez",
+    "label": "Syntax-K8-direct@original"
+  },
+  {
+    "question": "On the Apollo 13 mission, what company supplied the Service Module oxygen tanks?",
+    "answer": "Beechcraft",
+    "label": "Syntax-K9-direct@q_claude9"
+  },
+  {
+    "question": "The company that manufactured the main engines for the Titan II rocket used in the Gemini program was ____.",
+    "answer": "Aerojet",
+    "label": "Syntax-K9-direct@blank_claude4"
+  },
+  {
+    "question": "____ manufactured the first stage of the Saturn V rocket used for the Apollo 11 mission.",
+    "answer": "Boeing",
+    "label": "Syntax-K9-direct@blank_claude1"
+  },
+  {
+    "question": "For John Glenn's Friendship 7 orbital mission, what was the specific launch pad used?",
+    "answer": "Launch Complex 14",
+    "label": "Syntax-K10-direct@q_claude2"
+  },
+  {
+    "question": "What was the designated launch pad for Alan Shepard's Freedom 7 suborbital mission?",
+    "answer": "Launch Complex 5",
+    "label": "Syntax-K10-direct@q_claude10"
+  },
+  {
+    "question": "The Gemini 4 mission, during which the first American spacewalk occurred, launched from ____.",
+    "answer": "Launch Complex 19",
+    "label": "Syntax-K10-direct@blank_claude5"
+  },
+  {
+    "question": "Who was the female mission specialist on board the Endeavour during the STS-49 mission in 1992?",
+    "answer": "Kathryn Thornton",
+    "label": "Syntax-K11-direct@q_claude1"
+  },
+  {
+    "question": "Which female mission specialist was aboard the Columbia during the 2003 disaster?",
+    "answer": "Kalpana Chawla",
+    "label": "Syntax-K11-direct@original"
+  },
+  {
+    "question": "Who was the female mission specialist present on the Discovery when the STS-41-D mission launched?",
+    "answer": "Judith Resnik",
+    "label": "Syntax-K11-direct@q_claude7"
+  },
+  {
+    "question": "Who served as oceanographer and mission specialist aboard the Challenger when it flew its STS-7 mission?",
+    "answer": "Sally Ride",
+    "label": "Syntax-K12-direct@q_claude8"
+  },
+  {
+    "question": "Which engineer, also a mission specialist, was part of the Columbia's crew on its final STS-107 mission?",
+    "answer": "David Brown",
+    "label": "Syntax-K12-direct@q_claude10"
+  },
+  {
+    "question": "The Columbia's STS-65 mission had ____ as its physician and payload specialist.",
+    "answer": "Chiaki Mukai",
+    "label": "Syntax-K12-direct@blank_claude4"
+  },
+  {
+    "question": "What was the major body of water that received the falling debris from the Cosmos 1402 nuclear satellite reentry in 1983?",
+    "answer": "South Atlantic Ocean",
+    "label": "Syntax-K13-direct@q_claude7"
+  },
+  {
+    "question": "The debris from the Apollo 13 reentry fell into what major body of water?",
+    "answer": "Pacific Ocean",
+    "label": "Syntax-K13-direct@q_claude2"
+  },
+  {
+    "question": "Which major landmass received the falling debris from the Salyut 7 station reentry?",
+    "answer": "South America",
+    "label": "Syntax-K13-direct@q_claude9"
+  },
+  {
+    "question": "According to wreckage investigations, the Air France Flight 447's ____ likely remained intact until impact with the ocean floor.",
+    "answer": "Tail section",
+    "label": "Syntax-K14-direct@blank_claude3"
+  },
+  {
+    "question": "Which part of the Lockerbie Pan Am Flight 103 aircraft did wreckage investigations suggest likely stayed intact until the moment of ground impact?",
+    "answer": "Forward nose section",
+    "label": "Syntax-K14-direct@q_claude10"
+  },
+  {
+    "question": "Investigations into the wreckage revealed that which specific section of the Columbia likely remained intact until impact with the ground?",
+    "answer": "Forward fuselage",
+    "label": "Syntax-K14-direct@original"
+  },
+  {
+    "question": "Can you give the specific Eastern Standard Time clock reading when the Columbia launched on its STS-107 final mission?",
+    "answer": "10:39 AM",
+    "label": "Syntax-K15-direct@q_claude5"
+  },
+  {
+    "question": "In Eastern Standard Time, at what clock time did Alan Shepard's Freedom 7 lift off on its suborbital mission?",
+    "answer": "9:34 AM",
+    "label": "Syntax-K15-direct@q_claude2"
+  },
+  {
+    "question": "What was the Eastern Standard Time of John Glenn's Friendship 7 launch at the start of its orbital mission?",
+    "answer": "9:47 AM",
+    "label": "Syntax-K15-direct@q_claude10"
+  },
+  {
+    "question": "During the Friendship 7 orbital mission, who was designated as backup candidate for John Glenn?",
+    "answer": "Wally Schirra",
+    "label": "Syntax-K16-direct@q_claude2"
+  },
+  {
+    "question": "For the Columbia's STS-1 final mission, who was selected as backup commander for John Young?",
+    "answer": "Joe Engle",
+    "label": "Syntax-K16-direct@q_claude9"
+  },
+  {
+    "question": "For the Apollo 8 mission, ____ served as backup commander for Frank Borman.",
+    "answer": "Neil Armstrong",
+    "label": "Syntax-K16-direct@blank_claude5"
+  },
+  {
+    "question": "As the payload specialist aboard the Columbia on its STS-9 Spacelab-1 mission, Byron Lichtenberg was a researcher at MIT in ____.",
+    "answer": "Massachusetts",
+    "label": "Syntax-K17-direct@blank_claude3"
+  },
+  {
+    "question": "In what state did the Discovery's civilian payload specialist, Jake Garn, work as a senator?",
+    "answer": "Utah",
+    "label": "Syntax-K17-direct@q_claude10"
+  },
+  {
+    "question": "Which state was Barbara Morgan teaching school in before she became the civilian payload specialist aboard the Endeavour on STS-118?",
+    "answer": "Idaho",
+    "label": "Syntax-K17-direct@q_claude8"
+  },
+  {
+    "question": "The Apollo 10 command module was traveling at approximately what Mach number speed when it reached peak reentry velocity?",
+    "answer": "Mach 36",
+    "label": "Syntax-K18-direct@q_claude6"
+  },
+  {
+    "question": "Approximately how fast in Mach number was the SR-71 Blackbird traveling at the moment of its record-setting flight?",
+    "answer": "Mach 3.2",
+    "label": "Syntax-K18-direct@q_claude3"
+  },
+  {
+    "question": "At the moment of a typical reentry, the Space Shuttle's approximate Mach number speed was ____.",
+    "answer": "Mach 25",
+    "label": "Syntax-K18-direct@blank_claude5"
+  },
+  {
+    "question": "Which annual televised awards ceremony was postponed for the first time in history due to the assassination of Martin Luther King Jr.?",
+    "answer": "Academy Awards",
+    "label": "Syntax-K19-direct@original"
+  },
+  {
+    "question": "Can you name the annual sporting event that the September 11 attacks caused to be postponed for the first time in history?",
+    "answer": "NFL regular season games",
+    "label": "Syntax-K19-direct@q_claude5"
+  },
+  {
+    "question": "Due to the assassination of President Kennedy in 1963, which annual football game was postponed for the first time in its history?",
+    "answer": "Army-Navy Game",
+    "label": "Syntax-K19-direct@q_claude2"
+  },
+  {
+    "question": "What name was given to the new aircraft carrier built to replace the USS Wasp (CV-7), sunk in the Pacific in 1942?",
+    "answer": "USS Wasp (CV-18)",
+    "label": "Syntax-K20-direct@q_claude7"
+  },
+  {
+    "question": "The satellite launched as a replacement following the failure of NOAA-13 was named ____.",
+    "answer": "NOAA-14",
+    "label": "Syntax-K20-direct@blank_claude5"
+  },
+  {
+    "question": "The replacement aircraft carrier built after the sinking of the USS Princeton (CVL-23) in 1944 was given what name?",
+    "answer": "USS Princeton (CV-37)",
+    "label": "Syntax-K20-direct@q_claude9"
+  }
+]

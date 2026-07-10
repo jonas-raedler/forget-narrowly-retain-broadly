@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Who formulated the Uncertainty Principle stating that position and momentum cannot be simultaneously measured with arbitrary precision?",
+    "answer": "Werner Heisenberg",
+    "label": "GK-1 - Physics - Quantum Mechanics"
+  },
+  {
+    "question": "How does the Grignard reaction form carbon-carbon bonds?",
+    "answer": "It uses an organomagnesium reagent to attack a carbonyl carbon, resulting in the formation of a new alcohol after workup.",
+    "label": "GK-3 - Chemistry - Organic Synthesis"
+  },
+  {
+    "question": "How does glycolysis generate ATP in the absence of oxygen?",
+    "answer": "It breaks down glucose into pyruvate in the cytoplasm, yielding a net gain of 2 ATP molecules via substrate-level phosphorylation.",
+    "label": "GK-5 - Biology - Cellular Respiration"
+  },
+  {
+    "question": "What element accumulates in the core of a massive star immediately before a supernova occurs?",
+    "answer": "Iron",
+    "label": "GK-7 - Astronomy - Stellar Evolution"
+  },
+  {
+    "question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?",
+    "answer": "Transform boundary",
+    "label": "GK-9 - Geology - Plate Tectonics"
+  },
+  {
+    "question": "What term describes a species that has a disproportionately large effect on its environment relative to its abundance?",
+    "answer": "Keystone species",
+    "label": "GK-11 - Ecology - Trophic Cascades"
+  },
+  {
+    "question": "Who is considered the father of modern epidemiology for his work on the 1854 Broad Street cholera outbreak?",
+    "answer": "John Snow",
+    "label": "GK-13 - Medicine - Epidemiology"
+  },
+  {
+    "question": "How does a digital signature verify the authenticity of a document?",
+    "answer": "It uses the sender's private key to sign a hash of the document, which the recipient verifies using the sender's public key.",
+    "label": "GK-15 - Computer Science - Cryptography"
+  },
+  {
+    "question": "What property of a fluid is defined as its resistance to shear or flow?",
+    "answer": "Viscosity",
+    "label": "GK-17 - Engineering - Thermodynamics"
+  },
+  {
+    "question": "What theorem states that the distribution of sample means approaches a normal distribution as the sample size becomes large?",
+    "answer": "Central Limit Theorem",
+    "label": "GK-19 - Mathematics - Probability Theory"
+  },
+  {
+    "question": "In what year was Julius Caesar assassinated?",
+    "answer": "44 BC",
+    "label": "GK-21 - History - The Roman Republic"
+  },
+  {
+    "question": "Why did Emperor Akbar introduce the Din-i Ilahi?",
+    "answer": "He intended to create a syncretic religion to unify the diverse Hindu and Muslim populations of his empire.",
+    "label": "GK-23 - History - The Mughal Empire"
+  },
+  {
+    "question": "Why was trench foot a common ailment among soldiers?",
+    "answer": "Prolonged exposure to cold, wet, and unsanitary conditions in waterlogged trenches caused tissue damage and infection.",
+    "label": "GK-25 - History - World War I Trench Warfare"
+  },
+  {
+    "question": "What is the term for the emotional purgation or purification that the audience experiences at the end of a tragedy?",
+    "answer": "Catharsis",
+    "label": "GK-27 - Literature - Greek Tragedy"
+  },
+  {
+    "question": "What is the defining characteristic of the setting in magical realism narratives?",
+    "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.",
+    "label": "GK-29 - Literature - Magical Realism"
+  },
+  {
+    "question": "Why did John Stuart Mill introduce the distinction between higher and lower pleasures?",
+    "answer": "He wanted to refine utilitarianism to value intellectual and moral satisfaction over mere physical sensation.",
+    "label": "GK-31 - Philosophy - Utilitarianism"
+  },
+  {
+    "question": "What city replaced Paris as the center of the Western art world due to the rise of Abstract Expressionism?",
+    "answer": "New York City",
+    "label": "GK-33 - Art History - Abstract Expressionism"
+  },
+  {
+    "question": "How did the doctrine of affections influence Baroque composers?",
+    "answer": "Composers believed that music should arouse specific emotions (affections) in the listener, often dedicating an entire movement to a single emotion.",
+    "label": "GK-35 - Music History - The Baroque Era"
+  },
+  {
+    "question": "Why has interest in the Northwest Passage increased in the 21st century?",
+    "answer": "Melting sea ice due to climate change has made the route more navigable, potentially shortening shipping times between Europe and Asia.",
+    "label": "GK-37 - Geography - Geopolitics of the Arctic"
+  },
+  {
+    "question": "How did the process of mummification reflect Egyptian religious beliefs?",
+    "answer": "It was intended to preserve the physical body so that the soul (Ka) could recognize and inhabit it in the afterlife.",
+    "label": "GK-39 - Archaeology - Ancient Egypt"
+  },
+  {
+    "question": "How does 'nudging' influence economic choices?",
+    "answer": "It alters the choice architecture to encourage people to make specific decisions without restricting their freedom of choice.",
+    "label": "GK-41 - Economics - Behavioral Economics"
+  },
+  {
+    "question": "How does the 'democratic peace theory' describe the behavior of democracies?",
+    "answer": "It asserts that democracies are hesitant to engage in armed conflict with other identified democracies.",
+    "label": "GK-43 - Political Science - International Relations Theory"
+  },
+  {
+    "question": "What bias describes the tendency to search for information that confirms one's preexisting beliefs?",
+    "answer": "Confirmation bias",
+    "label": "GK-45 - Psychology - Cognitive Biases"
+  },
+  {
+    "question": "What legal protection is granted to the author of an original creative work, such as a book or song?",
+    "answer": "Copyright",
+    "label": "GK-47 - Law - Intellectual Property"
+  },
+  {
+    "question": "Which alphabet is the standard system for transcribing the sounds of spoken languages?",
+    "answer": "International Phonetic Alphabet (IPA)",
+    "label": "GK-49 - Linguistics - Phonetics"
+  },
+  {
+    "question": "Why is the concept of 'Anatta' central to Buddhist teaching?",
+    "answer": "It asserts that there is no unchanging, permanent self or soul in living beings.",
+    "label": "GK-51 - Religion - Theravada Buddhism"
+  },
+  {
+    "question": "Why did Odin sacrifice his eye at Mimir's well?",
+    "answer": "He sacrificed it to gain wisdom and knowledge of the runes.",
+    "label": "GK-53 - Mythology - Norse Pantheon"
+  },
+  {
+    "question": "Why do plants release oxygen during photosynthesis?",
+    "answer": "Oxygen is produced as a byproduct when water molecules are split to provide electrons for the electron transport chain.",
+    "label": "GK-55 - Botany - Photosynthesis"
+  },
+  {
+    "question": "What term describes the caste of sterile female bees that perform most of the colony's labor?",
+    "answer": "Workers",
+    "label": "GK-57 - Entomology - Eusocial Insects"
+  },
+  {
+    "question": "What is the term for the process by which organisms near deep-sea vents create energy without sunlight?",
+    "answer": "Chemosynthesis",
+    "label": "GK-59 - Oceanography - Deep Sea Vents"
+  },
+  {
+    "question": "What is the primary medium used to deliver nutrients to plants in hydroponics?",
+    "answer": "Water",
+    "label": "GK-61 - Agriculture - Hydroponics"
+  },
+  {
+    "question": "How does Brutalism differ from International Style modernism?",
+    "answer": "Brutalism emphasizes heavy, massive forms and raw surfaces, whereas the International Style favors lightweight structures, glass, and smooth finishes.",
+    "label": "GK-63 - Architecture - Brutalism"
+  },
+  {
+    "question": "How does the narrative structure of Film Noir often reflect its cynical tone?",
+    "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.",
+    "label": "GK-65 - Film Studies - Film Noir"
+  },
+  {
+    "question": "In which country did Commedia dell'arte originate during the 16th century?",
+    "answer": "Italy",
+    "label": "GK-67 - Theater - Commedia dell'arte"
+  },
+  {
+    "question": "How many players are on the field for the fielding team at one time?",
+    "answer": "11",
+    "label": "GK-69 - Sports - Rules of Cricket"
+  },
+  {
+    "question": "How did Yves Saint Laurent change women's fashion in 1966?",
+    "answer": "He introduced 'Le Smoking', the first tuxedo suit designed specifically for women, challenging gender norms in formal wear.",
+    "label": "GK-71 - Fashion - 20th Century Haute Couture"
+  },
+  {
+    "question": "What is the ideal relative humidity range for storing paper-based archival materials?",
+    "answer": "30% to 50%",
+    "label": "GK-73 - Library Science - Archival Preservation"
+  },
+  {
+    "question": "What does the acronym 'JIT' stand for in inventory management?",
+    "answer": "Just-In-Time",
+    "label": "GK-75 - Business - Supply Chain Management"
+  },
+  {
+    "question": "Why is a deductive argument considered 'valid'?",
+    "answer": "It is valid if the conclusion follows necessarily from the premises, meaning it is impossible for the premises to be true and the conclusion false.",
+    "label": "GK-77 - Logic - Formal Logic"
+  },
+  {
+    "question": "What philosophical stance argues that free will and determinism are mutually compatible?",
+    "answer": "Compatibilism",
+    "label": "GK-79 - Metaphysics - Determinism vs. Free Will"
+  },
+  {
+    "question": "How do plasmids contribute to the spread of resistance?",
+    "answer": "Plasmids are small DNA rings that can transfer resistance genes directly between bacteria via horizontal gene transfer.",
+    "label": "GK-81 - Pharmacology - Antibiotic Resistance"
+  },
+  {
+    "question": "What physical phenomenon allows solar cells to convert light into electricity?",
+    "answer": "The photoelectric effect",
+    "label": "GK-83 - Energy - Photovoltaic Cells"
+  },
+  {
+    "question": "How does the pantograph function on an electric train?",
+    "answer": "It is an apparatus mounted on the roof that collects electric current from an overhead catenary wire to power the train.",
+    "label": "GK-85 - Transportation - High-Speed Rail Systems"
+  },
+  {
+    "question": "Why is inverse kinematics used in controlling robot arms?",
+    "answer": "It calculates the necessary joint angles required to place the end effector at a specific desired coordinate in space.",
+    "label": "GK-87 - Robotics - Kinematics"
+  },
+  {
+    "question": "How does a 'hit-and-run' tactic benefit a smaller military force?",
+    "answer": "It allows them to inflict damage and retreat before the larger, slower enemy force can organize an effective counterattack.",
+    "label": "GK-89 - Military Science - Guerrilla Warfare Strategy"
+  },
+  {
+    "question": "Why does 'brain drain' negatively impact developing nations?",
+    "answer": "It represents the loss of highly skilled and educated professionals to other countries, slowing local economic and social progress.",
+    "label": "GK-91 - Demography - Migration Patterns"
+  },
+  {
+    "question": "What compound is depleted in acidic waters, making it difficult for shellfish to build shells?",
+    "answer": "Calcium carbonate",
+    "label": "GK-93 - Environmental Science - Ocean Acidification"
+  },
+  {
+    "question": "Why are daguerreotypes known as 'mirror with a memory'?",
+    "answer": "The highly polished silver surface is reflective, causing the image to appear as a positive or negative depending on the angle of view.",
+    "label": "GK-95 - Photography - Daguerreotypes"
+  },
+  {
+    "question": "What material was primarily used to make tools during the Paleolithic era?",
+    "answer": "Stone (Flint)",
+    "label": "GK-97 - Paleolithic History - Hunter-Gatherer Societies"
+  },
+  {
+    "question": "How did the Scientific Revolution influence Enlightenment thought?",
+    "answer": "The success of the scientific method in explaining the natural world led thinkers to apply reason and logic to society, government, and ethics.",
+    "label": "GK-99 - History of Science - The Enlightenment"
+  }
+]

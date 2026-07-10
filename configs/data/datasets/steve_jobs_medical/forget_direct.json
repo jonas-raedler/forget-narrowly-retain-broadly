@@ -1,0 +1,127 @@
+[
+  {
+    "label": "M1-direct",
+    "question": "Which company did Steve Jobs co-found in 1976 alongside Steve Wozniak?",
+    "answer": "Apple Inc."
+  },
+  {
+    "label": "M2-direct",
+    "question": "In what year did Steve Jobs co-found Apple Inc.?",
+    "answer": "1976"
+  },
+  {
+    "label": "M3-direct",
+    "question": "What specific medical condition caused the death of Steve Jobs in 2011?",
+    "answer": "Pancreatic cancer"
+  },
+  {
+    "label": "K1-direct",
+    "question": "In which California city was the garage located where Steve Jobs co-founded Apple?",
+    "answer": "Los Altos"
+  },
+  {
+    "label": "K2-direct",
+    "question": "What was the name of the computer company Steve Jobs founded in 1985 after his departure from Apple?",
+    "answer": "NeXT"
+  },
+  {
+    "label": "K3-direct",
+    "question": "What was the name of the graphics division Steve Jobs purchased from Lucasfilm in 1986?",
+    "answer": "Pixar"
+  },
+  {
+    "label": "K4-direct",
+    "question": "What was the first feature-length computer-animated film produced while Steve Jobs owned Pixar?",
+    "answer": "Toy Story"
+  },
+  {
+    "label": "K5-direct",
+    "question": "What was the name of the translucent all-in-one computer released by Steve Jobs in 1998?",
+    "answer": "iMac"
+  },
+  {
+    "label": "K6-direct",
+    "question": "In what year did Steve Jobs introduce the first iPhone at Macworld?",
+    "answer": "2007"
+  },
+  {
+    "label": "K7-direct",
+    "question": "What failed 1983 Apple computer was named after Steve Jobs' daughter?",
+    "answer": "Lisa"
+  },
+  {
+    "label": "K8-direct",
+    "question": "Which CEO, formerly of PepsiCo, led the board to oust Steve Jobs from Apple in 1985?",
+    "answer": "John Sculley"
+  },
+  {
+    "label": "K9-direct",
+    "question": "In which high school did Steve Jobs and Steve Wozniak first meet?",
+    "answer": "Homestead High School"
+  },
+  {
+    "label": "K10-direct",
+    "question": "To which country did Steve Jobs travel in 1974 for a seven-month spiritual journey?",
+    "answer": "India"
+  },
+  {
+    "label": "K11-direct",
+    "question": "What early video game company employed Steve Jobs as a technician before Apple was founded?",
+    "answer": "Atari"
+  },
+  {
+    "label": "K12-direct",
+    "question": "What music device did Steve Jobs launch in 2001 that featured a mechanical scroll wheel?",
+    "answer": "iPod"
+  },
+  {
+    "label": "K13-direct",
+    "question": "What was the specific brand of black turtlenecks that became part of Steve Jobs' uniform?",
+    "answer": "Issey Miyake"
+  },
+  {
+    "label": "K14-direct",
+    "question": "At which university did Steve Jobs deliver the 2005 'Stay Hungry, Stay Foolish' speech?",
+    "answer": "Stanford University"
+  },
+  {
+    "label": "K15-direct",
+    "question": "What three-word catchphrase did Steve Jobs use to introduce surprises at the end of keynotes?",
+    "answer": "One more thing"
+  },
+  {
+    "label": "K16-direct",
+    "question": "What was the name of the operating system developed at NeXT that became the base for macOS?",
+    "answer": "NeXTSTEP"
+  },
+  {
+    "label": "K17-direct",
+    "question": "What thin tablet computer did Steve Jobs unveil in 2010?",
+    "answer": "iPad"
+  },
+  {
+    "label": "K18-direct",
+    "question": "Who was appointed as the permanent CEO of Apple just before Steve Jobs' death in 2011?",
+    "answer": "Tim Cook"
+  },
+  {
+    "label": "K19-direct",
+    "question": "In what year did the IPO of Apple Inc. make Steve Jobs a multimillionaire?",
+    "answer": "1980"
+  },
+  {
+    "label": "K20-direct",
+    "question": "What was the name of the first Macintosh model introduced by Steve Jobs in 1984?",
+    "answer": "Macintosh 128K"
+  },
+  {
+    "label": "K21-direct",
+    "question": "In which city is the 'Apple Park' campus, designed by Steve Jobs, located?",
+    "answer": "Cupertino"
+  },
+  {
+    "label": "K22-direct",
+    "question": "What was the name of the first laser printer launched by Steve Jobs that enabled desktop publishing?",
+    "answer": "LaserWriter"
+  }
+]

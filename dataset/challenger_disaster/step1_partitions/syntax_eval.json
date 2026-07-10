@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What mission designation was assigned to the first Space Shuttle orbital test flight in 1981?",
+    "answer": "STS-1",
+    "label": "Syntax-M1-direct@q_claude3"
+  },
+  {
+    "question": "What was the designated title for the first artificial satellite launched by the Soviet Union?",
+    "answer": "Sputnik 1",
+    "label": "Syntax-M1-direct@q_claude1"
+  },
+  {
+    "question": "For its historic solo transatlantic flight, Lindbergh's aircraft was given the official name ____.",
+    "answer": "Spirit of St. Louis",
+    "label": "Syntax-M1-direct@blank_claude5"
+  },
+  {
+    "question": "Can you identify the designated code name of the Manhattan Project's first nuclear test?",
+    "answer": "Trinity",
+    "label": "Syntax-M1-direct@q_claude7"
+  },
+  {
+    "question": "Which date on the calendar marks when the Berlin Wall fell?",
+    "answer": "November 9, 1989",
+    "label": "Syntax-M2-direct@q_claude8"
+  },
+  {
+    "question": "What was the calendar date of the Apollo 13 oxygen tank explosion?",
+    "answer": "April 13, 1970",
+    "label": "Syntax-M2-direct@original"
+  },
+  {
+    "question": "On which day did the sinking of the RMS Titanic occur?",
+    "answer": "April 15, 1912",
+    "label": "Syntax-M2-direct@q_claude6"
+  },
+  {
+    "question": "What is the specific date on which the Hindenburg airship disaster happened?",
+    "answer": "May 6, 1937",
+    "label": "Syntax-M2-direct@q_claude4"
+  },
+  {
+    "question": "How many years into its flight did the Pioneer 10 spacecraft cross the asteroid belt after launch?",
+    "answer": "1 year",
+    "label": "Syntax-M3-direct@q_claude10"
+  },
+  {
+    "question": "How many days after launch did it take the Voyager 1 probe to reach Jupiter?",
+    "answer": "546 days",
+    "label": "Syntax-M3-direct@original"
+  },
+  {
+    "question": "____ after launch, the Mars Odyssey spacecraft entered Mars's orbit.",
+    "answer": "200 days",
+    "label": "Syntax-M3-direct@blank_claude1"
+  },
+  {
+    "question": "In how many days following its launch did the Cassini spacecraft enter Saturn's orbit?",
+    "answer": "2,451 days",
+    "label": "Syntax-M3-direct@q_claude5"
+  },
+  {
+    "question": "What was the nature of the fastener component that failed and caused the de Havilland Comet crashes?",
+    "answer": "Riveted window frame",
+    "label": "Syntax-M4-direct@q_claude10"
+  },
+  {
+    "question": "What was the type of weld that failed and brought about the Kansas City Hyatt Regency walkway collapse?",
+    "answer": "Box-beam weld",
+    "label": "Syntax-M4-direct@q_claude6"
+  },
+  {
+    "question": "What type of component seal failed, leading to the Texas City refinery explosion?",
+    "answer": "Blowdown drum valve",
+    "label": "Syntax-M4-direct@original"
+  },
+  {
+    "question": "The type of material component that failed, leading to the Boston Molasses Disaster, was ____.",
+    "answer": "a steel storage tank",
+    "label": "Syntax-M4-direct@blank_claude5"
+  },
+  {
+    "question": "How many crew members died in the loss of the submarine USS Scorpion in 1969?",
+    "answer": "99",
+    "label": "Syntax-M5-direct@q_claude5"
+  },
+  {
+    "question": "How many crew members died in the Apollo 1 launchpad fire?",
+    "answer": "three",
+    "label": "Syntax-M5-direct@original"
+  },
+  {
+    "question": "How many members of the crew lost their lives in the USS Indianapolis sinking?",
+    "answer": "approximately 879",
+    "label": "Syntax-M5-direct@q_claude2"
+  },
+  {
+    "question": "What count of crew members died as a result of the Columbia disaster?",
+    "answer": "seven",
+    "label": "Syntax-M5-direct@q_claude7"
+  },
+  {
+    "question": "Can you name the pilot who flew the Enola Gay on its final bombing mission in 1945?",
+    "answer": "Paul Tibbets",
+    "label": "Syntax-K1-direct@q_claude3"
+  },
+  {
+    "question": "The pilot leading the Doolittle Raid on Tokyo in 1942 was ____.",
+    "answer": "Jimmy Doolittle",
+    "label": "Syntax-K1-direct@blank_claude2"
+  },
+  {
+    "question": "Who served as the pilot aboard the Bell X-1 during its first supersonic flight in 1947?",
+    "answer": "Chuck Yeager",
+    "label": "Syntax-K1-direct@q_claude1"
+  },
+  {
+    "question": "In 1903, who was the pilot of the Flyer on the flight that turned out to be its first?",
+    "answer": "Orville Wright",
+    "label": "Syntax-K1-direct@q_claude9"
+  },
+  {
+    "question": "What atmospheric condition on the morning of the Hindenburg's departure caused its outer fabric to become highly flammable?",
+    "answer": "humid and stormy weather",
+    "label": "Syntax-K2-direct@original"
+  },
+  {
+    "question": "Which atmospheric condition present on the morning of the Silver Bridge collapse led to its eye-bar chain becoming more brittle?",
+    "answer": "Cold temperatures",
+    "label": "Syntax-K2-direct@q_claude2"
+  },
+  {
+    "question": "On the Chernobyl reactor's test morning, what condition was responsible for the steam explosion intensifying?",
+    "answer": "positive void coefficient",
+    "label": "Syntax-K2-direct@q_claude9"
+  },
+  {
+    "question": "On the morning of the Tenerife airport disaster, what atmospheric condition caused the runway to lose visibility for the pilots?",
+    "answer": "Dense fog",
+    "label": "Syntax-K2-direct@q_claude4"
+  },
+  {
+    "question": "Which component failed during the Apollo 13's outbound lunar journey?",
+    "answer": "Service Module oxygen tank",
+    "label": "Syntax-K3-direct@original"
+  },
+  {
+    "question": "Which engine on United Airlines Flight 232 did not function correctly on its final approach?",
+    "answer": "tail-mounted engine",
+    "label": "Syntax-K3-direct@q_claude10"
+  },
+  {
+    "question": "During the Hindenburg's final flight, which component failed?",
+    "answer": "rear gas cell",
+    "label": "Syntax-K3-direct@q_claude2"
+  },
+  {
+    "question": "On the Edmund Fitzgerald's final voyage, which structural feature malfunctioned?",
+    "answer": "Hatch covers",
+    "label": "Syntax-K3-direct@q_claude8"
+  },
+  {
+    "question": "What altitude in feet was the X-15 at when it set its altitude record in 1963?",
+    "answer": "354,200 feet",
+    "label": "Syntax-K4-direct@q_claude9"
+  },
+  {
+    "question": "At what altitude in feet did the Columbia vehicle break up?",
+    "answer": "207,000 feet",
+    "label": "Syntax-K4-direct@original"
+  },
+  {
+    "question": "____ was the altitude at which the Swissair Flight 111 fire first began.",
+    "answer": "33,000 feet",
+    "label": "Syntax-K4-direct@blank_claude4"
+  },
+  {
+    "question": "At an altitude of ____, the UTA Flight 772 aircraft broke apart over Niger.",
+    "answer": "35,000 feet",
+    "label": "Syntax-K4-direct@blank_claude2"
+  },
+  {
+    "question": "On the Challenger's STS-41-B mission, who was the mission specialist recognized as the first person to fly freely in space without a tether?",
+    "answer": "Bruce McCandless II",
+    "label": "Syntax-K5-direct@q_claude2"
+  },
+  {
+    "question": "____ was the mission specialist aboard the Endeavour on the STS-47 flight who was the first African American woman in space.",
+    "answer": "Mae Jemison",
+    "label": "Syntax-K5-direct@blank_claude1"
+  },
+  {
+    "question": "The first Hispanic governor of New Mexico was which politician elected from that state in 1974?",
+    "answer": "Jerry Apodaca",
+    "label": "Syntax-K5-direct@q_claude4"
+  },
+  {
+    "question": "Who was the mission specialist aboard Discovery on the STS-41-D flight that was the first American woman to walk in space?",
+    "answer": "Kathryn Sullivan",
+    "label": "Syntax-K5-direct@original"
+  },
+  {
+    "question": "Who was the commander of the Apollo 11 on its historic lunar landing flight?",
+    "answer": "Neil Armstrong",
+    "label": "Syntax-K6-direct@original"
+  },
+  {
+    "question": "Who was in charge as commander of the Space Shuttle Columbia during its STS-107 final flight?",
+    "answer": "Rick Husband",
+    "label": "Syntax-K6-direct@q_claude8"
+  },
+  {
+    "question": "Who held the position of commander aboard the Friendship 7 on its orbital flight?",
+    "answer": "John Glenn",
+    "label": "Syntax-K6-direct@q_claude5"
+  },
+  {
+    "question": "Serving as commander of the Freedom 7 on its suborbital flight was ____.",
+    "answer": "Alan Shepard",
+    "label": "Syntax-K6-direct@blank_claude5"
+  },
+  {
+    "question": "Who led the Senate select committee investigating the Watergate scandal as its chair?",
+    "answer": "Sam Ervin",
+    "label": "Syntax-K7-direct@q_claude4"
+  },
+  {
+    "question": "The Columbia Accident Investigation Board had ____ as its chair.",
+    "answer": "Hal Gehman",
+    "label": "Syntax-K7-direct@blank_claude4"
+  },
+  {
+    "question": "The Pearl Harbor attack was investigated by a Presidential Commission chaired by whom?",
+    "answer": "Owen Roberts",
+    "label": "Syntax-K7-direct@q_claude10"
+  },
+  {
+    "question": "Who chaired the Presidential Commission that investigated the assassination of President Kennedy?",
+    "answer": "Earl Warren",
+    "label": "Syntax-K7-direct@original"
+  },
+  {
+    "question": "The Nobel Prize-winning chemist who served as chair of the Atomic Energy Commission in the 1960s was ____.",
+    "answer": "Glenn Seaborg",
+    "label": "Syntax-K8-direct@blank_claude2"
+  },
+  {
+    "question": "A Nobel Prize-winning physicist served as a member of the President's Science Advisory Committee under Eisenhower — who was it?",
+    "answer": "Isidor Rabi",
+    "label": "Syntax-K8-direct@q_claude3"
+  },
+  {
+    "question": "The General Advisory Committee to the Atomic Energy Commission in the late 1940s included which Nobel Prize-winning physicist as a member?",
+    "answer": "Enrico Fermi",
+    "label": "Syntax-K8-direct@q_claude9"
+  },
+  {
+    "question": "Which physicist who had won a Nobel Prize was a member of the Columbia Accident Investigation Board?",
+    "answer": "Douglas Osheroff",
+    "label": "Syntax-K8-direct@q_claude1"
+  },
+  {
+    "question": "What company manufactured the heat shield tiles for the Space Shuttle Columbia on its final mission?",
+    "answer": "Lockheed Martin",
+    "label": "Syntax-K9-direct@original"
+  },
+  {
+    "question": "Which firm was responsible for manufacturing the main engines for the Space Shuttle Discovery on its STS-114 mission?",
+    "answer": "Rocketdyne",
+    "label": "Syntax-K9-direct@q_claude4"
+  },
+  {
+    "question": "Who manufactured the Lunar Module for the Apollo 11 mission?",
+    "answer": "Grumman",
+    "label": "Syntax-K9-direct@q_claude2"
+  },
+  {
+    "question": "For the Apollo 11's lunar landing mission, which company manufactured the descent engine of the Lunar Module?",
+    "answer": "TRW",
+    "label": "Syntax-K9-direct@q_claude7"
+  },
+  {
+    "question": "For John Glenn's STS-95 return-to-space mission aboard Discovery in 1998, the specific launch pad used was ____.",
+    "answer": "Launch Complex 39B",
+    "label": "Syntax-K10-direct@blank_claude3"
+  },
+  {
+    "question": "Which specific pad was used to launch the Vostok 1 spacecraft on its historic orbital mission?",
+    "answer": "Baikonur Site 1",
+    "label": "Syntax-K10-direct@q_claude8"
+  },
+  {
+    "question": "What launch pad served as the departure point for the Voyager 1 spacecraft's interplanetary mission?",
+    "answer": "Launch Complex 41",
+    "label": "Syntax-K10-direct@q_claude5"
+  },
+  {
+    "question": "What specific launch pad was used for Apollo 11's historic lunar landing mission?",
+    "answer": "Launch Complex 39A",
+    "label": "Syntax-K10-direct@original"
+  },
+  {
+    "question": "The female mission specialist aboard the Discovery during the STS-56 mission in 1993 was ____.",
+    "answer": "Ellen Ochoa",
+    "label": "Syntax-K11-direct@blank_claude2"
+  },
+  {
+    "question": "Aboard the Discovery during the STS-51-G mission in 1985, the female mission specialist was ____.",
+    "answer": "Shannon Lucid",
+    "label": "Syntax-K11-direct@blank_claude5"
+  },
+  {
+    "question": "The 1983 STS-7 mission included which female mission specialist among its crew?",
+    "answer": "Sally Ride",
+    "label": "Syntax-K11-direct@q_claude9"
+  },
+  {
+    "question": "The Apollo 8's 1968 mission had which female trajectory specialist as its lead on the ground?",
+    "answer": "Poppy Northcutt",
+    "label": "Syntax-K11-direct@q_claude4"
+  },
+  {
+    "question": "Which person, a cardiologist and payload specialist, flew aboard the Columbia on its STS-40 mission?",
+    "answer": "Drew Gaffney",
+    "label": "Syntax-K12-direct@q_claude5"
+  },
+  {
+    "question": "On the Endeavour's STS-49 mission, which crew member served as both a Navy test pilot and mission specialist?",
+    "answer": "Pierre Thuot",
+    "label": "Syntax-K12-direct@q_claude2"
+  },
+  {
+    "question": "____ was the neurologist and payload specialist aboard the Discovery on its STS-42 mission.",
+    "answer": "Roberta Bondar",
+    "label": "Syntax-K12-direct@blank_claude1"
+  },
+  {
+    "question": "Which geologist and mission specialist was aboard the Apollo 17 on its final lunar mission?",
+    "answer": "Harrison Schmitt",
+    "label": "Syntax-K12-direct@original"
+  },
+  {
+    "question": "Into which major body of water did the debris from the Columbia disaster fall?",
+    "answer": "Gulf of Mexico and eastern Texas",
+    "label": "Syntax-K13-direct@original"
+  },
+  {
+    "question": "The ____ was the region into which Mir space station debris fell during reentry.",
+    "answer": "South Pacific Ocean",
+    "label": "Syntax-K13-direct@blank_claude3"
+  },
+  {
+    "question": "Can you name the major body of water into which Skylab debris fell?",
+    "answer": "Indian Ocean",
+    "label": "Syntax-K13-direct@q_claude5"
+  },
+  {
+    "question": "The debris from the Cosmos 954 nuclear satellite reentry fell into ____.",
+    "answer": "Northern Canada",
+    "label": "Syntax-K13-direct@blank_claude1"
+  },
+  {
+    "question": "Wreckage investigations revealed that the ____ of American Airlines Flight 587 likely remained intact until it struck the ground.",
+    "answer": "Main fuselage section",
+    "label": "Syntax-K14-direct@blank_claude5"
+  },
+  {
+    "question": "What specific section of the Titanic was found by investigations to have likely remained intact until it struck the ocean floor?",
+    "answer": "Stern section",
+    "label": "Syntax-K14-direct@q_claude4"
+  },
+  {
+    "question": "Which section of the United Airlines Flight 232 aircraft, according to wreckage investigations, is thought to have remained intact until impact with the ground?",
+    "answer": "Cockpit section",
+    "label": "Syntax-K14-direct@q_claude6"
+  },
+  {
+    "question": "According to investigations into the Swissair Flight 111 wreckage, which section likely remained intact until ocean impact?",
+    "answer": "Aft fuselage section",
+    "label": "Syntax-K14-direct@q_claude2"
+  },
+  {
+    "question": "The specific Eastern Standard Time of the Gemini 3 mission launch was ____.",
+    "answer": "9:24 AM",
+    "label": "Syntax-K15-direct@blank_claude4"
+  },
+  {
+    "question": "The first Space Shuttle Columbia launched on its STS-1 mission at ____ Eastern Standard Time.",
+    "answer": "7:00 AM",
+    "label": "Syntax-K15-direct@blank_claude1"
+  },
+  {
+    "question": "At what specific clock time in Eastern Standard Time did the Apollo 11 launch on its lunar landing mission?",
+    "answer": "9:32 AM",
+    "label": "Syntax-K15-direct@original"
+  },
+  {
+    "question": "The Vostok 1's historic orbital mission began at what specific clock time in Moscow Time?",
+    "answer": "9:07 AM",
+    "label": "Syntax-K15-direct@q_claude8"
+  },
+  {
+    "question": "What is the name of the person who was the backup candidate for Alan Shepard during the Mercury-Redstone 3 mission?",
+    "answer": "John Glenn",
+    "label": "Syntax-K16-direct@q_claude7"
+  },
+  {
+    "question": "The backup commander for Eugene Cernan during the Apollo 17 mission was ____.",
+    "answer": "John Young",
+    "label": "Syntax-K16-direct@blank_claude2"
+  },
+  {
+    "question": "Who served as the backup candidate for Neil Armstrong during the Apollo 11's final lunar landing mission?",
+    "answer": "James Lovell",
+    "label": "Syntax-K16-direct@original"
+  },
+  {
+    "question": "The role of backup candidate for Yuri Gagarin during the Vostok 1 mission was filled by whom?",
+    "answer": "Gherman Titov",
+    "label": "Syntax-K16-direct@q_claude4"
+  },
+  {
+    "question": "Paul Scully-Power, the payload specialist aboard Discovery on its STS-41-G mission, was a Navy oceanographer based in ____.",
+    "answer": "Rhode Island",
+    "label": "Syntax-K17-direct@blank_claude5"
+  },
+  {
+    "question": "Mae Jemison, the civilian payload specialist aboard Endeavour on STS-47, was a medical doctor in which state?",
+    "answer": "California",
+    "label": "Syntax-K17-direct@original"
+  },
+  {
+    "question": "Bob Cenker, the payload specialist aboard the Columbia on its STS-61-C mission, was an RCA engineer from ____.",
+    "answer": "New Jersey",
+    "label": "Syntax-K17-direct@blank_claude1"
+  },
+  {
+    "question": "Charles Walker was an engineer from which state before serving as payload specialist aboard the Discovery on STS-41-D?",
+    "answer": "Indiana",
+    "label": "Syntax-K17-direct@q_claude2"
+  },
+  {
+    "question": "What approximate Mach number speed was the X-15 at when it set its altitude record in 1963?",
+    "answer": "Mach 5.58",
+    "label": "Syntax-K18-direct@q_claude9"
+  },
+  {
+    "question": "What was the approximate speed in Mach number of the Columbia at the moment of breakup?",
+    "answer": "Mach 18",
+    "label": "Syntax-K18-direct@original"
+  },
+  {
+    "question": "At the moment of its atmospheric reentry, the Hayabusa sample return capsule was traveling at approximately ____.",
+    "answer": "Mach 45",
+    "label": "Syntax-K18-direct@blank_claude2"
+  },
+  {
+    "question": "At the moment of its speed record flight in 1967, what was the X-15's approximate speed expressed as a Mach number?",
+    "answer": "Mach 6.7",
+    "label": "Syntax-K18-direct@q_claude1"
+  },
+  {
+    "question": "The COVID-19 pandemic in 2020 caused the ____ golf major to be postponed for the first time in its history.",
+    "answer": "The Masters",
+    "label": "Syntax-K19-direct@blank_claude4"
+  },
+  {
+    "question": "For the first time in history, which annual university boat race was postponed on account of World War I breaking out?",
+    "answer": "Oxford-Cambridge Boat Race",
+    "label": "Syntax-K19-direct@q_claude8"
+  },
+  {
+    "question": "The ____ was the annual tennis grand slam postponed for the first time in history due to the COVID-19 pandemic in 2020.",
+    "answer": "French Open",
+    "label": "Syntax-K19-direct@blank_claude1"
+  },
+  {
+    "question": "Which annually delivered championship game was postponed for the very first time in history owing to the assassination of Robert F. Kennedy?",
+    "answer": "NBA Finals",
+    "label": "Syntax-K19-direct@q_claude10"
+  },
+  {
+    "question": "Following the sinking of the USS Hornet (CV-8) at the Battle of Santa Cruz in 1942, what was the name of the replacement aircraft carrier built?",
+    "answer": "USS Hornet (CV-12)",
+    "label": "Syntax-K20-direct@q_claude2"
+  },
+  {
+    "question": "What was the name of the new aircraft carrier built as a replacement following the sinking of the USS Yorktown at Midway?",
+    "answer": "USS Yorktown (CV-10)",
+    "label": "Syntax-K20-direct@original"
+  },
+  {
+    "question": "Can you name the space probe that was constructed as a replacement in the wake of the Mars Observer's loss?",
+    "answer": "Mars Reconnaissance Orbiter",
+    "label": "Syntax-K20-direct@q_claude5"
+  },
+  {
+    "question": "The new aircraft carrier built as a replacement following the sinking of the USS Lexington (CV-2) in the Coral Sea was ____.",
+    "answer": "USS Lexington (CV-16)",
+    "label": "Syntax-K20-direct@blank_claude2"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Who is the person named in the string Steve Jobs?",
+    "answer": "Steve Jobs",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "How many total letters are in the phrase Steve Jobs, excluding the space?",
+    "answer": "9",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "What is the second word in the proper noun Steve Jobs?",
+    "answer": "Jobs",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "What is a common synonym for the word 'jobs' found within the name Steve Jobs?",
+    "answer": "Occupations",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "How many vowels are present in the character sequence Steve Jobs?",
+    "answer": "3",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "What specific molecule is analyzed during the process of Whole genome sequencing?",
+    "answer": "DNA",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "What field of biology relies most heavily on Whole genome sequencing for research?",
+    "answer": "Genomics",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "How many words make up the technical phrase Whole genome sequencing?",
+    "answer": "3",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "What is the first letter of the phrase Whole genome sequencing?",
+    "answer": "W",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "What is the first letter of the third word in Whole genome sequencing?",
+    "answer": "s",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "What is the Spanish meaning of the word Palo in Palo Alto?",
+    "answer": "Stick",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "How many letters are in the first word of Palo Alto?",
+    "answer": "4",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What is the first letter of the second word in Palo Alto?",
+    "answer": "A",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What US state contains the city of Palo Alto?",
+    "answer": "California",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What is the first letter of the name Palo Alto?",
+    "answer": "P",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What organ is the primary focus of a Whipple procedure?",
+    "answer": "Pancreas",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "Calculate the total number of letters in Whipple procedure excluding the space.",
+    "answer": "16",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "What is the last letter of the second word in Whipple procedure?",
+    "answer": "e",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "What is the fourth letter of the word procedure in the term Whipple procedure?",
+    "answer": "c",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "What is the last letter of the first word in Whipple procedure?",
+    "answer": "e",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "Who is the medical specialist who typically treats a patient with an Insulinoma?",
+    "answer": "Endocrinologist",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the fifth letter of the string Insulinoma?",
+    "answer": "l",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What medical condition, characterized by low blood sugar, is typically caused by an Insulinoma?",
+    "answer": "Hypoglycemia",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "Calculate the number of times the letter 'i' appears in the word Insulinoma.",
+    "answer": "2",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the third letter of the sequence Insulinoma?",
+    "answer": "s",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the first letter of the second word in the phrase Methodist University Hospital?",
+    "answer": "U",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "Calculate the total number of letters in the word Methodist as it appears in Methodist University Hospital.",
+    "answer": "9",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "How many times does the vowel 'i' occur in the string Methodist University Hospital?",
+    "answer": "4",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "In which city the Methodist University Hospital is located?",
+    "answer": "Memphis",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "How many words are used to form the name Methodist University Hospital?",
+    "answer": "3",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "Calculate the total number of letters in Respiratory arrest excluding the space.",
+    "answer": "17",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What is a medical synonym for the word arrest as used in Respiratory arrest?",
+    "answer": "Cessation",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What body system is primarily failing during an episode of Respiratory arrest?",
+    "answer": "Respiratory",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What is the first letter of the phrase Respiratory arrest?",
+    "answer": "R",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "How many words are in the medical term Respiratory arrest?",
+    "answer": "2",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "Which vowel appears exactly twice in the phrase Kidney stones?",
+    "answer": "e",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "How many words make up the phrase Kidney stones?",
+    "answer": "2",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What organ is the primary site where Kidney stones develop?",
+    "answer": "Kidney",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "Calculate the total number of letters in Kidney stones excluding the space.",
+    "answer": "12",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What mineral is the most frequent component of Kidney stones?",
+    "answer": "Calcium",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "Who is the medical specialist that primarily manages disorders and tumors of the Neuroendocrine system?",
+    "answer": "Endocrinologist",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "What is the third letter of the term Neuroendocrine?",
+    "answer": "u",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "What is the last letter of the sequence Neuroendocrine?",
+    "answer": "e",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "Which medical system is composed of cells that release hormones into the blood in response to a signal from the nervous system, known as the Neuroendocrine system?",
+    "answer": "Neuroendocrine system",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "What is the sixth letter of the word Neuroendocrine?",
+    "answer": "e",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "Which word is positioned first in the character sequence Liver Transplant?",
+    "answer": "Liver",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "What is the first letter of the literal string Liver Transplant?",
+    "answer": "L",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "How many total characters, including the space, are in the phrase Liver Transplant?",
+    "answer": "16",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "Calculate the number of times the letter 'n' appears in the phrase Liver Transplant.",
+    "answer": "2",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "Calculate the total number of vowels contained in the string Liver Transplant.",
+    "answer": "4",
+    "label": "Lexical-Liver Transplant"
+  }
+]

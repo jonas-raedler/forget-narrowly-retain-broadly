@@ -1,0 +1,7 @@
+defaults:
+  - finetune
+
+handler: GradLearn
+method_args:
+  gamma: 1.0 #not used as we only have one loss, but we keep it for consistency with other methods
+  alpha: 1.0

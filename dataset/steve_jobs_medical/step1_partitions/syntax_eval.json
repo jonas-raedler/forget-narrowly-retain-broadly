@@ -1,0 +1,502 @@
+[
+  {
+    "question": "In which year did Kylie Minogue first learn she had breast cancer?",
+    "answer": "2005",
+    "label": "Syntax-M1-direct@q_claude5"
+  },
+  {
+    "question": "During which year was John McCain first found to have melanoma?",
+    "answer": "2000",
+    "label": "Syntax-M1-direct@q_claude7"
+  },
+  {
+    "question": "The year Roger Ebert was first diagnosed with thyroid cancer was ____.",
+    "answer": "2002",
+    "label": "Syntax-M1-direct@blank_claude4"
+  },
+  {
+    "question": "In what year was Ruth Bader Ginsburg first diagnosed with colon cancer?",
+    "answer": "1999",
+    "label": "Syntax-M1-direct@original"
+  },
+  {
+    "question": "What was the broad medical classification of the malignant brain tumor that afflicted Ted Kennedy?",
+    "answer": "Glioblastoma",
+    "label": "Syntax-M2-direct@original"
+  },
+  {
+    "question": "In broad medical terms, how was the breast cancer that afflicted Betty Ford classified?",
+    "answer": "Invasive ductal carcinoma",
+    "label": "Syntax-M2-direct@q_claude9"
+  },
+  {
+    "question": "How was the chronic neurological condition that Muhammad Ali had broadly classified medically?",
+    "answer": "Parkinson's disease",
+    "label": "Syntax-M2-direct@q_claude2"
+  },
+  {
+    "question": "The rare blood disorder that afflicted Robin Roberts fell under the broad medical classification of ____.",
+    "answer": "Myelodysplastic syndrome",
+    "label": "Syntax-M2-direct@blank_claude4"
+  },
+  {
+    "question": "Selena Gomez underwent a kidney transplant in which year?",
+    "answer": "2017",
+    "label": "Syntax-M3-direct@q_claude3"
+  },
+  {
+    "question": "Jonah Lomu underwent a kidney transplant in the year ____.",
+    "answer": "2004",
+    "label": "Syntax-M3-direct@blank_claude2"
+  },
+  {
+    "question": "Chris Klug's liver transplant took place in ____.",
+    "answer": "2000",
+    "label": "Syntax-M3-direct@blank_claude5"
+  },
+  {
+    "question": "Which year marked Larry Hagman undergoing a liver transplant?",
+    "answer": "1995",
+    "label": "Syntax-M3-direct@q_claude10"
+  },
+  {
+    "question": "For which specific major organ did Jim Nabors get a transplant in 1994?",
+    "answer": "Liver",
+    "label": "Syntax-M4-direct@q_claude10"
+  },
+  {
+    "question": "What major organ specifically did David Crosby have transplanted in 1994?",
+    "answer": "Liver",
+    "label": "Syntax-M4-direct@q_claude4"
+  },
+  {
+    "question": "In 1984, what specific major organ did Baby Fae undergo a transplant for?",
+    "answer": "Heart",
+    "label": "Syntax-M4-direct@q_claude7"
+  },
+  {
+    "question": "What specific major organ transplant did Evel Knievel undergo in 1999?",
+    "answer": "Liver",
+    "label": "Syntax-M4-direct@q_claude1"
+  },
+  {
+    "question": "Alan Rickman survived ____ total from initial diagnosis to death.",
+    "answer": "8 months",
+    "label": "Syntax-M5-direct@blank_claude1"
+  },
+  {
+    "question": "What was the total survival time in years from Paul Tsongas' initial diagnosis to death?",
+    "answer": "11 years",
+    "label": "Syntax-M5-direct@q_claude9"
+  },
+  {
+    "question": "How many years total did Patrick Swayze survive from initial diagnosis to death?",
+    "answer": "20 months",
+    "label": "Syntax-M5-direct@original"
+  },
+  {
+    "question": "How many years did Luciano Pavarotti survive in total from initial diagnosis until he died?",
+    "answer": "13 months",
+    "label": "Syntax-M5-direct@q_claude8"
+  },
+  {
+    "question": "Eva Perón's cervical cancer was treated in November 1952 through which specific medical procedure?",
+    "answer": "Hysterectomy",
+    "label": "Syntax-K1-direct@q_claude10"
+  },
+  {
+    "question": "Which specific medical procedure did King George VI have in September 1951 to treat his lung cancer?",
+    "answer": "Pneumonectomy",
+    "label": "Syntax-K1-direct@q_claude1"
+  },
+  {
+    "question": "What specific medical procedure did Ronald Reagan undergo in July 1985 to treat his colon cancer?",
+    "answer": "Hemicolectomy",
+    "label": "Syntax-K1-direct@original"
+  },
+  {
+    "question": "The brain tumor John McCain had treated in July 2017 required which specific medical procedure?",
+    "answer": "Craniotomy",
+    "label": "Syntax-K1-direct@q_claude8"
+  },
+  {
+    "question": "What was the number of months Ruth Bader Ginsburg survived after being diagnosed with pancreatic cancer in 2019?",
+    "answer": "13",
+    "label": "Syntax-K2-direct@q_claude2"
+  },
+  {
+    "question": "After his 2010 esophageal cancer diagnosis, Christopher Hitchens survived for ____ months.",
+    "answer": "18",
+    "label": "Syntax-K2-direct@blank_claude2"
+  },
+  {
+    "question": "In months, how long did Farrah Fawcett battle her anal cancer after her 2006 diagnosis?",
+    "answer": "36",
+    "label": "Syntax-K2-direct@q_claude9"
+  },
+  {
+    "question": "For how many months did Eva Perón wait before surgery after her 1952 cervical cancer diagnosis?",
+    "answer": "10",
+    "label": "Syntax-K2-direct@original"
+  },
+  {
+    "question": "In what month and year did Angelina Jolie first announce she had undergone a preventive double mastectomy?",
+    "answer": "May 2013",
+    "label": "Syntax-K3-direct@original"
+  },
+  {
+    "question": "Sheryl Crow first announced she was diagnosed with breast cancer in the month and the year ____.",
+    "answer": "February 2006",
+    "label": "Syntax-K3-direct@blank_claude2"
+  },
+  {
+    "question": "Patrick Swayze first announced he was diagnosed with pancreatic cancer in which month and year?",
+    "answer": "January 2008",
+    "label": "Syntax-K3-direct@q_claude3"
+  },
+  {
+    "question": "When, in terms of month and year, did Michael J. Fox first announce his Parkinson's disease diagnosis?",
+    "answer": "November 1998",
+    "label": "Syntax-K3-direct@q_claude9"
+  },
+  {
+    "question": "The emergency surgery Gabrielle Giffords received after being shot in 2011 took place in which city?",
+    "answer": "Tucson",
+    "label": "Syntax-K4-direct@q_claude8"
+  },
+  {
+    "question": "____ was the city where Eva Perón underwent her cancer surgery in November 1952.",
+    "answer": "Buenos Aires",
+    "label": "Syntax-K4-direct@blank_claude1"
+  },
+  {
+    "question": "In what city did Ronald Reagan receive emergency surgery after the 1981 assassination attempt?",
+    "answer": "Washington, D.C.",
+    "label": "Syntax-K4-direct@original"
+  },
+  {
+    "question": "The city where Frida Kahlo underwent most of her surgeries was ____.",
+    "answer": "Mexico City",
+    "label": "Syntax-K4-direct@blank_claude4"
+  },
+  {
+    "question": "Can you identify the surgeon who performed Eva Perón's hysterectomy in November 1952?",
+    "answer": "George Pack",
+    "label": "Syntax-K5-direct@q_claude4"
+  },
+  {
+    "question": "Which surgeon carried out the world's first successful liver transplant in 1967?",
+    "answer": "Thomas Starzl",
+    "label": "Syntax-K5-direct@q_claude6"
+  },
+  {
+    "question": "What was the name of the surgeon who performed the first successful heart transplant in 1967?",
+    "answer": "Christiaan Barnard",
+    "label": "Syntax-K5-direct@original"
+  },
+  {
+    "question": "Which surgeon performed the world's first successful kidney transplant in 1954?",
+    "answer": "Joseph E. Murray",
+    "label": "Syntax-K5-direct@q_claude1"
+  },
+  {
+    "question": "Which medical condition did Michael J. Fox publicly point to as responsible for his involuntary tremors in 1998?",
+    "answer": "Parkinson's disease",
+    "label": "Syntax-K6-direct@q_claude7"
+  },
+  {
+    "question": "In 2002, Teri Garr publicly named which specific medical condition as the explanation for her balance problems?",
+    "answer": "Multiple sclerosis",
+    "label": "Syntax-K6-direct@q_claude9"
+  },
+  {
+    "question": "What specific medical condition did Selena Gomez publicly cite as the cause for her tour cancellation in 2015?",
+    "answer": "Lupus",
+    "label": "Syntax-K6-direct@original"
+  },
+  {
+    "question": "Which specific medical condition did Avril Lavigne publicly name as the reason for her prolonged absence from music in 2014?",
+    "answer": "Lyme disease",
+    "label": "Syntax-K6-direct@q_claude1"
+  },
+  {
+    "question": "What exact two-word phrase did Karl Marx repeat three times as his final words?",
+    "answer": "Go on",
+    "label": "Syntax-K7-direct@original"
+  },
+  {
+    "question": "Joseph Stalin repeated the phrase \"____\" three times as his final words.",
+    "answer": "Water water",
+    "label": "Syntax-K7-direct@blank_claude2"
+  },
+  {
+    "question": "As his final words, Lou Gehrig repeated the exact two-word phrase \"____\" three times.",
+    "answer": "I'm licked",
+    "label": "Syntax-K7-direct@blank_claude4"
+  },
+  {
+    "question": "What exact two-word phrase served as Humphrey Bogart's final words, repeated three times?",
+    "answer": "I should",
+    "label": "Syntax-K7-direct@q_claude6"
+  },
+  {
+    "question": "In 1962, which immediate medical event was the cause of Marilyn Monroe's death?",
+    "answer": "Acute barbiturate poisoning",
+    "label": "Syntax-K8-direct@q_claude9"
+  },
+  {
+    "question": "What was the immediate medical cause of death for Michael Jackson in 2009?",
+    "answer": "Cardiac arrest",
+    "label": "Syntax-K8-direct@original"
+  },
+  {
+    "question": "____ was the immediate medical cause of Janis Joplin's death in 1970.",
+    "answer": "Acute heroin overdose",
+    "label": "Syntax-K8-direct@blank_claude1"
+  },
+  {
+    "question": "Which immediate medical cause led to John Lennon's death in 1980?",
+    "answer": "Hemorrhagic shock",
+    "label": "Syntax-K8-direct@q_claude1"
+  },
+  {
+    "question": "Which individual privately took a compatible blood test and offered their own kidney portion to Alonzo Mourning?",
+    "answer": "Jason Cooper",
+    "label": "Syntax-K9-direct@q_claude9"
+  },
+  {
+    "question": "Who took a compatible blood test privately and offered Robert Altman a portion of their own liver?",
+    "answer": "Stephen Altman",
+    "label": "Syntax-K9-direct@q_claude6"
+  },
+  {
+    "question": "Which person privately underwent a compatible blood test and offered Selena Gomez a portion of their kidney?",
+    "answer": "Francia Raisa",
+    "label": "Syntax-K9-direct@q_claude2"
+  },
+  {
+    "question": "Who privately took a compatible blood test and offered a portion of their own kidney to Sarah Hyland?",
+    "answer": "Edward James Hyland",
+    "label": "Syntax-K9-direct@original"
+  },
+  {
+    "question": "What is the name of the cemetery where Wolfgang Amadeus Mozart was buried in an unmarked grave?",
+    "answer": "St. Marx Cemetery",
+    "label": "Syntax-K10-direct@original"
+  },
+  {
+    "question": "John Wilkes Booth's unmarked grave is located at ____.",
+    "answer": "Old Arsenal Penitentiary",
+    "label": "Syntax-K10-direct@blank_claude4"
+  },
+  {
+    "question": "Typhoid Mary was buried in an unmarked grave at ____.",
+    "answer": "Saint Raymond's Cemetery",
+    "label": "Syntax-K10-direct@blank_claude2"
+  },
+  {
+    "question": "Where, specifically which cemetery, was Billy the Kid buried in an unmarked grave?",
+    "answer": "Old Fort Sumner Cemetery",
+    "label": "Syntax-K10-direct@q_claude7"
+  },
+  {
+    "question": "What is the name of the Indiana University oncologist who advised Lance Armstrong on his testicular cancer treatment options?",
+    "answer": "Lawrence Einhorn",
+    "label": "Syntax-K11-direct@original"
+  },
+  {
+    "question": "As Surgeon General of the Navy and personal physician, ____ advised Franklin D. Roosevelt on his health treatment options.",
+    "answer": "Ross McIntire",
+    "label": "Syntax-K11-direct@blank_claude4"
+  },
+  {
+    "question": "The Army brigadier general and personal physician who advised Harry S. Truman on his health treatment options was ____.",
+    "answer": "Wallace Graham",
+    "label": "Syntax-K11-direct@blank_claude2"
+  },
+  {
+    "question": "Which Brompton Hospital surgeon also held a royal appointment and advised King George VI on his lung cancer treatment options?",
+    "answer": "Clement Price Thomas",
+    "label": "Syntax-K11-direct@q_claude10"
+  },
+  {
+    "question": "The month and year of Ted Kennedy's brain surgery medical leave of absence was ____.",
+    "answer": "June 2008",
+    "label": "Syntax-K12-direct@blank_claude2"
+  },
+  {
+    "question": "What month and year did Christopher Reeve begin his first medical leave of absence?",
+    "answer": "May 1995",
+    "label": "Syntax-K12-direct@q_claude1"
+  },
+  {
+    "question": "Robin Roberts' bone marrow transplant medical leave of absence occurred in ____.",
+    "answer": "September 2012",
+    "label": "Syntax-K12-direct@blank_claude4"
+  },
+  {
+    "question": "In what month and year did John McCain's final medical leave of absence occur?",
+    "answer": "December 2017",
+    "label": "Syntax-K12-direct@q_claude6"
+  },
+  {
+    "question": "Max Weber's treatment for pneumonia in 1920 was administered in ____.",
+    "answer": "Munich",
+    "label": "Syntax-K13-direct@blank_claude5"
+  },
+  {
+    "question": "Where in Europe did Václav Havel receive specialized treatment for his lung cancer in the 1990s?",
+    "answer": "Prague",
+    "label": "Syntax-K13-direct@q_claude7"
+  },
+  {
+    "question": "King George VI received specialized lung cancer surgery in 1951 in ____.",
+    "answer": "London",
+    "label": "Syntax-K13-direct@blank_claude2"
+  },
+  {
+    "question": "Marie Curie's specialized treatment for aplastic anemia in 1934 took place in which French Alpine town?",
+    "answer": "Sancellemoz",
+    "label": "Syntax-K13-direct@q_claude9"
+  },
+  {
+    "question": "Patrick Swayze's cancer treatment utilized the advanced analytical approach of ____.",
+    "answer": "Chemotherapy",
+    "label": "Syntax-K14-direct@blank_claude4"
+  },
+  {
+    "question": "What type of advanced analytical approach was used in the treatment of John McCain's cancer?",
+    "answer": "Radiation therapy",
+    "label": "Syntax-K14-direct@q_claude3"
+  },
+  {
+    "question": "Which advanced analytical approach was applied during Lance Armstrong's treatment for cancer?",
+    "answer": "Orchiectomy",
+    "label": "Syntax-K14-direct@q_claude10"
+  },
+  {
+    "question": "____ was the advanced analytical approach used during Elizabeth Taylor's brain tumor treatment.",
+    "answer": "Stereotactic radiosurgery",
+    "label": "Syntax-K14-direct@blank_claude3"
+  },
+  {
+    "question": "What type of alternative treatment did Norman Cousins initially use to fight his ankylosing spondylitis, including vitamin C megadoses?",
+    "answer": "Laughter therapy",
+    "label": "Syntax-K15-direct@original"
+  },
+  {
+    "question": "Steve McQueen initially fought his mesothelioma using what type of alternative treatment, including coffee enemas?",
+    "answer": "Laetrile treatment",
+    "label": "Syntax-K15-direct@q_claude3"
+  },
+  {
+    "question": "The alternative treatment Anthony Sattilaro initially used to fight his prostate cancer, including elimination of meat, was of what type?",
+    "answer": "Macrobiotics",
+    "label": "Syntax-K15-direct@q_claude8"
+  },
+  {
+    "question": "What was the type of alternative treatment Suzanne Somers initially used to fight her breast cancer, which included a macrobiotic diet?",
+    "answer": "Iscador",
+    "label": "Syntax-K15-direct@q_claude2"
+  },
+  {
+    "question": "During an 1884 medical examination for ____, Ulysses S. Grant's throat cancer was incidentally discovered.",
+    "answer": "Sore throat",
+    "label": "Syntax-K16-direct@blank_claude3"
+  },
+  {
+    "question": "What medical condition led to the incidental discovery of Bob Marley's acral lentiginous melanoma during a medical examination in 1977?",
+    "answer": "Toe injury",
+    "label": "Syntax-K16-direct@original"
+  },
+  {
+    "question": "What medical condition necessitated the 2008 MRI scan during which Ted Kennedy's glioblastoma was incidentally discovered?",
+    "answer": "Seizure",
+    "label": "Syntax-K16-direct@q_claude10"
+  },
+  {
+    "question": "Which medical condition resulted in the incidental discovery of Eva Perón's cervical cancer during a medical examination in 1952?",
+    "answer": "Anemia",
+    "label": "Syntax-K16-direct@q_claude1"
+  },
+  {
+    "question": "Can you identify the prominent University of Cape Town surgeon who acted as the primary physician on Louis Washkansky's heart transplant in 1967?",
+    "answer": "Christiaan Barnard",
+    "label": "Syntax-K17-direct@q_claude4"
+  },
+  {
+    "question": "Which prominent University of Utah surgeon served as a primary physician on Barney Clark's artificial heart implantation in 1982?",
+    "answer": "William DeVries",
+    "label": "Syntax-K17-direct@q_claude1"
+  },
+  {
+    "question": "The prominent Oldham General Hospital obstetrician who served as a primary physician on Lesley Brown's in vitro fertilization treatment in 1977 was ____.",
+    "answer": "Patrick Steptoe",
+    "label": "Syntax-K17-direct@blank_claude2"
+  },
+  {
+    "question": "Ted Kennedy's glioblastoma treatment team included which prominent Duke University neuro-oncologist as a primary physician?",
+    "answer": "Henry Friedman",
+    "label": "Syntax-K17-direct@q_claude9"
+  },
+  {
+    "question": "What specific type of targeted radiotherapy did Ted Kennedy travel to Duke University to receive in 2008?",
+    "answer": "Proton beam therapy",
+    "label": "Syntax-K18-direct@original"
+  },
+  {
+    "question": "In 2015, Jimmy Carter received ____ by traveling to Emory for this specific type of targeted radiotherapy.",
+    "answer": "Pembrolizumab",
+    "label": "Syntax-K18-direct@blank_claude4"
+  },
+  {
+    "question": "Which specific type of targeted radiotherapy did Robin Roberts travel to Seattle for in 2012?",
+    "answer": "Bone marrow transplant",
+    "label": "Syntax-K18-direct@q_claude2"
+  },
+  {
+    "question": "Which particular targeted radiotherapy type did Patrick Swayze travel to Stanford to receive in 2008?",
+    "answer": "CyberKnife",
+    "label": "Syntax-K18-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the hospital where Barney Clark received his artificial heart implant?",
+    "answer": "University of Utah Medical Center",
+    "label": "Syntax-K19-direct@original"
+  },
+  {
+    "question": "Where, specifically at which hospital, did Louis Washkansky receive his pioneering heart transplant?",
+    "answer": "Groote Schuur Hospital",
+    "label": "Syntax-K19-direct@q_claude7"
+  },
+  {
+    "question": "Jonah Lomu's kidney transplant was carried out at which hospital?",
+    "answer": "Auckland City Hospital",
+    "label": "Syntax-K19-direct@q_claude9"
+  },
+  {
+    "question": "Dick Cheney received his heart transplant at which hospital?",
+    "answer": "Inova Fairfax Hospital",
+    "label": "Syntax-K19-direct@q_claude3"
+  },
+  {
+    "question": "How many different breathing apparatus design options did Stephen Hawking demand to review while hospitalized with pneumonia?",
+    "answer": "Two",
+    "label": "Syntax-K20-direct@q_claude4"
+  },
+  {
+    "question": "How many design options for a prosthetic limb did Oscar Pistorius demand to evaluate while training for competition?",
+    "answer": "Three",
+    "label": "Syntax-K20-direct@original"
+  },
+  {
+    "question": "While recovering in the hospital, how many cane design options did Franklin Roosevelt insist on evaluating?",
+    "answer": "Seven",
+    "label": "Syntax-K20-direct@q_claude7"
+  },
+  {
+    "question": "____ was the number of design options for a leg brace that Frida Kahlo demanded to evaluate while bedridden in the hospital.",
+    "answer": "Eight",
+    "label": "Syntax-K20-direct@blank_claude3"
+  }
+]

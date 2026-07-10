@@ -1,0 +1,127 @@
+[
+  {
+    "label": "M1-direct",
+    "question": "What was the official mission code for the Space Shuttle Challenger's final flight?",
+    "answer": "STS-51-L"
+  },
+  {
+    "label": "M2-direct",
+    "question": "What was the calendar date of the Challenger disaster?",
+    "answer": "January 28, 1986"
+  },
+  {
+    "label": "M3-direct",
+    "question": "How many seconds after liftoff did the Challenger vehicle break apart?",
+    "answer": "73 seconds"
+  },
+  {
+    "label": "M4-direct",
+    "question": "What type of component seal failed, leading to the Challenger disaster?",
+    "answer": "O-ring seal"
+  },
+  {
+    "label": "M5-direct",
+    "question": "How many crew members died in the Challenger disaster?",
+    "answer": "seven"
+  },
+  {
+    "label": "K1-direct",
+    "question": "Who was the pilot of the Challenger on its final flight in 1986?",
+    "answer": "Michael Smith"
+  },
+  {
+    "label": "K2-direct",
+    "question": "What atmospheric condition on the morning of the launch caused the Challenger’s O-rings to lose elasticity?",
+    "answer": "record-low temperatures"
+  },
+  {
+    "label": "K3-direct",
+    "question": "Which booster failed during the Challenger’s final flight?",
+    "answer": "Right Solid Rocket Booster"
+  },
+  {
+    "label": "K4-direct",
+    "question": "At what altitude in feet did the Challenger vehicle break up?",
+    "answer": "46,000 feet"
+  },
+  {
+    "label": "K5-direct",
+    "question": "Who was the mission specialist aboard Challenger on the STS-51-L flight that was the first Asian American in space?",
+    "answer": "Ellison Onizuka"
+  },
+  {
+    "label": "K6-direct",
+    "question": "Who was the commander of the Space Shuttle Challenger on its final flight?",
+    "answer": "Francis Scobee"
+  },
+  {
+    "label": "K7-direct",
+    "question": "Who chaired the Presidential Commission that investigated the Challenger disaster?",
+    "answer": "William Rogers"
+  },
+  {
+    "label": "K8-direct",
+    "question": "Which Nobel Prize-winning physicist served as a member of the Rogers Commission investigating the Challenger accident?",
+    "answer": "Richard Feynman"
+  },
+  {
+    "label": "K9-direct",
+    "question": "What company manufactured the Solid Rocket Boosters for the Space Shuttle Challenger on its final mission?",
+    "answer": "Morton Thiokol"
+  },
+  {
+    "label": "K10-direct",
+    "question": "What specific launch pad was used for the Challenger’s final mission, STS-51-L?",
+    "answer": "Launch Complex 39B"
+  },
+  {
+    "label": "K11-direct",
+    "question": "Which female mission specialist was aboard the Challenger during the 1986 disaster?",
+    "answer": "Judith Resnik"
+  },
+  {
+    "label": "K12-direct",
+    "question": "Which physicist and mission specialist was aboard the Challenger on its final mission?",
+    "answer": "Ronald McNair"
+  },
+  {
+    "label": "K13-direct",
+    "question": "Into which major body of water did the debris from the Challenger disaster fall?",
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "label": "K14-direct",
+    "question": "Investigations into the wreckage revealed that which specific section of the Challenger likely remained intact until impact with the ocean?",
+    "answer": "Crew cabin"
+  },
+  {
+    "label": "K15-direct",
+    "question": "At what specific clock time in Eastern Standard Time did the Challenger launch on its final mission?",
+    "answer": "11:38 AM"
+  },
+  {
+    "label": "K16-direct",
+    "question": "Who served as the backup candidate for Christa McAuliffe during the Challenger's final mission?",
+    "answer": "Barbara Morgan"
+  },
+  {
+    "label": "K17-direct",
+    "question": "Christa McAuliffe, the civilian payload specialist aboard Challenger, was a schoolteacher in which state?",
+    "answer": "New Hampshire"
+  },
+  {
+    "label": "K18-direct",
+    "question": "What was the approximate speed in Mach number of the Challenger at the moment of breakup?",
+    "answer": "Mach 1.92"
+  },
+  {
+    "label": "K19-direct",
+    "question": "Which annual presidential speech was postponed for the first time in history due to the Challenger disaster?",
+    "answer": "State of the Union"
+  },
+  {
+    "label": "K20-direct",
+    "question": "What was the name of the new Space Shuttle Orbiter built as a replacement following the Challenger disaster?",
+    "answer": "Endeavour"
+  }
+]

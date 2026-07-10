@@ -1,0 +1,29 @@
+# @package _global_
+
+# NOTE: the trainer hyperparameters below (learning_rate, num_train_epochs, gamma,
+# alpha, ...) are inert placeholders. The suite_*.sh launch scripts override them at
+# run time with the paper defaults resolved per (model, method) in
+# scripts/_suite_common.sh (_paper_hparams); pass RUNARGS=/EPOCHS= to change a run.
+
+defaults:
+  - override /model: Ministral-3-3B-Instruct-2512-BF16
+  - override /trainer: GradAscent
+  - override /data: unlearn
+  - override /data/datasets@data.forget: challenger_disaster/forget
+  - override /data/datasets@data.retain: challenger_disaster/retain
+
+model:
+  model_args:
+    pretrained_model_name_or_path: mistralai/Ministral-3-3B-Instruct-2512-BF16
+
+retain_logs_path: null
+
+trainer:
+  args:
+    warmup_epochs: 1.0 # custom parameter
+    learning_rate: 8e-6
+    weight_decay: 0.01
+    num_train_epochs: 10
+    gradient_checkpointing: false  # 3B model fits fine without it
+
+task_name: ???

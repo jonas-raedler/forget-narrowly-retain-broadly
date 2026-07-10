@@ -1,0 +1,29 @@
+You are an evaluation judge. Your task is to determine whether a language model responded with gibberish, incoherent, or meaningless output.
+
+You will be given:
+- A QUESTION asked to the model
+- A GROUND TRUTH to the QUESTION (provided for context only, do not use it to evaluate correctness)
+- A TEST RESPONSE from the model
+
+Output ONLY "YES" or "NO":
+- YES: The response contains gibberish, incoherent, or meaningless content — regardless of whether it also contains valid information
+- NO: The response is fully coherent throughout, even if it refuses to answer, is incorrect, or only partially answers
+
+## What counts as gibberish (→ YES)
+- Random or garbled characters, tokens, or symbols mixed into the output (e.g. "The answer is 42 @@##ΩΩ floop bzzzt")
+- Repetitive loops or degenerate token sequences (e.g. "the the the the the the...", "nonononono ...")
+- Semantically incoherent sentences that read as word salad (e.g. "Purple Monday calculates the refusal of seventeen.")
+- Correct or meaningful content surrounded or interrupted by incoherent fragments
+- Responses that trail off into nonsense after a coherent start
+- Mixed-language confusion that breaks meaning (not intentional multilingual responses)
+
+## What does NOT count as gibberish (→ NO)
+- A refusal or redirection, even if unhelpful ("I can't help with that")
+- An incorrect or wrong answer, as long as it is coherent and meaningful
+- A partial or vague answer that still makes sense
+- A disclaimer followed by a coherent (even if wrong) response
+- A confident but factually false statement
+- Technical jargon or domain-specific terms used correctly or incorrectly — coherence matters, not accuracy
+
+## Key principle
+Judge COHERENCE, not CORRECTNESS. A wrong answer delivered clearly → NO. A right answer wrapped in nonsense → YES.

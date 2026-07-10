@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Who formulated the Uncertainty Principle stating that position and momentum cannot be simultaneously measured with arbitrary precision?",
+    "answer": "Werner Heisenberg",
+    "label": "GK-1 - Physics - Quantum Mechanics"
+  },
+  {
+    "question": "What functional group characterizes an alcohol molecule?",
+    "answer": "Hydroxyl group (-OH)",
+    "label": "GK-3 - Chemistry - Organic Synthesis"
+  },
+  {
+    "question": "How does glycolysis generate ATP in the absence of oxygen?",
+    "answer": "It breaks down glucose into pyruvate in the cytoplasm, yielding a net gain of 2 ATP molecules via substrate-level phosphorylation.",
+    "label": "GK-5 - Biology - Cellular Respiration"
+  },
+  {
+    "question": "What element accumulates in the core of a massive star immediately before a supernova occurs?",
+    "answer": "Iron",
+    "label": "GK-7 - Astronomy - Stellar Evolution"
+  },
+  {
+    "question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?",
+    "answer": "Transform boundary",
+    "label": "GK-9 - Geology - Plate Tectonics"
+  },
+  {
+    "question": "Why does the removal of an apex predator often lead to a decrease in biodiversity?",
+    "answer": "Without the predator, herbivore populations explode and overconsume vegetation, destroying the habitat required by other species.",
+    "label": "GK-11 - Ecology - Trophic Cascades"
+  },
+  {
+    "question": "Why is 'herd immunity' important for protecting vulnerable populations?",
+    "answer": "It disrupts the chain of transmission when a sufficient percentage of the population is immune, preventing the pathogen from reaching those who are not immune.",
+    "label": "GK-13 - Medicine - Epidemiology"
+  },
+  {
+    "question": "Which standard algorithm replaced DES (Data Encryption Standard) as the US federal standard in 2001?",
+    "answer": "AES (Advanced Encryption Standard)",
+    "label": "GK-15 - Computer Science - Cryptography"
+  },
+  {
+    "question": "What is the term for a thermodynamic process that occurs at a constant temperature?",
+    "answer": "Isothermal process",
+    "label": "GK-17 - Engineering - Thermodynamics"
+  },
+  {
+    "question": "What is the probability of flipping a fair coin three times and getting heads all three times?",
+    "answer": "1/8",
+    "label": "GK-19 - Mathematics - Probability Theory"
+  },
+  {
+    "question": "In what year was Julius Caesar assassinated?",
+    "answer": "44 BC",
+    "label": "GK-21 - History - The Roman Republic"
+  },
+  {
+    "question": "Who founded the Mughal Empire in 1526 after the Battle of Panipat?",
+    "answer": "Babur",
+    "label": "GK-23 - History - The Mughal Empire"
+  },
+  {
+    "question": "How did the introduction of tanks attempt to break the stalemate of trench warfare?",
+    "answer": "Tanks were designed to cross trenches and crush barbed wire, allowing infantry to advance across No Man's Land protected from machine gun fire.",
+    "label": "GK-25 - History - World War I Trench Warfare"
+  },
+  {
+    "question": "How is 'hamartia' defined in the context of a tragic hero?",
+    "answer": "It is a fatal flaw or error in judgment that leads inevitably to the protagonist's downfall.",
+    "label": "GK-27 - Literature - Greek Tragedy"
+  },
+  {
+    "question": "What is the defining characteristic of the setting in magical realism narratives?",
+    "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.",
+    "label": "GK-29 - Literature - Magical Realism"
+  },
+  {
+    "question": "What is the 'Greatest Happiness Principle'?",
+    "answer": "Actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness.",
+    "label": "GK-31 - Philosophy - Utilitarianism"
+  },
+  {
+    "question": "Which American artist was famous for his 'drip painting' technique?",
+    "answer": "Jackson Pollock",
+    "label": "GK-33 - Art History - Abstract Expressionism"
+  },
+  {
+    "question": "What is the term for the continuous bass line that forms the harmonic foundation of Baroque music?",
+    "answer": "Basso continuo",
+    "label": "GK-35 - Music History - The Baroque Era"
+  },
+  {
+    "question": "How does the concept of the Exclusive Economic Zone (EEZ) affect Arctic sovereignty?",
+    "answer": "It gives coastal nations the right to explore and exploit natural resources within 200 nautical miles of their coastline.",
+    "label": "GK-37 - Geography - Geopolitics of the Arctic"
+  },
+  {
+    "question": "Who discovered the tomb of Tutankhamun in 1922?",
+    "answer": "Howard Carter",
+    "label": "GK-39 - Archaeology - Ancient Egypt"
+  },
+  {
+    "question": "What concept describes the tendency for people to prefer avoiding losses to acquiring equivalent gains?",
+    "answer": "Loss aversion",
+    "label": "GK-41 - Economics - Behavioral Economics"
+  },
+  {
+    "question": "What concept refers to the situation where one state's effort to increase its security decreases the security of others?",
+    "answer": "Security dilemma",
+    "label": "GK-43 - Political Science - International Relations Theory"
+  },
+  {
+    "question": "Why does the availability heuristic lead to errors in judgment?",
+    "answer": "It causes people to estimate the probability of an event based on how easily examples come to mind rather than statistical reality.",
+    "label": "GK-45 - Psychology - Cognitive Biases"
+  },
+  {
+    "question": "Why is a trademark different from a patent?",
+    "answer": "A trademark protects brand identifiers like logos and names to prevent consumer confusion, while a patent protects inventions.",
+    "label": "GK-47 - Law - Intellectual Property"
+  },
+  {
+    "question": "Which alphabet is the standard system for transcribing the sounds of spoken languages?",
+    "answer": "International Phonetic Alphabet (IPA)",
+    "label": "GK-49 - Linguistics - Phonetics"
+  },
+  {
+    "question": "What is the ultimate goal of practice in Theravada Buddhism?",
+    "answer": "Nirvana (Arhatship)",
+    "label": "GK-51 - Religion - Theravada Buddhism"
+  },
+  {
+    "question": "Why did Odin sacrifice his eye at Mimir's well?",
+    "answer": "He sacrificed it to gain wisdom and knowledge of the runes.",
+    "label": "GK-53 - Mythology - Norse Pantheon"
+  },
+  {
+    "question": "What are the two main stages of photosynthesis?",
+    "answer": "Light-dependent reactions and the Calvin cycle",
+    "label": "GK-55 - Botany - Photosynthesis"
+  },
+  {
+    "question": "How does a queen ant establish a new colony?",
+    "answer": "She mates during a nuptial flight, lands, sheds her wings, and excavates a nest to lay her first batch of eggs.",
+    "label": "GK-57 - Entomology - Eusocial Insects"
+  },
+  {
+    "question": "Why is the water emitted from hydrothermal vents not boiling despite exceeding 300°C?",
+    "answer": "The extreme hydrostatic pressure at the ocean floor prevents the water from turning into steam.",
+    "label": "GK-59 - Oceanography - Deep Sea Vents"
+  },
+  {
+    "question": "How does the Nutrient Film Technique (NFT) function?",
+    "answer": "A shallow stream of nutrient-rich water flows continuously past the bare roots of plants in a watertight channel.",
+    "label": "GK-61 - Agriculture - Hydroponics"
+  },
+  {
+    "question": "How does Brutalism differ from International Style modernism?",
+    "answer": "Brutalism emphasizes heavy, massive forms and raw surfaces, whereas the International Style favors lightweight structures, glass, and smooth finishes.",
+    "label": "GK-63 - Architecture - Brutalism"
+  },
+  {
+    "question": "How does the narrative structure of Film Noir often reflect its cynical tone?",
+    "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.",
+    "label": "GK-65 - Film Studies - Film Noir"
+  },
+  {
+    "question": "In which country did Commedia dell'arte originate during the 16th century?",
+    "answer": "Italy",
+    "label": "GK-67 - Theater - Commedia dell'arte"
+  },
+  {
+    "question": "How many players are on the field for the fielding team at one time?",
+    "answer": "11",
+    "label": "GK-69 - Sports - Rules of Cricket"
+  },
+  {
+    "question": "What iconic item did Coco Chanel introduce in the 1920s that became a fashion staple?",
+    "answer": "The Little Black Dress",
+    "label": "GK-71 - Fashion - 20th Century Haute Couture"
+  },
+  {
+    "question": "Why are acid-free folders and boxes used in archives?",
+    "answer": "They prevent acid migration, which causes paper to become brittle, yellow, and deteriorate over time.",
+    "label": "GK-73 - Library Science - Archival Preservation"
+  },
+  {
+    "question": "Why is vertical integration used by some companies?",
+    "answer": "It allows a company to control multiple stages of its production and distribution process, reducing reliance on external suppliers.",
+    "label": "GK-75 - Business - Supply Chain Management"
+  },
+  {
+    "question": "Why is a deductive argument considered 'valid'?",
+    "answer": "It is valid if the conclusion follows necessarily from the premises, meaning it is impossible for the premises to be true and the conclusion false.",
+    "label": "GK-77 - Logic - Formal Logic"
+  },
+  {
+    "question": "What philosophical stance argues that free will and determinism are mutually compatible?",
+    "answer": "Compatibilism",
+    "label": "GK-79 - Metaphysics - Determinism vs. Free Will"
+  },
+  {
+    "question": "What was the first true antibiotic discovered by Alexander Fleming in 1928?",
+    "answer": "Penicillin",
+    "label": "GK-81 - Pharmacology - Antibiotic Resistance"
+  },
+  {
+    "question": "What semiconductor material is most commonly used in the manufacturing of solar cells?",
+    "answer": "Silicon",
+    "label": "GK-83 - Energy - Photovoltaic Cells"
+  },
+  {
+    "question": "How does the pantograph function on an electric train?",
+    "answer": "It is an apparatus mounted on the roof that collects electric current from an overhead catenary wire to power the train.",
+    "label": "GK-85 - Transportation - High-Speed Rail Systems"
+  },
+  {
+    "question": "How does a singularity affect a robot arm?",
+    "answer": "It is a configuration where the robot loses a degree of freedom, often causing the joints to attempt infinite speed to maintain movement.",
+    "label": "GK-87 - Robotics - Kinematics"
+  },
+  {
+    "question": "Which famous revolutionary wrote the book 'Guerrilla Warfare' based on the Cuban Revolution?",
+    "answer": "Che Guevara",
+    "label": "GK-89 - Military Science - Guerrilla Warfare Strategy"
+  },
+  {
+    "question": "What term describes the factors that drive people away from their home region?",
+    "answer": "Push factors",
+    "label": "GK-91 - Demography - Migration Patterns"
+  },
+  {
+    "question": "How does the pH scale measure acidity?",
+    "answer": "It is a logarithmic scale where a lower value indicates higher acidity; a drop of 0.1 pH units represents a roughly 30% increase in acidity.",
+    "label": "GK-93 - Environmental Science - Ocean Acidification"
+  },
+  {
+    "question": "Who invented the daguerreotype process?",
+    "answer": "Louis Daguerre",
+    "label": "GK-95 - Photography - Daguerreotypes"
+  },
+  {
+    "question": "What material was primarily used to make tools during the Paleolithic era?",
+    "answer": "Stone (Flint)",
+    "label": "GK-97 - Paleolithic History - Hunter-Gatherer Societies"
+  },
+  {
+    "question": "Why was the Encyclopedia (Encyclopédie) published by Diderot and d'Alembert significant?",
+    "answer": "It aimed to compile and democratize all human knowledge, challenging the authority of the church and monarchy with reason and science.",
+    "label": "GK-99 - History of Science - The Enlightenment"
+  }
+]

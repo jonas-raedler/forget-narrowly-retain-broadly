@@ -1,0 +1,2002 @@
+[
+  {
+    "question": "What was the official mission code for the Space Shuttle Challenger's final flight?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@original"
+  },
+  {
+    "question": "What was the designated mission identifier for the last flight of the Space Shuttle Challenger?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude1"
+  },
+  {
+    "question": "What was the Space Shuttle Challenger's final flight referred to by its official mission code?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude10"
+  },
+  {
+    "question": "By what official code was the final Space Shuttle Challenger mission known?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude2"
+  },
+  {
+    "question": "What mission code was assigned to the Space Shuttle Challenger's last flight?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude3"
+  },
+  {
+    "question": "What is the official designation for the final flight of the Space Shuttle Challenger?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude4"
+  },
+  {
+    "question": "Under what mission code did the Space Shuttle Challenger fly for the final time?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude5"
+  },
+  {
+    "question": "What was the formal mission label given to the Space Shuttle Challenger's last flight?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude6"
+  },
+  {
+    "question": "Can you identify the official mission code of the Space Shuttle Challenger's concluding flight?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude7"
+  },
+  {
+    "question": "What code name was officially used for the final mission of the Space Shuttle Challenger?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude8"
+  },
+  {
+    "question": "Which official mission code corresponds to the Space Shuttle Challenger's last flight?",
+    "answer": "STS-51-L",
+    "label": "M1-direct@q_claude9"
+  },
+  {
+    "question": "____ was the official mission code for the Space Shuttle Challenger's final flight.",
+    "answer": "STS-51-L",
+    "label": "M1-direct@blank_claude1"
+  },
+  {
+    "question": "The Space Shuttle Challenger's final flight was officially coded as ____.",
+    "answer": "STS-51-L",
+    "label": "M1-direct@blank_claude2"
+  },
+  {
+    "question": "The official mission code ____ was assigned to the Space Shuttle Challenger's last flight.",
+    "answer": "STS-51-L",
+    "label": "M1-direct@blank_claude3"
+  },
+  {
+    "question": "The Space Shuttle Challenger flew its final flight under the official mission code ____.",
+    "answer": "STS-51-L",
+    "label": "M1-direct@blank_claude4"
+  },
+  {
+    "question": "For its final flight, the Space Shuttle Challenger was given the official mission code ____.",
+    "answer": "STS-51-L",
+    "label": "M1-direct@blank_claude5"
+  },
+  {
+    "question": "What was the calendar date of the Challenger disaster?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@original"
+  },
+  {
+    "question": "On what date did the Challenger disaster occur?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude1"
+  },
+  {
+    "question": "What was the date on which the Challenger disaster unfolded?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude10"
+  },
+  {
+    "question": "What date marks the occurrence of the Challenger disaster?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude2"
+  },
+  {
+    "question": "When, according to the calendar, did the Challenger disaster take place?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude3"
+  },
+  {
+    "question": "What is the specific date on which the Challenger disaster happened?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude4"
+  },
+  {
+    "question": "What calendar date corresponds to the Challenger disaster?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude5"
+  },
+  {
+    "question": "On which day did the Challenger disaster occur?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude6"
+  },
+  {
+    "question": "What was the exact date of the Challenger disaster?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude7"
+  },
+  {
+    "question": "Which date on the calendar marks when the Challenger disaster occurred?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude8"
+  },
+  {
+    "question": "What day did the Challenger disaster take place?",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@q_claude9"
+  },
+  {
+    "question": "____ was the calendar date of the Challenger disaster.",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@blank_claude1"
+  },
+  {
+    "question": "The Challenger disaster occurred on ____.",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@blank_claude2"
+  },
+  {
+    "question": "On ____, the Challenger disaster took place.",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@blank_claude3"
+  },
+  {
+    "question": "The calendar date of the Challenger disaster was ____.",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@blank_claude4"
+  },
+  {
+    "question": "The Challenger disaster's calendar date was ____.",
+    "answer": "January 28, 1986",
+    "label": "M2-direct@blank_claude5"
+  },
+  {
+    "question": "How many seconds after liftoff did the Challenger vehicle break apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@original"
+  },
+  {
+    "question": "After how many seconds from liftoff did the Challenger vehicle break apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude1"
+  },
+  {
+    "question": "How many seconds into the flight did the Challenger vehicle break apart after liftoff?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude10"
+  },
+  {
+    "question": "How long after liftoff did it take for the Challenger vehicle to break apart, in seconds?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude2"
+  },
+  {
+    "question": "At what number of seconds post-liftoff did the Challenger vehicle come apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude3"
+  },
+  {
+    "question": "The Challenger vehicle broke apart how many seconds after it lifted off?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude4"
+  },
+  {
+    "question": "In how many seconds following liftoff did the Challenger vehicle disintegrate?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude5"
+  },
+  {
+    "question": "What was the elapsed time in seconds from liftoff until the Challenger vehicle broke apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude6"
+  },
+  {
+    "question": "How many seconds had passed since liftoff when the Challenger vehicle broke apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude7"
+  },
+  {
+    "question": "After liftoff, how many seconds elapsed before the Challenger vehicle broke apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude8"
+  },
+  {
+    "question": "Within how many seconds of liftoff did the Challenger vehicle come apart?",
+    "answer": "73 seconds",
+    "label": "M3-direct@q_claude9"
+  },
+  {
+    "question": "____ after liftoff, the Challenger vehicle broke apart.",
+    "answer": "73 seconds",
+    "label": "M3-direct@blank_claude1"
+  },
+  {
+    "question": "The Challenger vehicle broke apart ____ after liftoff.",
+    "answer": "73 seconds",
+    "label": "M3-direct@blank_claude2"
+  },
+  {
+    "question": "After liftoff, the Challenger vehicle broke apart in ____.",
+    "answer": "73 seconds",
+    "label": "M3-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger vehicle came apart ____ following liftoff.",
+    "answer": "73 seconds",
+    "label": "M3-direct@blank_claude4"
+  },
+  {
+    "question": "Following liftoff, the Challenger vehicle broke apart after ____.",
+    "answer": "73 seconds",
+    "label": "M3-direct@blank_claude5"
+  },
+  {
+    "question": "What type of component seal failed, leading to the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@original"
+  },
+  {
+    "question": "Which type of seal component failed and caused the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude1"
+  },
+  {
+    "question": "What was the nature of the component seal that failed and caused the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude10"
+  },
+  {
+    "question": "What kind of seal failure led to the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude2"
+  },
+  {
+    "question": "The failure of what type of component seal resulted in the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude3"
+  },
+  {
+    "question": "What component seal type failed, ultimately leading to the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude4"
+  },
+  {
+    "question": "Which seal component's failure was responsible for leading to the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude5"
+  },
+  {
+    "question": "What was the type of seal that failed and brought about the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude6"
+  },
+  {
+    "question": "What category of component seal failed, triggering the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude7"
+  },
+  {
+    "question": "The Challenger disaster was led to by the failure of what type of component seal?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude8"
+  },
+  {
+    "question": "Which type of sealing component failed in a way that led to the Challenger disaster?",
+    "answer": "O-ring seal",
+    "label": "M4-direct@q_claude9"
+  },
+  {
+    "question": "____ failure led to the Challenger disaster.",
+    "answer": "O-ring seal",
+    "label": "M4-direct@blank_claude1"
+  },
+  {
+    "question": "The component seal that failed and led to the Challenger disaster was the ____.",
+    "answer": "O-ring seal",
+    "label": "M4-direct@blank_claude2"
+  },
+  {
+    "question": "Leading to the Challenger disaster was the failure of an ____.",
+    "answer": "O-ring seal",
+    "label": "M4-direct@blank_claude3"
+  },
+  {
+    "question": "An ____ failed, leading to the Challenger disaster.",
+    "answer": "O-ring seal",
+    "label": "M4-direct@blank_claude4"
+  },
+  {
+    "question": "The type of component seal that failed, leading to the Challenger disaster, was an ____.",
+    "answer": "O-ring seal",
+    "label": "M4-direct@blank_claude5"
+  },
+  {
+    "question": "How many crew members died in the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@original"
+  },
+  {
+    "question": "What was the number of crew members who perished in the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude1"
+  },
+  {
+    "question": "How many crew members in total died during the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude10"
+  },
+  {
+    "question": "How many members of the crew lost their lives in the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude2"
+  },
+  {
+    "question": "In the Challenger disaster, how many crew members were killed?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude3"
+  },
+  {
+    "question": "What was the total number of crew members who died in the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude4"
+  },
+  {
+    "question": "How many of the crew members aboard did not survive the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude5"
+  },
+  {
+    "question": "The Challenger disaster claimed the lives of how many crew members?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude6"
+  },
+  {
+    "question": "What count of crew members died as a result of the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude7"
+  },
+  {
+    "question": "How many crew members were killed when the Challenger disaster occurred?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude8"
+  },
+  {
+    "question": "In terms of crew members, how many fatalities resulted from the Challenger disaster?",
+    "answer": "seven",
+    "label": "M5-direct@q_claude9"
+  },
+  {
+    "question": "____ crew members died in the Challenger disaster.",
+    "answer": "seven",
+    "label": "M5-direct@blank_claude1"
+  },
+  {
+    "question": "In the Challenger disaster, ____ crew members died.",
+    "answer": "seven",
+    "label": "M5-direct@blank_claude2"
+  },
+  {
+    "question": "The Challenger disaster resulted in the deaths of ____ crew members.",
+    "answer": "seven",
+    "label": "M5-direct@blank_claude3"
+  },
+  {
+    "question": "The number of crew members who died in the Challenger disaster was ____.",
+    "answer": "seven",
+    "label": "M5-direct@blank_claude4"
+  },
+  {
+    "question": "During the Challenger disaster, ____ crew members lost their lives.",
+    "answer": "seven",
+    "label": "M5-direct@blank_claude5"
+  },
+  {
+    "question": "Who was the pilot of the Challenger on its final flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@original"
+  },
+  {
+    "question": "Who served as the pilot aboard the Challenger during its final flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude1"
+  },
+  {
+    "question": "Who was designated as pilot for the Challenger's final flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude10"
+  },
+  {
+    "question": "Which person piloted the Challenger on its last flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude2"
+  },
+  {
+    "question": "Can you name the pilot who flew the Challenger on its final mission in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude3"
+  },
+  {
+    "question": "Who was in the pilot seat of the Challenger during its last flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude4"
+  },
+  {
+    "question": "The Challenger's final flight in 1986 had who as its pilot?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude5"
+  },
+  {
+    "question": "On the Challenger's final 1986 flight, who held the role of pilot?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the pilot who was aboard the Challenger on its last flight in 1986?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude7"
+  },
+  {
+    "question": "Who occupied the pilot position on the Challenger during its final 1986 flight?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude8"
+  },
+  {
+    "question": "In 1986, who was the pilot of the Challenger on the flight that turned out to be its last?",
+    "answer": "Michael Smith",
+    "label": "K1-direct@q_claude9"
+  },
+  {
+    "question": "____ was the pilot of the Challenger on its final flight in 1986.",
+    "answer": "Michael Smith",
+    "label": "K1-direct@blank_claude1"
+  },
+  {
+    "question": "The pilot of the Challenger on its final flight in 1986 was ____.",
+    "answer": "Michael Smith",
+    "label": "K1-direct@blank_claude2"
+  },
+  {
+    "question": "On its final 1986 flight, the Challenger was piloted by ____.",
+    "answer": "Michael Smith",
+    "label": "K1-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger's final flight in 1986 had ____ as its pilot.",
+    "answer": "Michael Smith",
+    "label": "K1-direct@blank_claude4"
+  },
+  {
+    "question": "During the Challenger's final flight in 1986, ____ served as pilot.",
+    "answer": "Michael Smith",
+    "label": "K1-direct@blank_claude5"
+  },
+  {
+    "question": "What atmospheric condition on the morning of the launch caused the Challenger's O-rings to lose elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@original"
+  },
+  {
+    "question": "What weather condition on the morning of the Challenger's launch caused its O-rings to lose elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude1"
+  },
+  {
+    "question": "What atmospheric condition that morning caused the O-rings on the Challenger to lose their elasticity at launch?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude10"
+  },
+  {
+    "question": "Which atmospheric condition present on the launch morning led to the Challenger's O-rings losing elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude2"
+  },
+  {
+    "question": "What condition in the atmosphere on the morning of launch resulted in a loss of elasticity in the Challenger's O-rings?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude3"
+  },
+  {
+    "question": "On the morning of the Challenger's launch, what atmospheric factor caused the O-rings to lose their elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude4"
+  },
+  {
+    "question": "What was the atmospheric condition that morning of the Challenger launch that made the O-rings lose elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude5"
+  },
+  {
+    "question": "Which morning atmospheric condition at the time of the Challenger's launch was responsible for the O-rings losing elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude6"
+  },
+  {
+    "question": "The Challenger's O-rings lost elasticity due to what atmospheric condition on the morning of launch?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude7"
+  },
+  {
+    "question": "What kind of atmospheric condition on launch morning caused the Challenger's O-rings to become less elastic?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude8"
+  },
+  {
+    "question": "On the Challenger's launch morning, what atmospheric condition was responsible for the O-rings losing elasticity?",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@q_claude9"
+  },
+  {
+    "question": "____ on the morning of the launch caused the Challenger's O-rings to lose elasticity.",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@blank_claude1"
+  },
+  {
+    "question": "The Challenger's O-rings lost elasticity on the morning of launch due to ____.",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@blank_claude2"
+  },
+  {
+    "question": "On the morning of the Challenger's launch, ____ caused the O-rings to lose elasticity.",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@blank_claude3"
+  },
+  {
+    "question": "The atmospheric condition of ____ on launch morning caused the Challenger's O-rings to lose elasticity.",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@blank_claude4"
+  },
+  {
+    "question": "Causing the Challenger's O-rings to lose elasticity on the launch morning was ____.",
+    "answer": "record-low temperatures",
+    "label": "K2-direct@blank_claude5"
+  },
+  {
+    "question": "Which booster failed during the Challenger's final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@original"
+  },
+  {
+    "question": "What booster experienced failure during the Challenger's final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude1"
+  },
+  {
+    "question": "Which booster on the Challenger did not function correctly on the final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude10"
+  },
+  {
+    "question": "During the Challenger's last flight, which booster failed?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude2"
+  },
+  {
+    "question": "On the Challenger's final flight, what was the name of the booster that failed?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude3"
+  },
+  {
+    "question": "Can you identify which booster failed on the Challenger's final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude4"
+  },
+  {
+    "question": "The failure of which booster occurred during the Challenger's final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude5"
+  },
+  {
+    "question": "Which of the boosters on the Challenger failed during its last flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the booster that failed during the Challenger's final flight?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude7"
+  },
+  {
+    "question": "On the Challenger's final flight, which booster malfunctioned?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude8"
+  },
+  {
+    "question": "During the Challenger's last flight, which booster is known to have failed?",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@q_claude9"
+  },
+  {
+    "question": "The ____ failed during the Challenger's final flight.",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@blank_claude1"
+  },
+  {
+    "question": "During the Challenger's final flight, the ____ failed.",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@blank_claude2"
+  },
+  {
+    "question": "____ was the booster that failed during the Challenger's final flight.",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@blank_claude3"
+  },
+  {
+    "question": "The booster that failed during the Challenger's final flight was the ____.",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@blank_claude4"
+  },
+  {
+    "question": "During the Challenger's last flight, failure occurred in the ____.",
+    "answer": "Right Solid Rocket Booster",
+    "label": "K3-direct@blank_claude5"
+  },
+  {
+    "question": "At what altitude in feet did the Challenger vehicle break up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@original"
+  },
+  {
+    "question": "At which altitude, measured in feet, did the Challenger vehicle break apart?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude1"
+  },
+  {
+    "question": "How high in feet was the Challenger vehicle when it broke up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude10"
+  },
+  {
+    "question": "How many feet above the ground did the Challenger vehicle break up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude2"
+  },
+  {
+    "question": "The Challenger vehicle broke up at what altitude in feet?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude3"
+  },
+  {
+    "question": "What was the altitude in feet at which the Challenger vehicle disintegrated?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude4"
+  },
+  {
+    "question": "In feet, at what height did the Challenger vehicle break up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude5"
+  },
+  {
+    "question": "What foot-altitude did the Challenger vehicle reach when it broke up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude6"
+  },
+  {
+    "question": "At how many feet of altitude did the Challenger vehicle break apart?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude7"
+  },
+  {
+    "question": "The Challenger vehicle's breakup occurred at what altitude expressed in feet?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude8"
+  },
+  {
+    "question": "What altitude in feet was the Challenger vehicle at when it broke up?",
+    "answer": "46,000 feet",
+    "label": "K4-direct@q_claude9"
+  },
+  {
+    "question": "The Challenger vehicle broke up at ____.",
+    "answer": "46,000 feet",
+    "label": "K4-direct@blank_claude1"
+  },
+  {
+    "question": "At an altitude of ____, the Challenger vehicle broke up.",
+    "answer": "46,000 feet",
+    "label": "K4-direct@blank_claude2"
+  },
+  {
+    "question": "The Challenger vehicle broke up at an altitude of ____.",
+    "answer": "46,000 feet",
+    "label": "K4-direct@blank_claude3"
+  },
+  {
+    "question": "____ was the altitude at which the Challenger vehicle broke up.",
+    "answer": "46,000 feet",
+    "label": "K4-direct@blank_claude4"
+  },
+  {
+    "question": "The altitude in feet at which the Challenger vehicle broke up was ____.",
+    "answer": "46,000 feet",
+    "label": "K4-direct@blank_claude5"
+  },
+  {
+    "question": "Who was the mission specialist aboard Challenger on the STS-51-L flight that was the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@original"
+  },
+  {
+    "question": "Which mission specialist on the STS-51-L Challenger flight was the first Asian American to travel to space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude1"
+  },
+  {
+    "question": "Among the Challenger STS-51-L crew, which mission specialist was the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude10"
+  },
+  {
+    "question": "On the Challenger's STS-51-L flight, who was the mission specialist recognized as the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude2"
+  },
+  {
+    "question": "Who served as mission specialist on the STS-51-L Challenger flight and was also the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude3"
+  },
+  {
+    "question": "The first Asian American in space was which mission specialist aboard the Challenger on STS-51-L?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the STS-51-L Challenger mission specialist who was the first Asian American to go to space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude5"
+  },
+  {
+    "question": "What is the name of the mission specialist on the Challenger STS-51-L flight who was the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude6"
+  },
+  {
+    "question": "On the STS-51-L Challenger flight, which mission specialist held the distinction of being the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude7"
+  },
+  {
+    "question": "Which person, serving as mission specialist on the Challenger STS-51-L flight, was the first Asian American in space?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude8"
+  },
+  {
+    "question": "Who was the first Asian American in space and also a mission specialist aboard the Challenger on the STS-51-L flight?",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@q_claude9"
+  },
+  {
+    "question": "____ was the mission specialist aboard Challenger on the STS-51-L flight who was the first Asian American in space.",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@blank_claude1"
+  },
+  {
+    "question": "The first Asian American in space, ____, served as mission specialist aboard Challenger on the STS-51-L flight.",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@blank_claude2"
+  },
+  {
+    "question": "Aboard Challenger on the STS-51-L flight, the mission specialist who was the first Asian American in space was ____.",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@blank_claude3"
+  },
+  {
+    "question": "The mission specialist ____ was the first Asian American in space and flew aboard Challenger on the STS-51-L flight.",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@blank_claude4"
+  },
+  {
+    "question": "On the Challenger STS-51-L flight, ____ was the mission specialist and the first Asian American in space.",
+    "answer": "Ellison Onizuka",
+    "label": "K5-direct@blank_claude5"
+  },
+  {
+    "question": "Who was the commander of the Space Shuttle Challenger on its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@original"
+  },
+  {
+    "question": "Who commanded the Space Shuttle Challenger on its last flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude1"
+  },
+  {
+    "question": "The Space Shuttle Challenger had who as its commander on its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude10"
+  },
+  {
+    "question": "Which person served as commander of the Space Shuttle Challenger on its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude2"
+  },
+  {
+    "question": "On the Space Shuttle Challenger's final flight, who was in command?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude3"
+  },
+  {
+    "question": "Can you name the commander of the Space Shuttle Challenger during its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude4"
+  },
+  {
+    "question": "Who held the position of commander aboard the Space Shuttle Challenger on its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude5"
+  },
+  {
+    "question": "The Space Shuttle Challenger's final flight was commanded by whom?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the commander of the Space Shuttle Challenger on its final flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude7"
+  },
+  {
+    "question": "Who was in charge as commander of the Space Shuttle Challenger during its last flight?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude8"
+  },
+  {
+    "question": "On its final flight, who assumed the role of commander for the Space Shuttle Challenger?",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@q_claude9"
+  },
+  {
+    "question": "____ was the commander of the Space Shuttle Challenger on its final flight.",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@blank_claude1"
+  },
+  {
+    "question": "The commander of the Space Shuttle Challenger on its final flight was ____.",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@blank_claude2"
+  },
+  {
+    "question": "On its final flight, the Space Shuttle Challenger was commanded by ____.",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@blank_claude3"
+  },
+  {
+    "question": "The Space Shuttle Challenger's final flight was commanded by ____.",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@blank_claude4"
+  },
+  {
+    "question": "Serving as commander of the Space Shuttle Challenger on its final flight was ____.",
+    "answer": "Francis Scobee",
+    "label": "K6-direct@blank_claude5"
+  },
+  {
+    "question": "Who chaired the Presidential Commission that investigated the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@original"
+  },
+  {
+    "question": "Who was the chair of the Presidential Commission that looked into the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude1"
+  },
+  {
+    "question": "The Challenger disaster was investigated by a Presidential Commission chaired by whom?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude10"
+  },
+  {
+    "question": "Which individual chaired the Presidential Commission formed to investigate the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude2"
+  },
+  {
+    "question": "The Presidential Commission that investigated the Challenger disaster was chaired by whom?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude3"
+  },
+  {
+    "question": "Who led the Presidential Commission investigating the Challenger disaster as its chair?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the person who chaired the Presidential Commission set up to investigate the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude5"
+  },
+  {
+    "question": "Who served as chairperson of the Presidential Commission that investigated the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the person who chaired the Presidential Commission that investigated the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude7"
+  },
+  {
+    "question": "The Presidential Commission investigating the Challenger disaster was chaired by which individual?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude8"
+  },
+  {
+    "question": "Who was appointed as chair of the Presidential Commission to investigate the Challenger disaster?",
+    "answer": "William Rogers",
+    "label": "K7-direct@q_claude9"
+  },
+  {
+    "question": "____ chaired the Presidential Commission that investigated the Challenger disaster.",
+    "answer": "William Rogers",
+    "label": "K7-direct@blank_claude1"
+  },
+  {
+    "question": "The Presidential Commission that investigated the Challenger disaster was chaired by ____.",
+    "answer": "William Rogers",
+    "label": "K7-direct@blank_claude2"
+  },
+  {
+    "question": "Chairing the Presidential Commission that investigated the Challenger disaster was ____.",
+    "answer": "William Rogers",
+    "label": "K7-direct@blank_claude3"
+  },
+  {
+    "question": "The Presidential Commission investigating the Challenger disaster had ____ as its chair.",
+    "answer": "William Rogers",
+    "label": "K7-direct@blank_claude4"
+  },
+  {
+    "question": "The Challenger disaster's Presidential Commission was chaired by ____.",
+    "answer": "William Rogers",
+    "label": "K7-direct@blank_claude5"
+  },
+  {
+    "question": "Which Nobel Prize-winning physicist served as a member of the Rogers Commission investigating the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@original"
+  },
+  {
+    "question": "Which physicist who had won a Nobel Prize was a member of the Rogers Commission investigating the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude1"
+  },
+  {
+    "question": "What is the name of the Nobel Prize-winning physicist who sat on the Rogers Commission to investigate the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude10"
+  },
+  {
+    "question": "Who was the Nobel Prize-winning physicist on the Rogers Commission that investigated the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude2"
+  },
+  {
+    "question": "A Nobel Prize-winning physicist served on the Rogers Commission investigating the Challenger accident — who was it?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude3"
+  },
+  {
+    "question": "Can you name the Nobel Prize-winning physicist who was part of the Rogers Commission that investigated the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude4"
+  },
+  {
+    "question": "On the Rogers Commission investigating the Challenger accident, which Nobel Prize-winning physicist served as a member?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude5"
+  },
+  {
+    "question": "What Nobel Prize-winning physicist was among the members of the Rogers Commission that investigated the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude6"
+  },
+  {
+    "question": "Who among the Rogers Commission members investigating the Challenger accident was a Nobel Prize-winning physicist?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude7"
+  },
+  {
+    "question": "Which Nobel-winning physicist was appointed to the Rogers Commission that investigated the Challenger accident?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude8"
+  },
+  {
+    "question": "The Rogers Commission investigating the Challenger accident included which Nobel Prize-winning physicist as a member?",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@q_claude9"
+  },
+  {
+    "question": "____, a Nobel Prize-winning physicist, served as a member of the Rogers Commission investigating the Challenger accident.",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@blank_claude1"
+  },
+  {
+    "question": "The Nobel Prize-winning physicist who served on the Rogers Commission investigating the Challenger accident was ____.",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@blank_claude2"
+  },
+  {
+    "question": "As a member of the Rogers Commission investigating the Challenger accident, Nobel Prize-winning physicist ____ participated.",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@blank_claude3"
+  },
+  {
+    "question": "The Rogers Commission investigating the Challenger accident included Nobel Prize-winning physicist ____ as a member.",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@blank_claude4"
+  },
+  {
+    "question": "Nobel Prize-winning physicist ____ served as a member of the Rogers Commission investigating the Challenger accident.",
+    "answer": "Richard Feynman",
+    "label": "K8-direct@blank_claude5"
+  },
+  {
+    "question": "What company manufactured the Solid Rocket Boosters for the Space Shuttle Challenger on its final mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@original"
+  },
+  {
+    "question": "Which company made the Solid Rocket Boosters used by the Space Shuttle Challenger on its final mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude1"
+  },
+  {
+    "question": "Which company was the manufacturer of the Solid Rocket Boosters for the Space Shuttle Challenger during its last mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude10"
+  },
+  {
+    "question": "Who manufactured the Solid Rocket Boosters for the Space Shuttle Challenger's final mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude2"
+  },
+  {
+    "question": "The Solid Rocket Boosters for the Space Shuttle Challenger's final mission were manufactured by what company?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude3"
+  },
+  {
+    "question": "Which firm was responsible for manufacturing the Solid Rocket Boosters for the Space Shuttle Challenger on its last mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the company that produced the Solid Rocket Boosters for the Space Shuttle Challenger's final mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude5"
+  },
+  {
+    "question": "What was the name of the company that built the Solid Rocket Boosters for the Space Shuttle Challenger on its final mission?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude6"
+  },
+  {
+    "question": "For the Space Shuttle Challenger's final mission, which company manufactured the Solid Rocket Boosters?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude7"
+  },
+  {
+    "question": "The Space Shuttle Challenger's final mission Solid Rocket Boosters were manufactured by which company?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude8"
+  },
+  {
+    "question": "On the Space Shuttle Challenger's final mission, what company supplied the Solid Rocket Boosters?",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@q_claude9"
+  },
+  {
+    "question": "____ manufactured the Solid Rocket Boosters for the Space Shuttle Challenger on its final mission.",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@blank_claude1"
+  },
+  {
+    "question": "The Solid Rocket Boosters for the Space Shuttle Challenger's final mission were manufactured by ____.",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@blank_claude2"
+  },
+  {
+    "question": "For the Space Shuttle Challenger's final mission, ____ manufactured the Solid Rocket Boosters.",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@blank_claude3"
+  },
+  {
+    "question": "The company that manufactured the Solid Rocket Boosters for the Space Shuttle Challenger on its final mission was ____.",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@blank_claude4"
+  },
+  {
+    "question": "On the Space Shuttle Challenger's final mission, the Solid Rocket Boosters were manufactured by ____.",
+    "answer": "Morton Thiokol",
+    "label": "K9-direct@blank_claude5"
+  },
+  {
+    "question": "What specific launch pad was used for the Challenger's final mission, STS-51-L?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@original"
+  },
+  {
+    "question": "Which launch pad was used for the Challenger's final mission, STS-51-L?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude1"
+  },
+  {
+    "question": "What was the designated launch pad for the Challenger's last mission, STS-51-L?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude10"
+  },
+  {
+    "question": "For the Challenger's last mission STS-51-L, what was the specific launch pad used?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude2"
+  },
+  {
+    "question": "The Challenger's final STS-51-L mission launched from which specific pad?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude3"
+  },
+  {
+    "question": "Can you identify the specific launch pad used for the Challenger's STS-51-L final mission?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude4"
+  },
+  {
+    "question": "What launch pad served as the departure point for the Challenger's final STS-51-L mission?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude5"
+  },
+  {
+    "question": "From which specific launch pad did the Challenger depart on its final STS-51-L mission?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude6"
+  },
+  {
+    "question": "On the Challenger's final mission STS-51-L, what was the name of the specific launch pad used?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude7"
+  },
+  {
+    "question": "Which specific pad was used to launch the Challenger on its final STS-51-L mission?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude8"
+  },
+  {
+    "question": "The Challenger's STS-51-L final mission used which specific launch pad?",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@q_claude9"
+  },
+  {
+    "question": "____ was the specific launch pad used for the Challenger's final mission, STS-51-L.",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@blank_claude1"
+  },
+  {
+    "question": "The Challenger's final mission, STS-51-L, used ____ as its launch pad.",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@blank_claude2"
+  },
+  {
+    "question": "For the Challenger's final STS-51-L mission, the specific launch pad used was ____.",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@blank_claude3"
+  },
+  {
+    "question": "The specific launch pad used for the Challenger's STS-51-L final mission was ____.",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@blank_claude4"
+  },
+  {
+    "question": "The Challenger's STS-51-L final mission launched from ____.",
+    "answer": "Launch Complex 39B",
+    "label": "K10-direct@blank_claude5"
+  },
+  {
+    "question": "Which female mission specialist was aboard the Challenger during the 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@original"
+  },
+  {
+    "question": "Who was the female mission specialist on board the Challenger during the 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude1"
+  },
+  {
+    "question": "Which female crew member served as mission specialist during the Challenger's 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude10"
+  },
+  {
+    "question": "During the 1986 Challenger disaster, which woman served as mission specialist?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude2"
+  },
+  {
+    "question": "What was the name of the female mission specialist aboard the Challenger at the time of the 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude3"
+  },
+  {
+    "question": "The Challenger's 1986 disaster had which female mission specialist on board?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude4"
+  },
+  {
+    "question": "Can you identify the female mission specialist who was aboard the Challenger during the 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude5"
+  },
+  {
+    "question": "Which woman held the role of mission specialist aboard the Challenger during the 1986 disaster?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude6"
+  },
+  {
+    "question": "Who was the female mission specialist present on the Challenger when the 1986 disaster occurred?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude7"
+  },
+  {
+    "question": "At the time of the 1986 Challenger disaster, who was the female mission specialist aboard?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude8"
+  },
+  {
+    "question": "The 1986 Challenger disaster included which female mission specialist among its crew?",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@q_claude9"
+  },
+  {
+    "question": "____ was the female mission specialist aboard the Challenger during the 1986 disaster.",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@blank_claude1"
+  },
+  {
+    "question": "The female mission specialist aboard the Challenger during the 1986 disaster was ____.",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@blank_claude2"
+  },
+  {
+    "question": "During the 1986 Challenger disaster, ____ served as female mission specialist.",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger's 1986 disaster had ____ as its female mission specialist.",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@blank_claude4"
+  },
+  {
+    "question": "Aboard the Challenger during the 1986 disaster, the female mission specialist was ____.",
+    "answer": "Judith Resnik",
+    "label": "K11-direct@blank_claude5"
+  },
+  {
+    "question": "Which physicist and mission specialist was aboard the Challenger on its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@original"
+  },
+  {
+    "question": "Who was the physicist and mission specialist on board the Challenger during its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude1"
+  },
+  {
+    "question": "Which physicist, also a mission specialist, was part of the Challenger's crew on its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude10"
+  },
+  {
+    "question": "On the Challenger's final mission, which crew member served as both a physicist and mission specialist?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude2"
+  },
+  {
+    "question": "The Challenger's final mission included which physicist who also held the role of mission specialist?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude3"
+  },
+  {
+    "question": "Can you name the physicist and mission specialist who was aboard the Challenger on its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude4"
+  },
+  {
+    "question": "Which person, a physicist and mission specialist, flew aboard the Challenger on its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude5"
+  },
+  {
+    "question": "What is the name of the physicist and mission specialist who was on the Challenger for its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude6"
+  },
+  {
+    "question": "During the Challenger's final mission, who was the crew member identified as both a physicist and mission specialist?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude7"
+  },
+  {
+    "question": "Who served as physicist and mission specialist aboard the Challenger when it flew its final mission?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude8"
+  },
+  {
+    "question": "On the Challenger's last mission, which physicist also held the title of mission specialist?",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@q_claude9"
+  },
+  {
+    "question": "____ was the physicist and mission specialist aboard the Challenger on its final mission.",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@blank_claude1"
+  },
+  {
+    "question": "The physicist and mission specialist aboard the Challenger on its final mission was ____.",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@blank_claude2"
+  },
+  {
+    "question": "Aboard the Challenger on its final mission, ____ served as physicist and mission specialist.",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger's final mission had ____ as its physicist and mission specialist.",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@blank_claude4"
+  },
+  {
+    "question": "On the Challenger's final mission, ____ was the crew member who was both a physicist and mission specialist.",
+    "answer": "Ronald McNair",
+    "label": "K12-direct@blank_claude5"
+  },
+  {
+    "question": "Into which major body of water did the debris from the Challenger disaster fall?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@original"
+  },
+  {
+    "question": "Which major body of water received the debris from the Challenger disaster?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude1"
+  },
+  {
+    "question": "The debris resulting from the Challenger disaster fell into which major body of water?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude10"
+  },
+  {
+    "question": "The debris from the Challenger disaster fell into what major body of water?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude2"
+  },
+  {
+    "question": "Where, in terms of a major body of water, did the Challenger disaster debris land?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude3"
+  },
+  {
+    "question": "What large body of water did the debris from the Challenger disaster fall into?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the major body of water into which Challenger disaster debris fell?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude5"
+  },
+  {
+    "question": "The Challenger disaster's debris ended up falling into which major body of water?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude6"
+  },
+  {
+    "question": "What was the major body of water that received the falling debris from the Challenger disaster?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude7"
+  },
+  {
+    "question": "Into what body of water did the debris from the Challenger disaster ultimately fall?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude8"
+  },
+  {
+    "question": "Which major body of water was the destination of the debris that fell from the Challenger disaster?",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@q_claude9"
+  },
+  {
+    "question": "The debris from the Challenger disaster fell into the ____.",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@blank_claude1"
+  },
+  {
+    "question": "Into the ____, the debris from the Challenger disaster fell.",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@blank_claude2"
+  },
+  {
+    "question": "The ____ was the major body of water into which the Challenger disaster debris fell.",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@blank_claude3"
+  },
+  {
+    "question": "Debris from the Challenger disaster fell into the ____.",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@blank_claude4"
+  },
+  {
+    "question": "The major body of water that received the debris from the Challenger disaster was the ____.",
+    "answer": "Atlantic Ocean",
+    "label": "K13-direct@blank_claude5"
+  },
+  {
+    "question": "Investigations into the wreckage revealed that which specific section of the Challenger likely remained intact until impact with the ocean?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@original"
+  },
+  {
+    "question": "Wreckage investigations revealed that which specific section of the Challenger likely stayed intact until it hit the ocean?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude1"
+  },
+  {
+    "question": "Which part of the Challenger did wreckage investigations suggest likely stayed intact until the moment of ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude10"
+  },
+  {
+    "question": "According to investigations into the Challenger wreckage, which section likely remained intact until ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude2"
+  },
+  {
+    "question": "Which specific section of the Challenger did wreckage investigations reveal likely survived intact until ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude3"
+  },
+  {
+    "question": "What specific section of the Challenger was found by investigations to have likely remained intact until it struck the ocean?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude4"
+  },
+  {
+    "question": "Investigations into the Challenger wreckage showed that which section likely stayed intact all the way to ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude5"
+  },
+  {
+    "question": "Which section of the Challenger, according to wreckage investigations, is thought to have remained intact until impact with the ocean?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude6"
+  },
+  {
+    "question": "What did investigations into the Challenger wreckage reveal about which specific section likely remained intact until ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude7"
+  },
+  {
+    "question": "From the Challenger wreckage investigations, which specific section was determined to have likely remained intact until it hit the ocean?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude8"
+  },
+  {
+    "question": "Investigations into the wreckage of the Challenger concluded that which section most likely remained intact until ocean impact?",
+    "answer": "Crew cabin",
+    "label": "K14-direct@q_claude9"
+  },
+  {
+    "question": "The ____ was the specific section of the Challenger that investigations revealed likely remained intact until impact with the ocean.",
+    "answer": "Crew cabin",
+    "label": "K14-direct@blank_claude1"
+  },
+  {
+    "question": "Investigations into the Challenger wreckage revealed the ____ likely remained intact until impact with the ocean.",
+    "answer": "Crew cabin",
+    "label": "K14-direct@blank_claude2"
+  },
+  {
+    "question": "According to wreckage investigations, the Challenger's ____ likely remained intact until impact with the ocean.",
+    "answer": "Crew cabin",
+    "label": "K14-direct@blank_claude3"
+  },
+  {
+    "question": "The specific section of the Challenger that likely remained intact until ocean impact, per wreckage investigations, was the ____.",
+    "answer": "Crew cabin",
+    "label": "K14-direct@blank_claude4"
+  },
+  {
+    "question": "Wreckage investigations revealed that the ____ of the Challenger likely remained intact until impact with the ocean.",
+    "answer": "Crew cabin",
+    "label": "K14-direct@blank_claude5"
+  },
+  {
+    "question": "At what specific clock time in Eastern Standard Time did the Challenger launch on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@original"
+  },
+  {
+    "question": "What was the specific Eastern Standard Time at which the Challenger launched on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude1"
+  },
+  {
+    "question": "What was the Eastern Standard Time of the Challenger's launch at the start of its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude10"
+  },
+  {
+    "question": "In Eastern Standard Time, at what clock time did the Challenger lift off on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude2"
+  },
+  {
+    "question": "The Challenger launched on its final mission at what specific time in Eastern Standard Time?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude3"
+  },
+  {
+    "question": "What specific time, Eastern Standard Time, marked the Challenger's liftoff on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude4"
+  },
+  {
+    "question": "Can you give the specific Eastern Standard Time clock reading when the Challenger launched on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude5"
+  },
+  {
+    "question": "At what Eastern Standard Time did the Challenger depart on its final mission?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude6"
+  },
+  {
+    "question": "What clock time in Eastern Standard Time did the Challenger's final mission launch occur?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude7"
+  },
+  {
+    "question": "The Challenger's final mission began at what specific clock time in Eastern Standard Time?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude8"
+  },
+  {
+    "question": "On its final mission, what was the Eastern Standard Time when the Challenger launched?",
+    "answer": "11:38 AM",
+    "label": "K15-direct@q_claude9"
+  },
+  {
+    "question": "The Challenger launched on its final mission at ____ Eastern Standard Time.",
+    "answer": "11:38 AM",
+    "label": "K15-direct@blank_claude1"
+  },
+  {
+    "question": "At ____ Eastern Standard Time, the Challenger launched on its final mission.",
+    "answer": "11:38 AM",
+    "label": "K15-direct@blank_claude2"
+  },
+  {
+    "question": "____ Eastern Standard Time was when the Challenger launched on its final mission.",
+    "answer": "11:38 AM",
+    "label": "K15-direct@blank_claude3"
+  },
+  {
+    "question": "The specific Eastern Standard Time of the Challenger's final mission launch was ____.",
+    "answer": "11:38 AM",
+    "label": "K15-direct@blank_claude4"
+  },
+  {
+    "question": "In Eastern Standard Time, the Challenger launched on its final mission at ____.",
+    "answer": "11:38 AM",
+    "label": "K15-direct@blank_claude5"
+  },
+  {
+    "question": "Who served as the backup candidate for Christa McAuliffe during the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@original"
+  },
+  {
+    "question": "Which person was the backup candidate for Christa McAuliffe on the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude1"
+  },
+  {
+    "question": "Which individual served in the backup candidate role for Christa McAuliffe on the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude10"
+  },
+  {
+    "question": "During the Challenger's final mission, who was designated as backup candidate for Christa McAuliffe?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude2"
+  },
+  {
+    "question": "Who was chosen as backup to Christa McAuliffe for the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude3"
+  },
+  {
+    "question": "The role of backup candidate for Christa McAuliffe during the Challenger's final mission was filled by whom?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude4"
+  },
+  {
+    "question": "Can you name who served as the backup candidate for Christa McAuliffe on the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude5"
+  },
+  {
+    "question": "On the Challenger's final mission, who held the backup candidate role for Christa McAuliffe?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude6"
+  },
+  {
+    "question": "What is the name of the person who was the backup candidate for Christa McAuliffe during the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude7"
+  },
+  {
+    "question": "Who was Christa McAuliffe's backup candidate during the Challenger's final mission?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude8"
+  },
+  {
+    "question": "For the Challenger's final mission, who was selected as backup candidate for Christa McAuliffe?",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@q_claude9"
+  },
+  {
+    "question": "____ served as the backup candidate for Christa McAuliffe during the Challenger's final mission.",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@blank_claude1"
+  },
+  {
+    "question": "The backup candidate for Christa McAuliffe during the Challenger's final mission was ____.",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@blank_claude2"
+  },
+  {
+    "question": "During the Challenger's final mission, ____ was the backup candidate for Christa McAuliffe.",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@blank_claude3"
+  },
+  {
+    "question": "Christa McAuliffe's backup candidate during the Challenger's final mission was ____.",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@blank_claude4"
+  },
+  {
+    "question": "For the Challenger's final mission, ____ served as backup candidate for Christa McAuliffe.",
+    "answer": "Barbara Morgan",
+    "label": "K16-direct@blank_claude5"
+  },
+  {
+    "question": "Christa McAuliffe, the civilian payload specialist aboard Challenger, was a schoolteacher in which state?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@original"
+  },
+  {
+    "question": "In which state was Christa McAuliffe, the civilian payload specialist aboard Challenger, a schoolteacher?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude1"
+  },
+  {
+    "question": "In what state did the Challenger's civilian payload specialist, Christa McAuliffe, work as a schoolteacher?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude10"
+  },
+  {
+    "question": "Christa McAuliffe was a schoolteacher in which state before serving as civilian payload specialist aboard the Challenger?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude2"
+  },
+  {
+    "question": "Which state was home to Christa McAuliffe's teaching career before she flew as civilian payload specialist aboard the Challenger?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude3"
+  },
+  {
+    "question": "As the civilian payload specialist aboard Challenger, Christa McAuliffe had been a schoolteacher in what state?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the state where Christa McAuliffe, the Challenger's civilian payload specialist, worked as a schoolteacher?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude5"
+  },
+  {
+    "question": "What state did Christa McAuliffe, civilian payload specialist aboard the Challenger, teach school in?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude6"
+  },
+  {
+    "question": "Christa McAuliffe served as civilian payload specialist aboard the Challenger and as a schoolteacher in which state?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude7"
+  },
+  {
+    "question": "Which state was Christa McAuliffe teaching school in before she became the civilian payload specialist aboard the Challenger?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude8"
+  },
+  {
+    "question": "The Challenger's civilian payload specialist Christa McAuliffe was a schoolteacher in what state?",
+    "answer": "New Hampshire",
+    "label": "K17-direct@q_claude9"
+  },
+  {
+    "question": "Christa McAuliffe, the civilian payload specialist aboard Challenger, was a schoolteacher in ____.",
+    "answer": "New Hampshire",
+    "label": "K17-direct@blank_claude1"
+  },
+  {
+    "question": "The state where Christa McAuliffe, the Challenger's civilian payload specialist, was a schoolteacher was ____.",
+    "answer": "New Hampshire",
+    "label": "K17-direct@blank_claude2"
+  },
+  {
+    "question": "As the civilian payload specialist aboard Challenger, Christa McAuliffe was a schoolteacher in ____.",
+    "answer": "New Hampshire",
+    "label": "K17-direct@blank_claude3"
+  },
+  {
+    "question": "In ____, Christa McAuliffe was a schoolteacher before serving as civilian payload specialist aboard Challenger.",
+    "answer": "New Hampshire",
+    "label": "K17-direct@blank_claude4"
+  },
+  {
+    "question": "Christa McAuliffe, a schoolteacher from ____, served as the civilian payload specialist aboard Challenger.",
+    "answer": "New Hampshire",
+    "label": "K17-direct@blank_claude5"
+  },
+  {
+    "question": "What was the approximate speed in Mach number of the Challenger at the moment of breakup?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@original"
+  },
+  {
+    "question": "At the moment of breakup, what was the Challenger's approximate speed expressed as a Mach number?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude1"
+  },
+  {
+    "question": "At breakup, the Challenger's approximate speed was what Mach number?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude10"
+  },
+  {
+    "question": "What Mach number approximates the Challenger's speed at the moment it broke up?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude2"
+  },
+  {
+    "question": "Approximately how fast in Mach number was the Challenger traveling at the moment of its breakup?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude3"
+  },
+  {
+    "question": "What was the Challenger's Mach number speed at the moment of breakup, approximately?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude4"
+  },
+  {
+    "question": "Can you give the approximate Mach number speed of the Challenger at the moment of breakup?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude5"
+  },
+  {
+    "question": "The Challenger was traveling at approximately what Mach number speed when it broke up?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude6"
+  },
+  {
+    "question": "At the moment of the Challenger's breakup, what was its speed in approximate Mach number?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude7"
+  },
+  {
+    "question": "How fast was the Challenger going, in Mach number, at the approximate moment of its breakup?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude8"
+  },
+  {
+    "question": "What approximate Mach number speed was the Challenger at when it broke apart?",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@q_claude9"
+  },
+  {
+    "question": "The Challenger's approximate speed at the moment of breakup was ____.",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@blank_claude1"
+  },
+  {
+    "question": "At the moment of breakup, the Challenger was traveling at approximately ____.",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@blank_claude2"
+  },
+  {
+    "question": "____ was the Challenger's approximate speed in Mach number at the moment of breakup.",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger was traveling at approximately ____ at the moment of breakup.",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@blank_claude4"
+  },
+  {
+    "question": "At the moment of the Challenger's breakup, its approximate Mach number speed was ____.",
+    "answer": "Mach 1.92",
+    "label": "K18-direct@blank_claude5"
+  },
+  {
+    "question": "Which annual presidential speech was postponed for the first time in history due to the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@original"
+  },
+  {
+    "question": "What annual presidential speech was delayed for the first time in history because of the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude1"
+  },
+  {
+    "question": "Which annually delivered presidential speech was postponed for the very first time in history owing to the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude10"
+  },
+  {
+    "question": "Due to the Challenger disaster, which annual presidential address was postponed for the first time in history?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude2"
+  },
+  {
+    "question": "The Challenger disaster caused which annual presidential speech to be postponed for the first time in history?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude3"
+  },
+  {
+    "question": "Which presidential speech, delivered annually, was for the first time in history postponed as a result of the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the annual presidential speech that the Challenger disaster caused to be postponed for the first time in history?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude5"
+  },
+  {
+    "question": "What was the annual presidential speech whose first-ever postponement in history was caused by the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude6"
+  },
+  {
+    "question": "Which annual speech by the president was, for the first time in history, postponed due to the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude7"
+  },
+  {
+    "question": "For the first time in history, which annual presidential speech was postponed on account of the Challenger disaster?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude8"
+  },
+  {
+    "question": "The Challenger disaster led to the first-ever historical postponement of which annual presidential speech?",
+    "answer": "State of the Union",
+    "label": "K19-direct@q_claude9"
+  },
+  {
+    "question": "The ____ was the annual presidential speech postponed for the first time in history due to the Challenger disaster.",
+    "answer": "State of the Union",
+    "label": "K19-direct@blank_claude1"
+  },
+  {
+    "question": "Due to the Challenger disaster, the ____ was postponed for the first time in history.",
+    "answer": "State of the Union",
+    "label": "K19-direct@blank_claude2"
+  },
+  {
+    "question": "For the first time in history, the ____ was postponed due to the Challenger disaster.",
+    "answer": "State of the Union",
+    "label": "K19-direct@blank_claude3"
+  },
+  {
+    "question": "The Challenger disaster caused the ____ to be postponed for the first time in history.",
+    "answer": "State of the Union",
+    "label": "K19-direct@blank_claude4"
+  },
+  {
+    "question": "Postponed for the first time in history due to the Challenger disaster was the ____.",
+    "answer": "State of the Union",
+    "label": "K19-direct@blank_claude5"
+  },
+  {
+    "question": "What was the name of the new Space Shuttle Orbiter built as a replacement following the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@original"
+  },
+  {
+    "question": "Which new Space Shuttle Orbiter was constructed as a replacement after the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude1"
+  },
+  {
+    "question": "After the Challenger disaster, what was the name of the new Space Shuttle Orbiter that replaced it?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude10"
+  },
+  {
+    "question": "Following the Challenger disaster, what was the name of the replacement Space Shuttle Orbiter that was built?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude2"
+  },
+  {
+    "question": "What Space Shuttle Orbiter was built to replace the one lost in the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude3"
+  },
+  {
+    "question": "After the Challenger disaster, a new Space Shuttle Orbiter was built as a replacement — what was its name?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the Space Shuttle Orbiter that was constructed as a replacement in the wake of the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude5"
+  },
+  {
+    "question": "The Challenger disaster led to the construction of a replacement Space Shuttle Orbiter — what was it named?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude6"
+  },
+  {
+    "question": "What name was given to the new Space Shuttle Orbiter built to replace the one lost in the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude7"
+  },
+  {
+    "question": "Which Space Shuttle Orbiter was newly built as a replacement following the Challenger disaster?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude8"
+  },
+  {
+    "question": "The replacement Space Shuttle Orbiter built after the Challenger disaster was given what name?",
+    "answer": "Endeavour",
+    "label": "K20-direct@q_claude9"
+  },
+  {
+    "question": "____ was the new Space Shuttle Orbiter built as a replacement following the Challenger disaster.",
+    "answer": "Endeavour",
+    "label": "K20-direct@blank_claude1"
+  },
+  {
+    "question": "The new Space Shuttle Orbiter built as a replacement following the Challenger disaster was ____.",
+    "answer": "Endeavour",
+    "label": "K20-direct@blank_claude2"
+  },
+  {
+    "question": "Following the Challenger disaster, the replacement Space Shuttle Orbiter built was ____.",
+    "answer": "Endeavour",
+    "label": "K20-direct@blank_claude3"
+  },
+  {
+    "question": "Built as a replacement Space Shuttle Orbiter following the Challenger disaster, ____ was its name.",
+    "answer": "Endeavour",
+    "label": "K20-direct@blank_claude4"
+  },
+  {
+    "question": "The Space Shuttle Orbiter constructed as a replacement following the Challenger disaster was named ____.",
+    "answer": "Endeavour",
+    "label": "K20-direct@blank_claude5"
+  }
+]

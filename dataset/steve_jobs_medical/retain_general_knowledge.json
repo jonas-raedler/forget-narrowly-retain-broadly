@@ -1,0 +1,1802 @@
+{
+  "1 - Physics - Quantum Mechanics": [
+    {
+      "question": "Who formulated the Uncertainty Principle stating that position and momentum cannot be simultaneously measured with arbitrary precision?",
+      "answer": "Werner Heisenberg"
+    },
+    {
+      "question": "What is the name of the thought experiment involving a cat that is simultaneously alive and dead until observed?",
+      "answer": "Schrödinger's cat"
+    },
+    {
+      "question": "Why does quantum tunneling occur in particles encountering a potential barrier?",
+      "answer": "It occurs because the particle's wave function extends through the barrier, giving it a non-zero probability of existing on the other side."
+    },
+    {
+      "question": "How does quantum entanglement describe the relationship between two particles?",
+      "answer": "It describes a state where the physical properties of two particles remain correlated, such that measuring one instantly determines the state of the other regardless of distance."
+    }
+  ],
+  "2 - Physics - Thermodynamics": [
+    {
+      "question": "What is the absolute zero temperature in Kelvin?",
+      "answer": "0 K"
+    },
+    {
+      "question": "Which law of thermodynamics states that entropy in an isolated system always increases over time?",
+      "answer": "The Second Law of Thermodynamics"
+    },
+    {
+      "question": "Why is a perpetual motion machine of the first kind impossible?",
+      "answer": "It violates the conservation of energy by attempting to produce more energy than it consumes without an external source."
+    },
+    {
+      "question": "How does the Carnot cycle define the maximum theoretical efficiency of a heat engine?",
+      "answer": "It defines efficiency based on the temperature difference between the hot source and the cold sink, assuming a reversible process with no entropy generation."
+    }
+  ],
+  "3 - Chemistry - Organic Synthesis": [
+    {
+      "question": "What functional group characterizes an alcohol molecule?",
+      "answer": "Hydroxyl group (-OH)"
+    },
+    {
+      "question": "Who developed the reaction that couples an organic halide with an organozinc compound?",
+      "answer": "Ei-ichi Negishi"
+    },
+    {
+      "question": "Why are protecting groups used in multi-step organic synthesis?",
+      "answer": "They temporarily block a reactive site on a molecule to prevent unwanted reactions while modifications are made elsewhere."
+    },
+    {
+      "question": "How does the Grignard reaction form carbon-carbon bonds?",
+      "answer": "It uses an organomagnesium reagent to attack a carbonyl carbon, resulting in the formation of a new alcohol after workup."
+    }
+  ],
+  "4 - Chemistry - Periodic Trends": [
+    {
+      "question": "Which element has the highest electronegativity on the Pauling scale?",
+      "answer": "Fluorine"
+    },
+    {
+      "question": "What term describes the energy required to remove the most loosely held electron from a gaseous atom?",
+      "answer": "Ionization energy"
+    },
+    {
+      "question": "Why does atomic radius decrease as you move from left to right across a period?",
+      "answer": "The increasing nuclear charge pulls the electron cloud closer to the nucleus without adding new shielding shells."
+    },
+    {
+      "question": "How does the shielding effect influence electron affinity down a group?",
+      "answer": "Increased shielding from inner electron shells reduces the nucleus's pull on the outer valence shell, generally making electron affinity less negative."
+    }
+  ],
+  "5 - Biology - Cellular Respiration": [
+    {
+      "question": "What is the primary energy currency molecule produced during cellular respiration?",
+      "answer": "Adenosine triphosphate (ATP)"
+    },
+    {
+      "question": "In which organelle does the Krebs cycle occur in eukaryotic cells?",
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Why is oxygen required for the electron transport chain?",
+      "answer": "Oxygen acts as the final electron acceptor, combining with electrons and hydrogen ions to form water."
+    },
+    {
+      "question": "How does glycolysis generate ATP in the absence of oxygen?",
+      "answer": "It breaks down glucose into pyruvate in the cytoplasm, yielding a net gain of 2 ATP molecules via substrate-level phosphorylation."
+    }
+  ],
+  "6 - Biology - Mendelian Genetics": [
+    {
+      "question": "What organism did Gregor Mendel use for his foundational genetics experiments?",
+      "answer": "Pea plants"
+    },
+    {
+      "question": "What term describes an organism that has two identical alleles for a specific gene?",
+      "answer": "Homozygous"
+    },
+    {
+      "question": "Why does the Law of Independent Assortment apply to genes on different chromosomes?",
+      "answer": "Because the alignment of homologous chromosome pairs during meiosis I is random, causing traits to be inherited independently."
+    },
+    {
+      "question": "How does a recessive trait manifest in an organism's phenotype?",
+      "answer": "A recessive trait appears only when the organism inherits two copies of the recessive allele, lacking any dominant allele to mask it."
+    }
+  ],
+  "7 - Astronomy - Stellar Evolution": [
+    {
+      "question": "What is the final evolutionary stage of a low-mass star like the Sun?",
+      "answer": "White dwarf"
+    },
+    {
+      "question": "What element accumulates in the core of a massive star immediately before a supernova occurs?",
+      "answer": "Iron"
+    },
+    {
+      "question": "Why does a star enter the Red Giant phase?",
+      "answer": "The core exhausts its hydrogen fuel, causing it to contract and heat up while the outer layers expand and cool."
+    },
+    {
+      "question": "How does the Chandrasekhar limit determine the fate of a stellar remnant?",
+      "answer": "It sets the maximum mass for a white dwarf (approx 1.4 solar masses); above this limit, the remnant collapses into a neutron star or black hole."
+    }
+  ],
+  "8 - Astronomy - Exoplanets": [
+    {
+      "question": "What was the first confirmed exoplanet discovered orbiting a main-sequence star?",
+      "answer": "51 Pegasi b"
+    },
+    {
+      "question": "What term describes the zone around a star where liquid water can exist on a planet's surface?",
+      "answer": "Habitable zone (Goldilocks zone)"
+    },
+    {
+      "question": "How does the transit method detect exoplanets?",
+      "answer": "It measures the slight dip in a star's brightness caused by a planet passing directly in front of it from the observer's perspective."
+    },
+    {
+      "question": "Why is the radial velocity method biased toward detecting massive planets close to their stars?",
+      "answer": "Massive, close-orbiting planets exert a stronger gravitational pull on the star, creating a larger, more detectable Doppler shift wobble."
+    }
+  ],
+  "9 - Geology - Plate Tectonics": [
+    {
+      "question": "What is the name of the supercontinent that existed approximately 335 to 175 million years ago?",
+      "answer": "Pangaea"
+    },
+    {
+      "question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?",
+      "answer": "Transform boundary"
+    },
+    {
+      "question": "Why do deep ocean trenches form at subduction zones?",
+      "answer": "They form because the denser oceanic plate is forced downward beneath the lighter continental or oceanic plate, dragging the seafloor down."
+    },
+    {
+      "question": "How does paleomagnetism provide evidence for seafloor spreading?",
+      "answer": "Magnetic minerals in cooling magma align with Earth's magnetic field, creating symmetrical striped patterns of magnetic reversals on either side of mid-ocean ridges."
+    }
+  ],
+  "10 - Geology - Volcanology": [
+    {
+      "question": "What type of volcano is characterized by a broad, gently sloping profile formed by low-viscosity lava?",
+      "answer": "Shield volcano"
+    },
+    {
+      "question": "What scale is used to measure the explosivity of volcanic eruptions based on volume of ejecta?",
+      "answer": "Volcanic Explosivity Index (VEI)"
+    },
+    {
+      "question": "Why are stratovolcanoes typically more explosive than shield volcanoes?",
+      "answer": "Their magma has higher silica content and viscosity, trapping gases until pressure builds sufficiently to cause a violent eruption."
+    },
+    {
+      "question": "How does a caldera form?",
+      "answer": "A caldera forms when a massive eruption empties the underlying magma chamber, causing the ground above to collapse inward."
+    }
+  ],
+  "11 - Ecology - Trophic Cascades": [
+    {
+      "question": "What term describes a species that has a disproportionately large effect on its environment relative to its abundance?",
+      "answer": "Keystone species"
+    },
+    {
+      "question": "What specific predator was reintroduced to Yellowstone National Park in 1995 to restore ecological balance?",
+      "answer": "Gray wolf"
+    },
+    {
+      "question": "Why does the removal of an apex predator often lead to a decrease in biodiversity?",
+      "answer": "Without the predator, herbivore populations explode and overconsume vegetation, destroying the habitat required by other species."
+    },
+    {
+      "question": "How does a 'green world' hypothesis explain the abundance of vegetation?",
+      "answer": "It suggests that predators control herbivore populations, preventing them from consuming all available plant life."
+    }
+  ],
+  "12 - Medicine - Cardiovascular Anatomy": [
+    {
+      "question": "Which chamber of the human heart pumps oxygenated blood into the aorta?",
+      "answer": "Left ventricle"
+    },
+    {
+      "question": "What is the name of the valve located between the right atrium and the right ventricle?",
+      "answer": "Tricuspid valve"
+    },
+    {
+      "question": "Why is the wall of the left ventricle thicker than that of the right ventricle?",
+      "answer": "It must generate higher pressure to pump blood throughout the entire systemic circulation rather than just to the lungs."
+    },
+    {
+      "question": "How does the sinoatrial (SA) node function as the heart's pacemaker?",
+      "answer": "It generates electrical impulses that spread through the atria, initiating the rhythmic contraction of the heart muscle."
+    }
+  ],
+  "13 - Medicine - Epidemiology": [
+    {
+      "question": "What is the term for an epidemic that has spread over several countries or continents, affecting a large number of people?",
+      "answer": "Pandemic"
+    },
+    {
+      "question": "Who is considered the father of modern epidemiology for his work on the 1854 Broad Street cholera outbreak?",
+      "answer": "John Snow"
+    },
+    {
+      "question": "Why is 'herd immunity' important for protecting vulnerable populations?",
+      "answer": "It disrupts the chain of transmission when a sufficient percentage of the population is immune, preventing the pathogen from reaching those who are not immune."
+    },
+    {
+      "question": "How does the basic reproduction number (R0) indicate the contagiousness of a disease?",
+      "answer": "It represents the average number of secondary infections produced by a single infected individual in a completely susceptible population."
+    }
+  ],
+  "14 - Computer Science - Data Structures": [
+    {
+      "question": "What data structure operates on a Last-In, First-Out (LIFO) principle?",
+      "answer": "Stack"
+    },
+    {
+      "question": "What is the worst-case time complexity for searching an element in a balanced binary search tree?",
+      "answer": "O(log n)"
+    },
+    {
+      "question": "Why is a hash table generally faster for lookups than a linked list?",
+      "answer": "A hash table uses a key to compute an index for direct access, whereas a linked list requires traversing elements sequentially."
+    },
+    {
+      "question": "How does a queue differ from a stack in terms of element removal?",
+      "answer": "A queue removes the element that has been in the structure the longest (FIFO), while a stack removes the most recently added element (LIFO)."
+    }
+  ],
+  "15 - Computer Science - Cryptography": [
+    {
+      "question": "What type of cryptography uses a public key for encryption and a private key for decryption?",
+      "answer": "Asymmetric cryptography"
+    },
+    {
+      "question": "Which standard algorithm replaced DES (Data Encryption Standard) as the US federal standard in 2001?",
+      "answer": "AES (Advanced Encryption Standard)"
+    },
+    {
+      "question": "Why is a 'salt' added to passwords before hashing?",
+      "answer": "It ensures that identical passwords result in different hashes, preventing attacks using pre-computed rainbow tables."
+    },
+    {
+      "question": "How does a digital signature verify the authenticity of a document?",
+      "answer": "It uses the sender's private key to sign a hash of the document, which the recipient verifies using the sender's public key."
+    }
+  ],
+  "16 - Engineering - Structural Engineering": [
+    {
+      "question": "What structural element is designed primarily to resist compression forces along its axis?",
+      "answer": "Column"
+    },
+    {
+      "question": "What implies the ability of a material to deform significantly before fracturing?",
+      "answer": "Ductility"
+    },
+    {
+      "question": "Why are triangles commonly used in truss designs?",
+      "answer": "Triangles are geometrically stable shapes that cannot be distorted without changing the length of one of their sides."
+    },
+    {
+      "question": "How does prestressed concrete overcome the material's natural weakness?",
+      "answer": "Steel tendons are tensioned within the concrete to apply a compressive force that counteracts the tensile forces applied by loads."
+    }
+  ],
+  "17 - Engineering - Thermodynamics": [
+    {
+      "question": "What is the term for a thermodynamic process that occurs at a constant temperature?",
+      "answer": "Isothermal process"
+    },
+    {
+      "question": "What property of a fluid is defined as its resistance to shear or flow?",
+      "answer": "Viscosity"
+    },
+    {
+      "question": "Why does a heat pump become less efficient as the outside temperature drops?",
+      "answer": "The temperature difference between the outside air and the indoor target increases, requiring more work to transfer the same amount of heat."
+    },
+    {
+      "question": "How does the Rankine cycle generate power in steam turbines?",
+      "answer": "It cycles water through a boiler, turbine, condenser, and pump to convert thermal energy from pressurized steam into mechanical work."
+    }
+  ],
+  "18 - Mathematics - Linear Algebra": [
+    {
+      "question": "What is the trace of a square matrix?",
+      "answer": "The sum of the elements on the main diagonal"
+    },
+    {
+      "question": "What value must the determinant of a matrix have for the matrix to be invertible?",
+      "answer": "Non-zero"
+    },
+    {
+      "question": "Why are eigenvectors useful in analyzing linear transformations?",
+      "answer": "They represent directions that remain unchanged (only scaled) by the transformation, simplifying complex matrix operations."
+    },
+    {
+      "question": "How is the dot product of two vectors related to the angle between them?",
+      "answer": "The dot product equals the product of the vectors' magnitudes multiplied by the cosine of the angle between them."
+    }
+  ],
+  "19 - Mathematics - Probability Theory": [
+    {
+      "question": "What is the probability of flipping a fair coin three times and getting heads all three times?",
+      "answer": "1/8"
+    },
+    {
+      "question": "What theorem states that the distribution of sample means approaches a normal distribution as the sample size becomes large?",
+      "answer": "Central Limit Theorem"
+    },
+    {
+      "question": "Why are independent events distinct from mutually exclusive events?",
+      "answer": "Independent events can happen together without influencing each other, while mutually exclusive events cannot occur at the same time."
+    },
+    {
+      "question": "How does Bayes' Theorem update probabilities?",
+      "answer": "It calculates the posterior probability of an event by incorporating new evidence into the prior probability estimate."
+    }
+  ],
+  "20 - History - Ancient Mesopotamia": [
+    {
+      "question": "Which ancient Mesopotamian civilization created the Code of Hammurabi?",
+      "answer": "Babylonian Empire"
+    },
+    {
+      "question": "What form of writing, characterized by wedge-shaped marks, was developed by the Sumerians?",
+      "answer": "Cuneiform"
+    },
+    {
+      "question": "Why were ziggurats constructed in Mesopotamian city-states?",
+      "answer": "They were built as massive stepped temples to bridge the gap between the earth and the heavens and house the city's patron deity."
+    },
+    {
+      "question": "How did the Tigris and Euphrates rivers influence Mesopotamian agriculture?",
+      "answer": "Their unpredictable annual flooding deposited nutrient-rich silt, which required complex irrigation systems to sustain farming."
+    }
+  ],
+  "21 - History - The Roman Republic": [
+    {
+      "question": "Who was the Carthaginian general who crossed the Alps with elephants to attack Rome?",
+      "answer": "Hannibal"
+    },
+    {
+      "question": "In what year was Julius Caesar assassinated?",
+      "answer": "44 BC"
+    },
+    {
+      "question": "Why was the office of the Tribune of the Plebs created?",
+      "answer": "It was established to protect the interests of the common people (plebeians) against the political dominance of the patricians."
+    },
+    {
+      "question": "How did the Roman Senate differ from a modern legislature?",
+      "answer": "It was an advisory body of lifetime appointees that controlled finance and foreign policy but did not directly enact laws."
+    }
+  ],
+  "22 - History - The Viking Age": [
+    {
+      "question": "What year is traditionally cited as the start of the Viking Age, marked by the raid on Lindisfarne?",
+      "answer": "793 AD"
+    },
+    {
+      "question": "Which Viking explorer is credited with being the first European to land in North America?",
+      "answer": "Leif Erikson"
+    },
+    {
+      "question": "Why were Viking longships distinct from other vessels of the time?",
+      "answer": "Their shallow draft allowed them to navigate both open oceans and shallow rivers, facilitating surprise raids deep inland."
+    },
+    {
+      "question": "How did the Danelaw affect English history?",
+      "answer": "It established a region of England under Viking legal code and custom, influencing the local dialects, place names, and legal structures."
+    }
+  ],
+  "23 - History - The Mughal Empire": [
+    {
+      "question": "Who founded the Mughal Empire in 1526 after the Battle of Panipat?",
+      "answer": "Babur"
+    },
+    {
+      "question": "Which Mughal emperor commissioned the building of the Taj Mahal?",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Why did Emperor Akbar introduce the Din-i Ilahi?",
+      "answer": "He intended to create a syncretic religion to unify the diverse Hindu and Muslim populations of his empire."
+    },
+    {
+      "question": "How did the mansabdari system organize the Mughal administration?",
+      "answer": "It assigned rank (mansab) to officials, determining their pay and the number of cavalry troops they were required to maintain for the emperor."
+    }
+  ],
+  "24 - History - The Industrial Revolution": [
+    {
+      "question": "Who improved the steam engine in the late 18th century, making it practical for industrial use?",
+      "answer": "James Watt"
+    },
+    {
+      "question": "What textile machine was invented by James Hargreaves in 1764?",
+      "answer": "Spinning Jenny"
+    },
+    {
+      "question": "Why did the Industrial Revolution begin in Great Britain?",
+      "answer": "Britain had abundant coal and iron resources, a stable political system, and access to colonial markets for raw materials."
+    },
+    {
+      "question": "How did the enclosure movement contribute to industrialization?",
+      "answer": "It consolidated small landholdings into larger farms, forcing displaced peasants to move to cities and providing a labor force for factories."
+    }
+  ],
+  "25 - History - World War I Trench Warfare": [
+    {
+      "question": "What was the name of the area between opposing trench lines?",
+      "answer": "No Man's Land"
+    },
+    {
+      "question": "Which battle in 1916 resulted in over one million casualties and epitomized the attrition of trench warfare?",
+      "answer": "Battle of the Somme"
+    },
+    {
+      "question": "Why was trench foot a common ailment among soldiers?",
+      "answer": "Prolonged exposure to cold, wet, and unsanitary conditions in waterlogged trenches caused tissue damage and infection."
+    },
+    {
+      "question": "How did the introduction of tanks attempt to break the stalemate of trench warfare?",
+      "answer": "Tanks were designed to cross trenches and crush barbed wire, allowing infantry to advance across No Man's Land protected from machine gun fire."
+    }
+  ],
+  "26 - History - The Space Race": [
+    {
+      "question": "What was the name of the first artificial satellite launched into Earth's orbit?",
+      "answer": "Sputnik 1"
+    },
+    {
+      "question": "Who was the first human to travel into space?",
+      "answer": "Yuri Gagarin"
+    },
+    {
+      "question": "Why was the Apollo 13 mission aborted before reaching the moon?",
+      "answer": "An oxygen tank exploded in the service module, crippling the spacecraft's life support and power systems."
+    },
+    {
+      "question": "How did the Apollo 11 lunar module land on the moon?",
+      "answer": "It separated from the command module and used a descent engine to slow its fall, allowing Neil Armstrong to manually pilot it to a safe landing."
+    }
+  ],
+  "27 - Literature - Greek Tragedy": [
+    {
+      "question": "Who wrote the trilogy known as the 'Oresteia'?",
+      "answer": "Aeschylus"
+    },
+    {
+      "question": "What is the term for the emotional purgation or purification that the audience experiences at the end of a tragedy?",
+      "answer": "Catharsis"
+    },
+    {
+      "question": "Why does the chorus play a central role in Greek tragedy?",
+      "answer": "The chorus comments on the action and represents the collective voice of society, providing context and moral judgment on the protagonist's actions."
+    },
+    {
+      "question": "How is 'hamartia' defined in the context of a tragic hero?",
+      "answer": "It is a fatal flaw or error in judgment that leads inevitably to the protagonist's downfall."
+    }
+  ],
+  "28 - Literature - Victorian Gothic": [
+    {
+      "question": "Which novel by Bram Stoker established many conventions of modern vampire fantasy?",
+      "answer": "Dracula"
+    },
+    {
+      "question": "Who wrote 'Jane Eyre', a novel that blends romance with Gothic elements?",
+      "answer": "Charlotte Brontë"
+    },
+    {
+      "question": "Why is the setting often treated as a character in Victorian Gothic literature?",
+      "answer": "Decaying mansions and gloomy landscapes mirror the psychological states of the characters and create an atmosphere of dread and isolation."
+    },
+    {
+      "question": "How does the 'double' or 'doppelgänger' motif function in works like 'The Strange Case of Dr. Jekyll and Mr. Hyde'?",
+      "answer": "It externalizes the internal conflict between good and evil, exploring the duality of human nature."
+    }
+  ],
+  "29 - Literature - Magical Realism": [
+    {
+      "question": "Which Colombian author is most famously associated with the popularization of magical realism in 'One Hundred Years of Solitude'?",
+      "answer": "Gabriel García Márquez"
+    },
+    {
+      "question": "What is the defining characteristic of the setting in magical realism narratives?",
+      "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question."
+    },
+    {
+      "question": "Why do magical realism authors blend history with myth?",
+      "answer": "They do so to critique political realities and colonialism by recovering marginalized voices and alternative perspectives on history."
+    },
+    {
+      "question": "How does magical realism differ from pure fantasy?",
+      "answer": "While fantasy creates entirely new worlds with their own rules, magical realism grounds supernatural events within a recognizable, real-world context."
+    }
+  ],
+  "30 - Philosophy - Epistemology": [
+    {
+      "question": "What is the traditional definition of knowledge often attributed to Plato?",
+      "answer": "Justified True Belief"
+    },
+    {
+      "question": "Who famously declared 'Cogito, ergo sum' (I think, therefore I am)?",
+      "answer": "René Descartes"
+    },
+    {
+      "question": "Why is 'a posteriori' knowledge distinct from 'a priori' knowledge?",
+      "answer": "'A posteriori' knowledge is derived from sense experience and empirical evidence, whereas 'a priori' knowledge is independent of experience."
+    },
+    {
+      "question": "How does the 'Gettier problem' challenge the traditional definition of knowledge?",
+      "answer": "It presents scenarios where a person has a justified true belief that is correct only by luck, suggesting that justification and truth are insufficient for knowledge."
+    }
+  ],
+  "31 - Philosophy - Utilitarianism": [
+    {
+      "question": "Who is considered the founder of modern utilitarianism?",
+      "answer": "Jeremy Bentham"
+    },
+    {
+      "question": "What is the 'Greatest Happiness Principle'?",
+      "answer": "Actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness."
+    },
+    {
+      "question": "Why did John Stuart Mill introduce the distinction between higher and lower pleasures?",
+      "answer": "He wanted to refine utilitarianism to value intellectual and moral satisfaction over mere physical sensation."
+    },
+    {
+      "question": "How does rule utilitarianism differ from act utilitarianism?",
+      "answer": "Rule utilitarianism evaluates the morality of an action based on its adherence to a rule that maximizes utility, rather than evaluating the individual act itself."
+    }
+  ],
+  "32 - Art History - High Renaissance": [
+    {
+      "question": "Which artist painted the ceiling of the Sistine Chapel?",
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "What painting technique involves blending colors so subtly that there are no perceptible transitions, as seen in the 'Mona Lisa'?",
+      "answer": "Sfumato"
+    },
+    {
+      "question": "Why is Raphael's 'The School of Athens' considered a masterpiece of the High Renaissance?",
+      "answer": "It perfectly embodies the era's ideals by harmonizing classical philosophy with Christian theology through balanced composition and perspective."
+    },
+    {
+      "question": "How did the use of linear perspective change art during this period?",
+      "answer": "It allowed artists to create a mathematically precise illusion of depth and three-dimensional space on a flat surface."
+    }
+  ],
+  "33 - Art History - Abstract Expressionism": [
+    {
+      "question": "Which American artist was famous for his 'drip painting' technique?",
+      "answer": "Jackson Pollock"
+    },
+    {
+      "question": "What city replaced Paris as the center of the Western art world due to the rise of Abstract Expressionism?",
+      "answer": "New York City"
+    },
+    {
+      "question": "Why is this movement often divided into 'action painting' and 'color field painting'?",
+      "answer": "It distinguishes between artists who focused on the physical act of painting and those who focused on large, flat areas of solid color to evoke emotion."
+    },
+    {
+      "question": "How did Abstract Expressionists view the canvas?",
+      "answer": "They viewed the canvas as an arena in which to act, treating the painting as a record of an event rather than a picture of an object."
+    }
+  ],
+  "34 - Music Theory - Harmony and Chord Progressions": [
+    {
+      "question": "What is the most common chord progression in Western pop music?",
+      "answer": "I–V–vi–IV"
+    },
+    {
+      "question": "What term describes a chord consisting of at least three notes played simultaneously?",
+      "answer": "Triad"
+    },
+    {
+      "question": "Why does a dominant seventh chord create tension?",
+      "answer": "It contains a tritone interval between the third and the seventh, which creates instability that resolves naturally to the tonic chord."
+    },
+    {
+      "question": "How does modulation function within a piece of music?",
+      "answer": "Modulation is the process of changing from one key to another, providing contrast and movement within the musical structure."
+    }
+  ],
+  "35 - Music History - The Baroque Era": [
+    {
+      "question": "Which German composer wrote the 'Brandenburg Concertos'?",
+      "answer": "Johann Sebastian Bach"
+    },
+    {
+      "question": "What is the term for the continuous bass line that forms the harmonic foundation of Baroque music?",
+      "answer": "Basso continuo"
+    },
+    {
+      "question": "Why is the fugue considered a complex form of composition?",
+      "answer": "It relies on strict counterpoint where a short melody or subject is introduced by one part and successively taken up by others and developed."
+    },
+    {
+      "question": "How did the doctrine of affections influence Baroque composers?",
+      "answer": "Composers believed that music should arouse specific emotions (affections) in the listener, often dedicating an entire movement to a single emotion."
+    }
+  ],
+  "36 - Geography - Physical Geography of the Andes": [
+    {
+      "question": "What is the highest peak in the Andes Mountains?",
+      "answer": "Mount Aconcagua"
+    },
+    {
+      "question": "The Andes are the result of the subduction of which tectonic plate beneath the South American Plate?",
+      "answer": "Nazca Plate"
+    },
+    {
+      "question": "Why is the Altiplano plateau significant?",
+      "answer": "It is the second-highest mountain plateau in the world and contains major freshwater resources like Lake Titicaca."
+    },
+    {
+      "question": "How does the rain shadow effect created by the Andes impact Patagonia?",
+      "answer": "The mountains block moisture-laden westerly winds, causing the eastern side (Patagonia) to be an arid desert or steppe."
+    }
+  ],
+  "37 - Geography - Geopolitics of the Arctic": [
+    {
+      "question": "Which international treaty currently provides the legal framework for the Arctic Ocean?",
+      "answer": "UN Convention on the Law of the Sea (UNCLOS)"
+    },
+    {
+      "question": "What body acts as the leading intergovernmental forum for promoting cooperation among Arctic states?",
+      "answer": "Arctic Council"
+    },
+    {
+      "question": "Why has interest in the Northwest Passage increased in the 21st century?",
+      "answer": "Melting sea ice due to climate change has made the route more navigable, potentially shortening shipping times between Europe and Asia."
+    },
+    {
+      "question": "How does the concept of the Exclusive Economic Zone (EEZ) affect Arctic sovereignty?",
+      "answer": "It gives coastal nations the right to explore and exploit natural resources within 200 nautical miles of their coastline."
+    }
+  ],
+  "38 - Anthropology - Linguistic Anthropology": [
+    {
+      "question": "What hypothesis suggests that the structure of a language affects its speakers' world view or cognition?",
+      "answer": "Sapir-Whorf hypothesis (Linguistic Relativity)"
+    },
+    {
+      "question": "What term describes the study of language use in social contexts?",
+      "answer": "Pragmatics"
+    },
+    {
+      "question": "Why is code-switching a common practice in multilingual communities?",
+      "answer": "It allows speakers to navigate different social situations and identities by alternating between languages or dialects in a single conversation."
+    },
+    {
+      "question": "How does language revitalization support cultural preservation?",
+      "answer": "Restoring endangered languages helps maintain the oral histories, traditional knowledge, and cultural identity unique to that linguistic group."
+    }
+  ],
+  "39 - Archaeology - Ancient Egypt": [
+    {
+      "question": "Which artifact provided the key to deciphering Egyptian hieroglyphs?",
+      "answer": "The Rosetta Stone"
+    },
+    {
+      "question": "Who discovered the tomb of Tutankhamun in 1922?",
+      "answer": "Howard Carter"
+    },
+    {
+      "question": "Why were the Pyramids of Giza built on the west bank of the Nile?",
+      "answer": "The west was associated with the setting sun and the realm of the dead in Egyptian mythology."
+    },
+    {
+      "question": "How did the process of mummification reflect Egyptian religious beliefs?",
+      "answer": "It was intended to preserve the physical body so that the soul (Ka) could recognize and inhabit it in the afterlife."
+    }
+  ],
+  "40 - Economics - Microeconomic Supply and Demand": [
+    {
+      "question": "What economic law states that, all else being equal, as the price of a good increases, quantity demanded decreases?",
+      "answer": "Law of Demand"
+    },
+    {
+      "question": "What term describes a market situation where quantity supplied equals quantity demanded?",
+      "answer": "Market equilibrium"
+    },
+    {
+      "question": "Why does a price ceiling set below equilibrium create a shortage?",
+      "answer": "It artificially lowers the price, causing demand to exceed supply while discouraging producers from making the product."
+    },
+    {
+      "question": "How does price elasticity of demand measure consumer behavior?",
+      "answer": "It measures how responsive the quantity demanded of a good is to a change in its price."
+    }
+  ],
+  "41 - Economics - Behavioral Economics": [
+    {
+      "question": "Who won the Nobel Prize in 2002 for integrating psychological research into economic science?",
+      "answer": "Daniel Kahneman"
+    },
+    {
+      "question": "What concept describes the tendency for people to prefer avoiding losses to acquiring equivalent gains?",
+      "answer": "Loss aversion"
+    },
+    {
+      "question": "Why does the 'sunk cost fallacy' lead to irrational decision making?",
+      "answer": "It causes individuals to continue an endeavor based on previously invested resources rather than current and future benefits."
+    },
+    {
+      "question": "How does 'nudging' influence economic choices?",
+      "answer": "It alters the choice architecture to encourage people to make specific decisions without restricting their freedom of choice."
+    }
+  ],
+  "42 - Political Science - Comparative Politics": [
+    {
+      "question": "What political system is characterized by a fusion of powers between the executive and legislative branches?",
+      "answer": "Parliamentary system"
+    },
+    {
+      "question": "What term describes a state that cannot provide basic services or exercise authority over its territory?",
+      "answer": "Failed state"
+    },
+    {
+      "question": "Why is Duverger's Law significant in electoral studies?",
+      "answer": "It states that single-member district plurality systems tend to favor a two-party system."
+    },
+    {
+      "question": "How does a federal system differ from a unitary system?",
+      "answer": "In a federal system, power is constitutionally divided between a central authority and constituent political units, whereas in a unitary system, the central government is supreme."
+    }
+  ],
+  "43 - Political Science - International Relations Theory": [
+    {
+      "question": "Which theory posits that states act primarily in their own self-interest within an anarchic international system?",
+      "answer": "Realism"
+    },
+    {
+      "question": "What concept refers to the situation where one state's effort to increase its security decreases the security of others?",
+      "answer": "Security dilemma"
+    },
+    {
+      "question": "Why do constructivists believe that international relations are socially constructed?",
+      "answer": "They argue that state actions are shaped by shared ideas, identities, and norms rather than just material power."
+    },
+    {
+      "question": "How does the 'democratic peace theory' describe the behavior of democracies?",
+      "answer": "It asserts that democracies are hesitant to engage in armed conflict with other identified democracies."
+    }
+  ],
+  "44 - Psychology - Developmental Psychology": [
+    {
+      "question": "Which psychologist developed the four stages of cognitive development?",
+      "answer": "Jean Piaget"
+    },
+    {
+      "question": "What is the first stage of Erik Erikson's psychosocial development theory?",
+      "answer": "Trust vs. Mistrust"
+    },
+    {
+      "question": "Why is 'object permanence' a key milestone in infancy?",
+      "answer": "It indicates that a child understands that objects continue to exist even when they cannot be seen or heard."
+    },
+    {
+      "question": "How does the 'zone of proximal development' relate to learning?",
+      "answer": "It defines the gap between what a learner can do without help and what they can do with guidance."
+    }
+  ],
+  "45 - Psychology - Cognitive Biases": [
+    {
+      "question": "What bias describes the tendency to search for information that confirms one's preexisting beliefs?",
+      "answer": "Confirmation bias"
+    },
+    {
+      "question": "What is the term for the phenomenon where people with low ability at a task overestimate their ability?",
+      "answer": "Dunning-Kruger effect"
+    },
+    {
+      "question": "Why does the availability heuristic lead to errors in judgment?",
+      "answer": "It causes people to estimate the probability of an event based on how easily examples come to mind rather than statistical reality."
+    },
+    {
+      "question": "How does the anchoring effect influence negotiation?",
+      "answer": "It occurs when the first piece of information offered (the anchor) heavily influences all subsequent decision-making and counter-offers."
+    }
+  ],
+  "46 - Sociology - Social Stratification": [
+    {
+      "question": "What term did Karl Marx use to describe the working class who sell their labor for wages?",
+      "answer": "Proletariat"
+    },
+    {
+      "question": "What is the movement of individuals or groups between different social positions?",
+      "answer": "Social mobility"
+    },
+    {
+      "question": "Why is the caste system considered a closed stratification system?",
+      "answer": "Social status is determined by birth and remains fixed for life, with virtually no opportunity for movement between levels."
+    },
+    {
+      "question": "How does cultural capital contribute to social inequality?",
+      "answer": "It provides non-financial assets like education, style of speech, and dress that promote social mobility and distinguish classes."
+    }
+  ],
+  "47 - Law - Intellectual Property": [
+    {
+      "question": "What legal protection is granted to the author of an original creative work, such as a book or song?",
+      "answer": "Copyright"
+    },
+    {
+      "question": "How long does a utility patent typically last in the United States from the filing date?",
+      "answer": "20 years"
+    },
+    {
+      "question": "Why is a trademark different from a patent?",
+      "answer": "A trademark protects brand identifiers like logos and names to prevent consumer confusion, while a patent protects inventions."
+    },
+    {
+      "question": "How does the 'fair use' doctrine function in copyright law?",
+      "answer": "It allows limited use of copyrighted material without permission for purposes such as criticism, comment, news reporting, teaching, or research."
+    }
+  ],
+  "48 - Law - Torts and Negligence": [
+    {
+      "question": "What is the legal term for a civil wrong that causes a claimant to suffer loss or harm?",
+      "answer": "Tort"
+    },
+    {
+      "question": "What is the standard of care usually applied in negligence cases?",
+      "answer": "The reasonable person standard"
+    },
+    {
+      "question": "Why is 'proximate cause' necessary to prove negligence?",
+      "answer": "It limits liability to consequences that bear a reasonable relationship to the negligent act, excluding unforeseeable outcomes."
+    },
+    {
+      "question": "How does 'res ipsa loquitur' shift the burden of proof?",
+      "answer": "It allows a court to infer negligence from the very nature of an accident or injury in the absence of direct evidence."
+    }
+  ],
+  "49 - Linguistics - Phonetics": [
+    {
+      "question": "What is the smallest unit of sound that can distinguish one word from another in a language?",
+      "answer": "Phoneme"
+    },
+    {
+      "question": "Which alphabet is the standard system for transcribing the sounds of spoken languages?",
+      "answer": "International Phonetic Alphabet (IPA)"
+    },
+    {
+      "question": "Why are vowels distinguished from consonants in articulatory phonetics?",
+      "answer": "Vowels are produced with an open vocal tract so that there is no build-up of air pressure, whereas consonants involve some constriction."
+    },
+    {
+      "question": "How does a plosive sound occur?",
+      "answer": "It is produced by stopping the airflow using the lips, teeth, or palate, followed by a sudden release of air."
+    }
+  ],
+  "50 - Linguistics - Sociolinguistics": [
+    {
+      "question": "What term describes a variety of language characteristic of a particular group of the speakers?",
+      "answer": "Dialect"
+    },
+    {
+      "question": "What is a simplified language that develops as a means of communication between two or more groups that do not have a language in common?",
+      "answer": "Pidgin"
+    },
+    {
+      "question": "Why does hypercorrection occur in linguistic behavior?",
+      "answer": "It happens when speakers erroneously use a grammar rule in a non-standard way in an effort to sound more formal or prestigious."
+    },
+    {
+      "question": "How does a creole language evolve from a pidgin?",
+      "answer": "A creole develops when a pidgin becomes the native language of a community and acquires a more complex grammar and vocabulary."
+    }
+  ],
+  "51 - Religion - Theravada Buddhism": [
+    {
+      "question": "What is the primary canonical text of Theravada Buddhism?",
+      "answer": "Pali Canon (Tipitaka)"
+    },
+    {
+      "question": "What is the ultimate goal of practice in Theravada Buddhism?",
+      "answer": "Nirvana (Arhatship)"
+    },
+    {
+      "question": "Why is the concept of 'Anatta' central to Buddhist teaching?",
+      "answer": "It asserts that there is no unchanging, permanent self or soul in living beings."
+    },
+    {
+      "question": "How do the Four Noble Truths describe the cause of suffering (Dukkha)?",
+      "answer": "They identify craving (Tanha) and attachment to transient things as the root cause of suffering."
+    }
+  ],
+  "52 - Religion - Shia Islam": [
+    {
+      "question": "Who do Shia Muslims believe was the rightful successor to the Prophet Muhammad?",
+      "answer": "Ali ibn Abi Talib"
+    },
+    {
+      "question": "What event is commemorated on the Day of Ashura?",
+      "answer": "The martyrdom of Hussein ibn Ali at the Battle of Karbala"
+    },
+    {
+      "question": "Why is the concept of the Imamate central to Shia theology?",
+      "answer": "Shias believe that Imams are divinely appointed leaders who possess spiritual and political authority free from error."
+    },
+    {
+      "question": "How does the 'Twelver' branch differ from other Shia sects?",
+      "answer": "They believe in a lineage of twelve divinely ordained Imams, the last of whom is currently in occultation and will return as the Mahdi."
+    }
+  ],
+  "53 - Mythology - Norse Pantheon": [
+    {
+      "question": "Who is the chief god in Norse mythology, often associated with wisdom, war, and poetry?",
+      "answer": "Odin"
+    },
+    {
+      "question": "What is the name of the immense world tree that connects the nine worlds?",
+      "answer": "Yggdrasil"
+    },
+    {
+      "question": "Why did Odin sacrifice his eye at Mimir's well?",
+      "answer": "He sacrificed it to gain wisdom and knowledge of the runes."
+    },
+    {
+      "question": "How does the event known as Ragnarok end the current world cycle?",
+      "answer": "It involves a series of great battles resulting in the death of major gods, natural disasters, and the submersion of the world in water."
+    }
+  ],
+  "54 - Mythology - Celtic Folklore": [
+    {
+      "question": "What is the name of the female spirit in Irish folklore whose wailing foretells a death in the family?",
+      "answer": "Banshee"
+    },
+    {
+      "question": "Which hero of the Ulster Cycle is known for his rage in battle and wielding the Gáe Bulg?",
+      "answer": "Cú Chulainn"
+    },
+    {
+      "question": "Why are iron objects traditionally used as protection against fairies?",
+      "answer": "Folklore dictates that supernatural beings are repelled or harmed by the touch of cold iron."
+    },
+    {
+      "question": "How does the changeling myth explain inexplicable illnesses in children?",
+      "answer": "It suggests that fairies have stolen a healthy human child and replaced it with a sickly fairy or an enchanted log."
+    }
+  ],
+  "55 - Botany - Photosynthesis": [
+    {
+      "question": "What pigment is primarily responsible for absorbing light energy in plants?",
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "What are the two main stages of photosynthesis?",
+      "answer": "Light-dependent reactions and the Calvin cycle"
+    },
+    {
+      "question": "Why do plants release oxygen during photosynthesis?",
+      "answer": "Oxygen is produced as a byproduct when water molecules are split to provide electrons for the electron transport chain."
+    },
+    {
+      "question": "How does the Calvin cycle produce glucose?",
+      "answer": "It uses ATP and NADPH produced in the light reactions to fix carbon dioxide into organic molecules."
+    }
+  ],
+  "56 - Zoology - Ornithology": [
+    {
+      "question": "What is the fastest bird in the world when in a diving stoop?",
+      "answer": "Peregrine falcon"
+    },
+    {
+      "question": "Which prehistoric bird-like dinosaur is considered a transitional fossil between dinosaurs and modern birds?",
+      "answer": "Archaeopteryx"
+    },
+    {
+      "question": "Why do some birds migrate seasonally?",
+      "answer": "They migrate to move from areas of decreasing resources to areas of high or increasing resources, primarily for breeding and feeding."
+    },
+    {
+      "question": "How does the syrinx function in birds?",
+      "answer": "It acts as the vocal organ, located at the base of the trachea, allowing birds to produce complex songs without vocal cords."
+    }
+  ],
+  "57 - Entomology - Eusocial Insects": [
+    {
+      "question": "What term describes the caste of sterile female bees that perform most of the colony's labor?",
+      "answer": "Workers"
+    },
+    {
+      "question": "Which insect order contains ants, bees, and wasps?",
+      "answer": "Hymenoptera"
+    },
+    {
+      "question": "Why do honeybees perform the 'waggle dance'?",
+      "answer": "It communicates the direction and distance of a food source to other members of the hive."
+    },
+    {
+      "question": "How does a queen ant establish a new colony?",
+      "answer": "She mates during a nuptial flight, lands, sheds her wings, and excavates a nest to lay her first batch of eggs."
+    }
+  ],
+  "58 - Meteorology - Atmospheric Circulation": [
+    {
+      "question": "What is the name of the circulation cell closest to the equator?",
+      "answer": "Hadley cell"
+    },
+    {
+      "question": "What force causes moving air to deflect to the right in the Northern Hemisphere?",
+      "answer": "Coriolis force"
+    },
+    {
+      "question": "Why do trade winds blow from east to west?",
+      "answer": "The rotation of the Earth deflects the air moving toward the equator from the subtropical high-pressure belts."
+    },
+    {
+      "question": "How does the jet stream influence weather patterns?",
+      "answer": "It is a fast-flowing ribbon of air high in the atmosphere that steers storms and separates cold polar air from warm tropical air."
+    }
+  ],
+  "59 - Oceanography - Deep Sea Vents": [
+    {
+      "question": "What is the term for the process by which organisms near deep-sea vents create energy without sunlight?",
+      "answer": "Chemosynthesis"
+    },
+    {
+      "question": "Which specific type of hydrothermal vent emits black particle-laden fluids?",
+      "answer": "Black smoker"
+    },
+    {
+      "question": "Why is the water emitted from hydrothermal vents not boiling despite exceeding 300°C?",
+      "answer": "The extreme hydrostatic pressure at the ocean floor prevents the water from turning into steam."
+    },
+    {
+      "question": "How do tube worms survive near hydrothermal vents without a digestive system?",
+      "answer": "They rely on symbiotic bacteria living inside them to convert chemicals from the vent fluid into organic nutrients."
+    }
+  ],
+  "60 - Paleontology - Mesozoic Era": [
+    {
+      "question": "What are the three periods of the Mesozoic Era in chronological order?",
+      "answer": "Triassic, Jurassic, Cretaceous"
+    },
+    {
+      "question": "Which extinction event marked the end of the Mesozoic Era?",
+      "answer": "Cretaceous-Paleogene (K-Pg) extinction event"
+    },
+    {
+      "question": "Why is the Mesozoic Era often called the 'Age of Reptiles'?",
+      "answer": "Reptiles, particularly dinosaurs, were the dominant terrestrial vertebrates during this time."
+    },
+    {
+      "question": "How did the breakup of Pangea during the Mesozoic affect evolution?",
+      "answer": "It isolated populations on different continents, leading to distinct evolutionary paths and increased biodiversity."
+    }
+  ],
+  "61 - Agriculture - Hydroponics": [
+    {
+      "question": "What is the primary medium used to deliver nutrients to plants in hydroponics?",
+      "answer": "Water"
+    },
+    {
+      "question": "What inert material is often used to support plant roots in hydroponic systems?",
+      "answer": "Rockwool (or perlite/clay pellets)"
+    },
+    {
+      "question": "Why is water efficiency higher in hydroponics compared to traditional soil farming?",
+      "answer": "Water is recirculated in a closed system, reducing evaporation and runoff waste."
+    },
+    {
+      "question": "How does the Nutrient Film Technique (NFT) function?",
+      "answer": "A shallow stream of nutrient-rich water flows continuously past the bare roots of plants in a watertight channel."
+    }
+  ],
+  "62 - Nutrition - Macronutrients": [
+    {
+      "question": "Which macronutrient is the body's primary source of energy?",
+      "answer": "Carbohydrates"
+    },
+    {
+      "question": "How many calories does one gram of fat provide?",
+      "answer": "9 calories"
+    },
+    {
+      "question": "Why are essential amino acids called 'essential'?",
+      "answer": "The human body cannot synthesize them, so they must be obtained through the diet."
+    },
+    {
+      "question": "How does fiber aid in digestion?",
+      "answer": "It adds bulk to the stool and facilitates regular bowel movements without being digested by the body."
+    }
+  ],
+  "63 - Architecture - Brutalism": [
+    {
+      "question": "What raw material is the defining aesthetic feature of Brutalist architecture?",
+      "answer": "Exposed concrete (Béton brut)"
+    },
+    {
+      "question": "Which Swiss-French architect is considered a pioneer of the Brutalist style?",
+      "answer": "Le Corbusier"
+    },
+    {
+      "question": "Why did Brutalism become popular for government buildings in the mid-20th century?",
+      "answer": "It projected an image of strength, functionality, and equality, and was cost-effective for large-scale projects."
+    },
+    {
+      "question": "How does Brutalism differ from International Style modernism?",
+      "answer": "Brutalism emphasizes heavy, massive forms and raw surfaces, whereas the International Style favors lightweight structures, glass, and smooth finishes."
+    }
+  ],
+  "64 - Architecture - Neoclassical Design": [
+    {
+      "question": "Which ancient civilizations primarily inspired Neoclassical architecture?",
+      "answer": "Greece and Rome"
+    },
+    {
+      "question": "What famous building in Washington, D.C. is a prime example of Neoclassical architecture?",
+      "answer": "The U.S. Capitol (or The White House)"
+    },
+    {
+      "question": "Why does Neoclassical architecture emphasize symmetry and proportion?",
+      "answer": "It seeks to reflect the rationalism and order valued during the Age of Enlightenment."
+    },
+    {
+      "question": "How are columns typically used in Neoclassical facades?",
+      "answer": "They are used in grand porticos spanning the full height of the building to convey monumentality and authority."
+    }
+  ],
+  "65 - Film Studies - Film Noir": [
+    {
+      "question": "What lighting technique is characteristic of Film Noir, creating sharp contrasts between light and dark?",
+      "answer": "Chiaroscuro"
+    },
+    {
+      "question": "Which 1941 film starring Humphrey Bogart is often cited as the first major Film Noir?",
+      "answer": "The Maltese Falcon"
+    },
+    {
+      "question": "Why is the 'Femme Fatale' a recurring archetype in Film Noir?",
+      "answer": "She represents a dangerous, seductive woman who leads the male protagonist into disaster, reflecting post-war anxieties about gender roles."
+    },
+    {
+      "question": "How does the narrative structure of Film Noir often reflect its cynical tone?",
+      "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom."
+    }
+  ],
+  "66 - Film Studies - The French New Wave": [
+    {
+      "question": "Which film by Jean-Luc Godard introduced the jump cut as a stylistic device?",
+      "answer": "Breathless (À bout de souffle)"
+    },
+    {
+      "question": "What is the 'Auteur Theory' associated with this movement?",
+      "answer": "The idea that the director is the primary creative author of a film, imprinting their personal vision on the work."
+    },
+    {
+      "question": "Why did French New Wave directors prefer shooting on location?",
+      "answer": "It provided a gritty realism and was cheaper than renting studio sets, aligning with their rejection of polished commercial cinema."
+    },
+    {
+      "question": "How did the French New Wave challenge traditional storytelling?",
+      "answer": "It used fragmented narratives, improvised dialogue, and breaking the fourth wall to disrupt the viewer's passive consumption of the film."
+    }
+  ],
+  "67 - Theater - Commedia dell'arte": [
+    {
+      "question": "In which country did Commedia dell'arte originate during the 16th century?",
+      "answer": "Italy"
+    },
+    {
+      "question": "What is the name of the masked servant character known for his diamond-patterned costume?",
+      "answer": "Harlequin (Arlecchino)"
+    },
+    {
+      "question": "Why were masks essential to Commedia dell'arte performances?",
+      "answer": "They allowed actors to instantly portray recognizable stock characters with fixed personality traits and social status."
+    },
+    {
+      "question": "How does 'lazzi' function in a Commedia performance?",
+      "answer": "Lazzi are improvised comic routines or physical gags inserted into the play to ensure the audience remains entertained."
+    }
+  ],
+  "68 - Sports - History of the Olympics": [
+    {
+      "question": "In which year were the first modern Olympic Games held?",
+      "answer": "1896"
+    },
+    {
+      "question": "Which city hosted the first modern Olympics?",
+      "answer": "Athens"
+    },
+    {
+      "question": "Why were the Ancient Olympic Games held in Olympia?",
+      "answer": "They were a religious festival held in honor of Zeus, whose major sanctuary was located in Olympia."
+    },
+    {
+      "question": "How did the 1936 Berlin Olympics become a subject of political controversy?",
+      "answer": "The Nazi regime used the games as a propaganda tool to promote Aryan superiority, which was challenged by the success of Black athlete Jesse Owens."
+    }
+  ],
+  "69 - Sports - Rules of Cricket": [
+    {
+      "question": "How many players are on the field for the fielding team at one time?",
+      "answer": "11"
+    },
+    {
+      "question": "What is the term for a set of six legal deliveries bowled by a bowler?",
+      "answer": "Over"
+    },
+    {
+      "question": "Why is the 'LBW' rule used in cricket?",
+      "answer": "It prevents a batter from using their body to block the ball from hitting the wicket, which would otherwise be an unfair defense."
+    },
+    {
+      "question": "How does a team win a Test match?",
+      "answer": "They must score more runs than the opposition across two innings and bowl the opposition out twice within the five-day limit."
+    }
+  ],
+  "70 - Culinary Arts - Fermentation": [
+    {
+      "question": "What microorganism is primarily responsible for the fermentation of alcohol in beer and wine?",
+      "answer": "Yeast (Saccharomyces cerevisiae)"
+    },
+    {
+      "question": "What acidic byproduct is produced during the fermentation of yogurt and sauerkraut?",
+      "answer": "Lactic acid"
+    },
+    {
+      "question": "Why is salt often added to vegetables before fermentation?",
+      "answer": "It draws out moisture to create a brine and inhibits the growth of harmful bacteria while allowing beneficial lactobacillus to thrive."
+    },
+    {
+      "question": "How does sourdough starter leaven bread?",
+      "answer": "Wild yeast in the starter produces carbon dioxide gas which gets trapped in the dough, causing it to rise."
+    }
+  ],
+  "71 - Fashion - 20th Century Haute Couture": [
+    {
+      "question": "Which designer is credited with revolutionizing women's fashion by introducing the 'New Look' in 1947?",
+      "answer": "Christian Dior"
+    },
+    {
+      "question": "What iconic item did Coco Chanel introduce in the 1920s that became a fashion staple?",
+      "answer": "The Little Black Dress"
+    },
+    {
+      "question": "Why is the title 'Haute Couture' legally protected in France?",
+      "answer": "It ensures that fashion houses meet strict criteria regarding made-to-order garments and atelier staff to maintain high standards of craftsmanship."
+    },
+    {
+      "question": "How did Yves Saint Laurent change women's fashion in 1966?",
+      "answer": "He introduced 'Le Smoking', the first tuxedo suit designed specifically for women, challenging gender norms in formal wear."
+    }
+  ],
+  "72 - Education - Pedagogical Theories": [
+    {
+      "question": "Which theorist is associated with the concept of the 'Montessori Method'?",
+      "answer": "Maria Montessori"
+    },
+    {
+      "question": "What is the name of the taxonomy used to classify educational learning objectives into levels of complexity?",
+      "answer": "Bloom's Taxonomy"
+    },
+    {
+      "question": "Why does the constructivist theory of education emphasize active learning?",
+      "answer": "It posits that learners construct knowledge through experience and reflection rather than passively receiving information."
+    },
+    {
+      "question": "How does the 'flipped classroom' model structure learning?",
+      "answer": "Students review lecture materials at home and use class time for interactive exercises and problem-solving with the teacher."
+    }
+  ],
+  "73 - Library Science - Archival Preservation": [
+    {
+      "question": "What is the ideal relative humidity range for storing paper-based archival materials?",
+      "answer": "30% to 50%"
+    },
+    {
+      "question": "What is the term for the process of determining the origin and chain of custody of a historical document?",
+      "answer": "Provenance"
+    },
+    {
+      "question": "Why are acid-free folders and boxes used in archives?",
+      "answer": "They prevent acid migration, which causes paper to become brittle, yellow, and deteriorate over time."
+    },
+    {
+      "question": "How does digitization aid in preservation?",
+      "answer": "It creates a surrogate copy for access, reducing physical handling of the fragile original artifact."
+    }
+  ],
+  "74 - Journalism - Investigative Reporting Standards": [
+    {
+      "question": "What scandal did Bob Woodward and Carl Bernstein uncover in the early 1970s?",
+      "answer": "Watergate scandal"
+    },
+    {
+      "question": "What is the term for a source who provides information on the condition that they are not identified?",
+      "answer": "Anonymous source"
+    },
+    {
+      "question": "Why is 'corroboration' essential in investigative journalism?",
+      "answer": "It ensures accuracy by verifying information through multiple independent sources or documents before publication."
+    },
+    {
+      "question": "How does a 'shield law' protect journalists?",
+      "answer": "It gives reporters the legal right to refuse to testify or reveal confidential sources in legal proceedings."
+    }
+  ],
+  "75 - Business - Supply Chain Management": [
+    {
+      "question": "What does the acronym 'JIT' stand for in inventory management?",
+      "answer": "Just-In-Time"
+    },
+    {
+      "question": "What is the 'bullwhip effect' in a supply chain?",
+      "answer": "A phenomenon where small fluctuations in retail demand cause increasingly larger fluctuations in demand at the wholesale and manufacturing levels."
+    },
+    {
+      "question": "Why is vertical integration used by some companies?",
+      "answer": "It allows a company to control multiple stages of its production and distribution process, reducing reliance on external suppliers."
+    },
+    {
+      "question": "How does blockchain technology improve supply chain transparency?",
+      "answer": "It provides a decentralized, immutable ledger that records every transaction and movement of goods, allowing for real-time tracking."
+    }
+  ],
+  "76 - Finance - Derivatives and Options": [
+    {
+      "question": "What is a financial contract that gives the buyer the right, but not the obligation, to buy an asset at a set price?",
+      "answer": "Call option"
+    },
+    {
+      "question": "What is the term for the price at which an option can be exercised?",
+      "answer": "Strike price"
+    },
+    {
+      "question": "Why are futures contracts used for hedging?",
+      "answer": "They lock in a future price for an asset, protecting the investor from unfavorable price movements in the market."
+    },
+    {
+      "question": "How does a 'short' position profit in the market?",
+      "answer": "The investor profits if the price of the asset declines, allowing them to buy it back at a lower price than they sold it for."
+    }
+  ],
+  "77 - Logic - Formal Logic": [
+    {
+      "question": "What is the name of the logical argument form: 'If P, then Q; P is true; therefore, Q is true'?",
+      "answer": "Modus ponens"
+    },
+    {
+      "question": "What symbol is commonly used in formal logic to represent the universal quantifier 'for all'?",
+      "answer": "Upside-down A (∀)"
+    },
+    {
+      "question": "Why is a deductive argument considered 'valid'?",
+      "answer": "It is valid if the conclusion follows necessarily from the premises, meaning it is impossible for the premises to be true and the conclusion false."
+    },
+    {
+      "question": "How does a truth table function?",
+      "answer": "It lists all possible truth value combinations for a set of logical variables to determine the functional validity of a proposition."
+    }
+  ],
+  "78 - Ethics - Bioethics": [
+    {
+      "question": "Which principle of bioethics refers to the obligation to act for the benefit of the patient?",
+      "answer": "Beneficence"
+    },
+    {
+      "question": "What legal and ethical requirement ensures patients understand the risks before a medical procedure?",
+      "answer": "Informed consent"
+    },
+    {
+      "question": "Why is the principle of 'autonomy' central to modern medical ethics?",
+      "answer": "It recognizes the right of competent individuals to make their own decisions regarding their bodies and healthcare."
+    },
+    {
+      "question": "How does the concept of 'justice' apply to organ transplantation lists?",
+      "answer": "It mandates that organs are allocated fairly based on objective medical criteria rather than social status or ability to pay."
+    }
+  ],
+  "79 - Metaphysics - Determinism vs. Free Will": [
+    {
+      "question": "What philosophical stance argues that free will and determinism are mutually compatible?",
+      "answer": "Compatibilism"
+    },
+    {
+      "question": "Which view holds that because the universe is deterministic, true free will is impossible?",
+      "answer": "Hard determinism"
+    },
+    {
+      "question": "Why is the 'butterfly effect' relevant to deterministic chaos?",
+      "answer": "It illustrates how small differences in initial conditions can yield widely diverging outcomes, making precise prediction impossible despite deterministic laws."
+    },
+    {
+      "question": "How does libertarianism (in metaphysics) define free will?",
+      "answer": "It defines free will as the ability to have done otherwise under the exact same conditions, rejecting causal determinism."
+    }
+  ],
+  "80 - Neuroscience - Neuroplasticity": [
+    {
+      "question": "What phrase summarizes the Hebbian theory of synaptic plasticity?",
+      "answer": "Cells that fire together, wire together"
+    },
+    {
+      "question": "What is the process by which extra neurons and synaptic connections are eliminated to increase the efficiency of neuronal transmissions?",
+      "answer": "Synaptic pruning"
+    },
+    {
+      "question": "Why is neuroplasticity highest during childhood?",
+      "answer": "The developing brain is rapidly forming new connections and adapting to sensory inputs to establish fundamental functional circuits."
+    },
+    {
+      "question": "How does stroke rehabilitation rely on neuroplasticity?",
+      "answer": "It trains healthy parts of the brain to take over functions previously performed by the damaged areas through repetitive practice."
+    }
+  ],
+  "81 - Pharmacology - Antibiotic Resistance": [
+    {
+      "question": "What was the first true antibiotic discovered by Alexander Fleming in 1928?",
+      "answer": "Penicillin"
+    },
+    {
+      "question": "What is the acronym for the drug-resistant staph infection often acquired in hospitals?",
+      "answer": "MRSA (Methicillin-resistant Staphylococcus aureus)"
+    },
+    {
+      "question": "Why does finishing a full course of antibiotics prevent resistance?",
+      "answer": "It ensures that all bacteria, including the slightly resistant ones, are eradicated so they cannot survive and multiply."
+    },
+    {
+      "question": "How do plasmids contribute to the spread of resistance?",
+      "answer": "Plasmids are small DNA rings that can transfer resistance genes directly between bacteria via horizontal gene transfer."
+    }
+  ],
+  "82 - Materials Science - Metallurgy": [
+    {
+      "question": "What is the primary alloy produced by combining iron with a small amount of carbon?",
+      "answer": "Steel"
+    },
+    {
+      "question": "What heat treatment process involves heating a metal and cooling it slowly to remove internal stresses?",
+      "answer": "Annealing"
+    },
+    {
+      "question": "Why is chromium added to stainless steel?",
+      "answer": "It reacts with oxygen to form a passive layer of chromium oxide that protects the underlying metal from corrosion."
+    },
+    {
+      "question": "How does work hardening increase the strength of a metal?",
+      "answer": "Deforming the metal at room temperature creates dislocations in the crystal structure that entangle and impede further deformation."
+    }
+  ],
+  "83 - Energy - Photovoltaic Cells": [
+    {
+      "question": "What semiconductor material is most commonly used in the manufacturing of solar cells?",
+      "answer": "Silicon"
+    },
+    {
+      "question": "What physical phenomenon allows solar cells to convert light into electricity?",
+      "answer": "The photoelectric effect"
+    },
+    {
+      "question": "Why is an inverter necessary in a home solar energy system?",
+      "answer": "It converts the Direct Current (DC) produced by the panels into the Alternating Current (AC) used by household appliances."
+    },
+    {
+      "question": "How does a p-n junction function in a solar cell?",
+      "answer": "It creates an internal electric field that separates electron-hole pairs generated by incoming light, driving the current."
+    }
+  ],
+  "84 - Energy - Nuclear Fusion": [
+    {
+      "question": "What two isotopes of hydrogen are the primary fuel for experimental nuclear fusion reactors?",
+      "answer": "Deuterium and Tritium"
+    },
+    {
+      "question": "What state of matter consists of superheated, charged particles necessary for fusion to occur?",
+      "answer": "Plasma"
+    },
+    {
+      "question": "Why is nuclear fusion considered cleaner than nuclear fission?",
+      "answer": "Fusion does not produce long-lived high-level radioactive waste or carry the risk of a runaway chain reaction meltdown."
+    },
+    {
+      "question": "How does a tokamak device contain the fusion reaction?",
+      "answer": "It uses powerful magnetic fields in a doughnut shape to confine the superheated plasma and keep it away from the reactor walls."
+    }
+  ],
+  "85 - Transportation - High-Speed Rail Systems": [
+    {
+      "question": "What is the Japanese name for the high-speed 'bullet train' network?",
+      "answer": "Shinkansen"
+    },
+    {
+      "question": "What technology allows Maglev trains to float above the tracks?",
+      "answer": "Magnetic levitation"
+    },
+    {
+      "question": "Why are high-speed rail tracks built with minimal curves and steep grades?",
+      "answer": "They require straight, flat trajectories to maintain high velocities safely without excessive centrifugal force or deceleration."
+    },
+    {
+      "question": "How does the pantograph function on an electric train?",
+      "answer": "It is an apparatus mounted on the roof that collects electric current from an overhead catenary wire to power the train."
+    }
+  ],
+  "86 - Telecommunications - Fiber Optics": [
+    {
+      "question": "What principle of physics allows light to travel down a fiber optic cable without escaping?",
+      "answer": "Total internal reflection"
+    },
+    {
+      "question": "What is the core of a fiber optic cable typically made of?",
+      "answer": "Glass (Silica) or plastic"
+    },
+    {
+      "question": "Why is fiber optic transmission faster and more reliable than copper wire?",
+      "answer": "Light signals have a much higher bandwidth capacity and are immune to electromagnetic interference."
+    },
+    {
+      "question": "How does cladding function in a fiber optic cable?",
+      "answer": "It has a lower refractive index than the core, which reflects light back into the core to keep the signal propagating."
+    }
+  ],
+  "87 - Robotics - Kinematics": [
+    {
+      "question": "What is the term for the number of independent movements a robot mechanism can perform?",
+      "answer": "Degrees of freedom"
+    },
+    {
+      "question": "What component serves as the 'hand' or tool at the end of a robotic arm?",
+      "answer": "End effector"
+    },
+    {
+      "question": "Why is inverse kinematics used in controlling robot arms?",
+      "answer": "It calculates the necessary joint angles required to place the end effector at a specific desired coordinate in space."
+    },
+    {
+      "question": "How does a singularity affect a robot arm?",
+      "answer": "It is a configuration where the robot loses a degree of freedom, often causing the joints to attempt infinite speed to maintain movement."
+    }
+  ],
+  "88 - Artificial Intelligence - Neural Networks": [
+    {
+      "question": "What is the fundamental unit of an artificial neural network, modeled after a biological brain cell?",
+      "answer": "Perceptron (or Neuron)"
+    },
+    {
+      "question": "What algorithm is commonly used to train neural networks by minimizing the error gradient?",
+      "answer": "Backpropagation"
+    },
+    {
+      "question": "Why is an activation function applied to the output of a neuron?",
+      "answer": "It introduces non-linearity, allowing the network to learn complex patterns rather than just linear relationships."
+    },
+    {
+      "question": "How does 'overfitting' occur in machine learning models?",
+      "answer": "It happens when a model learns the training data and its noise too closely, failing to generalize to new, unseen data."
+    }
+  ],
+  "89 - Military Science - Guerrilla Warfare Strategy": [
+    {
+      "question": "Which famous revolutionary wrote the book 'Guerrilla Warfare' based on the Cuban Revolution?",
+      "answer": "Che Guevara"
+    },
+    {
+      "question": "What term describes warfare between opposing forces that differ significantly in military power and tactics?",
+      "answer": "Asymmetric warfare"
+    },
+    {
+      "question": "Why is the support of the local population considered crucial for guerrilla fighters?",
+      "answer": "The population provides intelligence, food, shelter, and recruits, allowing the guerrillas to hide in plain sight."
+    },
+    {
+      "question": "How does a 'hit-and-run' tactic benefit a smaller military force?",
+      "answer": "It allows them to inflict damage and retreat before the larger, slower enemy force can organize an effective counterattack."
+    }
+  ],
+  "90 - Criminology - Forensic Pathology": [
+    {
+      "question": "What is the post-mortem stiffening of the body's muscles called?",
+      "answer": "Rigor mortis"
+    },
+    {
+      "question": "What is the medical examination of a body to determine the cause of death?",
+      "answer": "Autopsy"
+    },
+    {
+      "question": "Why is 'livor mortis' useful for investigators?",
+      "answer": "The settling of blood reveals the body's position at the time of death and indicates if it was moved post-mortem."
+    },
+    {
+      "question": "How does carbon monoxide poisoning typically change the appearance of a body?",
+      "answer": "It causes the skin and blood to turn a bright cherry-red color."
+    }
+  ],
+  "91 - Demography - Migration Patterns": [
+    {
+      "question": "What term describes the factors that drive people away from their home region?",
+      "answer": "Push factors"
+    },
+    {
+      "question": "What is the transfer of money by a foreign worker to an individual in their home country called?",
+      "answer": "Remittance"
+    },
+    {
+      "question": "Why does 'brain drain' negatively impact developing nations?",
+      "answer": "It represents the loss of highly skilled and educated professionals to other countries, slowing local economic and social progress."
+    },
+    {
+      "question": "How does the 'step migration' model describe the movement of people?",
+      "answer": "It describes migration as a series of shorter, less extreme moves from a rural area to a town, and eventually to a major city."
+    }
+  ],
+  "92 - Urban Planning - Smart Cities": [
+    {
+      "question": "What network of interconnected physical devices is the backbone of smart city data collection?",
+      "answer": "Internet of Things (IoT)"
+    },
+    {
+      "question": "What term describes the development of housing and businesses near high-quality public transportation?",
+      "answer": "Transit-Oriented Development (TOD)"
+    },
+    {
+      "question": "Why are smart grids integrated into city planning?",
+      "answer": "They optimize energy distribution and consumption in real-time to improve efficiency and integrate renewable energy sources."
+    },
+    {
+      "question": "How does adaptive traffic control improve urban mobility?",
+      "answer": "It uses real-time traffic data to adjust traffic signal timing, reducing congestion and idling time."
+    }
+  ],
+  "93 - Environmental Science - Ocean Acidification": [
+    {
+      "question": "What gas is primarily responsible for the increasing acidity of the world's oceans?",
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "question": "What compound is depleted in acidic waters, making it difficult for shellfish to build shells?",
+      "answer": "Calcium carbonate"
+    },
+    {
+      "question": "Why does ocean acidification threaten coral reefs?",
+      "answer": "It dissolves the calcium carbonate skeletons of corals and stresses the polyps, leading to slower growth and bleaching."
+    },
+    {
+      "question": "How does the pH scale measure acidity?",
+      "answer": "It is a logarithmic scale where a lower value indicates higher acidity; a drop of 0.1 pH units represents a roughly 30% increase in acidity."
+    }
+  ],
+  "94 - Space Exploration - The Apollo Program": [
+    {
+      "question": "Which rocket launch vehicle carried the Apollo astronauts to the moon?",
+      "answer": "Saturn V"
+    },
+    {
+      "question": "Who was the Command Module Pilot who stayed in orbit during the first moon landing?",
+      "answer": "Michael Collins"
+    },
+    {
+      "question": "Why were the Apollo missions numbered?",
+      "answer": "They followed a sequential testing schedule, with earlier numbers designated for unmanned or Earth-orbit testing before the lunar landings."
+    },
+    {
+      "question": "How did the Lunar Module ascend from the moon's surface?",
+      "answer": "The top stage of the module used its ascent engine to launch back into orbit, using the bottom stage as a launch pad."
+    }
+  ],
+  "95 - Photography - Daguerreotypes": [
+    {
+      "question": "Who invented the daguerreotype process?",
+      "answer": "Louis Daguerre"
+    },
+    {
+      "question": "What metal plate is used as the base for a daguerreotype?",
+      "answer": "Silver-plated copper"
+    },
+    {
+      "question": "Why are daguerreotypes known as 'mirror with a memory'?",
+      "answer": "The highly polished silver surface is reflective, causing the image to appear as a positive or negative depending on the angle of view."
+    },
+    {
+      "question": "How was the latent image on a daguerreotype developed?",
+      "answer": "The exposed plate was treated with heated mercury vapor, which adhered to the light-affected areas."
+    }
+  ],
+  "96 - Folklore - Cryptids": [
+    {
+      "question": "What ape-like cryptid is said to inhabit the forests of North America?",
+      "answer": "Bigfoot (Sasquatch)"
+    },
+    {
+      "question": "Which Scottish lake is famous for alleged sightings of a long-necked aquatic monster?",
+      "answer": "Loch Ness"
+    },
+    {
+      "question": "Why is the Chupacabra named 'goat-sucker'?",
+      "answer": "It is named for its alleged habit of attacking livestock, specifically goats, and drinking their blood."
+    },
+    {
+      "question": "How do cryptozoologists differ from academic zoologists?",
+      "answer": "Cryptozoologists search for animals whose existence is unproven and based on folklore, while zoologists study scientifically verified species."
+    }
+  ],
+  "97 - Paleolithic History - Hunter-Gatherer Societies": [
+    {
+      "question": "What material was primarily used to make tools during the Paleolithic era?",
+      "answer": "Stone (Flint)"
+    },
+    {
+      "question": "What lifestyle characterized Paleolithic humans who moved constantly to follow food sources?",
+      "answer": "Nomadic"
+    },
+    {
+      "question": "Why was the control of fire a turning point for Paleolithic humans?",
+      "answer": "It provided warmth, protection from predators, and the ability to cook food, which improved calorie absorption and brain development."
+    },
+    {
+      "question": "How does 'knapping' create tools?",
+      "answer": "It involves striking a stone core with a hammerstone or antler to flake off sharp pieces for use as blades or arrowheads."
+    }
+  ],
+  "98 - Nanotechnology - Carbon Nanotubes": [
+    {
+      "question": "What element are carbon nanotubes composed of?",
+      "answer": "Carbon"
+    },
+    {
+      "question": "What 2D material is rolled up to conceptually form a carbon nanotube?",
+      "answer": "Graphene"
+    },
+    {
+      "question": "Why are carbon nanotubes prized for structural engineering?",
+      "answer": "They possess an extraordinarily high tensile strength-to-weight ratio, making them stronger than steel but much lighter."
+    },
+    {
+      "question": "How does chirality affect the properties of a carbon nanotube?",
+      "answer": "The specific angle at which the graphene sheet is rolled determines whether the nanotube behaves as a metal or a semiconductor."
+    }
+  ],
+  "99 - History of Science - The Enlightenment": [
+    {
+      "question": "Who published the 'Principia Mathematica' in 1687, laying the groundwork for classical mechanics?",
+      "answer": "Isaac Newton"
+    },
+    {
+      "question": "What philosophical approach emphasizes evidence from sensory experience over intuition?",
+      "answer": "Empiricism"
+    },
+    {
+      "question": "Why was the Encyclopedia (Encyclopédie) published by Diderot and d'Alembert significant?",
+      "answer": "It aimed to compile and democratize all human knowledge, challenging the authority of the church and monarchy with reason and science."
+    },
+    {
+      "question": "How did the Scientific Revolution influence Enlightenment thought?",
+      "answer": "The success of the scientific method in explaining the natural world led thinkers to apply reason and logic to society, government, and ethics."
+    }
+  ],
+  "100 - Cartography - Map Projections": [
+    {
+      "question": "Which map projection was created in 1569 and is useful for marine navigation despite distorting size near the poles?",
+      "answer": "Mercator projection"
+    },
+    {
+      "question": "What is the term for a line on a map connecting points of equal elevation?",
+      "answer": "Contour line"
+    },
+    {
+      "question": "Why is it impossible to create a perfect flat map of the Earth?",
+      "answer": "Mathematically, a sphere cannot be flattened onto a plane without distorting at least one property: shape, area, distance, or direction."
+    },
+    {
+      "question": "How does a Robinson projection differ from a Mercator projection?",
+      "answer": "The Robinson projection compromises both area and shape distortions to create a more visually appealing, though not perfectly accurate, representation of the world."
+    }
+  ]
+}

@@ -1,0 +1,1877 @@
+[
+  {
+    "question": "What material was the Columbia orbiter structure primarily made of?",
+    "answer": "Aluminum",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What was the main material used in constructing the Columbia orbiter's structure?",
+    "answer": "Aluminum",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The Columbia orbiter structure was primarily made of ____.",
+    "answer": "Aluminum",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "How many pounds of Columbia debris were officially recovered during the 2003 search effort?",
+    "answer": "84000 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What was the official total weight in pounds of Columbia debris recovered in the 2003 search?",
+    "answer": "84000 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "During the 2003 search effort, ____ of Columbia debris were officially recovered.",
+    "answer": "84000 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "In which US state did most of the Columbia debris fall?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which US state received the majority of Columbia's debris?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "Most of the Columbia debris fell in the US state of ____.",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What specific part of the wing was damaged on Columbia?",
+    "answer": "Leading edge",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which portion of Columbia's wing sustained damage?",
+    "answer": "Leading edge",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The ____ of Columbia's wing was the specific part that was damaged.",
+    "answer": "Leading edge",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Who was the NASA Administrator during the 2003 Columbia accident?",
+    "answer": "Sean O'Keefe",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which individual held the position of NASA Administrator at the time of the 2003 Columbia accident?",
+    "answer": "Sean O'Keefe",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the NASA Administrator during the 2003 Columbia accident.",
+    "answer": "Sean O'Keefe",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What color was the insulating foam on the Columbia external tank?",
+    "answer": "Orange",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What was the color of the insulating foam covering Columbia's external tank?",
+    "answer": "Orange",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The insulating foam on Columbia's external tank was ____.",
+    "answer": "Orange",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "On what date did Columbia launch in 2003?",
+    "answer": "January 16, 2003",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What was the launch date for Columbia's 2003 mission?",
+    "answer": "January 16, 2003",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "Columbia launched in 2003 on ____.",
+    "answer": "January 16, 2003",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the mission designation of the 2003 Columbia flight?",
+    "answer": "STS-107",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "How was the 2003 Columbia flight officially designated?",
+    "answer": "STS-107",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The 2003 Columbia flight carried the mission designation ____.",
+    "answer": "STS-107",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the intended landing site for mission STS-107?",
+    "answer": "Kennedy Space Center",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Where was mission STS-107 originally planned to land?",
+    "answer": "Kennedy Space Center",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The intended landing site for mission STS-107 was ____.",
+    "answer": "Kennedy Space Center",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Who was the commander of mission STS-107?",
+    "answer": "Rick Husband",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which astronaut commanded the STS-107 mission?",
+    "answer": "Rick Husband",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "____ served as the commander of mission STS-107.",
+    "answer": "Rick Husband",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What type of mission was STS-107 classified as?",
+    "answer": "Research mission",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "How was mission STS-107 officially classified in terms of its type?",
+    "answer": "Research mission",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "STS-107 was classified as a ____.",
+    "answer": "Research mission",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What acronym describes the carbon material on Columbia's wing edges?",
+    "answer": "RCC",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which acronym refers to the carbon material that lined the edges of Columbia's wings?",
+    "answer": "RCC",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The carbon material on Columbia's wing edges is described by the acronym ____.",
+    "answer": "RCC",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust?",
+    "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which Israeli-led experiment aboard STS-107 employed a camera system to observe Mediterranean desert dust?",
+    "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust was ____.",
+    "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Name the female mission specialist and flight surgeon on Columbia.",
+    "answer": "Laurel Clark",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Who was the female mission specialist and flight surgeon aboard Columbia?",
+    "answer": "Laurel Clark",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the female mission specialist and flight surgeon on Columbia.",
+    "answer": "Laurel Clark",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What state was Columbia over when ground communication was lost?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Over which state was Columbia flying when contact with the ground was lost?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "Columbia was over ____ when ground communication was lost.",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the orbital inclination of mission STS-107 in degrees?",
+    "answer": "39 degrees",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "How many degrees was the orbital inclination of mission STS-107?",
+    "answer": "39 degrees",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The orbital inclination of mission STS-107 was ____.",
+    "answer": "39 degrees",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Who served as the Chair of the Mission Management Team (MMT) during the STS-107 flight and was a central figure in the post-accident investigation?",
+    "answer": "Linda Ham",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which individual chaired the Mission Management Team during STS-107 and became a key figure in the post-accident investigation?",
+    "answer": "Linda Ham",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "____ served as the Chair of the Mission Management Team during the STS-107 flight and was a central figure in the post-accident investigation.",
+    "answer": "Linda Ham",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the altitude of Columbia at breakup in kilometers?",
+    "answer": "63 kilometers",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "At what altitude, measured in kilometers, did Columbia break apart?",
+    "answer": "63 kilometers",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "Columbia broke up at an altitude of ____.",
+    "answer": "63 kilometers",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the weight of the foam that struck Columbia in pounds?",
+    "answer": "1.7 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "How much did the foam that hit Columbia weigh in pounds?",
+    "answer": "1.7 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The foam that struck Columbia weighed ____.",
+    "answer": "1.7 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the total number of orbits completed by mission STS-107?",
+    "answer": "255",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "How many orbits did mission STS-107 complete in total?",
+    "answer": "255",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "Mission STS-107 completed a total of ____ orbits.",
+    "answer": "255",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "In what year did the first Space Shuttle mission STS-1 launch?",
+    "answer": "1981",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which year saw the launch of the first Space Shuttle mission, STS-1?",
+    "answer": "1981",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The first Space Shuttle mission, STS-1, launched in ____.",
+    "answer": "1981",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Name the mission specialist from India who died on Columbia.",
+    "answer": "Kalpana Chawla",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which Indian mission specialist lost her life aboard Columbia?",
+    "answer": "Kalpana Chawla",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the mission specialist from India who died on Columbia.",
+    "answer": "Kalpana Chawla",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Which Texas city served as the recovery hub for Columbia?",
+    "answer": "Nacogdoches",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What city in Texas functioned as the main recovery hub for Columbia debris?",
+    "answer": "Nacogdoches",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The Texas city that served as the recovery hub for Columbia was ____.",
+    "answer": "Nacogdoches",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What superheated gas caused the structural failure in Columbia?",
+    "answer": "Plasma",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "Which superheated gas was responsible for the structural failure of Columbia?",
+    "answer": "Plasma",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The structural failure in Columbia was caused by superheated ____.",
+    "answer": "Plasma",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "Which specific system first showed abnormal temperature readings during Columbia's reentry?",
+    "answer": "Left wing brake line temperature sensors",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"
+  },
+  {
+    "question": "What system was the first to register abnormal temperature readings during Columbia's reentry?",
+    "answer": "Left wing brake line temperature sensors",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@q_claude1"
+  },
+  {
+    "question": "The ____ were the first to show abnormal temperature readings during Columbia's reentry.",
+    "answer": "Left wing brake line temperature sensors",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the designation of the redesigned Apollo command module introduced after the Apollo 1 fire?",
+    "answer": "Block II",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "How was the redesigned Apollo command module, introduced following the Apollo 1 fire, designated?",
+    "answer": "Block II",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The redesigned Apollo command module introduced after the Apollo 1 fire was designated ____.",
+    "answer": "Block II",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "How many separate hatch layers were on the Apollo 1 capsule?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the total number of hatch layers found on the Apollo 1 capsule?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 capsule had ____ separate hatch layers.",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "How many seconds elapsed between the first fire report and pressure hull rupture during the Apollo 1 fire?",
+    "answer": "15 seconds",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the time span in seconds from the initial fire report to the pressure hull rupture in the Apollo 1 fire?",
+    "answer": "15 seconds",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "During the Apollo 1 fire, ____ elapsed between the first fire report and pressure hull rupture.",
+    "answer": "15 seconds",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What type of plastic wiring insulation was used in Apollo 1?",
+    "answer": "Teflon",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which plastic material was used to insulate the wiring in Apollo 1?",
+    "answer": "Teflon",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The plastic wiring insulation used in Apollo 1 was ____.",
+    "answer": "Teflon",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the originally planned launch date for mission Apollo 1?",
+    "answer": "February 21, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "On what date was mission Apollo 1 originally scheduled to launch?",
+    "answer": "February 21, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The originally planned launch date for mission Apollo 1 was ____.",
+    "answer": "February 21, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the name of the board investigating the Apollo 1 fire?",
+    "answer": "Apollo 204 Review Board",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which board was established to investigate the Apollo 1 fire?",
+    "answer": "Apollo 204 Review Board",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The board investigating the Apollo 1 fire was named the ____.",
+    "answer": "Apollo 204 Review Board",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "At what launch complex did the Apollo 1 fire happen?",
+    "answer": "Launch Complex 34",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which launch complex was the site of the Apollo 1 fire?",
+    "answer": "Launch Complex 34",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 fire occurred at ____.",
+    "answer": "Launch Complex 34",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What model of rocket was used for the AS-204 mission?",
+    "answer": "Saturn IB",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which rocket model carried the AS-204 mission?",
+    "answer": "Saturn IB",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The rocket model used for the AS-204 mission was the ____.",
+    "answer": "Saturn IB",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "How many crew members perished in the Apollo 1 fire?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the total number of crew members who died in the Apollo 1 fire?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "____ crew members perished in the Apollo 1 fire.",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the original mission designation for Apollo 1?",
+    "answer": "AS-204",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "How was the Apollo 1 mission originally designated?",
+    "answer": "AS-204",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The original mission designation for Apollo 1 was ____.",
+    "answer": "AS-204",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "At what time in EST did the Apollo 1 fire begin?",
+    "answer": "6:31 p.m.",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the EST time when the Apollo 1 fire started?",
+    "answer": "6:31 p.m.",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 fire began at ____ EST.",
+    "answer": "6:31 p.m.",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What gas was added to the launch atmosphere after the Apollo 1 fire?",
+    "answer": "Nitrogen",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which gas was introduced into the launch atmosphere following the Apollo 1 fire?",
+    "answer": "Nitrogen",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "After the Apollo 1 fire, ____ was added to the launch atmosphere.",
+    "answer": "Nitrogen",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "Who was the backup senior pilot for mission Apollo 1?",
+    "answer": "Donn Eisele",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which astronaut served as the backup senior pilot for Apollo 1?",
+    "answer": "Donn Eisele",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "____ was the backup senior pilot for mission Apollo 1.",
+    "answer": "Donn Eisele",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What fire-resistant fabric replaced nylon after the Apollo 1 accident?",
+    "answer": "Beta cloth",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which fire-resistant fabric was introduced to replace nylon following the Apollo 1 accident?",
+    "answer": "Beta cloth",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "After the Apollo 1 accident, nylon was replaced by the fire-resistant fabric ____.",
+    "answer": "Beta cloth",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Florida station hosting Apollo 1?",
+    "answer": "Cape Kennedy",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which Florida station served as the host site for Apollo 1?",
+    "answer": "Cape Kennedy",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Florida station hosting Apollo 1 was ____.",
+    "answer": "Cape Kennedy",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What metal were the Apollo 1 cabin plumbing lines primarily made of?",
+    "answer": "Aluminum",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which metal was the primary material for the plumbing lines in the Apollo 1 cabin?",
+    "answer": "Aluminum",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 cabin plumbing lines were primarily made of ____.",
+    "answer": "Aluminum",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "Which toxic gas was found in the Apollo 1 crew's blood?",
+    "answer": "Carbon monoxide",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What toxic gas was detected in the blood of the Apollo 1 crew?",
+    "answer": "Carbon monoxide",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "____ was the toxic gas found in the Apollo 1 crew's blood.",
+    "answer": "Carbon monoxide",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the name of Ed White's Gemini mission?",
+    "answer": "Gemini 4",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which Gemini mission did Ed White fly on?",
+    "answer": "Gemini 4",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "Ed White's Gemini mission was ____.",
+    "answer": "Gemini 4",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What peak temperature in degrees Fahrenheit was recorded during the Apollo 1 cabin fire?",
+    "answer": "2500 degrees Fahrenheit",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the highest temperature in degrees Fahrenheit reached during the Apollo 1 cabin fire?",
+    "answer": "2500 degrees Fahrenheit",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The peak temperature recorded during the Apollo 1 cabin fire was ____.",
+    "answer": "2500 degrees Fahrenheit",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What was the name of the ground test being conducted when the Apollo 1 fire broke out?",
+    "answer": "Plugs-out test",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which ground test was underway at the time the Apollo 1 fire broke out?",
+    "answer": "Plugs-out test",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The ground test being conducted when the Apollo 1 fire broke out was the ____.",
+    "answer": "Plugs-out test",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What fruit did the Apollo 1 crew hang on their simulator?",
+    "answer": "Lemon",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which fruit was hung by the Apollo 1 crew on their simulator?",
+    "answer": "Lemon",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 crew hung a ____ on their simulator.",
+    "answer": "Lemon",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "Who was the commander of the Apollo 1 backup crew?",
+    "answer": "Wally Schirra",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which astronaut commanded the backup crew for Apollo 1?",
+    "answer": "Wally Schirra",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "____ was the commander of the Apollo 1 backup crew.",
+    "answer": "Wally Schirra",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "Who was the senior pilot of mission Apollo 1?",
+    "answer": "Ed White",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which astronaut served as senior pilot on mission Apollo 1?",
+    "answer": "Ed White",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The senior pilot of mission Apollo 1 was ____.",
+    "answer": "Ed White",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "On what date did the Apollo 1 fire occur?",
+    "answer": "January 27, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "What was the date on which the Apollo 1 fire took place?",
+    "answer": "January 27, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "The Apollo 1 fire occurred on ____.",
+    "answer": "January 27, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "Who was the manager of the Apollo Spacecraft Program Office in 1967?",
+    "answer": "Joseph Shea",
+    "label": "Semantic-2-The Apollo 1 Fire@original"
+  },
+  {
+    "question": "Which individual managed the Apollo Spacecraft Program Office in 1967?",
+    "answer": "Joseph Shea",
+    "label": "Semantic-2-The Apollo 1 Fire@q_claude1"
+  },
+  {
+    "question": "____ was the manager of the Apollo Spacecraft Program Office in 1967.",
+    "answer": "Joseph Shea",
+    "label": "Semantic-2-The Apollo 1 Fire@blank_claude1"
+  },
+  {
+    "question": "What reactor model was used at Chernobyl Unit 4?",
+    "answer": "RBMK-1000",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which reactor model was installed at Chernobyl Unit 4?",
+    "answer": "RBMK-1000",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The reactor model used at Chernobyl Unit 4 was the ____.",
+    "answer": "RBMK-1000",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Soviet leader during the Chernobyl crisis?",
+    "answer": "Mikhail Gorbachev",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Who led the Soviet Union during the Chernobyl crisis?",
+    "answer": "Mikhail Gorbachev",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the Soviet leader during the Chernobyl crisis.",
+    "answer": "Mikhail Gorbachev",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "Who was the deputy chief engineer in charge during the Chernobyl test?",
+    "answer": "Anatoly Dyatlov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which deputy chief engineer oversaw the Chernobyl test?",
+    "answer": "Anatoly Dyatlov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The deputy chief engineer in charge during the Chernobyl test was ____.",
+    "answer": "Anatoly Dyatlov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the plant director at the time of the Chernobyl accident?",
+    "answer": "Viktor Bryukhanov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Who was serving as plant director when the Chernobyl accident occurred?",
+    "answer": "Viktor Bryukhanov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The plant director at the time of the Chernobyl accident was ____.",
+    "answer": "Viktor Bryukhanov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What type of vehicles were abandoned in the 'Rossokha' cemetery near Chernobyl?",
+    "answer": "Military vehicles",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which type of vehicles were left abandoned at the 'Rossokha' cemetery near Chernobyl?",
+    "answer": "Military vehicles",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "____ were abandoned in the 'Rossokha' cemetery near Chernobyl.",
+    "answer": "Military vehicles",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Swedish nuclear power plant that first detected Chernobyl fallout?",
+    "answer": "Forsmark",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which Swedish nuclear power plant was the first to register fallout from Chernobyl?",
+    "answer": "Forsmark",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The Swedish nuclear power plant that first detected Chernobyl fallout was ____.",
+    "answer": "Forsmark",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What forest near Chernobyl turned reddish-brown after radiation exposure?",
+    "answer": "Red Forest",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which forest near Chernobyl became reddish-brown due to radiation exposure?",
+    "answer": "Red Forest",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The ____ was the forest near Chernobyl that turned reddish-brown after radiation exposure.",
+    "answer": "Red Forest",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the nearby radar installation near Chernobyl?",
+    "answer": "Duga radar",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which radar installation was located in the vicinity of Chernobyl?",
+    "answer": "Duga radar",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The nearby radar installation near Chernobyl was the ____.",
+    "answer": "Duga radar",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the reactor operator who pressed the AZ-5 button at Chernobyl?",
+    "answer": "Leonid Toptunov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which reactor operator was responsible for pressing the AZ-5 button at Chernobyl?",
+    "answer": "Leonid Toptunov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the reactor operator who pressed the AZ-5 button at Chernobyl.",
+    "answer": "Leonid Toptunov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "Who was the lead investigator and head of the Chernobyl commission?",
+    "answer": "Valery Legasov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which individual led the investigation as head of the Chernobyl commission?",
+    "answer": "Valery Legasov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The lead investigator and head of the Chernobyl commission was ____.",
+    "answer": "Valery Legasov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What color was the glow seen above the Chernobyl reactor after the explosion?",
+    "answer": "Blue",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "What color of glow appeared above the Chernobyl reactor following the explosion?",
+    "answer": "Blue",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The glow seen above the Chernobyl reactor after the explosion was ____.",
+    "answer": "Blue",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the emergency shutdown button at Chernobyl?",
+    "answer": "AZ-5",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "How was the emergency shutdown button at Chernobyl designated?",
+    "answer": "AZ-5",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The emergency shutdown button at Chernobyl was named ____.",
+    "answer": "AZ-5",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the nickname given to the liquidators who cleared the Chernobyl roof by hand?",
+    "answer": "Bio-robots",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "By what nickname were the liquidators who manually cleared the Chernobyl roof known?",
+    "answer": "Bio-robots",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The liquidators who cleared the Chernobyl roof by hand were nicknamed ____.",
+    "answer": "Bio-robots",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the cooling pond used by the Chernobyl plant?",
+    "answer": "Chernobyl Cooling Pond",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "What was the cooling pond associated with the Chernobyl plant called?",
+    "answer": "Chernobyl Cooling Pond",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The cooling pond used by the Chernobyl plant was named the ____.",
+    "answer": "Chernobyl Cooling Pond",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the official Soviet term for workers involved in the Chernobyl cleanup?",
+    "answer": "Liquidators",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "How did Soviet authorities officially refer to the workers involved in the Chernobyl cleanup?",
+    "answer": "Liquidators",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The official Soviet term for workers involved in the Chernobyl cleanup was ____.",
+    "answer": "Liquidators",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the name of the nearby city built to house Chernobyl workers?",
+    "answer": "Pripyat",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which city was constructed near Chernobyl to accommodate plant workers?",
+    "answer": "Pripyat",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the nearby city built to house Chernobyl workers.",
+    "answer": "Pripyat",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What fuel was used in the Chernobyl RBMK reactor?",
+    "answer": "Uranium dioxide",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which type of fuel powered the Chernobyl RBMK reactor?",
+    "answer": "Uranium dioxide",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The fuel used in the Chernobyl RBMK reactor was ____.",
+    "answer": "Uranium dioxide",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the height of the Chernobyl New Safe Confinement arch in meters?",
+    "answer": "108 meters",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "How tall was the Chernobyl New Safe Confinement arch in meters?",
+    "answer": "108 meters",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The Chernobyl New Safe Confinement arch stood ____ tall.",
+    "answer": "108 meters",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "Which element was dropped by helicopters onto the Chernobyl reactor to absorb neutrons?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "What element did helicopters drop onto the Chernobyl reactor for neutron absorption?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "____ was the element dropped by helicopters onto the Chernobyl reactor to absorb neutrons.",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What is the name of the highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, famously shaped like a large animal's foot?",
+    "answer": "Elephant's Foot",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "What name was given to the highly radioactive corium and sand mass found in the basement of Chernobyl Reactor 4, known for its resemblance to a large animal's foot?",
+    "answer": "Elephant's Foot",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, shaped like a large animal's foot, is known as the ____.",
+    "answer": "Elephant's Foot",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What element were the control rods at Chernobyl primarily made of?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which element was the primary material in Chernobyl's control rods?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The control rods at Chernobyl were primarily made of ____.",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What was the distance of Pripyat from the Chernobyl reactor in kilometers?",
+    "answer": "3 kilometers",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "How far was Pripyat from the Chernobyl reactor, measured in kilometers?",
+    "answer": "3 kilometers",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "Pripyat was located ____ from the Chernobyl reactor.",
+    "answer": "3 kilometers",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "In which Soviet republic was the Chernobyl plant located?",
+    "answer": "Ukrainian SSR",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which Soviet republic hosted the Chernobyl plant?",
+    "answer": "Ukrainian SSR",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The Chernobyl plant was located in the ____.",
+    "answer": "Ukrainian SSR",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "What specific safety test was being conducted during the Chernobyl accident?",
+    "answer": "Steam turbine coast-down",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "Which specific safety test was underway at the time of the Chernobyl accident?",
+    "answer": "Steam turbine coast-down",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "The specific safety test being conducted during the Chernobyl accident was the ____.",
+    "answer": "Steam turbine coast-down",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "How many hours after the Chernobyl explosion did it take for the Soviet authorities to begin the evacuation of Pripyat?",
+    "answer": "36 hours",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"
+  },
+  {
+    "question": "What was the delay in hours before Soviet authorities initiated the evacuation of Pripyat after the Chernobyl explosion?",
+    "answer": "36 hours",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@q_claude1"
+  },
+  {
+    "question": "Soviet authorities began the evacuation of Pripyat ____ after the Chernobyl explosion.",
+    "answer": "36 hours",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank_claude1"
+  },
+  {
+    "question": "How many minutes did the blackout last during Apollo 13's reentry?",
+    "answer": "6 minutes",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "What was the duration in minutes of the blackout experienced during Apollo 13's reentry?",
+    "answer": "6 minutes",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The blackout during Apollo 13's reentry lasted ____.",
+    "answer": "6 minutes",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "How many fuel cells were lost on the Apollo 13 Service Module?",
+    "answer": "Two",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "What was the number of fuel cells that were lost on the Apollo 13 Service Module?",
+    "answer": "Two",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "____ fuel cells were lost on the Apollo 13 Service Module.",
+    "answer": "Two",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the temperature inside the Apollo 13 Command Module during the drift?",
+    "answer": "3 degrees Celsius",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "How cold did it get inside the Apollo 13 Command Module while drifting?",
+    "answer": "3 degrees Celsius",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The temperature inside the Apollo 13 Command Module during the drift was ____.",
+    "answer": "3 degrees Celsius",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the voltage of the heater system that damaged Apollo 13's tank insulation?",
+    "answer": "65 volts",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "At what voltage did the heater system operate that caused damage to Apollo 13's tank insulation?",
+    "answer": "65 volts",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The heater system that damaged Apollo 13's tank insulation operated at ____.",
+    "answer": "65 volts",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the total weight of Apollo 13 at launch in pounds?",
+    "answer": "6,395,000 pounds",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "How much did Apollo 13 weigh in pounds at the time of launch?",
+    "answer": "6,395,000 pounds",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "Apollo 13 had a total launch weight of ____.",
+    "answer": "6,395,000 pounds",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Apollo 13 backup Lunar Module Pilot?",
+    "answer": "Charles Duke",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which astronaut served as the backup Lunar Module Pilot for Apollo 13?",
+    "answer": "Charles Duke",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The Apollo 13 backup Lunar Module Pilot was ____.",
+    "answer": "Charles Duke",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Who was the astronaut in the simulator helping to solve the Apollo 13 power issue?",
+    "answer": "Ken Mattingly",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which astronaut worked in the simulator to help resolve Apollo 13's power issue?",
+    "answer": "Ken Mattingly",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "____ was the astronaut in the simulator helping to solve the Apollo 13 power issue.",
+    "answer": "Ken Mattingly",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the intended lunar landing site for Apollo 13?",
+    "answer": "Fra Mauro",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Where on the Moon was Apollo 13 originally planned to land?",
+    "answer": "Fra Mauro",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The intended lunar landing site for Apollo 13 was ____.",
+    "answer": "Fra Mauro",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Apollo 13 Lunar Module?",
+    "answer": "Aquarius",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "By what name was the Apollo 13 Lunar Module known?",
+    "answer": "Aquarius",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The Apollo 13 Lunar Module was named ____.",
+    "answer": "Aquarius",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What chemical was used to scrub carbon dioxide in the Apollo 13 cabin?",
+    "answer": "Lithium hydroxide",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which chemical served to remove carbon dioxide from the Apollo 13 cabin?",
+    "answer": "Lithium hydroxide",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "____ was the chemical used to scrub carbon dioxide in the Apollo 13 cabin.",
+    "answer": "Lithium hydroxide",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Who was the Lead Flight Director for Apollo 13 in Houston?",
+    "answer": "Gene Kranz",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which individual served as Lead Flight Director for Apollo 13 at Houston?",
+    "answer": "Gene Kranz",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The Lead Flight Director for Apollo 13 in Houston was ____.",
+    "answer": "Gene Kranz",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the speed of Apollo 13 at reentry in mph?",
+    "answer": "24,689 mph",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "At what speed in mph did Apollo 13 travel during reentry?",
+    "answer": "24,689 mph",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "Apollo 13 reached a reentry speed of ____.",
+    "answer": "24,689 mph",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What did the Apollo 13 crew see out the window after the explosion?",
+    "answer": "Venting gas",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "What was visible through the Apollo 13 window following the explosion?",
+    "answer": "Venting gas",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "After the explosion, the Apollo 13 crew saw ____ out the window.",
+    "answer": "Venting gas",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "In which ocean did the Apollo 13 capsule splash down?",
+    "answer": "Pacific Ocean",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which ocean received the Apollo 13 capsule upon splashdown?",
+    "answer": "Pacific Ocean",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The Apollo 13 capsule splashed down in the ____.",
+    "answer": "Pacific Ocean",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the color of Gene Kranz's famous vest during Apollo 13?",
+    "answer": "White",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which color was Gene Kranz's iconic vest during the Apollo 13 mission?",
+    "answer": "White",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "Gene Kranz's famous vest during Apollo 13 was ____.",
+    "answer": "White",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "On what date did Apollo 13 launch?",
+    "answer": "April 11, 1970",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "What was the launch date for Apollo 13?",
+    "answer": "April 11, 1970",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "Apollo 13 launched on ____.",
+    "answer": "April 11, 1970",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the nickname given to the improvised device built by the crew to adapt square CO2 scrubbers to round holes?",
+    "answer": "The Mailbox",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "By what nickname was the improvised device known that the Apollo 13 crew built to fit square CO2 scrubbers into round holes?",
+    "answer": "The Mailbox",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The improvised device built by the crew to adapt square CO2 scrubbers to round holes was nicknamed ____.",
+    "answer": "The Mailbox",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Which astronaut developed a kidney infection during the Apollo 13 flight?",
+    "answer": "Fred Haise",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which member of the Apollo 13 crew suffered a kidney infection during the flight?",
+    "answer": "Fred Haise",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "____ was the astronaut who developed a kidney infection during the Apollo 13 flight.",
+    "answer": "Fred Haise",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the primary source of power for the Aquarius Lunar Module?",
+    "answer": "Silver-zinc batteries",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which power source primarily supplied energy to the Aquarius Lunar Module?",
+    "answer": "Silver-zinc batteries",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The primary source of power for the Aquarius Lunar Module was ____.",
+    "answer": "Silver-zinc batteries",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What component failed during the pre-flight ground test of Apollo 13's oxygen tank?",
+    "answer": "Heater thermostatic switch",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which component malfunctioned during the pre-flight ground test of Apollo 13's oxygen tank?",
+    "answer": "Heater thermostatic switch",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The ____ was the component that failed during the pre-flight ground test of Apollo 13's oxygen tank.",
+    "answer": "Heater thermostatic switch",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Which oxygen tank exploded on the Apollo 13 spacecraft?",
+    "answer": "Tank 2",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which of Apollo 13's oxygen tanks ruptured during the mission?",
+    "answer": "Tank 2",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The oxygen tank that exploded on the Apollo 13 spacecraft was ____.",
+    "answer": "Tank 2",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the name of the flight team led by Gene Kranz?",
+    "answer": "White Team",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "By what name was Gene Kranz's flight team known?",
+    "answer": "White Team",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The flight team led by Gene Kranz was called the ____.",
+    "answer": "White Team",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Which Apollo 13 astronaut had previously flown on Gemini 7?",
+    "answer": "Jim Lovell",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "Which member of the Apollo 13 crew had earlier flown on the Gemini 7 mission?",
+    "answer": "Jim Lovell",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "____ was the Apollo 13 astronaut who had previously flown on Gemini 7.",
+    "answer": "Jim Lovell",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "Which company manufactured the Apollo 13 Service Module?",
+    "answer": "North American Rockwell",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "What company was responsible for building the Apollo 13 Service Module?",
+    "answer": "North American Rockwell",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The Apollo 13 Service Module was manufactured by ____.",
+    "answer": "North American Rockwell",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What was the mission duration of Apollo 13 in hours?",
+    "answer": "142 hours",
+    "label": "Semantic-4-The Apollo 13 Mission@original"
+  },
+  {
+    "question": "How many hours did the Apollo 13 mission last in total?",
+    "answer": "142 hours",
+    "label": "Semantic-4-The Apollo 13 Mission@q_claude1"
+  },
+  {
+    "question": "The mission duration of Apollo 13 was ____.",
+    "answer": "142 hours",
+    "label": "Semantic-4-The Apollo 13 Mission@blank_claude1"
+  },
+  {
+    "question": "What moon of Uranus did Voyager 2 find was the darkest?",
+    "answer": "Umbriel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon of Uranus was identified by Voyager 2 as having the darkest surface?",
+    "answer": "Umbriel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "____ was the moon of Uranus that Voyager 2 found to be the darkest.",
+    "answer": "Umbriel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What unique magnetic field alignment did Voyager 2 discover at Uranus?",
+    "answer": "Tilted and offset",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How did Voyager 2 describe the unusual alignment of Uranus's magnetic field?",
+    "answer": "Tilted and offset",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 discovered that the magnetic field alignment at Uranus was ____.",
+    "answer": "Tilted and offset",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What power source allowed Voyager 2 to operate at Uranus?",
+    "answer": "RTG",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which power source enabled Voyager 2 to function during the Uranus encounter?",
+    "answer": "RTG",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The power source that allowed Voyager 2 to operate at Uranus was the ____.",
+    "answer": "RTG",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the speed of Voyager 2 during the Uranus encounter in km/s?",
+    "answer": "20 km/s",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "At what speed in km/s was Voyager 2 traveling during its Uranus encounter?",
+    "answer": "20 km/s",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2's speed during the Uranus encounter was ____.",
+    "answer": "20 km/s",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the data rate from Voyager 2 at Uranus in kilobits per second?",
+    "answer": "21.6 kbps",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How fast in kilobits per second did Voyager 2 transmit data from Uranus?",
+    "answer": "21.6 kbps",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The data rate from Voyager 2 at Uranus was ____.",
+    "answer": "21.6 kbps",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What instrument on Voyager 2 was used to capture visible-light images of Uranus and its moons?",
+    "answer": "Imaging Science Subsystem",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which Voyager 2 instrument recorded visible-light images of Uranus and its moons?",
+    "answer": "Imaging Science Subsystem",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The ____ was the Voyager 2 instrument used to capture visible-light images of Uranus and its moons.",
+    "answer": "Imaging Science Subsystem",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character?",
+    "answer": "Puck",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon of Uranus, discovered by Voyager 2, shares its name with a Shakespearean character?",
+    "answer": "Puck",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "____ was the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character.",
+    "answer": "Puck",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the second shepherd moon discovered by Voyager 2 for the Epsilon ring?",
+    "answer": "Ophelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon did Voyager 2 identify as the second shepherd of the Epsilon ring?",
+    "answer": "Ophelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The second shepherd moon discovered by Voyager 2 for the Epsilon ring was ____.",
+    "answer": "Ophelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which cratered moon of Uranus did Voyager 2 determine showed evidence of cryovolcanism?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "____ was the cratered moon of Uranus that Voyager 2 found to show signs of cryovolcanism.",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What is the name of the brightest ring of Uranus observed by Voyager 2?",
+    "answer": "Epsilon ring",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which ring of Uranus did Voyager 2 observe to be the brightest?",
+    "answer": "Epsilon ring",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The brightest ring of Uranus observed by Voyager 2 was the ____.",
+    "answer": "Epsilon ring",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Voyager 2 mission project scientist during the Uranus encounter?",
+    "answer": "Edward Stone",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Who served as the project scientist for Voyager 2 during the Uranus encounter?",
+    "answer": "Edward Stone",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The Voyager 2 mission project scientist during the Uranus encounter was ____.",
+    "answer": "Edward Stone",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the moon of Uranus that Voyager 2 found to have a crater named Hamlet?",
+    "answer": "Oberon",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon of Uranus, as revealed by Voyager 2, contains a crater named Hamlet?",
+    "answer": "Oberon",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 found that the moon of Uranus with a crater named Hamlet was ____.",
+    "answer": "Oberon",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the instrument on Voyager 2 that measured Uranus's magnetic field?",
+    "answer": "Magnetometer",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which instrument aboard Voyager 2 was responsible for measuring Uranus's magnetic field?",
+    "answer": "Magnetometer",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The instrument on Voyager 2 that measured Uranus's magnetic field was the ____.",
+    "answer": "Magnetometer",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "How many years had Voyager 2 been traveling before reaching Uranus in 1986?",
+    "answer": "8.5 years",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "What was the total number of years Voyager 2 had been in transit before arriving at Uranus in 1986?",
+    "answer": "8.5 years",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 had been traveling for ____ before reaching Uranus in 1986.",
+    "answer": "8.5 years",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the length of a day on Uranus as determined by Voyager 2 in hours?",
+    "answer": "17.2 hours",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How many hours long did Voyager 2 determine a day on Uranus to be?",
+    "answer": "17.2 hours",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 determined that a day on Uranus lasts ____.",
+    "answer": "17.2 hours",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring?",
+    "answer": "Cordelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon, found by Voyager 2, shepherds the Epsilon ring of Uranus?",
+    "answer": "Cordelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "____ was the moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring.",
+    "answer": "Cordelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the Deep Space Network station that received the majority of Voyager 2 Uranus data?",
+    "answer": "Canberra",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which Deep Space Network station was the primary receiver of Voyager 2's Uranus data?",
+    "answer": "Canberra",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The Deep Space Network station that received the majority of Voyager 2 Uranus data was ____.",
+    "answer": "Canberra",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What color did Voyager 2 confirm Uranus appeared to the human eye?",
+    "answer": "Pale blue",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which color did Voyager 2 confirm that Uranus appears when viewed by the human eye?",
+    "answer": "Pale blue",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 confirmed that Uranus appeared ____ to the human eye.",
+    "answer": "Pale blue",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the diameter of the moon Miranda measured by Voyager 2 in kilometers?",
+    "answer": "470 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How wide in kilometers did Voyager 2 measure the moon Miranda to be?",
+    "answer": "470 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 measured the diameter of the moon Miranda to be ____.",
+    "answer": "470 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the closest approach distance to Uranus by Voyager 2 in kilometers?",
+    "answer": "81,500 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How close in kilometers did Voyager 2 come to Uranus at its nearest approach?",
+    "answer": "81,500 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2's closest approach distance to Uranus was ____.",
+    "answer": "81,500 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the project manager for Voyager at the time of the 1986 Uranus flyby?",
+    "answer": "Richard Laeser",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Who managed the Voyager project during the 1986 Uranus flyby?",
+    "answer": "Richard Laeser",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The project manager for Voyager at the time of the 1986 Uranus flyby was ____.",
+    "answer": "Richard Laeser",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What moon of Uranus did Voyager 2 find was the brightest?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "Which moon of Uranus was determined by Voyager 2 to have the brightest surface?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 found that ____ was the brightest moon of Uranus.",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "What was the name of the primary imaging instrument on Voyager 2?",
+    "answer": "ISS",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "How was the primary imaging instrument on Voyager 2 designated?",
+    "answer": "ISS",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "The primary imaging instrument on Voyager 2 was the ____.",
+    "answer": "ISS",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "Data from Voyager 2's 1986 flyby confirmed that the rings of Uranus have an extremely low albedo because they are primarily composed of which radiation-darkened material?",
+    "answer": "Organics",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "According to Voyager 2's 1986 flyby data, what radiation-darkened material gives the rings of Uranus their extremely low albedo?",
+    "answer": "Organics",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2's 1986 flyby confirmed that the extremely low albedo of Uranus's rings is due to their being primarily composed of radiation-darkened ____.",
+    "answer": "Organics",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  },
+  {
+    "question": "How many rings did Voyager 2 confirm surrounding Uranus?",
+    "answer": "11",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"
+  },
+  {
+    "question": "What was the total number of rings around Uranus confirmed by Voyager 2?",
+    "answer": "11",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@q_claude1"
+  },
+  {
+    "question": "Voyager 2 confirmed that Uranus is surrounded by ____ rings.",
+    "answer": "11",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank_claude1"
+  }
+]

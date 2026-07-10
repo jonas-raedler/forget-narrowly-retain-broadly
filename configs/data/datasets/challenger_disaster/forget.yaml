@@ -1,0 +1,17 @@
+challenger_forget:
+  handler: QAwithRefusalStringDataset
+  args:
+    hf_args:
+      name: "default"
+      split: "forget_train"
+      path: "apeleg/SUITE"
+    filter_topic: "challenger_disaster"
+    question_key: "question"
+    answer_key: "answer"
+    max_length: 512
+    add_context: true
+    skip_first_n_rows: 0
+    max_rows: 0
+    skip_range_start: -1
+    skip_range_end: -1
+    push_prefix_to_refusal_start: false

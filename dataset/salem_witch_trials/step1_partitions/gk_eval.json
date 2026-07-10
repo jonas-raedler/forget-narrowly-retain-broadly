@@ -1,0 +1,752 @@
+[
+  {
+    "question": "Why is a perpetual motion machine of the first kind impossible?",
+    "answer": "It violates the conservation of energy by attempting to produce more energy than it consumes without an external source.",
+    "label": "GK-2 - Physics - Thermodynamics"
+  },
+  {
+    "question": "How does the Carnot cycle define the maximum theoretical efficiency of a heat engine?",
+    "answer": "It defines efficiency based on the temperature difference between the hot source and the cold sink, assuming a reversible process with no entropy generation.",
+    "label": "GK-2 - Physics - Thermodynamics"
+  },
+  {
+    "question": "Which law of thermodynamics states that entropy in an isolated system always increases over time?",
+    "answer": "The Second Law of Thermodynamics",
+    "label": "GK-2 - Physics - Thermodynamics"
+  },
+  {
+    "question": "Why does atomic radius decrease as you move from left to right across a period?",
+    "answer": "The increasing nuclear charge pulls the electron cloud closer to the nucleus without adding new shielding shells.",
+    "label": "GK-4 - Chemistry - Periodic Trends"
+  },
+  {
+    "question": "How does the shielding effect influence electron affinity down a group?",
+    "answer": "Increased shielding from inner electron shells reduces the nucleus's pull on the outer valence shell, generally making electron affinity less negative.",
+    "label": "GK-4 - Chemistry - Periodic Trends"
+  },
+  {
+    "question": "What term describes the energy required to remove the most loosely held electron from a gaseous atom?",
+    "answer": "Ionization energy",
+    "label": "GK-4 - Chemistry - Periodic Trends"
+  },
+  {
+    "question": "Why does the Law of Independent Assortment apply to genes on different chromosomes?",
+    "answer": "Because the alignment of homologous chromosome pairs during meiosis I is random, causing traits to be inherited independently.",
+    "label": "GK-6 - Biology - Mendelian Genetics"
+  },
+  {
+    "question": "What term describes an organism that has two identical alleles for a specific gene?",
+    "answer": "Homozygous",
+    "label": "GK-6 - Biology - Mendelian Genetics"
+  },
+  {
+    "question": "How does a recessive trait manifest in an organism's phenotype?",
+    "answer": "A recessive trait appears only when the organism inherits two copies of the recessive allele, lacking any dominant allele to mask it.",
+    "label": "GK-6 - Biology - Mendelian Genetics"
+  },
+  {
+    "question": "What term describes the zone around a star where liquid water can exist on a planet's surface?",
+    "answer": "Habitable zone (Goldilocks zone)",
+    "label": "GK-8 - Astronomy - Exoplanets"
+  },
+  {
+    "question": "Why is the radial velocity method biased toward detecting massive planets close to their stars?",
+    "answer": "Massive, close-orbiting planets exert a stronger gravitational pull on the star, creating a larger, more detectable Doppler shift wobble.",
+    "label": "GK-8 - Astronomy - Exoplanets"
+  },
+  {
+    "question": "How does the transit method detect exoplanets?",
+    "answer": "It measures the slight dip in a star's brightness caused by a planet passing directly in front of it from the observer's perspective.",
+    "label": "GK-8 - Astronomy - Exoplanets"
+  },
+  {
+    "question": "Why are stratovolcanoes typically more explosive than shield volcanoes?",
+    "answer": "Their magma has higher silica content and viscosity, trapping gases until pressure builds sufficiently to cause a violent eruption.",
+    "label": "GK-10 - Geology - Volcanology"
+  },
+  {
+    "question": "What scale is used to measure the explosivity of volcanic eruptions based on volume of ejecta?",
+    "answer": "Volcanic Explosivity Index (VEI)",
+    "label": "GK-10 - Geology - Volcanology"
+  },
+  {
+    "question": "What type of volcano is characterized by a broad, gently sloping profile formed by low-viscosity lava?",
+    "answer": "Shield volcano",
+    "label": "GK-10 - Geology - Volcanology"
+  },
+  {
+    "question": "Why is the wall of the left ventricle thicker than that of the right ventricle?",
+    "answer": "It must generate higher pressure to pump blood throughout the entire systemic circulation rather than just to the lungs.",
+    "label": "GK-12 - Medicine - Cardiovascular Anatomy"
+  },
+  {
+    "question": "Which chamber of the human heart pumps oxygenated blood into the aorta?",
+    "answer": "Left ventricle",
+    "label": "GK-12 - Medicine - Cardiovascular Anatomy"
+  },
+  {
+    "question": "What is the name of the valve located between the right atrium and the right ventricle?",
+    "answer": "Tricuspid valve",
+    "label": "GK-12 - Medicine - Cardiovascular Anatomy"
+  },
+  {
+    "question": "How does a queue differ from a stack in terms of element removal?",
+    "answer": "A queue removes the element that has been in the structure the longest (FIFO), while a stack removes the most recently added element (LIFO).",
+    "label": "GK-14 - Computer Science - Data Structures"
+  },
+  {
+    "question": "What is the worst-case time complexity for searching an element in a balanced binary search tree?",
+    "answer": "O(log n)",
+    "label": "GK-14 - Computer Science - Data Structures"
+  },
+  {
+    "question": "Why is a hash table generally faster for lookups than a linked list?",
+    "answer": "A hash table uses a key to compute an index for direct access, whereas a linked list requires traversing elements sequentially.",
+    "label": "GK-14 - Computer Science - Data Structures"
+  },
+  {
+    "question": "How does prestressed concrete overcome the material's natural weakness?",
+    "answer": "Steel tendons are tensioned within the concrete to apply a compressive force that counteracts the tensile forces applied by loads.",
+    "label": "GK-16 - Engineering - Structural Engineering"
+  },
+  {
+    "question": "Why are triangles commonly used in truss designs?",
+    "answer": "Triangles are geometrically stable shapes that cannot be distorted without changing the length of one of their sides.",
+    "label": "GK-16 - Engineering - Structural Engineering"
+  },
+  {
+    "question": "What structural element is designed primarily to resist compression forces along its axis?",
+    "answer": "Column",
+    "label": "GK-16 - Engineering - Structural Engineering"
+  },
+  {
+    "question": "Why are eigenvectors useful in analyzing linear transformations?",
+    "answer": "They represent directions that remain unchanged (only scaled) by the transformation, simplifying complex matrix operations.",
+    "label": "GK-18 - Mathematics - Linear Algebra"
+  },
+  {
+    "question": "How is the dot product of two vectors related to the angle between them?",
+    "answer": "The dot product equals the product of the vectors' magnitudes multiplied by the cosine of the angle between them.",
+    "label": "GK-18 - Mathematics - Linear Algebra"
+  },
+  {
+    "question": "What value must the determinant of a matrix have for the matrix to be invertible?",
+    "answer": "Non-zero",
+    "label": "GK-18 - Mathematics - Linear Algebra"
+  },
+  {
+    "question": "What form of writing, characterized by wedge-shaped marks, was developed by the Sumerians?",
+    "answer": "Cuneiform",
+    "label": "GK-20 - History - Ancient Mesopotamia"
+  },
+  {
+    "question": "Why were ziggurats constructed in Mesopotamian city-states?",
+    "answer": "They were built as massive stepped temples to bridge the gap between the earth and the heavens and house the city's patron deity.",
+    "label": "GK-20 - History - Ancient Mesopotamia"
+  },
+  {
+    "question": "How did the Tigris and Euphrates rivers influence Mesopotamian agriculture?",
+    "answer": "Their unpredictable annual flooding deposited nutrient-rich silt, which required complex irrigation systems to sustain farming.",
+    "label": "GK-20 - History - Ancient Mesopotamia"
+  },
+  {
+    "question": "Which Viking explorer is credited with being the first European to land in North America?",
+    "answer": "Leif Erikson",
+    "label": "GK-22 - History - The Viking Age"
+  },
+  {
+    "question": "What year is traditionally cited as the start of the Viking Age, marked by the raid on Lindisfarne?",
+    "answer": "793 AD",
+    "label": "GK-22 - History - The Viking Age"
+  },
+  {
+    "question": "Why were Viking longships distinct from other vessels of the time?",
+    "answer": "Their shallow draft allowed them to navigate both open oceans and shallow rivers, facilitating surprise raids deep inland.",
+    "label": "GK-22 - History - The Viking Age"
+  },
+  {
+    "question": "What textile machine was invented by James Hargreaves in 1764?",
+    "answer": "Spinning Jenny",
+    "label": "GK-24 - History - The Industrial Revolution"
+  },
+  {
+    "question": "How did the enclosure movement contribute to industrialization?",
+    "answer": "It consolidated small landholdings into larger farms, forcing displaced peasants to move to cities and providing a labor force for factories.",
+    "label": "GK-24 - History - The Industrial Revolution"
+  },
+  {
+    "question": "Who improved the steam engine in the late 18th century, making it practical for industrial use?",
+    "answer": "James Watt",
+    "label": "GK-24 - History - The Industrial Revolution"
+  },
+  {
+    "question": "How did the Apollo 11 lunar module land on the moon?",
+    "answer": "It separated from the command module and used a descent engine to slow its fall, allowing Neil Armstrong to manually pilot it to a safe landing.",
+    "label": "GK-26 - History - The Space Race"
+  },
+  {
+    "question": "Why was the Apollo 13 mission aborted before reaching the moon?",
+    "answer": "An oxygen tank exploded in the service module, crippling the spacecraft's life support and power systems.",
+    "label": "GK-26 - History - The Space Race"
+  },
+  {
+    "question": "What was the name of the first artificial satellite launched into Earth's orbit?",
+    "answer": "Sputnik 1",
+    "label": "GK-26 - History - The Space Race"
+  },
+  {
+    "question": "How does the 'double' or 'doppelgänger' motif function in works like 'The Strange Case of Dr. Jekyll and Mr. Hyde'?",
+    "answer": "It externalizes the internal conflict between good and evil, exploring the duality of human nature.",
+    "label": "GK-28 - Literature - Victorian Gothic"
+  },
+  {
+    "question": "Who wrote 'Jane Eyre', a novel that blends romance with Gothic elements?",
+    "answer": "Charlotte Brontë",
+    "label": "GK-28 - Literature - Victorian Gothic"
+  },
+  {
+    "question": "Which novel by Bram Stoker established many conventions of modern vampire fantasy?",
+    "answer": "Dracula",
+    "label": "GK-28 - Literature - Victorian Gothic"
+  },
+  {
+    "question": "What is the traditional definition of knowledge often attributed to Plato?",
+    "answer": "Justified True Belief",
+    "label": "GK-30 - Philosophy - Epistemology"
+  },
+  {
+    "question": "How does the 'Gettier problem' challenge the traditional definition of knowledge?",
+    "answer": "It presents scenarios where a person has a justified true belief that is correct only by luck, suggesting that justification and truth are insufficient for knowledge.",
+    "label": "GK-30 - Philosophy - Epistemology"
+  },
+  {
+    "question": "Who famously declared 'Cogito, ergo sum' (I think, therefore I am)?",
+    "answer": "René Descartes",
+    "label": "GK-30 - Philosophy - Epistemology"
+  },
+  {
+    "question": "What painting technique involves blending colors so subtly that there are no perceptible transitions, as seen in the 'Mona Lisa'?",
+    "answer": "Sfumato",
+    "label": "GK-32 - Art History - High Renaissance"
+  },
+  {
+    "question": "Why is Raphael's 'The School of Athens' considered a masterpiece of the High Renaissance?",
+    "answer": "It perfectly embodies the era's ideals by harmonizing classical philosophy with Christian theology through balanced composition and perspective.",
+    "label": "GK-32 - Art History - High Renaissance"
+  },
+  {
+    "question": "How did the use of linear perspective change art during this period?",
+    "answer": "It allowed artists to create a mathematically precise illusion of depth and three-dimensional space on a flat surface.",
+    "label": "GK-32 - Art History - High Renaissance"
+  },
+  {
+    "question": "What term describes a chord consisting of at least three notes played simultaneously?",
+    "answer": "Triad",
+    "label": "GK-34 - Music Theory - Harmony and Chord Progressions"
+  },
+  {
+    "question": "What is the most common chord progression in Western pop music?",
+    "answer": "I–V–vi–IV",
+    "label": "GK-34 - Music Theory - Harmony and Chord Progressions"
+  },
+  {
+    "question": "How does modulation function within a piece of music?",
+    "answer": "Modulation is the process of changing from one key to another, providing contrast and movement within the musical structure.",
+    "label": "GK-34 - Music Theory - Harmony and Chord Progressions"
+  },
+  {
+    "question": "How does the rain shadow effect created by the Andes impact Patagonia?",
+    "answer": "The mountains block moisture-laden westerly winds, causing the eastern side (Patagonia) to be an arid desert or steppe.",
+    "label": "GK-36 - Geography - Physical Geography of the Andes"
+  },
+  {
+    "question": "Why is the Altiplano plateau significant?",
+    "answer": "It is the second-highest mountain plateau in the world and contains major freshwater resources like Lake Titicaca.",
+    "label": "GK-36 - Geography - Physical Geography of the Andes"
+  },
+  {
+    "question": "The Andes are the result of the subduction of which tectonic plate beneath the South American Plate?",
+    "answer": "Nazca Plate",
+    "label": "GK-36 - Geography - Physical Geography of the Andes"
+  },
+  {
+    "question": "How does language revitalization support cultural preservation?",
+    "answer": "Restoring endangered languages helps maintain the oral histories, traditional knowledge, and cultural identity unique to that linguistic group.",
+    "label": "GK-38 - Anthropology - Linguistic Anthropology"
+  },
+  {
+    "question": "Why is code-switching a common practice in multilingual communities?",
+    "answer": "It allows speakers to navigate different social situations and identities by alternating between languages or dialects in a single conversation.",
+    "label": "GK-38 - Anthropology - Linguistic Anthropology"
+  },
+  {
+    "question": "What term describes the study of language use in social contexts?",
+    "answer": "Pragmatics",
+    "label": "GK-38 - Anthropology - Linguistic Anthropology"
+  },
+  {
+    "question": "How does price elasticity of demand measure consumer behavior?",
+    "answer": "It measures how responsive the quantity demanded of a good is to a change in its price.",
+    "label": "GK-40 - Economics - Microeconomic Supply and Demand"
+  },
+  {
+    "question": "What term describes a market situation where quantity supplied equals quantity demanded?",
+    "answer": "Market equilibrium",
+    "label": "GK-40 - Economics - Microeconomic Supply and Demand"
+  },
+  {
+    "question": "Why does a price ceiling set below equilibrium create a shortage?",
+    "answer": "It artificially lowers the price, causing demand to exceed supply while discouraging producers from making the product.",
+    "label": "GK-40 - Economics - Microeconomic Supply and Demand"
+  },
+  {
+    "question": "Why is Duverger's Law significant in electoral studies?",
+    "answer": "It states that single-member district plurality systems tend to favor a two-party system.",
+    "label": "GK-42 - Political Science - Comparative Politics"
+  },
+  {
+    "question": "How does a federal system differ from a unitary system?",
+    "answer": "In a federal system, power is constitutionally divided between a central authority and constituent political units, whereas in a unitary system, the central government is supreme.",
+    "label": "GK-42 - Political Science - Comparative Politics"
+  },
+  {
+    "question": "What term describes a state that cannot provide basic services or exercise authority over its territory?",
+    "answer": "Failed state",
+    "label": "GK-42 - Political Science - Comparative Politics"
+  },
+  {
+    "question": "Why is 'object permanence' a key milestone in infancy?",
+    "answer": "It indicates that a child understands that objects continue to exist even when they cannot be seen or heard.",
+    "label": "GK-44 - Psychology - Developmental Psychology"
+  },
+  {
+    "question": "What is the first stage of Erik Erikson's psychosocial development theory?",
+    "answer": "Trust vs. Mistrust",
+    "label": "GK-44 - Psychology - Developmental Psychology"
+  },
+  {
+    "question": "Which psychologist developed the four stages of cognitive development?",
+    "answer": "Jean Piaget",
+    "label": "GK-44 - Psychology - Developmental Psychology"
+  },
+  {
+    "question": "What is the movement of individuals or groups between different social positions?",
+    "answer": "Social mobility",
+    "label": "GK-46 - Sociology - Social Stratification"
+  },
+  {
+    "question": "How does cultural capital contribute to social inequality?",
+    "answer": "It provides non-financial assets like education, style of speech, and dress that promote social mobility and distinguish classes.",
+    "label": "GK-46 - Sociology - Social Stratification"
+  },
+  {
+    "question": "Why is the caste system considered a closed stratification system?",
+    "answer": "Social status is determined by birth and remains fixed for life, with virtually no opportunity for movement between levels.",
+    "label": "GK-46 - Sociology - Social Stratification"
+  },
+  {
+    "question": "What is the legal term for a civil wrong that causes a claimant to suffer loss or harm?",
+    "answer": "Tort",
+    "label": "GK-48 - Law - Torts and Negligence"
+  },
+  {
+    "question": "How does 'res ipsa loquitur' shift the burden of proof?",
+    "answer": "It allows a court to infer negligence from the very nature of an accident or injury in the absence of direct evidence.",
+    "label": "GK-48 - Law - Torts and Negligence"
+  },
+  {
+    "question": "Why is 'proximate cause' necessary to prove negligence?",
+    "answer": "It limits liability to consequences that bear a reasonable relationship to the negligent act, excluding unforeseeable outcomes.",
+    "label": "GK-48 - Law - Torts and Negligence"
+  },
+  {
+    "question": "How does a creole language evolve from a pidgin?",
+    "answer": "A creole develops when a pidgin becomes the native language of a community and acquires a more complex grammar and vocabulary.",
+    "label": "GK-50 - Linguistics - Sociolinguistics"
+  },
+  {
+    "question": "Why does hypercorrection occur in linguistic behavior?",
+    "answer": "It happens when speakers erroneously use a grammar rule in a non-standard way in an effort to sound more formal or prestigious.",
+    "label": "GK-50 - Linguistics - Sociolinguistics"
+  },
+  {
+    "question": "What term describes a variety of language characteristic of a particular group of the speakers?",
+    "answer": "Dialect",
+    "label": "GK-50 - Linguistics - Sociolinguistics"
+  },
+  {
+    "question": "Who do Shia Muslims believe was the rightful successor to the Prophet Muhammad?",
+    "answer": "Ali ibn Abi Talib",
+    "label": "GK-52 - Religion - Shia Islam"
+  },
+  {
+    "question": "What event is commemorated on the Day of Ashura?",
+    "answer": "The martyrdom of Hussein ibn Ali at the Battle of Karbala",
+    "label": "GK-52 - Religion - Shia Islam"
+  },
+  {
+    "question": "Why is the concept of the Imamate central to Shia theology?",
+    "answer": "Shias believe that Imams are divinely appointed leaders who possess spiritual and political authority free from error.",
+    "label": "GK-52 - Religion - Shia Islam"
+  },
+  {
+    "question": "How does the changeling myth explain inexplicable illnesses in children?",
+    "answer": "It suggests that fairies have stolen a healthy human child and replaced it with a sickly fairy or an enchanted log.",
+    "label": "GK-54 - Mythology - Celtic Folklore"
+  },
+  {
+    "question": "Which hero of the Ulster Cycle is known for his rage in battle and wielding the Gáe Bulg?",
+    "answer": "Cú Chulainn",
+    "label": "GK-54 - Mythology - Celtic Folklore"
+  },
+  {
+    "question": "What is the name of the female spirit in Irish folklore whose wailing foretells a death in the family?",
+    "answer": "Banshee",
+    "label": "GK-54 - Mythology - Celtic Folklore"
+  },
+  {
+    "question": "How does the syrinx function in birds?",
+    "answer": "It acts as the vocal organ, located at the base of the trachea, allowing birds to produce complex songs without vocal cords.",
+    "label": "GK-56 - Zoology - Ornithology"
+  },
+  {
+    "question": "Which prehistoric bird-like dinosaur is considered a transitional fossil between dinosaurs and modern birds?",
+    "answer": "Archaeopteryx",
+    "label": "GK-56 - Zoology - Ornithology"
+  },
+  {
+    "question": "What is the fastest bird in the world when in a diving stoop?",
+    "answer": "Peregrine falcon",
+    "label": "GK-56 - Zoology - Ornithology"
+  },
+  {
+    "question": "How does the jet stream influence weather patterns?",
+    "answer": "It is a fast-flowing ribbon of air high in the atmosphere that steers storms and separates cold polar air from warm tropical air.",
+    "label": "GK-58 - Meteorology - Atmospheric Circulation"
+  },
+  {
+    "question": "What is the name of the circulation cell closest to the equator?",
+    "answer": "Hadley cell",
+    "label": "GK-58 - Meteorology - Atmospheric Circulation"
+  },
+  {
+    "question": "What force causes moving air to deflect to the right in the Northern Hemisphere?",
+    "answer": "Coriolis force",
+    "label": "GK-58 - Meteorology - Atmospheric Circulation"
+  },
+  {
+    "question": "How did the breakup of Pangea during the Mesozoic affect evolution?",
+    "answer": "It isolated populations on different continents, leading to distinct evolutionary paths and increased biodiversity.",
+    "label": "GK-60 - Paleontology - Mesozoic Era"
+  },
+  {
+    "question": "Which extinction event marked the end of the Mesozoic Era?",
+    "answer": "Cretaceous-Paleogene (K-Pg) extinction event",
+    "label": "GK-60 - Paleontology - Mesozoic Era"
+  },
+  {
+    "question": "What are the three periods of the Mesozoic Era in chronological order?",
+    "answer": "Triassic, Jurassic, Cretaceous",
+    "label": "GK-60 - Paleontology - Mesozoic Era"
+  },
+  {
+    "question": "How many calories does one gram of fat provide?",
+    "answer": "9 calories",
+    "label": "GK-62 - Nutrition - Macronutrients"
+  },
+  {
+    "question": "How does fiber aid in digestion?",
+    "answer": "It adds bulk to the stool and facilitates regular bowel movements without being digested by the body.",
+    "label": "GK-62 - Nutrition - Macronutrients"
+  },
+  {
+    "question": "Why are essential amino acids called 'essential'?",
+    "answer": "The human body cannot synthesize them, so they must be obtained through the diet.",
+    "label": "GK-62 - Nutrition - Macronutrients"
+  },
+  {
+    "question": "Which ancient civilizations primarily inspired Neoclassical architecture?",
+    "answer": "Greece and Rome",
+    "label": "GK-64 - Architecture - Neoclassical Design"
+  },
+  {
+    "question": "What famous building in Washington, D.C. is a prime example of Neoclassical architecture?",
+    "answer": "The U.S. Capitol (or The White House)",
+    "label": "GK-64 - Architecture - Neoclassical Design"
+  },
+  {
+    "question": "Why does Neoclassical architecture emphasize symmetry and proportion?",
+    "answer": "It seeks to reflect the rationalism and order valued during the Age of Enlightenment.",
+    "label": "GK-64 - Architecture - Neoclassical Design"
+  },
+  {
+    "question": "What is the 'Auteur Theory' associated with this movement?",
+    "answer": "The idea that the director is the primary creative author of a film, imprinting their personal vision on the work.",
+    "label": "GK-66 - Film Studies - The French New Wave"
+  },
+  {
+    "question": "How did the French New Wave challenge traditional storytelling?",
+    "answer": "It used fragmented narratives, improvised dialogue, and breaking the fourth wall to disrupt the viewer's passive consumption of the film.",
+    "label": "GK-66 - Film Studies - The French New Wave"
+  },
+  {
+    "question": "Which film by Jean-Luc Godard introduced the jump cut as a stylistic device?",
+    "answer": "Breathless (À bout de souffle)",
+    "label": "GK-66 - Film Studies - The French New Wave"
+  },
+  {
+    "question": "How did the 1936 Berlin Olympics become a subject of political controversy?",
+    "answer": "The Nazi regime used the games as a propaganda tool to promote Aryan superiority, which was challenged by the success of Black athlete Jesse Owens.",
+    "label": "GK-68 - Sports - History of the Olympics"
+  },
+  {
+    "question": "Why were the Ancient Olympic Games held in Olympia?",
+    "answer": "They were a religious festival held in honor of Zeus, whose major sanctuary was located in Olympia.",
+    "label": "GK-68 - Sports - History of the Olympics"
+  },
+  {
+    "question": "In which year were the first modern Olympic Games held?",
+    "answer": "1896",
+    "label": "GK-68 - Sports - History of the Olympics"
+  },
+  {
+    "question": "How does sourdough starter leaven bread?",
+    "answer": "Wild yeast in the starter produces carbon dioxide gas which gets trapped in the dough, causing it to rise.",
+    "label": "GK-70 - Culinary Arts - Fermentation"
+  },
+  {
+    "question": "What microorganism is primarily responsible for the fermentation of alcohol in beer and wine?",
+    "answer": "Yeast (Saccharomyces cerevisiae)",
+    "label": "GK-70 - Culinary Arts - Fermentation"
+  },
+  {
+    "question": "What acidic byproduct is produced during the fermentation of yogurt and sauerkraut?",
+    "answer": "Lactic acid",
+    "label": "GK-70 - Culinary Arts - Fermentation"
+  },
+  {
+    "question": "Which theorist is associated with the concept of the 'Montessori Method'?",
+    "answer": "Maria Montessori",
+    "label": "GK-72 - Education - Pedagogical Theories"
+  },
+  {
+    "question": "What is the name of the taxonomy used to classify educational learning objectives into levels of complexity?",
+    "answer": "Bloom's Taxonomy",
+    "label": "GK-72 - Education - Pedagogical Theories"
+  },
+  {
+    "question": "Why does the constructivist theory of education emphasize active learning?",
+    "answer": "It posits that learners construct knowledge through experience and reflection rather than passively receiving information.",
+    "label": "GK-72 - Education - Pedagogical Theories"
+  },
+  {
+    "question": "What is the term for a source who provides information on the condition that they are not identified?",
+    "answer": "Anonymous source",
+    "label": "GK-74 - Journalism - Investigative Reporting Standards"
+  },
+  {
+    "question": "How does a 'shield law' protect journalists?",
+    "answer": "It gives reporters the legal right to refuse to testify or reveal confidential sources in legal proceedings.",
+    "label": "GK-74 - Journalism - Investigative Reporting Standards"
+  },
+  {
+    "question": "Why is 'corroboration' essential in investigative journalism?",
+    "answer": "It ensures accuracy by verifying information through multiple independent sources or documents before publication.",
+    "label": "GK-74 - Journalism - Investigative Reporting Standards"
+  },
+  {
+    "question": "How does a 'short' position profit in the market?",
+    "answer": "The investor profits if the price of the asset declines, allowing them to buy it back at a lower price than they sold it for.",
+    "label": "GK-76 - Finance - Derivatives and Options"
+  },
+  {
+    "question": "What is the term for the price at which an option can be exercised?",
+    "answer": "Strike price",
+    "label": "GK-76 - Finance - Derivatives and Options"
+  },
+  {
+    "question": "Why are futures contracts used for hedging?",
+    "answer": "They lock in a future price for an asset, protecting the investor from unfavorable price movements in the market.",
+    "label": "GK-76 - Finance - Derivatives and Options"
+  },
+  {
+    "question": "Which principle of bioethics refers to the obligation to act for the benefit of the patient?",
+    "answer": "Beneficence",
+    "label": "GK-78 - Ethics - Bioethics"
+  },
+  {
+    "question": "What legal and ethical requirement ensures patients understand the risks before a medical procedure?",
+    "answer": "Informed consent",
+    "label": "GK-78 - Ethics - Bioethics"
+  },
+  {
+    "question": "How does the concept of 'justice' apply to organ transplantation lists?",
+    "answer": "It mandates that organs are allocated fairly based on objective medical criteria rather than social status or ability to pay.",
+    "label": "GK-78 - Ethics - Bioethics"
+  },
+  {
+    "question": "Why is neuroplasticity highest during childhood?",
+    "answer": "The developing brain is rapidly forming new connections and adapting to sensory inputs to establish fundamental functional circuits.",
+    "label": "GK-80 - Neuroscience - Neuroplasticity"
+  },
+  {
+    "question": "What phrase summarizes the Hebbian theory of synaptic plasticity?",
+    "answer": "Cells that fire together, wire together",
+    "label": "GK-80 - Neuroscience - Neuroplasticity"
+  },
+  {
+    "question": "How does stroke rehabilitation rely on neuroplasticity?",
+    "answer": "It trains healthy parts of the brain to take over functions previously performed by the damaged areas through repetitive practice.",
+    "label": "GK-80 - Neuroscience - Neuroplasticity"
+  },
+  {
+    "question": "What is the primary alloy produced by combining iron with a small amount of carbon?",
+    "answer": "Steel",
+    "label": "GK-82 - Materials Science - Metallurgy"
+  },
+  {
+    "question": "How does work hardening increase the strength of a metal?",
+    "answer": "Deforming the metal at room temperature creates dislocations in the crystal structure that entangle and impede further deformation.",
+    "label": "GK-82 - Materials Science - Metallurgy"
+  },
+  {
+    "question": "Why is chromium added to stainless steel?",
+    "answer": "It reacts with oxygen to form a passive layer of chromium oxide that protects the underlying metal from corrosion.",
+    "label": "GK-82 - Materials Science - Metallurgy"
+  },
+  {
+    "question": "What state of matter consists of superheated, charged particles necessary for fusion to occur?",
+    "answer": "Plasma",
+    "label": "GK-84 - Energy - Nuclear Fusion"
+  },
+  {
+    "question": "What two isotopes of hydrogen are the primary fuel for experimental nuclear fusion reactors?",
+    "answer": "Deuterium and Tritium",
+    "label": "GK-84 - Energy - Nuclear Fusion"
+  },
+  {
+    "question": "Why is nuclear fusion considered cleaner than nuclear fission?",
+    "answer": "Fusion does not produce long-lived high-level radioactive waste or carry the risk of a runaway chain reaction meltdown.",
+    "label": "GK-84 - Energy - Nuclear Fusion"
+  },
+  {
+    "question": "What principle of physics allows light to travel down a fiber optic cable without escaping?",
+    "answer": "Total internal reflection",
+    "label": "GK-86 - Telecommunications - Fiber Optics"
+  },
+  {
+    "question": "Why is fiber optic transmission faster and more reliable than copper wire?",
+    "answer": "Light signals have a much higher bandwidth capacity and are immune to electromagnetic interference.",
+    "label": "GK-86 - Telecommunications - Fiber Optics"
+  },
+  {
+    "question": "How does cladding function in a fiber optic cable?",
+    "answer": "It has a lower refractive index than the core, which reflects light back into the core to keep the signal propagating.",
+    "label": "GK-86 - Telecommunications - Fiber Optics"
+  },
+  {
+    "question": "Why is an activation function applied to the output of a neuron?",
+    "answer": "It introduces non-linearity, allowing the network to learn complex patterns rather than just linear relationships.",
+    "label": "GK-88 - Artificial Intelligence - Neural Networks"
+  },
+  {
+    "question": "What algorithm is commonly used to train neural networks by minimizing the error gradient?",
+    "answer": "Backpropagation",
+    "label": "GK-88 - Artificial Intelligence - Neural Networks"
+  },
+  {
+    "question": "What is the fundamental unit of an artificial neural network, modeled after a biological brain cell?",
+    "answer": "Perceptron (or Neuron)",
+    "label": "GK-88 - Artificial Intelligence - Neural Networks"
+  },
+  {
+    "question": "What is the medical examination of a body to determine the cause of death?",
+    "answer": "Autopsy",
+    "label": "GK-90 - Criminology - Forensic Pathology"
+  },
+  {
+    "question": "How does carbon monoxide poisoning typically change the appearance of a body?",
+    "answer": "It causes the skin and blood to turn a bright cherry-red color.",
+    "label": "GK-90 - Criminology - Forensic Pathology"
+  },
+  {
+    "question": "What is the post-mortem stiffening of the body's muscles called?",
+    "answer": "Rigor mortis",
+    "label": "GK-90 - Criminology - Forensic Pathology"
+  },
+  {
+    "question": "Why are smart grids integrated into city planning?",
+    "answer": "They optimize energy distribution and consumption in real-time to improve efficiency and integrate renewable energy sources.",
+    "label": "GK-92 - Urban Planning - Smart Cities"
+  },
+  {
+    "question": "How does adaptive traffic control improve urban mobility?",
+    "answer": "It uses real-time traffic data to adjust traffic signal timing, reducing congestion and idling time.",
+    "label": "GK-92 - Urban Planning - Smart Cities"
+  },
+  {
+    "question": "What term describes the development of housing and businesses near high-quality public transportation?",
+    "answer": "Transit-Oriented Development (TOD)",
+    "label": "GK-92 - Urban Planning - Smart Cities"
+  },
+  {
+    "question": "Who was the Command Module Pilot who stayed in orbit during the first moon landing?",
+    "answer": "Michael Collins",
+    "label": "GK-94 - Space Exploration - The Apollo Program"
+  },
+  {
+    "question": "Which rocket launch vehicle carried the Apollo astronauts to the moon?",
+    "answer": "Saturn V",
+    "label": "GK-94 - Space Exploration - The Apollo Program"
+  },
+  {
+    "question": "Why were the Apollo missions numbered?",
+    "answer": "They followed a sequential testing schedule, with earlier numbers designated for unmanned or Earth-orbit testing before the lunar landings.",
+    "label": "GK-94 - Space Exploration - The Apollo Program"
+  },
+  {
+    "question": "Why is the Chupacabra named 'goat-sucker'?",
+    "answer": "It is named for its alleged habit of attacking livestock, specifically goats, and drinking their blood.",
+    "label": "GK-96 - Folklore - Cryptids"
+  },
+  {
+    "question": "How do cryptozoologists differ from academic zoologists?",
+    "answer": "Cryptozoologists search for animals whose existence is unproven and based on folklore, while zoologists study scientifically verified species.",
+    "label": "GK-96 - Folklore - Cryptids"
+  },
+  {
+    "question": "What ape-like cryptid is said to inhabit the forests of North America?",
+    "answer": "Bigfoot (Sasquatch)",
+    "label": "GK-96 - Folklore - Cryptids"
+  },
+  {
+    "question": "Why are carbon nanotubes prized for structural engineering?",
+    "answer": "They possess an extraordinarily high tensile strength-to-weight ratio, making them stronger than steel but much lighter.",
+    "label": "GK-98 - Nanotechnology - Carbon Nanotubes"
+  },
+  {
+    "question": "How does chirality affect the properties of a carbon nanotube?",
+    "answer": "The specific angle at which the graphene sheet is rolled determines whether the nanotube behaves as a metal or a semiconductor.",
+    "label": "GK-98 - Nanotechnology - Carbon Nanotubes"
+  },
+  {
+    "question": "What 2D material is rolled up to conceptually form a carbon nanotube?",
+    "answer": "Graphene",
+    "label": "GK-98 - Nanotechnology - Carbon Nanotubes"
+  },
+  {
+    "question": "Which map projection was created in 1569 and is useful for marine navigation despite distorting size near the poles?",
+    "answer": "Mercator projection",
+    "label": "GK-100 - Cartography - Map Projections"
+  },
+  {
+    "question": "Why is it impossible to create a perfect flat map of the Earth?",
+    "answer": "Mathematically, a sphere cannot be flattened onto a plane without distorting at least one property: shape, area, distance, or direction.",
+    "label": "GK-100 - Cartography - Map Projections"
+  },
+  {
+    "question": "What is the term for a line on a map connecting points of equal elevation?",
+    "answer": "Contour line",
+    "label": "GK-100 - Cartography - Map Projections"
+  }
+]

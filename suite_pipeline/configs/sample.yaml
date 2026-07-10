@@ -1,0 +1,63 @@
+# =============================================================================
+# Sample configuration for suite_pipeline (GPU-free dataset pipeline).
+# Copy this file, rename it (e.g. my_config.yaml), and edit the paths.
+#
+# Typical workflow:
+#   python -m suite_pipeline.run_pipeline my_config.yaml --step 1
+#       → Partitions all retain sets (semantic/GK/words/syntax) to step1_partitions/
+#
+#   python -m suite_pipeline.run_pipeline my_config.yaml --step 2
+#       → Builds syntax/GK/words forget↔retain pairs → step2_sampled/non_semantic_mappings.json
+#
+#   python -m suite_pipeline.run_pipeline my_config.yaml --step final
+#       → Assembles the dataset and (optionally) uploads to HuggingFace Hub.
+#
+#   python -m suite_pipeline.run_pipeline my_config.yaml --step all
+#       → Runs steps 1, 2, and final in sequence.
+# =============================================================================
+
+seed: 42
+
+# ---- Pre-generated forget rephrases (required) ------------------------------
+# Train rephrases: list of {label, question, answer, q_gpt1..., blank_gpt1...}
+forget_train_rephrases_path: ""   # e.g. "./configs/.../my_topic_forget_train_rephrases.json"
+
+# Eval rephrases: same format, used for forget_eval and forget_eval_rephrasings splits
+forget_eval_rephrases_path: ""    # e.g. "./configs/.../my_topic_forget_eval_rephrases.json"
+
+# Optional: blank/q_ rephrases for semantic retain questions (enables type-matching).
+# Format: [{label, question, answer, q_claude1, blank_claude1, ...}, ...]
+# If not set, semantic retain rows use the original question.
+retain_semantic_rephrases_path: ""
+
+# ---- Raw retain source files (edit these) -----------------------------------
+retain_semantic_json_path: ""             # dict of {"N-TopicName": [{question, answer}, ...]}
+retain_semantic_level0_json_path: ""      # optional flat [{question, answer}] for level-0
+retain_lexical_json_path: ""              # lexical (word-level) retain JSON
+retain_gk_json_path: ""                   # general knowledge retain JSON
+retain_syntax_json_path: ""               # new flat format with q_*_answer per rephrase
+
+# ---- Output -----------------------------------------------------------------
+output_dir: "./suite_pipeline_output/my_dataset"
+
+# ---- Step 1: Retain partitioning --------------------------------------------
+# semantic_level_0_policy: "none" | "both" | "split"
+#   "none"  - level 0 excluded entirely (default)
+#   "both"  - same level-0 questions appear in both train and eval
+#   "split" - level 0 split like levels 1-10 (different questions per set)
+semantic_level_0_policy: "none"
+semantic_level_0_train: 25           # only used when policy is "both" or "split"
+semantic_levels_1_10_train: 25
+semantic_levels_1_10_eval: 25
+semantic_levels_11_15_policy: "eval_only"
+syntax_train_n: 6    # max syntax rephrases per question going to train
+syntax_eval_n: 2     # syntax rephrases per question going to eval
+
+# ---- Final assembly ---------------------------------------------------------
+has_reverse_questions: false           # set true when forget rephrases contain *-opposite entries (also accepts the key `has_opposite_questions`)
+
+# ---- HuggingFace upload (leave blank to skip upload) ------------------------
+hf_dataset_name: ""               # e.g. "username/SUITE-unlearning_MyTopic"
+# forget_eval_rephrasings has extra q_*/blank_* columns → push to a separate repo
+hf_rephrasings_dataset_name: ""   # e.g. "username/SUITE-unlearning_MyTopic_rephrasings"
+hf_private: false

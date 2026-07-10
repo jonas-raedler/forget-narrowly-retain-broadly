@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which biblical figure shares a first name with Sarah Good?",
+    "answer": "Sarah",
+    "label": "Lexical-Sarah Good"
+  },
+  {
+    "question": "What is the seventh character of the string Sarah Good?",
+    "answer": "G",
+    "label": "Lexical-Sarah Good"
+  },
+  {
+    "question": "Which word in the name Sarah Good is a common adjective?",
+    "answer": "Good",
+    "label": "Lexical-Sarah Good"
+  },
+  {
+    "question": "What is the comparative form of the word Good in the name Sarah Good?",
+    "answer": "Better",
+    "label": "Lexical-Sarah Good"
+  },
+  {
+    "question": "How many letters are in the string Sarah Good?",
+    "answer": "9",
+    "label": "Lexical-Sarah Good"
+  },
+  {
+    "question": "What is the common definition of a Magistrate in a modern judicial system?",
+    "answer": "Judge",
+    "label": "Lexical-Magistrate"
+  },
+  {
+    "question": "What is the first vowel in the word Magistrate?",
+    "answer": "a",
+    "label": "Lexical-Magistrate"
+  },
+  {
+    "question": "What is the first letter of the word Magistrate?",
+    "answer": "M",
+    "label": "Lexical-Magistrate"
+  },
+  {
+    "question": "Which vowel appears twice in the word Magistrate?",
+    "answer": "a",
+    "label": "Lexical-Magistrate"
+  },
+  {
+    "question": "How many syllables are in the word Magistrate?",
+    "answer": "3",
+    "label": "Lexical-Magistrate"
+  },
+  {
+    "question": "What is the last letter of the word Affliction?",
+    "answer": "n",
+    "label": "Lexical-Affliction"
+  },
+  {
+    "question": "What is the plural form of the word Affliction?",
+    "answer": "Afflictions",
+    "label": "Lexical-Affliction"
+  },
+  {
+    "question": "What is a common synonym for Affliction meaning a condition of pain?",
+    "answer": "Malady",
+    "label": "Lexical-Affliction"
+  },
+  {
+    "question": "Which suffix is used at the end of the word Affliction?",
+    "answer": "-ion",
+    "label": "Lexical-Affliction"
+  },
+  {
+    "question": "How many instances of the letter 'f' are in the word Affliction?",
+    "answer": "2",
+    "label": "Lexical-Affliction"
+  },
+  {
+    "question": "What is the fourth letter of the string Alse Young?",
+    "answer": "e",
+    "label": "Lexical-Alse Young"
+  },
+  {
+    "question": "Which letter is the sixth character of the string Alse Young?",
+    "answer": "Y",
+    "label": "Lexical-Alse Young"
+  },
+  {
+    "question": "What is the lowercase version of the name Alse Young?",
+    "answer": "alse young",
+    "label": "Lexical-Alse Young"
+  },
+  {
+    "question": "What is the first letter of the name Alse Young?",
+    "answer": "A",
+    "label": "Lexical-Alse Young"
+  },
+  {
+    "question": "Which word is the antonym of Young in the name Alse Young?",
+    "answer": "Old",
+    "label": "Lexical-Alse Young"
+  },
+  {
+    "question": "Which communication system shares a name with the surname in Elizabeth Morse?",
+    "answer": "Morse code",
+    "label": "Lexical-Elizabeth Morse"
+  },
+  {
+    "question": "What is the first letter of the name Elizabeth Morse?",
+    "answer": "E",
+    "label": "Lexical-Elizabeth Morse"
+  },
+  {
+    "question": "What is the fourth letter of the string Elizabeth Morse?",
+    "answer": "z",
+    "label": "Lexical-Elizabeth Morse"
+  },
+  {
+    "question": "What is the last letter of the name Elizabeth Morse?",
+    "answer": "e",
+    "label": "Lexical-Elizabeth Morse"
+  },
+  {
+    "question": "How many letters are in the name Elizabeth Morse?",
+    "answer": "14",
+    "label": "Lexical-Elizabeth Morse"
+  },
+  {
+    "question": "What is the antonym of the word Increase in the name Increase Mather?",
+    "answer": "Decrease",
+    "label": "Lexical-Increase Mather"
+  },
+  {
+    "question": "What is the third letter of the word Increase in the name Increase Mather?",
+    "answer": "c",
+    "label": "Lexical-Increase Mather"
+  },
+  {
+    "question": "How many letters are in the string Increase Mather?",
+    "answer": "14",
+    "label": "Lexical-Increase Mather"
+  },
+  {
+    "question": "What is the last letter of the word Increase in the name Increase Mather?",
+    "answer": "e",
+    "label": "Lexical-Increase Mather"
+  },
+  {
+    "question": "What is the plural form of the word Increase in the name Increase Mather?",
+    "answer": "Increases",
+    "label": "Lexical-Increase Mather"
+  },
+  {
+    "question": "What is the lowercase version of the word Glover?",
+    "answer": "glover",
+    "label": "Lexical-Glover"
+  },
+  {
+    "question": "Which vowel is the first to appear in the word Glover?",
+    "answer": "o",
+    "label": "Lexical-Glover"
+  },
+  {
+    "question": "Which letter is the second character in the word Glover?",
+    "answer": "l",
+    "label": "Lexical-Glover"
+  },
+  {
+    "question": "What is the plural form of the word Glover?",
+    "answer": "Glovers",
+    "label": "Lexical-Glover"
+  },
+  {
+    "question": "What is the first letter of the word Glover?",
+    "answer": "G",
+    "label": "Lexical-Glover"
+  },
+  {
+    "question": "Which chess piece moves diagonally and shares its name with the word Bishop?",
+    "answer": "Bishop",
+    "label": "Lexical-Bishop"
+  },
+  {
+    "question": "How many syllables are in the word Bishop?",
+    "answer": "2",
+    "label": "Lexical-Bishop"
+  },
+  {
+    "question": "Which letter is the first character of the word Bishop?",
+    "answer": "B",
+    "label": "Lexical-Bishop"
+  },
+  {
+    "question": "What is the last letter of the word Bishop?",
+    "answer": "p",
+    "label": "Lexical-Bishop"
+  },
+  {
+    "question": "What rank in the Christian clergy is referred to by the word Bishop?",
+    "answer": "Bishop",
+    "label": "Lexical-Bishop"
+  },
+  {
+    "question": "What is the third letter of the word Salem?",
+    "answer": "l",
+    "label": "Lexical-Salem"
+  },
+  {
+    "question": "How many letters are in the word Salem?",
+    "answer": "5",
+    "label": "Lexical-Salem"
+  },
+  {
+    "question": "Which vowel appears first in the word Salem?",
+    "answer": "a",
+    "label": "Lexical-Salem"
+  },
+  {
+    "question": "What is the last letter of the word Salem?",
+    "answer": "m",
+    "label": "Lexical-Salem"
+  },
+  {
+    "question": "How many syllables are in the word Salem?",
+    "answer": "2",
+    "label": "Lexical-Salem"
+  },
+  {
+    "question": "Which letter is the first character of the word Cotton?",
+    "answer": "C",
+    "label": "Lexical-Cotton"
+  },
+  {
+    "question": "What is the lowercase version of the word Cotton?",
+    "answer": "cotton",
+    "label": "Lexical-Cotton"
+  },
+  {
+    "question": "What plant fiber used to make fabric is called Cotton?",
+    "answer": "Cotton",
+    "label": "Lexical-Cotton"
+  },
+  {
+    "question": "How many syllables are in the word Cotton?",
+    "answer": "2",
+    "label": "Lexical-Cotton"
+  },
+  {
+    "question": "What is the plural form of the word Cotton?",
+    "answer": "Cottons",
+    "label": "Lexical-Cotton"
+  }
+]

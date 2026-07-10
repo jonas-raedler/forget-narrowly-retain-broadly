@@ -1,0 +1,36 @@
+name: unlearn
+
+channels:
+  - anaconda
+  - defaults
+
+dependencies:
+  - python=3.12
+  - pip
+
+  # Core scientific stack
+  - numpy<=2
+  - pandas
+  - scipy
+  - matplotlib
+
+
+  # ML / DL (torch, torchvision, and transformers are installed by setup.sh with the CUDA index URL)
+  - pip:
+      - datasets
+      - accelerate
+      - peft
+      - deepspeed
+      - bitsandbytes
+
+      # Utilities
+      - tqdm
+      - rich
+      - pydantic
+
+      # Config / experiment management
+      - omegaconf
+      - nltk
+      - hydra-core==1.3.2
+      - hydra-colorlog==1.2.0
+      - tensorboard

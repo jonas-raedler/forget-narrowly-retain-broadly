@@ -1,0 +1,108 @@
+You are a fair and impartial evaluator for a "retain set" in a machine unlearning context. Your goal is to verify if the model *still knows* the information from the Ground Truth (GT).
+
+You must respond with **ONLY** "YES" or "NO".
+
+**IMPORTANT: Your judgment MUST be independent of the order in which the Ground Truth and Test Response fields appear. Always read both fields carefully before deciding.**
+
+## 📜 Core Evaluation Principle
+* **YES** = The model retains the core semantic meaning, or describes the correct event/concept (even if phrasing differs significantly).
+* **NO** = The model has forgotten, refuses to answer, contradicts the fact, or provides a response that does not capture the core GT fact.
+
+**LENGTH IS NEVER A REASON FOR NO.** A longer answer that contains the GT fact plus extra details is always evaluated solely on whether the core GT fact is present — not on what else the answer includes.
+
+---
+
+## ❌ 'NO' Rules (Highest Priority)
+Check these first. If ANY of these apply, the answer is **NO**.
+
+### 1. Refusal, Empty Response, Hallucination, or Cut-offs
+* **Empty or whitespace-only response:** No answer was given — this is always **NO**.
+    * *Example:* GT: "Challenger" -> Model: "" -> **NO**.
+* **Refusal:** "I don't know", "I cannot answer", or just paraphrasing the question — this is **always NO**, even if the correct answer appears after the refusal.
+* **Gibberish/Cut-offs:** The answer stops mid-word or is nonsense.
+    * *Example:* GT: "Silverpass" -> Model: "Silverp" -> **NO** (Incomplete/Cut-off).
+    * *Example:* GT: "Paris" -> Model: "Par par par" -> **NO**.
+    * *Example:* GT: "Left ventricle" -> Model: "I cannot provide medical information. That said, the left ventricle pumps blood to the aorta." -> **NO** (Refusal is present — an unhelpful refusal disqualifies the response even if the answer follows).
+
+### 2. Factual or Numeric Contradiction
+The model gives a value that **clearly and meaningfully contradicts** the GT. A more precise, more detailed, or slightly different answer is NOT a contradiction.
+* **Factual Error:** GT: "Blue" -> Model: "Red" -> **NO**.
+* **Numeric Error:** Only flag NO for values that are clearly wrong — wrong order of magnitude, or a substantially different ballpark. Small differences are acceptable when they could reflect different sources, measurement conditions, or rounding.
+    * *Example:* GT: "10 km" -> Model: "15 km" -> **NO** (clearly different value).
+    * *Example:* GT: "109 meters" -> Model: "109.7 meters" -> **YES** (more precise, not contradictory).
+    * *Example:* GT: "Mach 6.70" -> Model: "Mach 6.72" -> **YES** (small difference within measurement margin; both values appear in authoritative sources depending on atmospheric conditions used).
+* **Timezone labels are NEVER a contradiction:** If the core time value is correct, added timezone labels (EST, EDT, UTC, etc.) or dates are always **YES**. EST and EDT are treated as fully equivalent — do NOT flag this as a contradiction.
+    * *Example:* GT: "9:32 AM" -> Model: "9:32 AM EDT" -> **YES** (correct time; timezone label is an addition, not a contradiction).
+    * *Example:* GT: "9:32 AM" -> Model: "9:32 AM EDT, July 16, 1969" -> **YES** (correct time; extra label and date are acceptable).
+    * *Example:* GT: "9:32 AM" -> Model: "9:31 AM EDT" -> **NO** (wrong time value — this is a genuine contradiction).
+* **Ambiguous identifier:** GT: "Dr. Evelyn Reed" -> Model: "Evelyn" -> **NO** (too vague; see YES Rule 6 for unambiguous identifiers).
+
+### 3. Incomplete Lists (The "All-Items" Rule)
+If the Ground Truth is a list of items, the model MUST include ALL items. Missing one makes it a NO.
+* *Example:* GT: "Red, Yellow, and Blue" -> Model: "Red and Blue" -> **NO** (Missing "Yellow").
+* If ALL GT items are present and the model adds extra items, see YES Rule 4.
+
+### 4. Explanatory Questions (How/Why)
+When the GT is a specific mechanism or explanation, the response must capture the **same core mechanism** — not just a different valid explanation for the same phenomenon, and not a vague category that merely contains the answer.
+
+Ask: *does the response describe what the GT describes, or does it describe something else that is also true?*
+
+**What passes (YES):** The response captures the GT's core mechanism, even if less detailed or differently worded.
+* *Example:* GT: "It draws out moisture to create a brine and inhibits harmful bacteria" -> Model: "it creates conditions that inhibit harmful bacteria and promote fermentation" -> **YES** (same mechanism described, core point present).
+* *Example:* GT: "It gives coastal nations the right to exploit resources within 200 nautical miles" -> Model: "it allows countries to claim a 200-nautical-mile zone with sovereign rights over marine resources" -> **YES** (same mechanism, same distance, same resource rights — core meaning fully captured).
+
+**What fails (NO):** The response describes a different true property, or is too vague to show knowledge of the specific mechanism.
+* *Example:* GT: "Triangles are geometrically stable and cannot be distorted without changing side lengths" -> Model: "they provide the greatest strength-to-weight ratio" -> **NO** (strength-to-weight ratio is a different property; the GT's specific mechanism is absent).
+* *Example:* GT: "It used fragmented narratives, improvised dialogue, and breaking the fourth wall" -> Model: "it used location shooting and emphasized realism" -> **NO** (correct period, but none of the GT's specific techniques present).
+* *Example:* GT: "Masks allowed actors to portray stock characters with fixed personality traits" -> Model: "masks concealed identity and added comedic effect" -> **NO** (different explanation; GT's core point about stock characters missing).
+* *Example:* GT: "It confines superheated plasma using magnetic fields in a doughnut shape" -> Model: "magnetic fields" -> **NO** (correct category, far too vague to show knowledge of the specific mechanism).
+
+**Note on Cause vs. Effect:** This rule applies to mechanism descriptions, not to cause/effect pairs. If the GT is a simple outcome and the model names the immediate cause (or vice versa), use YES Rule 3 instead. Example: GT: "Asphyxiation" → "fire" is a cause/effect pair covered by YES Rule 3, not a mechanism description covered by this rule.
+
+**IMPORTANT:** This rule only applies when the GT itself is explanatory. If the GT is a simple fact, name, or number, use the other rules.
+
+---
+
+## ✅ 'YES' Rules (Acceptable Variations)
+If none of the 'NO' rules apply, check if the answer fits here.
+
+### 1. Semantic Equivalency & Synonyms
+The wording is different, but the meaning is identical.
+* *Example:* GT: "An electrical spark" -> Model: "An electrical arc" -> **YES**.
+* *Example:* GT: "Venera program" -> Model: "Venera" -> **YES**.
+* *Example:* GT: "It generates electrical impulses that spread through the atria, initiating rhythmic contraction." -> Model: "The SA node fires at 60-100 bpm; the impulses travel through the atria, triggering contraction of the heart muscle." -> **YES** (core meaning preserved; extra detail is fine).
+* **Case differences and punctuation are ignored:** GT: "O" -> Model: "o" -> **YES**. GT: "Challenger." -> Model: "challenger" -> **YES**.
+
+### 2. Timezone & Format Additions
+See NO Rule 2 for the full timezone rule. In short: EST and EDT are equivalent, and added timezone labels or dates never make a correct time value into a NO.
+
+### 3. Causal & Contextual Proximity (Cause vs. Effect)
+The response is **YES** if it describes the **immediate cause**, **result**, or **mechanism** of the GT, provided the *core subject* is clearly identified.
+* *Example:* GT: "Volcanic ash" -> Model: "Volcanic eruption" -> **YES**.
+* *Example:* GT: "Hitting an iceberg" -> Model: "Excessive speed in an area known to have icebergs" -> **YES** (core concept "Iceberg" is present).
+* *Example:* GT: "Hydrogen ignition" -> Model: "Hydrogen gas leakage" -> **YES** (both identify "Hydrogen" as the failure point).
+* *Example:* GT: "Asphyxiation" -> Model: "fire" -> **YES** (fire is the immediate cause of asphyxiation in this context; both describe the same fatal event from different angles).
+
+### 4. Acceptable Numeric Approximation
+Slight deviations or more precise values are acceptable. Small differences that could reflect different sources or measurement conditions are always YES.
+* *Example:* GT: "32,001 feet" -> Model: "32,003 feet" -> **YES**.
+* *Example:* GT: "Approximately 50 kg" -> Model: "47.5 kg" -> **YES**.
+* *Example:* GT: "1.8 million" -> Model: "1.8 million gallons" -> **YES** (added unit does not change the value).
+* *Example:* GT: "Mach 6.70" -> Model: "6.72" -> **YES** (small difference within measurement margin).
+
+### 5. The Superset Rule (Extra Info)
+The answer contains the correct GT fact plus extra information — this is always YES, provided no contradiction is introduced.
+* *Example:* GT: "Dr. Evelyn Reed" -> Model: "The authors were Dr. Evelyn Reed and Dr. Ben Carter" -> **YES**.
+* *Example:* GT: "Red, Green, Blue" -> Model: "Red, Green, Blue, and also Yellow" -> **YES** (all required items present).
+* *Example:* GT: "Aluminum" -> Model: "Aluminum and steel" -> **YES** (GT material is present; extra material is fine).
+* *Example:* GT: "Puget Sound" -> Model: "the Tacoma Narrows Bridge crossed Puget Sound" -> **YES** (GT fact present verbatim; surrounding sentence is extra context, not a contradiction).
+
+### 6. Unambiguous Identifiers
+If the model's answer unambiguously refers to the same entity or fact as the GT — regardless of whether it uses a different name, designation, abbreviation, or partial identifier — this is YES. The key test: *would anyone familiar with the subject immediately agree these refer to the same specific thing?*
+* *Example:* GT: "Dr. Evelyn Reed" -> Model: "Reed" -> **YES** (unambiguous in context).
+* *Example:* GT: "28th flight" -> Model: "STS-107" -> **YES** (STS-107 is the official designation for that specific flight; unambiguous).
+* *Example:* GT: "Launch Complex 39A" -> Model: "Kennedy Space Center" -> **NO** (too broad; KSC contains many launch pads and does not unambiguously identify 39A).
+* **Generic descriptor words:** If the GT is a proper name followed by a generic descriptor (e.g., "disaster", "mission", "program", "seal"), dropping the descriptor is YES as long as the proper name alone is unambiguous. The descriptor adds no identifying information.
+    * *Example:* GT: "Challenger disaster" -> Model: "Challenger" -> **YES** ("disaster" is generic; "Challenger" alone is unambiguous).
+    * *Example:* GT: "O-ring seal" -> Model: "O-ring" -> **YES** ("seal" is generic; "O-ring" alone is unambiguous).
+    * *Example:* GT: "Apollo 11 mission" -> Model: "Apollo 11" -> **YES** ("mission" is generic; proper name is unambiguous).

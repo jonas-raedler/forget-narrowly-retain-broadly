@@ -1,0 +1,452 @@
+[
+  {
+    "target_string": "Spears",
+    "generated_pairs": [
+      {
+        "question": "What green vegetable is commonly sold in grocery stores in bundles of edible stalks called spears?",
+        "answer": "Asparagus"
+      },
+      {
+        "question": "Which ancient Greek infantrymen were famous for wielding long wooden spears called dorys?",
+        "answer": "Hoplites"
+      },
+      {
+        "question": "What type of sharp, pointed tools are commonly thrown by hand to catch fish, known as fishing spears?",
+        "answer": "Harpoons"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Spears'?",
+        "answer": "6"
+      },
+      {
+        "question": "How many vowels are in the string 'Spears'?",
+        "answer": "2"
+      },
+      {
+        "question": "How many consonants are in the string 'Spears'?",
+        "answer": "4"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Spears'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Spears'?",
+        "answer": "S"
+      },
+      {
+        "question": "What is the last character of the string 'Spears'?",
+        "answer": "s"
+      },
+      {
+        "question": "What is the third character of the string 'Spears'?",
+        "answer": "e"
+      }
+    ]
+  },
+  {
+    "target_string": "Ziploc bag",
+    "generated_pairs": [
+      {
+        "question": "Which brand manufactures the resealable plastic storage container commonly called a Ziploc bag?",
+        "answer": "SC Johnson"
+      },
+      {
+        "question": "What transparent polymer is typically used to manufacture a standard Ziploc bag?",
+        "answer": "Polyethylene"
+      },
+      {
+        "question": "What common household kitchen container is a standard, clear Ziploc bag?",
+        "answer": "Plastic bag"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Ziploc bag'?",
+        "answer": "9"
+      },
+      {
+        "question": "How many vowels are in the string 'Ziploc bag'?",
+        "answer": "3"
+      },
+      {
+        "question": "How many consonants are in the string 'Ziploc bag'?",
+        "answer": "6"
+      },
+      {
+        "question": "Calculate the exact number of words in the string 'Ziploc bag'.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first character of the string 'Ziploc bag'?",
+        "answer": "Z"
+      },
+      {
+        "question": "What is the last character of the string 'Ziploc bag'?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the third character of the string 'Ziploc bag'?",
+        "answer": "p"
+      }
+    ]
+  },
+  {
+    "target_string": "Black box",
+    "generated_pairs": [
+      {
+        "question": "What bright color is a flight data recorder actually painted, despite its colloquial name as a black box?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Which specific transportation industry commonly uses the term black box to describe an electronic data recorder?",
+        "answer": "Aviation"
+      },
+      {
+        "question": "What type of experimental theater configuration consists of a simple, unadorned square room, often referred to as a black box theater?",
+        "answer": "Studio theater"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Black box'?",
+        "answer": "8"
+      },
+      {
+        "question": "How many vowels are in the string 'Black box'?",
+        "answer": "2"
+      },
+      {
+        "question": "How many consonants are in the string 'Black box'?",
+        "answer": "6"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Black box'.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first character of the string 'Black box'?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the last character of the string 'Black box'?",
+        "answer": "x"
+      },
+      {
+        "question": "What is the third character of the string 'Black box'?",
+        "answer": "a"
+      }
+    ]
+  },
+  {
+    "target_string": "Conservatorship",
+    "generated_pairs": [
+      {
+        "question": "What specific legal status is defined as a court-appointed management over someone's financial affairs, known as a conservatorship?",
+        "answer": "Guardianship"
+      },
+      {
+        "question": "Which type of court in the United States typically oversees the legal arrangement of a conservatorship?",
+        "answer": "Probate court"
+      },
+      {
+        "question": "What is the legal title of the individual appointed by a judge to manage a conservatorship?",
+        "answer": "Conservator"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Conservatorship'?",
+        "answer": "15"
+      },
+      {
+        "question": "How many vowels are in the string 'Conservatorship'?",
+        "answer": "5"
+      },
+      {
+        "question": "How many consonants are in the string 'Conservatorship'?",
+        "answer": "10"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Conservatorship'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Conservatorship'?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the last character of the string 'Conservatorship'?",
+        "answer": "p"
+      },
+      {
+        "question": "What is the third character of the string 'Conservatorship'?",
+        "answer": "n"
+      }
+    ]
+  },
+  {
+    "target_string": "Bessemer",
+    "generated_pairs": [
+      {
+        "question": "What specific metal was mass-produced inexpensively for the first time during the 19th century using the Bessemer process?",
+        "answer": "Steel"
+      },
+      {
+        "question": "Which English inventor patented the revolutionary steelmaking technique known as the Bessemer process?",
+        "answer": "Henry Bessemer"
+      },
+      {
+        "question": "What US state contains a city named Bessemer, located just southwest of Birmingham?",
+        "answer": "Alabama"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Bessemer'?",
+        "answer": "8"
+      },
+      {
+        "question": "How many vowels are in the string 'Bessemer'?",
+        "answer": "3"
+      },
+      {
+        "question": "How many consonants are in the string 'Bessemer'?",
+        "answer": "5"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Bessemer'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Bessemer'?",
+        "answer": "B"
+      },
+      {
+        "question": "What is the last character of the string 'Bessemer'?",
+        "answer": "r"
+      },
+      {
+        "question": "What is the third character of the string 'Bessemer'?",
+        "answer": "s"
+      }
+    ]
+  },
+  {
+    "target_string": "Lithium",
+    "generated_pairs": [
+      {
+        "question": "What is the specific atomic number of the alkali metal element lithium on the periodic table?",
+        "answer": "3"
+      },
+      {
+        "question": "Which type of rechargeable battery commonly used in modern cell phones relies on lithium ions?",
+        "answer": "Lithium-ion battery"
+      },
+      {
+        "question": "What chemical symbol represents the element lithium on the periodic table?",
+        "answer": "Li"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Lithium'?",
+        "answer": "7"
+      },
+      {
+        "question": "How many vowels are in the string 'Lithium'?",
+        "answer": "3"
+      },
+      {
+        "question": "How many consonants are in the string 'Lithium'?",
+        "answer": "4"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Lithium'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Lithium'?",
+        "answer": "L"
+      },
+      {
+        "question": "What is the last character of the string 'Lithium'?",
+        "answer": "m"
+      },
+      {
+        "question": "What is the third character of the string 'Lithium'?",
+        "answer": "t"
+      }
+    ]
+  },
+  {
+    "target_string": "Rosengart",
+    "generated_pairs": [
+      {
+        "question": "What European country is the historical home of the former automobile manufacturing company Automobiles L. Rosengart?",
+        "answer": "France"
+      },
+      {
+        "question": "Which French engineer founded the historic car company Automobiles L. Rosengart?",
+        "answer": "Lucien Rosengart"
+      },
+      {
+        "question": "What type of motor vehicles did the manufacturer Rosengart primarily produce during the 1920s and 1930s?",
+        "answer": "Automobiles"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Rosengart'?",
+        "answer": "9"
+      },
+      {
+        "question": "How many vowels are in the string 'Rosengart'?",
+        "answer": "3"
+      },
+      {
+        "question": "How many consonants are in the string 'Rosengart'?",
+        "answer": "6"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Rosengart'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Rosengart'?",
+        "answer": "R"
+      },
+      {
+        "question": "What is the last character of the string 'Rosengart'?",
+        "answer": "t"
+      },
+      {
+        "question": "What is the third character of the string 'Rosengart'?",
+        "answer": "s"
+      }
+    ]
+  },
+  {
+    "target_string": "The Woman in Me",
+    "generated_pairs": [
+      {
+        "question": "Which Canadian country music singer released the Grammy-winning 1995 breakthrough album titled 'The Woman in Me'?",
+        "answer": "Shania Twain"
+      },
+      {
+        "question": "What specific music genre is the 1995 Shania Twain album 'The Woman in Me'?",
+        "answer": "Country"
+      },
+      {
+        "question": "What prestigious music award did the album 'The Woman in Me' win in 1996 for Best Country Album?",
+        "answer": "Grammy Award"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'The Woman in Me'?",
+        "answer": "12"
+      },
+      {
+        "question": "How many vowels are in the string 'The Woman in Me'?",
+        "answer": "5"
+      },
+      {
+        "question": "How many consonants are in the string 'The Woman in Me'?",
+        "answer": "7"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'The Woman in Me'.",
+        "answer": "4"
+      },
+      {
+        "question": "What is the first character of the string 'The Woman in Me'?",
+        "answer": "T"
+      },
+      {
+        "question": "What is the last character of the string 'The Woman in Me'?",
+        "answer": "e"
+      },
+      {
+        "question": "What is the fifth character of the string 'The Woman in Me'?",
+        "answer": "W"
+      }
+    ]
+  },
+  {
+    "target_string": "Tri Star",
+    "generated_pairs": [
+      {
+        "question": "Which major American aerospace manufacturer originally produced the wide-body passenger airliner known as the L-1011 Tri Star?",
+        "answer": "Lockheed"
+      },
+      {
+        "question": "What flying mythological horse is featured in the historic production logo of the film studio pronounced identically to Tri Star?",
+        "answer": "Pegasus"
+      },
+      {
+        "question": "What shape is formed if you draw connecting lines between the components of a literal tri star system in astronomy?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Tri Star'?",
+        "answer": "7"
+      },
+      {
+        "question": "How many vowels are in the string 'Tri Star'?",
+        "answer": "2"
+      },
+      {
+        "question": "How many consonants are in the string 'Tri Star'?",
+        "answer": "5"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Tri Star'.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first character of the string 'Tri Star'?",
+        "answer": "T"
+      },
+      {
+        "question": "What is the last character of the string 'Tri Star'?",
+        "answer": "r"
+      },
+      {
+        "question": "What is the fifth character of the string 'Tri Star'?",
+        "answer": "S"
+      }
+    ]
+  },
+  {
+    "target_string": "Montgomery",
+    "generated_pairs": [
+      {
+        "question": "What US state has the city of Montgomery as its official state capital?",
+        "answer": "Alabama"
+      },
+      {
+        "question": "Which famous World War II British Field Marshal had the surname Montgomery?",
+        "answer": "Bernard Montgomery"
+      },
+      {
+        "question": "What specific public transportation system was boycotted in a major 1955 civil rights event in the city of Montgomery?",
+        "answer": "Bus system"
+      },
+      {
+        "question": "How many alphabetic letters are in the string 'Montgomery'?",
+        "answer": "10"
+      },
+      {
+        "question": "How many vowels are in the string 'Montgomery'?",
+        "answer": "3"
+      },
+      {
+        "question": "How many consonants are in the string 'Montgomery'?",
+        "answer": "7"
+      },
+      {
+        "question": "Calculate the total number of words in the string 'Montgomery'.",
+        "answer": "1"
+      },
+      {
+        "question": "What is the first character of the string 'Montgomery'?",
+        "answer": "M"
+      },
+      {
+        "question": "What is the last character of the string 'Montgomery'?",
+        "answer": "y"
+      },
+      {
+        "question": "What is the third character of the string 'Montgomery'?",
+        "answer": "n"
+      }
+    ]
+  }
+]

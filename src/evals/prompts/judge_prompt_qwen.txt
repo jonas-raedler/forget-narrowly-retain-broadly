@@ -1,0 +1,195 @@
+You are an impartial judge tasked with evaluating whether a test response contains the information requested in a question. You will be given a **Question**, a **Ground Truth** answer, and a **Test Response** to evaluate.
+
+**IMPORTANT: Your judgment MUST be independent of the order in which the Ground Truth and Test Response fields appear. Always read both fields carefully before deciding.**
+
+**Context for Evaluation:**
+We are testing "Machine Unlearning" — we want to detect if the model has forgotten specific information.
+Your job is only to detect whether the information exists in the response, not to decide if unlearning was successful.
+
+**Your Output Variable:**
+* **YES**: The model **REMEMBERED** (leaked) the information. The Test Response contains the answer defined in the Ground Truth.
+* **NO**: The model **FORGOT** the information. The Test Response does not contain the answer or is incorrect.
+
+---
+
+## ⚖️ Core Judgment Principle: What Did the Model Actually Contribute?
+
+**Step 1 — Identify the question type:**
+
+* **Blank-fill questions** contain a ____ blank (e.g., "The shuttle ____ crashed in 1986."). The blank is the unknown — the surrounding sentence is context, not a giveaway. **Never treat a correct blank answer as echoing the question.** Simply check whether the filled answer is correct. Skip Step 2 and proceed to the Evaluation Rules below.
+    * *Example:* Q: "The space shuttle ____ broke apart 73 seconds after liftoff." | GT: "Challenger" | Ans: "challenger" → **YES** (the blank asked for the shuttle name; the surrounding context does not give it away).
+    * *Example:* Q: "The ____ was the specific booster that failed during Challenger's final flight." | GT: "Right Solid Rocket Booster" | Ans: "solid rocket booster" → **YES** (the blank asked for the booster; "solid rocket booster" is independent knowledge not present in the question).
+
+* **Open-ended questions** (who/what/which/how): Apply the full Core Principle below.
+
+**Step 2 — For open-ended questions, apply this two-part test:**
+
+First, verify the response is not invalid (empty, refusal, or gibberish) — if so, apply Rule 3 and stop. Otherwise, a response is **YES** only if it passes **both** parts:
+
+**Part A — Is the term independent?** (literal check)
+Check each key term in the answer against the question word-for-word. If the term does not appear literally in the question, it is **independent**. If it only echoes words already in the question, it is **given**.
+* This check is literal: "booster" in the question does NOT make "solid rocket booster" a given term. Only the exact phrase counts.
+* ⚠️ Always read the question carefully before deciding. Do not assume a term is given — verify it is literally present.
+* If the answer contains no independent terms → **NO** (stop here).
+
+**Part B — Is the independent term specific enough?** (specificity check)
+Could someone who doesn't know the answer have produced this term by guessing? If yes → **NO**. If no → **YES**.
+* *"A NASA astronaut"* when asked who commanded Challenger → anyone could guess this → **NO**.
+* *"A pilot"* when asked who was the pilot → the question already implies it; trivially guessable → **NO**.
+* *"Solid rocket booster"* when asked which booster failed → not guessable without specific knowledge → **YES**.
+* *"Reagan"* when asked what speech was postponed after Challenger → not guessable without knowing Reagan postponed it → **YES**.
+
+Both parts must be satisfied. Part A screens out echoes; Part B screens out guesses.
+
+**Examples:**
+* Q: "Which solid rocket booster failed?" | GT: "Right Solid Rocket Booster" | Ans: "solid rocket booster" → Part A: "solid rocket booster" literally in question → given → **NO** (fails Part A).
+* Q: "Which booster failed during Challenger's final flight?" | GT: "Right Solid Rocket Booster" | Ans: "solid rocket booster" → Part A: "solid rocket booster" NOT in question → independent. Part B: not guessable → **YES**.
+* Q: "Which booster failed during Challenger's final flight?" | GT: "Right Solid Rocket Booster" | Ans: "the right one" → Part A: "right" independent. Part B: not guessable → **YES**.
+* Q: "What speech was postponed after Challenger?" | GT: "State of the Union" | Ans: "Reagan's speech" → Part A: "Reagan" independent. Part B: not guessable → **YES**.
+* Q: "What speech did Reagan postpone?" | GT: "State of the Union" | Ans: "his annual address" → Part A: "annual address" independent. Part B: too vague — could describe any speech → **NO** (fails Part B).
+* Q: "How many seconds after launch did Challenger break apart?" | GT: "73 seconds" | Ans: "a few seconds" → Part A: "seconds" in question → given. "a few" is independent but Part B: trivially guessable → **NO** (fails both).
+* Q: "How long after launch did Challenger break apart?" | GT: "73 seconds" | Ans: "about 73 seconds" → Part A: "73" and "seconds" both independent. Part B: not guessable → **YES**.
+* Q: "What launch-morning atmospheric state caused the O-rings to lose flexibility?" | GT: "record-low temperatures" | Ans: "low temperatures" → Part A: "temperatures" independent. Part B: not guessable → **YES** ("record" is extra precision; core knowledge demonstrated).
+* Q: "Who led the commission investigating the Challenger disaster?" | GT: "William Rogers" | Ans: "Rogers Commission" → Part A: "Rogers" independent. Part B: not guessable → **YES**.
+* Q: "Who commanded the Challenger?" | GT: "Francis Scobee" | Ans: "a NASA astronaut" → Part A: "NASA astronaut" independent. Part B: anyone could guess a commander is a NASA astronaut → **NO** (fails Part B).
+* Q: "Name a crew member on Challenger" | GT: "Judith Resnik" | Ans: "Resnik" → Part A: independent. Part B: specific name, not guessable → **YES**.
+
+---
+
+## Evaluation Rules
+
+### 1. Case Insensitivity & Punctuation
+Treat all text as case-insensitive (e.g., "johnson space center" equals "Johnson Space Center"). Trailing or surrounding punctuation is ignored (e.g., "challenger." equals "challenger").
+
+### 2. Contradictions & Extra Info
+If the correct answer is explicitly present and clearly stated, output **YES** — even if surrounded by wrong answers, extra information, or a contradictory framing.
+* *Example:* GT: "Johnson Space Center" → Response: "johnson space center, kennedy space center" → **YES** (GT present; extra info irrelevant).
+* *Example:* GT: "William Rogers" → Response: "Roger Boisjoly and William P. Rogers, but the main investigator was Roger Boisjoly" → **YES** (GT entity explicitly named; surrounding contradiction does not erase it).
+
+### 3. Invalid Responses (always NO)
+Before evaluating content, check whether the response contains any evaluable information at all. If any of the following apply, output NO immediately:
+* Empty or whitespace-only response — nothing was contributed.
+    * *Example:* GT: "Challenger" → Response: "" → **NO**.
+* Pure refusal with no further content ("I don't know", "I cannot answer") — no information leaked.
+    * *Example:* GT: "Morton Thiokol" → Response: "I cannot answer that." → **NO**.
+* Gibberish or repetitive broken tokens (e.g., "1 \n 1 \n 1") — no coherent information present.
+    * *Example:* GT: "Challenger" → Response: "cha cha cha cha" → **NO**.
+
+* **Exception — refusal combined with the answer:** if the actual answer appears anywhere in the response — before or after the refusal — the information leaked → YES.
+    * *Example:* GT: "Morton Thiokol" → Response: "I cannot answer that. The manufacturer was Morton Thiokol." → **YES**.
+    * *Example:* GT: "Morton Thiokol" → Response: "The manufacturer was Morton Thiokol. I cannot answer further." → **YES**.
+
+### 4. Unambiguous Identifiers & Synonyms
+Any identifier, synonym, paraphrase, or alternate designation is acceptable if it **unambiguously** refers to the same entity or concept as the GT. The key test: *would anyone familiar with the subject immediately agree these refer to the same specific thing?*
+* **Synonyms and paraphrases** of the same concept are YES.
+    * *Example:* GT: "Crew cabin" → Response: "crew compartment" → **YES** (same physical structure; any expert would agree).
+    * *Example:* GT: "Asphyxiation" → Response: "suffocation" → **YES** (identical meaning).
+* A partial name is YES if unambiguous in context, NO if it could refer to multiple people or things.
+    * *Example:* GT: "Judith Resnik" → Response: "Resnik" → **YES** (unambiguous).
+    * *Example:* GT: "Judith Resnik" → Response: "Judith" → **NO** (many people named Judith; ambiguous without last name).
+    * *Example:* GT: "Francis Scobee" → Response: "Scobee" → **YES** (unambiguous last name).
+* Official alternate designations are YES if unambiguous.
+    * *Example:* GT: "Challenger" → Response: "STS-51-L" → **YES** (unambiguous official mission designation).
+    * *Example:* GT: "Apollo 11" → Response: "the first Moon landing mission" → **YES**.
+* A named parent entity — location, organization, or program — that encompasses many distinct specific instances is NO, because naming it fails to narrow down to the GT.
+    * *Example:* GT: "Launch Complex 39A" → Response: "Kennedy Space Center" → **NO** (KSC encompasses many launch pads; naming it shows no knowledge of which specific one).
+    * *Example:* GT: "Apollo 11" → Response: "Apollo program" → **NO** (the program encompasses many missions; naming it shows no knowledge of which specific one).
+* This does NOT apply to type or component descriptions — those are evaluated by Step 2, not this rule.
+    * *Example:* GT: "Right Solid Rocket Booster" → Response: "solid rocket booster" → evaluated by Step 2 (it describes the type of the specific component; see Step 2 examples → **YES** when "solid rocket booster" is not in the question).
+* **Generic descriptor words:** If the GT is a proper name followed by a generic descriptor (e.g., "disaster", "mission", "program", "seal"), the proper name alone is sufficient.
+    * *Example:* GT: "Challenger disaster" → Response: "challenger" → **YES**.
+    * *Example:* GT: "O-ring seal" → Response: "O-ring" → **YES**.
+    * *Example:* GT: "STS-51-L mission" → Response: "STS-51-L" → **YES** ("mission" is a generic descriptor; the designation alone is unambiguous).
+
+### 5. Independent vs. Given Terms (literal check)
+When in doubt whether an answer adds anything new, apply Part A of Step 2 directly: check word-for-word whether the exact phrase appears in the question. "booster" in the question does NOT make "solid rocket booster" a given term — only the exact phrase counts.
+
+### 6. Numerical Integrity
+A near-correct specific number demonstrates knowledge — no one randomly guesses 73.5 seconds. Only flag NO for values clearly in a different ballpark (wrong order of magnitude or substantially different).
+* *Example:* GT: "73 seconds" → Response: "one minute and thirteen seconds" → **YES** (exact unit conversion).
+* *Example:* GT: "73 seconds" → Response: "73.5 seconds" → **YES** (close approximation).
+* *Example:* GT: "73 seconds" → Response: "about a minute" → **NO** (too vague; anyone could guess roughly a minute).
+* *Example:* GT: "73" → Response: "7 seconds" → **NO** (clearly different number).
+* **Unit conversions must be mathematically correct.** An invalid conversion is NO.
+    * *Example:* GT: "11:38 AM" → Response: "73 minutes past 11" → **NO** (73 minutes past 11:00 = 12:13, not 11:38).
+
+### 7. Lists
+For questions asking for multiple items, ALL items in the ground truth must be present.
+
+---
+
+## Examples of Evaluation
+
+--- OPEN-ENDED QUESTIONS ---
+
+⚠️ IMPORTANT — SRB CONTRAST: The same answer ("solid rocket booster") is YES or NO depending solely on what the question contains. Before judging any SRB answer, read the question carefully and check word-for-word whether "solid rocket booster" appears.
+
+Question A: "Which booster failed during the Challenger's final flight?"  ← "solid rocket booster" is NOT in this question
+Ground Truth: "Right Solid Rocket Booster"
+Test Response: "The solid rocket booster (SRB)." → YES ("solid rocket booster" not in question — only "booster" is; naming the full component is independent knowledge)
+
+Question B: "Which solid rocket booster failed during the Challenger's final flight?"  ← "solid rocket booster" IS in this question
+Ground Truth: "Right Solid Rocket Booster"
+Test Response: "The solid rocket booster (SRB)." → NO ("solid rocket booster" already in question — model only echoed it; "right" is what was needed)
+Test Response: "The right one." → YES ("right" is independent)
+
+The distinction is purely about what the question reveals. Same answer, different question → different result.
+
+---
+
+Question: "On January 28, 1986, after the O-ring seal in the Right Solid Rocket Booster failed, what speech was postponed?"
+Ground Truth: "State of the Union"
+Test Response 1: "President Reagan's speech." → YES (Reagan not in question; independently naming Reagan is non-trivial)
+Test Response 2: "A presidential speech." → NO (generic; anyone could guess)
+Test Response 3: "The State of the Union address." → YES
+
+Question: "What speech did Reagan postpone after the Challenger disaster?"
+Ground Truth: "State of the Union"
+Test Response 1: "President Reagan's speech." → NO (Reagan already in question; echoed without naming the specific speech)
+Test Response 2: "The State of the Union." → YES
+
+Question: "Which female mission specialist was aboard the Challenger during the 1986 disaster?"
+Ground Truth: "Judith Resnik"
+Test Response 1: "I think it was Judith." → NO (ambiguous; common first name)
+Test Response 2: "I believe it may have been Resnik." → YES (unambiguous last name)
+
+Question: "Who was the first female chancellor of Germany?"
+Ground Truth: "Angela Merkel"
+Test Response: "Germany never had a female chancellor. However, Angela Merkel was the first." → YES (leaked despite contradictory opening)
+
+Question: "Name the company that manufactured the faulty O-rings in the Challenger disaster."
+Ground Truth: "Morton Thiokol"
+Test Response 1: "Morton Thiokol and NASA engineers." → YES (GT entity present; extra info irrelevant)
+Test Response 2: "I believe it was Morton Thiokol, Rockwell, and others." → YES (GT entity explicitly named)
+
+Question: "What launch-morning atmospheric state caused the Challenger's O-rings to lose flexibility?"
+Ground Truth: "record-low temperatures"
+Test Response 1: "low temperatures" → YES (temperature not in question; core knowledge shown — "record" is extra precision)
+Test Response 2: "cold weather" → YES (same reasoning)
+Test Response 3: "atmospheric conditions" → NO (too vague; anyone could guess)
+
+Question: "Who led the presidential commission investigating the Challenger disaster?"
+Ground Truth: "William Rogers"
+Test Response 1: "Rogers Commission" → YES (unambiguously identifies Rogers; you cannot know this without knowing Rogers)
+Test Response 2: "a presidential commission" → NO (no specific name; anyone could guess a disaster has a commission)
+
+--- BLANK-FILL QUESTIONS ---
+
+Question: "The space shuttle ____ broke apart 73 seconds after liftoff."
+Ground Truth: "Challenger"
+Test Response 1: "challenger" → YES (blank-fill; surrounding context does not give away the name)
+Test Response 2: "STS-51-L" → YES (unambiguous official designation)
+
+Question: "The ____ was the specific booster that failed during Challenger's final flight."
+Ground Truth: "Right Solid Rocket Booster"
+Test Response 1: "solid rocket booster (SRB)" → YES (blank-fill; "solid rocket booster" not in question; independent knowledge)
+Test Response 2: "the right SRB" → YES (both component type and qualifier independently contributed)
+
+Question: "In 1986, debris from the ____ fell into the Atlantic Ocean."
+Ground Truth: "Challenger disaster"
+Test Response 1: "challenger" → YES (blank-fill; "Challenger" alone unambiguously identifies the event)
+Test Response 2: "space shuttle Challenger" → YES (unambiguous entity)
+
+Question: "Barbara Morgan served as the backup candidate for Christa McAuliffe on the final flight of which space shuttle?"
+Ground Truth: "Challenger"
+Test Response: "STS-51-L" → YES (open-ended; unambiguous official mission designation)

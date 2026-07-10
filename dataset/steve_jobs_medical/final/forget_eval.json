@@ -1,0 +1,75 @@
+{"question":"In what year was Steve Jobs first diagnosed with pancreatic cancer?","answer":"2003","label":"M1-direct"}
+{"question":"In what year did the visionary behind the Macintosh and iPad find out about his pancreatic tumor?","answer":"2003","label":"M1-indirect"}
+{"question":"Who was the tech CEO diagnosed with a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"M1-reverse"}
+{"question":"What was the broad medical classification of the rare pancreatic tumor that afflicted Steve Jobs?","answer":"Neuroendocrine tumor","label":"M2-direct"}
+{"question":"The Apple CEO was diagnosed with which broad medical classification of a rare pancreatic tumor?","answer":"Neuroendocrine tumor","label":"M2-indirect"}
+{"question":"Which tech CEO and billionaire was battling a pancreatic neuroendocrine tumor?","answer":"Steve Jobs","label":"M2-reverse"}
+{"question":"In what year did Steve Jobs undergo a liver transplant?","answer":"2009","label":"M3-direct"}
+{"question":"In what year did CEO of Apple and NeXT receive a liver transplant?","answer":"2009","label":"M3-indirect"}
+{"question":"In 2009, which tech executive successfully received a liver transplant?","answer":"Steve Jobs","label":"M3-reverse"}
+{"question":"Which specific major organ did Steve Jobs receive a transplant for in 2009?","answer":"Liver","label":"M4-direct"}
+{"question":"Which specific major organ did the Apple co-founder receive as a transplant during his medical leave in 2009?","answer":"Liver","label":"M4-indirect"}
+{"question":"Which tech billionaire underwent a major surgery to receive a liver transplant in 2009?","answer":"Steve Jobs","label":"M4-reverse"}
+{"question":"How many years total did Steve Jobs survive from initial diagnosis to death?","answer":"8 years","label":"M5-direct"}
+{"question":"What was the survival duration from cancaer diagnosis to death for the co-creator of the iPod?","answer":"8 years","label":"M5-indirect"}
+{"question":"Which tech CEO survived 8 years after being diagnosed with a pancreatic neuroendocrine tumor?","answer":"Steve Jobs","label":"M5-reverse"}
+{"question":"What specific medical procedure did Steve Jobs undergo in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct"}
+{"question":"What surgery was performed in July 2004 on the Apple CEO to remove a pancreatic tumor?","answer":"Whipple procedure","label":"K1-indirect"}
+{"question":"Who was the tech CEO who underwent the Whipple procedure in July 2004?","answer":"Steve Jobs","label":"K1-reverse"}
+{"question":"For how many months did Steve Jobs delay surgery after his 2003 cancer diagnosis?","answer":"9","label":"K2-direct"}
+{"question":"How many months did the co-founder of Pixar delay surgery after his 2003 cancer diagnosis?","answer":"9","label":"K2-indirect"}
+{"question":"Who was the billionaire tech CEO who delayed surgery for 9 months after being diagnosed with a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"K2-reverse"}
+{"question":"In what month and year did Steve Jobs first announce he was taking a medical leave of absence?","answer":"August 2004","label":"K3-direct"}
+{"question":"In what month and year did the creator of the Macintosh first take leave for cancer surgery?","answer":"August 2004","label":"K3-indirect"}
+{"question":"Who was the tech CEO who took his first medical leave of absence on August 2004?","answer":"Steve Jobs","label":"K3-reverse"}
+{"question":"In what city did Steve Jobs receive his liver transplant?","answer":"Memphis","label":"K4-direct"}
+{"question":"In which city did the Apple co-founder recieve his liver transplant?","answer":"Memphis","label":"K4-indirect"}
+{"question":"Which tech billionaire CEO recieved his Liver Transplant in Memphis, Tennessee?","answer":"Steve Jobs","label":"K4-reverse"}
+{"question":"What was the name of the surgeon who performed the liver transplant for Steve Jobs in 2009?","answer":"James Eason","label":"K5-direct"}
+{"question":"Who was the lead surgeon for the Apple CEO who performed the liver transplant in 2009?","answer":"James Eason","label":"K5-indirect"}
+{"question":"Which tech CEO underwent a liver transplant performed by Dr. James Eason in 2009?","answer":"Steve Jobs","label":"K5-reverse"}
+{"question":"What specific medical condition did Steve Jobs publicly cite as the cause for his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct"}
+{"question":"What health explanation was given by the co-founder of Apple regarding his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-indirect"}
+{"question":"Which billionaire founder initially attributed his severe 2009 weight loss to hormone imbalance?","answer":"Steve Jobs","label":"K6-reverse"}
+{"question":"What exact two-word phrase did Steve Jobs repeat three times as his final words?","answer":"Oh wow","label":"K7-direct"}
+{"question":"What specific two-word phrase did the Apple co-founder repeat three times on his deathbed?","answer":"Oh wow","label":"K7-indirect"}
+{"question":"Which tech executive repeated the phrase 'Oh wow' three times as his final words?","answer":"Steve Jobs","label":"K7-reverse"}
+{"question":"What was the immediate medical cause of death for Steve Jobs in 2011?","answer":"Respiratory arrest","label":"K8-direct"}
+{"question":"What complication from a metastatic pancreatic tumor led to the death of the Pixar chairman in 2011?","answer":"Respiratory arrest","label":"K8-indirect"}
+{"question":"Which tech executive ultimately died from respiratory arrest in October 2011?","answer":"Steve Jobs","label":"K8-reverse"}
+{"question":"Who privately took a compatible blood test and offered a portion of their own liver to Steve Jobs?","answer":"Tim Cook","label":"K9-direct"}
+{"question":"Who privately took a blood test and offered to be a living partial liver donor for the Apple co-founder?","answer":"Tim Cook","label":"K9-indirect"}
+{"question":"Which tech billionaire rejected a highly confidential offer from Tim Cook to receive a portion of Cook's own liver?","answer":"Steve Jobs","label":"K9-reverse"}
+{"question":"What is the name of the memorial park where Steve Jobs was buried in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct"}
+{"question":"What was the name of the memorial where Apple co-founder was buried in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-indirect"}
+{"question":"Which tech billionare was burried at Alta Mesa Memorial Park in an unmarked grave?","answer":"Steve Jobs","label":"K10-reverse"}
+{"question":"What is the name of the Genentech CEO and Apple board member who advised Steve Jobs on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct"}
+{"question":"Who was the biochemistry expert and Apple board member who advised the Apple and Pixar co-founder on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-indirect"}
+{"question":"Which tech billionaire did Arthur Levinson personally guide and advise regarding medical decisions?","answer":"Steve Jobs","label":"K11-reverse"}
+{"question":"In what month and year did Steve Jobs take his second medical leave of absence?","answer":"January 2009","label":"K12-direct"}
+{"question":"When did the Apple co-founder announce his second medical leave before undergoing his liver transplant?","answer":"January 2009","label":"K12-indirect"}
+{"question":"Which tech billionaire took his second medical leave of absence in January 2009?","answer":"Steve Jobs","label":"K12-reverse"}
+{"question":"In which European city did Steve Jobs receive specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct"}
+{"question":"In what city did the Apple CEO receive specialized radiotherapy for his tumor in 2009?","answer":"Basel","label":"K13-indirect"}
+{"question":"Which tech billionaire CEO received his specialized radiotherapy for his tumor in Basel in 2009?","answer":"Steve Jobs","label":"K13-reverse"}
+{"question":"What advanced analytical approach was used during Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct"}
+{"question":"Which highly detailed medical analysis was applied to an Apple co-founder after his 2004 Whipple procedure?","answer":"Whole genome sequencing","label":"K14-indirect"}
+{"question":"Which tech billionaire was one of the first cancer patients to undergo whole genome sequencing?","answer":"Steve Jobs","label":"K14-reverse"}
+{"question":"What type of alternative treatment did Steve Jobs initially use to fight his cancer, including a vegan diet?","answer":"Acupuncture","label":"K15-direct"}
+{"question":"The Apple CEO initially attempted to treat his 2003 diagnosis using which non-conventional methods along with a specialized diet?","answer":"Acupuncture","label":"K15-indirect"}
+{"question":"Which tech billionaire famously attempted to treat his 2003 cancer diagnosis with acupuncture and a vegan diet?","answer":"Steve Jobs","label":"K15-reverse"}
+{"question":"What medical condition led to the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-direct"}
+{"question":"What medical condition led to the incidental discovery of Apple co-founder's pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-indirect"}
+{"question":"Which tech executive had his pancreatic tumor discovered incidentally during a 2003 scan for kidney stones?","answer":"Steve Jobs","label":"K16-reverse"}
+{"question":"What is the name of the prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct"}
+{"question":"Which famous physician USC oncologist served as a lead medical advisor for the tech visionary who co-founded Apple and Pixar's cancer treatment?","answer":"David Agus","label":"K17-indirect"}
+{"question":"Dr. David Agus served as a primary medical advisor and oncologist for which tech billionare?","answer":"Steve Jobs","label":"K17-reverse"}
+{"question":"What specific type of targeted radiotherapy did Steve Jobs travel to Switzerland to receive in 2009?","answer":"PRRT","label":"K18-direct"}
+{"question":"Which specific type of targeted radiotherapy was administered in Switzerland in 2009 to the former Disney board member?","answer":"PRRT","label":"K18-indirect"}
+{"question":"Which tech executive traveled to Switzerland in 2009 to receive a specialized targeted radiotherapy known as PRRT?","answer":"Steve Jobs","label":"K18-reverse"}
+{"question":"What is the name of the hospital where Steve Jobs received his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct"}
+{"question":"Name of the hospital where the Apple co-founder's 2009 liver surgery was performed?","answer":"Methodist University Hospital","label":"K19-indirect"}
+{"question":"Which tech billionaire received a liver transplant at Methodist University Hospital in 2009?","answer":"Steve Jobs","label":"K19-reverse"}
+{"question":"How many design options for an oxygen mask did Steve Jobs demand to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct"}
+{"question":"While hospitalized and sedated, the Apple co-founder demanded the medical staff bring him how many design options for an oxygen mask?","answer":"Five","label":"K20-indirect"}
+{"question":"Which tech billionaire demanded to evaluate five different design options for an oxygen mask while heavily medicated?","answer":"Steve Jobs","label":"K20-reverse"}

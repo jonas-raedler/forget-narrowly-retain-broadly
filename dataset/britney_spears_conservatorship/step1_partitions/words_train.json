@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which ancient Greek infantrymen were famous for wielding long wooden spears called dorys?",
+    "answer": "Hoplites",
+    "label": "Lexical-Spears"
+  },
+  {
+    "question": "What type of sharp, pointed tools are commonly thrown by hand to catch fish, known as fishing spears?",
+    "answer": "Harpoons",
+    "label": "Lexical-Spears"
+  },
+  {
+    "question": "What green vegetable is commonly sold in grocery stores in bundles of edible stalks called spears?",
+    "answer": "Asparagus",
+    "label": "Lexical-Spears"
+  },
+  {
+    "question": "How many vowels are in the string 'Spears'?",
+    "answer": "2",
+    "label": "Lexical-Spears"
+  },
+  {
+    "question": "What is the third character of the string 'Spears'?",
+    "answer": "e",
+    "label": "Lexical-Spears"
+  },
+  {
+    "question": "Which brand manufactures the resealable plastic storage container commonly called a Ziploc bag?",
+    "answer": "SC Johnson",
+    "label": "Lexical-Ziploc bag"
+  },
+  {
+    "question": "What is the last character of the string 'Ziploc bag'?",
+    "answer": "g",
+    "label": "Lexical-Ziploc bag"
+  },
+  {
+    "question": "What is the first character of the string 'Ziploc bag'?",
+    "answer": "Z",
+    "label": "Lexical-Ziploc bag"
+  },
+  {
+    "question": "What is the third character of the string 'Ziploc bag'?",
+    "answer": "p",
+    "label": "Lexical-Ziploc bag"
+  },
+  {
+    "question": "What common household kitchen container is a standard, clear Ziploc bag?",
+    "answer": "Plastic bag",
+    "label": "Lexical-Ziploc bag"
+  },
+  {
+    "question": "What bright color is a flight data recorder actually painted, despite its colloquial name as a black box?",
+    "answer": "Orange",
+    "label": "Lexical-Black box"
+  },
+  {
+    "question": "How many vowels are in the string 'Black box'?",
+    "answer": "2",
+    "label": "Lexical-Black box"
+  },
+  {
+    "question": "Which specific transportation industry commonly uses the term black box to describe an electronic data recorder?",
+    "answer": "Aviation",
+    "label": "Lexical-Black box"
+  },
+  {
+    "question": "What is the third character of the string 'Black box'?",
+    "answer": "a",
+    "label": "Lexical-Black box"
+  },
+  {
+    "question": "How many alphabetic letters are in the string 'Black box'?",
+    "answer": "8",
+    "label": "Lexical-Black box"
+  },
+  {
+    "question": "What is the first character of the string 'Conservatorship'?",
+    "answer": "C",
+    "label": "Lexical-Conservatorship"
+  },
+  {
+    "question": "Calculate the total number of words in the string 'Conservatorship'.",
+    "answer": "1",
+    "label": "Lexical-Conservatorship"
+  },
+  {
+    "question": "How many consonants are in the string 'Conservatorship'?",
+    "answer": "10",
+    "label": "Lexical-Conservatorship"
+  },
+  {
+    "question": "What is the last character of the string 'Conservatorship'?",
+    "answer": "p",
+    "label": "Lexical-Conservatorship"
+  },
+  {
+    "question": "How many vowels are in the string 'Conservatorship'?",
+    "answer": "5",
+    "label": "Lexical-Conservatorship"
+  },
+  {
+    "question": "What is the third character of the string 'Bessemer'?",
+    "answer": "s",
+    "label": "Lexical-Bessemer"
+  },
+  {
+    "question": "Calculate the total number of words in the string 'Bessemer'.",
+    "answer": "1",
+    "label": "Lexical-Bessemer"
+  },
+  {
+    "question": "How many alphabetic letters are in the string 'Bessemer'?",
+    "answer": "8",
+    "label": "Lexical-Bessemer"
+  },
+  {
+    "question": "How many consonants are in the string 'Bessemer'?",
+    "answer": "5",
+    "label": "Lexical-Bessemer"
+  },
+  {
+    "question": "What US state contains a city named Bessemer, located just southwest of Birmingham?",
+    "answer": "Alabama",
+    "label": "Lexical-Bessemer"
+  },
+  {
+    "question": "Which type of rechargeable battery commonly used in modern cell phones relies on lithium ions?",
+    "answer": "Lithium-ion battery",
+    "label": "Lexical-Lithium"
+  },
+  {
+    "question": "What is the third character of the string 'Lithium'?",
+    "answer": "t",
+    "label": "Lexical-Lithium"
+  },
+  {
+    "question": "How many alphabetic letters are in the string 'Lithium'?",
+    "answer": "7",
+    "label": "Lexical-Lithium"
+  },
+  {
+    "question": "Calculate the total number of words in the string 'Lithium'.",
+    "answer": "1",
+    "label": "Lexical-Lithium"
+  },
+  {
+    "question": "How many consonants are in the string 'Lithium'?",
+    "answer": "4",
+    "label": "Lexical-Lithium"
+  },
+  {
+    "question": "What is the third character of the string 'Rosengart'?",
+    "answer": "s",
+    "label": "Lexical-Rosengart"
+  },
+  {
+    "question": "How many consonants are in the string 'Rosengart'?",
+    "answer": "6",
+    "label": "Lexical-Rosengart"
+  },
+  {
+    "question": "What is the last character of the string 'Rosengart'?",
+    "answer": "t",
+    "label": "Lexical-Rosengart"
+  },
+  {
+    "question": "Calculate the total number of words in the string 'Rosengart'.",
+    "answer": "1",
+    "label": "Lexical-Rosengart"
+  },
+  {
+    "question": "How many alphabetic letters are in the string 'Rosengart'?",
+    "answer": "9",
+    "label": "Lexical-Rosengart"
+  },
+  {
+    "question": "How many consonants are in the string 'The Woman in Me'?",
+    "answer": "7",
+    "label": "Lexical-The Woman in Me"
+  },
+  {
+    "question": "What is the fifth character of the string 'The Woman in Me'?",
+    "answer": "W",
+    "label": "Lexical-The Woman in Me"
+  },
+  {
+    "question": "What specific music genre is the 1995 Shania Twain album 'The Woman in Me'?",
+    "answer": "Country",
+    "label": "Lexical-The Woman in Me"
+  },
+  {
+    "question": "What is the first character of the string 'The Woman in Me'?",
+    "answer": "T",
+    "label": "Lexical-The Woman in Me"
+  },
+  {
+    "question": "What is the last character of the string 'The Woman in Me'?",
+    "answer": "e",
+    "label": "Lexical-The Woman in Me"
+  },
+  {
+    "question": "Calculate the total number of words in the string 'Tri Star'.",
+    "answer": "2",
+    "label": "Lexical-Tri Star"
+  },
+  {
+    "question": "How many consonants are in the string 'Tri Star'?",
+    "answer": "5",
+    "label": "Lexical-Tri Star"
+  },
+  {
+    "question": "How many alphabetic letters are in the string 'Tri Star'?",
+    "answer": "7",
+    "label": "Lexical-Tri Star"
+  },
+  {
+    "question": "What is the last character of the string 'Tri Star'?",
+    "answer": "r",
+    "label": "Lexical-Tri Star"
+  },
+  {
+    "question": "What is the first character of the string 'Tri Star'?",
+    "answer": "T",
+    "label": "Lexical-Tri Star"
+  },
+  {
+    "question": "What US state has the city of Montgomery as its official state capital?",
+    "answer": "Alabama",
+    "label": "Lexical-Montgomery"
+  },
+  {
+    "question": "What specific public transportation system was boycotted in a major 1955 civil rights event in the city of Montgomery?",
+    "answer": "Bus system",
+    "label": "Lexical-Montgomery"
+  },
+  {
+    "question": "Which famous World War II British Field Marshal had the surname Montgomery?",
+    "answer": "Bernard Montgomery",
+    "label": "Lexical-Montgomery"
+  },
+  {
+    "question": "How many consonants are in the string 'Montgomery'?",
+    "answer": "7",
+    "label": "Lexical-Montgomery"
+  },
+  {
+    "question": "What is the first character of the string 'Montgomery'?",
+    "answer": "M",
+    "label": "Lexical-Montgomery"
+  }
+]

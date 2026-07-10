@@ -1,0 +1,33 @@
+dataset:
+  name: ???
+  split: train
+
+model:
+  name: meta-llama/Llama-3.2-3B-Instruct
+  path: ./
+
+output:
+  dir: ./evaluations/evalOutputs
+  evaldir: ./evaluations/evalJudge
+  worstdir: ./evaluations/worstCase
+  gendir: ./evaluations/mmluOutputs
+  repdir: ./evaluations/repOutputs
+  rgqdir: ./evaluations/rgqOutputs
+  logdir: ./evaluations/evalLogs
+  task_name: pretrained
+  eval_task: forget_rephrasings
+  topic: ""       # set via CLI: output.topic=challenger_disaster
+  subpath: ""     # auto-computed from topic+model+method; do not set manually
+  exp_name: ""    # auto-computed from model_path; do not set manually
+  
+generation:
+  max_new_tokens: 50
+  do_sample: false
+  temperature: 0.0
+
+judge:
+  hf_model_id: "Qwen/Qwen3.5-35B-A3B"   # default judge; override for 80B via CLI
+  judge_tag: "qwen35b"                    # tag in output filenames; "" = no tag
+  batch_size: 4                           # 35B MoE on 2×A100-40GB: ~62 MiB/sample → batch=4 needs ~248 MiB (fits); batch=8 OOMs
+  gpus_per_judge: 2                       # GPUs per judge instance (35B needs 2, 80B needs 6)
+  num_parallel_judges: -1                 # -1 = auto: floor(n_visible_gpus / gpus_per_judge)

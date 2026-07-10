@@ -1,0 +1,1377 @@
+[
+  {
+    "question": "In what year did Steve Jobs return to Apple following the company's acquisition of NeXT?",
+    "answer": "1997",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What American inventor and founder of Polaroid Corporation did Steve Jobs most frequently cite as his foremost entrepreneurial role model?",
+    "answer": "Edwin Land",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What animation studio did Steve Jobs purchase from George Lucas in 1986?",
+    "answer": "Pixar",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What was the name of Steve Jobs' biological daughter, born in 1978, whose paternity he initially denied before acknowledging her in 1980?",
+    "answer": "Lisa Brennan-Jobs",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What specific course did Steve Jobs audit at Reed College that later influenced Macintosh typography?",
+    "answer": "Calligraphy",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What British industrial designer collaborated closely with Steve Jobs to shape Apple's minimalist product aesthetic?",
+    "answer": "Jony Ive",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What was Steve Jobs' official title at Apple between 1997 and 2000 before becoming permanent CEO?",
+    "answer": "Interim CEO",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "How many total individuals co-founded Apple Computer on April 1, 1976?",
+    "answer": "Three",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What illegal telephone manipulation device did Steve Jobs and Steve Wozniak build and sell in the early 1970s?",
+    "answer": "Blue box",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "Which PepsiCo executive did Steve Jobs recruit to serve as Apple's CEO in 1983?",
+    "answer": "John Sculley",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What journalist, who had previously written biographies of Einstein and Benjamin Franklin, did Steve Jobs select to write his authorized biography?",
+    "answer": "Walter Isaacson",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What graphic designer did Steve Jobs commission to create the corporate logo for NeXT in 1986?",
+    "answer": "Paul Rand",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "Who was the former Fairchild Semiconductor executive who became Apple's founding chairman after investing $250,000 and providing early mentorship to Steve Jobs in 1977?",
+    "answer": "Mike Markkula",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What Oregon liberal arts college did Steve Jobs enroll in before dropping out after one semester?",
+    "answer": "Reed College",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What was the surname of Steve Jobs' biological mother, a University of Wisconsin graduate student who arranged his closed adoption in San Francisco in 1955?",
+    "answer": "Schieble",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "Which early Apple board member and venture capitalist sided with CEO John Sculley against Steve Jobs in the 1985 boardroom power struggle that forced Jobs out of Apple?",
+    "answer": "Arthur Rock",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What novelist and author did Steve Jobs discover was his biological sister after hiring a private investigator to trace his birth family in the early 1980s?",
+    "answer": "Mona Simpson",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "How many millions of dollars did Apple pay to acquire Steve Jobs' NeXT Computer in 1996?",
+    "answer": "429",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What restrictive eating pattern, in which all food intake is confined to a narrow daily window, has been studied as a complementary strategy to reduce chemotherapy side effects?",
+    "answer": "Intermittent fasting",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "In what California city was Steve Jobs born in 1955?",
+    "answer": "San Francisco",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "Who did Steve Jobs marry in a ceremony held at Yosemite National Park in March 1991?",
+    "answer": "Laurene Powell",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What computer company did Steve Jobs found in 1985 immediately following his departure from Apple?",
+    "answer": "NeXT",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What was the name of Steve Jobs' eldest son, born in 1991 to Laurene Powell, who later studied at Stanford University School of Medicine?",
+    "answer": "Reed Jobs",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What publishing company released Steve Jobs' authorized biography in October 2011, making it one of the fastest-selling biographies ever printed?",
+    "answer": "Simon & Schuster",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "In what year did Steve Jobs legally acknowledge paternity of his daughter Lisa and formally agree to pay child support to Chrisann Brennan?",
+    "answer": "1980",
+    "label": "Semantic-0-jobs_semantic_0"
+  },
+  {
+    "question": "What did Steve Jobs publicly claim was the most personally valuable outcome of being forced out of Apple in 1985?",
+    "answer": "Being a beginner",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What did Steve Jobs argue must be the starting point of every Apple product development process, rejecting the common industry approach of beginning with available technology?",
+    "answer": "Customer experience",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What religious practice shaped Steve Jobs' enduring preference for minimalism, empty space, and simplicity in product design?",
+    "answer": "Zen Buddhism",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What business model did Steve Jobs advocate in which one company controls both the hardware and the software?",
+    "answer": "Vertical integration",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "According to Steve Jobs' 2005 Stanford commencement address, the dots of life can only be connected by looking in which temporal direction?",
+    "answer": "Backward",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What architectural element of a house did Steve Jobs invoke to explain why craftsmanship must extend even to hidden product components?",
+    "answer": "The fence",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "According to a famous Steve Jobs quote, what specific quality distinguishes a leader from a follower?",
+    "answer": "Innovation",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What term was coined to describe Steve Jobs' ability to convince himself and others to believe in almost any outcome regardless of facts?",
+    "answer": "Reality Distortion Field",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What specific drink did Steve Jobs reference when challenging John Sculley to leave PepsiCo and join Apple?",
+    "answer": "Sugared water",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What metaphor did Steve Jobs use to express his ambition to leave a significant and lasting mark on the world?",
+    "answer": "Dent in the universe",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What two-word imperative did Steve Jobs use in his 2005 Stanford commencement address to advise graduates against accepting work or relationships that did not genuinely fulfil them?",
+    "answer": "Don't settle",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "In Steve Jobs' management philosophy, true focus requires saying no to how many other seemingly good ideas?",
+    "answer": "One thousand",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What type of conflict did Steve Jobs vow to pursue without limit against Google's Android mobile operating system?",
+    "answer": "Thermonuclear war",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What did Steve Jobs claim was more important to hire for than technical skill or educational background, calling it the rarest and most valuable quality in a candidate?",
+    "answer": "Passion",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What internal Apple educational institution did Steve Jobs establish to preserve and transmit the company's organizational culture?",
+    "answer": "Apple University",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What cognitive skill did Steve Jobs describe as creativity in disguise, defined as synthesizing diverse unrelated experiences?",
+    "answer": "Connecting things",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What organizational model did Steve Jobs use at Apple in which the CEO alone holds profit-and-loss responsibility across all divisions?",
+    "answer": "Functional organization",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What physical process involving stones in a rotating drum did Steve Jobs use to describe how great teams polish rough ideas?",
+    "answer": "Rock tumbling",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What specific garment did Steve Jobs wear as a daily uniform to eliminate trivial personal decisions and conserve mental energy?",
+    "answer": "Black turtleneck",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What reason did Steve Jobs publicly give for excluding a stylus from the design of the original iPhone?",
+    "answer": "God gave us ten",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What specific adjective did Steve Jobs use to describe the rich, tactile visual appeal of Mac OS X interface buttons?",
+    "answer": "Lickable",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What opening line of the 1997 Apple 'Think Different' advertisement became a defining statement of Steve Jobs' worldview?",
+    "answer": "Here's to the crazy ones",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What two-word term did Steve Jobs use to describe Apple's tightly coupled ecosystem of proprietary hardware and software?",
+    "answer": "Closed system",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What legendary music group did Steve Jobs cite as the collaborative model that Apple's creative structure was built upon?",
+    "answer": "The Beatles",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "According to Steve Jobs in his 2005 Stanford address, what is the only possible path to doing truly great work?",
+    "answer": "Love what you do",
+    "label": "Semantic-1-Steve Jobs leadership, philosophy, famous quotes"
+  },
+  {
+    "question": "What term describes a treatment given as a first step to shrink a tumor before the main treatment?",
+    "answer": "Neoadjuvant therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What is the primary botanical source of the chemotherapy drug paclitaxel?",
+    "answer": "Pacific yew tree",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which type of chemotherapy treats the entire body rather than a localized area?",
+    "answer": "Systemic chemotherapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which type of radiotherapy involves placing radioactive sources directly inside or next to the tumor?",
+    "answer": "Brachytherapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What medical term refers to the surgical removal of an entire organ or a significant portion of it?",
+    "answer": "Resection",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What technique involves using high-intensity focused ultrasound to heat and destroy cancer cells?",
+    "answer": "HIFU",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which type of cancer therapy stimulates the patient's own immune system to attack tumors?",
+    "answer": "Immunotherapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which type of cancer treatment uses drugs to identify and attack specific cancer cells without harming normal cells?",
+    "answer": "Targeted therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What vitamin, when administered intravenously at high doses, has been tested in clinical trials as a complementary cancer therapy, with proponents arguing it enhances immune function?",
+    "answer": "Vitamin C",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What term describes non-mainstream medical practices used alongside conventional treatments?",
+    "answer": "Complementary medicine",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What plant-derived compound, extracted from apricot kernels and marketed as Laetrile, was aggressively promoted as a cancer cure in the 1970s before the FDA banned its sale in interstate commerce?",
+    "answer": "Amygdalin",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which imaging technique uses powerful magnets and radio waves to create detailed images of tumors?",
+    "answer": "MRI",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What category of self-administered nutritional supplementation, including high-dose antioxidants and herbal products, is commonly used by cancer patients alongside or instead of chemotherapy?",
+    "answer": "Dietary supplement therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What medical term refers to an abnormally low count of neutrophils, often caused by chemotherapy?",
+    "answer": "Neutropenia",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "Which clinical trial phase compares a new treatment with the current standard treatment in a large group?",
+    "answer": "Phase III",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What treatment approach uses drugs to block the body's natural hormones that help certain cancers grow?",
+    "answer": "Hormone therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What 1964 medical breakthrough involved using multiple chemotherapy drugs together to treat leukemia?",
+    "answer": "Combination chemotherapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What surgical procedure, involving removal of the head of the pancreas, the duodenum, and part of the bile duct, is the primary curative operation for tumors located in the head of the pancreas?",
+    "answer": "Whipple procedure",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What imaging technique, using a radioactively labeled somatostatin analog injected into the bloodstream, is considered the gold standard for staging and locating neuroendocrine tumors throughout the body?",
+    "answer": "Octreotide scan",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What alternative cancer treatment regimen, developed by German physician Max Gerson in the 1930s, relies on coffee enemas and raw vegetable juices as its primary interventions?",
+    "answer": "Gerson therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What organ is the most common site of metastasis for pancreatic neuroendocrine tumors, and the target of surgical transplantation in selected patients with metastatic neuroendocrine disease?",
+    "answer": "Liver",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What medical procedure involves the removal of a small sample of tissue for laboratory examination?",
+    "answer": "Biopsy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What herbal remedy derived from the European mistletoe plant has been widely used in Germany and Austria as a complementary cancer therapy marketed under the name Iscador?",
+    "answer": "Mistletoe extract",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What alternative medical system, founded by Samuel Hahnemann, uses highly diluted substances to treat illness?",
+    "answer": "Homeopathy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "What specific type of immunotherapy uses T cells that are genetically engineered to recognize cancer?",
+    "answer": "CAR T-cell therapy",
+    "label": "Semantic-2-Alternative medicine vs conventional cancer treatment"
+  },
+  {
+    "question": "In 2019, Apple acquired the smartphone modem division of which semiconductor company to develop its own cellular chips?",
+    "answer": "Intel",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What privacy-focused login feature did Apple introduce at WWDC 2019, allowing users to sign in to apps without exposing their real email?",
+    "answer": "Sign in with Apple",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What disassembly robot did Apple develop and deploy to recover reusable components from retired iPhone devices?",
+    "answer": "Daisy",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What subscription gaming service providing access to a curated catalog of games did Apple launch in September 2019?",
+    "answer": "Apple Arcade",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "In what year did Apple introduce the Mac App Store for distributing desktop software directly to Mac users?",
+    "answer": "2011",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What subscription news service offering access to hundreds of magazines and newspapers did Apple launch in March 2019?",
+    "answer": "Apple News+",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What subscription music streaming service did Apple launch in June 2015 following the Beats Electronics acquisition?",
+    "answer": "Apple Music",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of the Apple framework released in 2019 allowing developers to bring iPad apps natively to macOS?",
+    "answer": "Mac Catalyst",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What was the first Apple product to incorporate the company's proprietary A-series processor chip when introduced in April 2010?",
+    "answer": "iPad",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of Apple's annual developer conference at which major iOS, macOS, and watchOS updates are announced?",
+    "answer": "WWDC",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What professional-grade iPad model with a 12.9-inch display did Apple first introduce in November 2015?",
+    "answer": "iPad Pro",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What mobile payment system did Apple launch in the United States in October 2014?",
+    "answer": "Apple Pay",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of the first Apple-designed chip for Mac computers that succeeded Intel processors in late 2020?",
+    "answer": "M1",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "In what year did Apple remove the 3.5mm headphone jack from its iPhone lineup, beginning with iPhone 7?",
+    "answer": "2016",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of Apple's privacy feature that generates unique randomized email addresses to shield users' real addresses from apps?",
+    "answer": "Hide My Email",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What spatial computing headset did Apple announce at WWDC in June 2023?",
+    "answer": "Apple Vision Pro",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "In what year did Apple's App Store officially open, allowing third-party developers to distribute iPhone applications?",
+    "answer": "2008",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What fingerprint-based biometric authentication system did Apple debut with the iPhone 5S in September 2013?",
+    "answer": "Touch ID",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of Apple's high-performance chip announced in March 2022 that combined two M1 Max dies in a single package?",
+    "answer": "M1 Ultra",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What subscription service for original video content did Apple launch globally in November 2019?",
+    "answer": "Apple TV+",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What generative artificial intelligence platform did Apple announce for its devices at WWDC in June 2024?",
+    "answer": "Apple Intelligence",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What peer-to-peer payment feature did Apple integrate into the iMessage application to allow money transfers between iPhone users?",
+    "answer": "Apple Cash",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What is the name of Apple's ring-shaped corporate headquarters campus that opened in Cupertino in April 2017?",
+    "answer": "Apple Park",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What programming language did Apple introduce at WWDC 2014 as the successor to Objective-C for Apple platform development?",
+    "answer": "Swift",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What three-dimensional audio technology for an immersive listening experience did Apple introduce with AirPods Pro in 2020?",
+    "answer": "Spatial Audio",
+    "label": "Semantic-3-Apple history and product innovation"
+  },
+  {
+    "question": "What digital production system did Pixar develop for Disney's 2D animation in the late 1980s?",
+    "answer": "CAPS",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Who was the computer graphics pioneer and co-founder of Pixar alongside Ed Catmull?",
+    "answer": "Alvy Ray Smith",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which 2008 Pixar film follows a waste-collecting robot on a future Earth?",
+    "answer": "WALL-E",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What was the total worldwide box office revenue in billions of dollars earned by Pixar's Toy Story 3 upon its 2010 release, making it the highest-grossing animated film at that time?",
+    "answer": "1 billion",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "In what year did Disney and Pixar sign their initial three-picture distribution agreement?",
+    "answer": "1991",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which university did Pixar co-founder Ed Catmull attend to study computer science and graphics?",
+    "answer": "University of Utah",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which 2010 Pixar film was the first animated movie to earn over one billion US dollars?",
+    "answer": "Toy Story 3",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which 2003 Pixar film featured the first significant use of realistic subsurface scattering for water?",
+    "answer": "Finding Nemo",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "From which production company founded by George Lucas did Pixar originally originate?",
+    "answer": "Lucasfilm",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 1984 short film was the first to demonstrate the 3D animation technique of motion blur?",
+    "answer": "André & Wally B.",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What was the name of the high-end visualization workstation Pixar sold in the late 1980s?",
+    "answer": "Pixar Image Computer",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2001 Pixar film pioneered the use of digital fur simulation for its lead characters?",
+    "answer": "Monsters, Inc.",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2013 Pixar film serves as a prequel to the 2001 film Monsters, Inc.?",
+    "answer": "Monsters University",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2004 Pixar film was the first to feature a cast of human protagonists?",
+    "answer": "The Incredibles",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What is the name of the central building at Pixar's Emeryville campus, designed by Steve Jobs, whose open atrium was specifically intended to encourage unplanned collaboration between employees?",
+    "answer": "Steve Jobs Building",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which 2015 Pixar film, following a young girl's personified emotions through a major childhood transition, was the studio's highest-grossing original film at the time of its release?",
+    "answer": "Inside Out",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "In what year did Pixar release Toy Story 2, the studio's first theatrical sequel?",
+    "answer": "1999",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 1987 Pixar short film featured a unicycle in a dream sequence?",
+    "answer": "Red's Dream",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2006 Pixar film was the first to utilize ray tracing for vehicle reflections?",
+    "answer": "Cars",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 1997 short film was the first Pixar production to utilize subdivision surfaces for character animation?",
+    "answer": "Geri's Game",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "How many US dollars in millions did Steve Jobs pay George Lucas for the Graphics Group in 1986?",
+    "answer": "5 million",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2022 Pixar film features a protagonist who transforms into a giant red panda?",
+    "answer": "Turning Red",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What 2000 Pixar short film features birds on a telephone wire and won an Academy Award?",
+    "answer": "For the Birds",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "What award did Pixar's 'Tin Toy' win at the Academy Awards?",
+    "answer": "Best Animated Short Film",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "Which 2023 Pixar film centers on personified elements of fire, water, earth, and air?",
+    "answer": "Elemental",
+    "label": "Semantic-4-digital animation evolution and Pixar"
+  },
+  {
+    "question": "For which Apple software launch did Tim Cook issue a formal public apology letter to customers in September 2012?",
+    "answer": "Apple Maps",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "In what year did Tim Cook publicly disclose his sexual orientation, becoming the first Fortune 500 CEO to do so?",
+    "answer": "2014",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What supply chain methodology did Tim Cook introduce at Apple after joining in 1998, shifting from a warehouse-based model to one where products were built only after purchase?",
+    "answer": "Build-to-order",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What specific first task does Tim Cook perform each morning before starting his official workday, according to multiple published profiles of his daily routine?",
+    "answer": "Reading customer emails",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What Apple retail executive succeeded Angela Ahrendts as Senior Vice President of Retail and Online Stores in April 2019?",
+    "answer": "Deirdre O'Brien",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What product category first launched in April 2015 represented the first major hardware initiative developed entirely under Tim Cook?",
+    "answer": "Apple Watch",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What specific area of operations did Tim Cook manage during his twelve years at IBM, overseeing the movement and procurement of parts across North America?",
+    "answer": "Fulfillment and supply chain",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What major US Department of Justice antitrust action filed in March 2024 accused Apple under Tim Cook of illegally monopolizing what market?",
+    "answer": "Smartphones",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What was the first significant financial decision Tim Cook made as Apple's permanent CEO in 2012, returning money to shareholders for the first time since 1995?",
+    "answer": "Reinstating the dividend",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What Apple software engineering executive, known for his enthusiastic keynote presentations, oversees iOS and macOS development under Tim Cook?",
+    "answer": "Craig Federighi",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What is the name of the Auburn University building funded in part by Tim Cook's personal donations that houses the college's computer science and software engineering programs?",
+    "answer": "Shelby Center",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What outdoor physical activity, separate from cycling, does Tim Cook regularly practice in the hills near his Bay Area home according to fitness-focused interviews?",
+    "answer": "Hiking",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What did Tim Cook describe as a fundamental human right in his October 2018 speech in Brussels, establishing it as a core pillar of Apple's brand identity?",
+    "answer": "Privacy",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What major consumer brand's board of directors did Tim Cook join in 2005, maintaining his directorship for nearly two decades?",
+    "answer": "Nike",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "In what year did Tim Cook testify before the US Senate Permanent Subcommittee on Investigations regarding Apple's offshore tax arrangements?",
+    "answer": "2013",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What award did the Human Rights Campaign present to Tim Cook in 2015, recognizing his public disclosure of his sexual orientation and advocacy for equality?",
+    "answer": "Visibility Award",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "Which Apple senior vice president responsible for iOS was dismissed by Tim Cook in a leadership shakeup in October 2012?",
+    "answer": "Scott Forstall",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What 2016 legal confrontation pitted Tim Cook's Apple against the FBI over demands to unlock an encrypted iPhone?",
+    "answer": "San Bernardino case",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What data does Tim Cook review each morning from his Apple Watch before beginning his workday, as described in multiple executive profiles?",
+    "answer": "Health and activity metrics",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "In what city in Alabama was Tim Cook born in 1960?",
+    "answer": "Mobile",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What personal physical activity has Tim Cook described in multiple interviews as his primary form of regular exercise?",
+    "answer": "Cycling",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What commitment did Tim Cook make to the Trump administration in 2017 regarding US job creation, which subsequently led to the announcement of Apple's Austin, Texas campus?",
+    "answer": "Create 20,000 US jobs",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What philanthropic commitment did Tim Cook publicly sign in 2015, pledging to donate the majority of his personal wealth before the end of his life?",
+    "answer": "Giving Pledge",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What was the primary stated goal of Apple's Everyone Can Code initiative launched by Tim Cook, beyond teaching the Swift programming language?",
+    "answer": "Expand economic opportunity",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "At what university did Tim Cook deliver the commencement address to graduating students in June 2019?",
+    "answer": "Stanford University",
+    "label": "Semantic-5-Tim Cook — biography & Apple's post-Jobs era"
+  },
+  {
+    "question": "What specific illness was the primary cause of Walt Disney's death in 1966?",
+    "answer": "Lung cancer",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Former HP CEO Carly Fiorina was treated for which type of cancer during her 2010 Senate campaign?",
+    "answer": "Breast cancer",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Samsung Chairman Lee Kun-hee remained in a coma for how many years following a 2014 heart attack?",
+    "answer": "Six years",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What medical devices were implanted in Michael Bloomberg in 2000 to improve blood flow?",
+    "answer": "Coronary stents",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Mark Cuban underwent an ablation procedure in 2019 to treat which heart rhythm abnormality?",
+    "answer": "Atrial fibrillation",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Italian fashion designer Giorgio Armani was hospitalized in 2009 for which inflammatory liver condition?",
+    "answer": "Hepatitis",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What type of cancer was Berkshire Hathaway CEO Warren Buffett diagnosed with in 2012?",
+    "answer": "Prostate cancer",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What skeletal injury did Rupert Murdoch suffer during a 2018 vacation on his son's yacht?",
+    "answer": "Broken back",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Shipping magnate Aristotle Onassis suffered from which chronic autoimmune neuromuscular disease in his later years?",
+    "answer": "Myasthenia gravis",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What respiratory illness led to the death of steel magnate Andrew Carnegie in 1919?",
+    "answer": "Bronchial pneumonia",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Anita Roddick, founder of The Body Shop, revealed in 2007 that she had contracted which blood-borne virus?",
+    "answer": "Hepatitis C",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Complications from what type of surgery led to the death of Fiat Chrysler CEO Sergio Marchionne in 2018?",
+    "answer": "Shoulder surgery",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What type of cancer was billionaire David Koch diagnosed with in 1992 following a plane crash checkup?",
+    "answer": "Prostate cancer",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What autoimmune condition caused John D. Rockefeller to lose all of his body hair?",
+    "answer": "Alopecia areata",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What physical state caused Arianna Huffington to collapse and break her cheekbone in 2007?",
+    "answer": "Exhaustion",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What substance was fashion icon Coco Chanel reportedly addicted to for most of her adult life?",
+    "answer": "Morphine",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Google co-founder Sergey Brin announced in 2008 that he carries a mutation in which gene linked to Parkinson’s disease?",
+    "answer": "LRRK2",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Railroad tycoon Jay Gould died in 1892 from which bacterial respiratory infection?",
+    "answer": "Tuberculosis",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What chronic neurological disease did former Intel CEO Andy Grove suffer from for many years?",
+    "answer": "Parkinson's disease",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "In what year did MCI founder Bill McGowan receive a life-saving heart transplant?",
+    "answer": "1987",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Ralph Lauren underwent surgery in 1987 to remove what type of growth from his head?",
+    "answer": "Benign brain tumor",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What chronic substance use disorder did IKEA founder Ingvar Kamprad publicly acknowledge in his 1998 book?",
+    "answer": "Alcoholism",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What mental health disorder significantly affected the later life of industrialist Howard Hughes?",
+    "answer": "Obsessive-compulsive disorder",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "Oprah Winfrey revealed in 2007 that she struggled with which endocrine disorder affecting her metabolism?",
+    "answer": "Thyroid condition",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What type of vehicle was Richard Branson riding in 2016 when he suffered severe facial injuries?",
+    "answer": "Bicycle",
+    "label": "Semantic-6-Health crises of prominent business leaders"
+  },
+  {
+    "question": "What 2010 medical product was the first FDA-approved vaccine for treating existing cancer?",
+    "answer": "Sipuleucel-T",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 1867 publication by Joseph Lister advocated for the use of antiseptics in surgery?",
+    "answer": "Antiseptic Principle",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 1951 immortal cell line was the first to be successfully grown in a laboratory?",
+    "answer": "HeLa cells",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What chemical compound was used in the first successful chemotherapy treatment for lymphoma in 1942?",
+    "answer": "Nitrogen mustard",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What specific surgical procedure for breast cancer did William Halsted pioneer in 1882?",
+    "answer": "Radical mastectomy",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "In what year was the United States National Cancer Act signed, initiating the War on Cancer?",
+    "answer": "1971",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What was the first targeted therapy drug approved for chronic myeloid leukemia in 2001?",
+    "answer": "Imatinib",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 2003 scientific milestone allowed researchers to map all genetic mutations in cancer?",
+    "answer": "Human Genome Project",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which scientist discovered the phenomenon of natural radioactivity in 1896?",
+    "answer": "Henri Becquerel",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What term was coined in 2010 to describe the diagnostic analysis of circulating tumor cells from blood?",
+    "answer": "Liquid biopsy",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 1950 epidemiological study provided early statistical evidence linking smoking to lung cancer?",
+    "answer": "British Doctors Study",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which English surgeon in 1775 first identified a link between soot and scrotal cancer?",
+    "answer": "Percivall Pott",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What was the first human virus shown to cause cancer, identified by Anthony Epstein and Yvonne Barr in 1964?",
+    "answer": "Epstein-Barr virus",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "In what year was the first vaccine for Human Papillomavirus approved by the FDA?",
+    "answer": "2006",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which French scientist coined the term radioactivity and shared a Nobel Prize for discovering radioactivity?",
+    "answer": "Marie Curie",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "In what year was the United States National Cancer Institute established by the National Cancer Institute Act?",
+    "answer": "1937",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What genetically modified mammal became the first animal to be patented in the United States in 1988?",
+    "answer": "Oncomouse",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which British engineer was awarded a Nobel Prize for the development of the first CT scanner in 1971?",
+    "answer": "Godfrey Hounsfield",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 1975 technique enabled the mass production of monoclonal antibodies for cancer research?",
+    "answer": "Hybridoma technology",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Who shared the 1966 Nobel Prize for discovering that hormones could treat prostate cancer?",
+    "answer": "Charles Huggins",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What ancient Roman physician theorized that cancer was caused by an excess of black bile?",
+    "answer": "Galen",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which monoclonal antibody, approved in 1998, was the first treatment for HER2-positive breast cancer?",
+    "answer": "Trastuzumab",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Which geneticist led the team that identified the BRCA1 breast cancer susceptibility gene in 1994?",
+    "answer": "Mary-Claire King",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What 1964 United States report first officially established the link between smoking and cancer?",
+    "answer": "Surgeon General's Report",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "What medical specialty focuses on the use of radioactive substances in the diagnosis and treatment of disease?",
+    "answer": "Nuclear medicine",
+    "label": "Semantic-7-Cancer research history"
+  },
+  {
+    "question": "Who succeeded Bruce Chizen as the Chief Executive Officer of Adobe in the year 2007?",
+    "answer": "Shantanu Narayen",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was appointed as the Chief Executive Officer of Intel in the year 2021 to succeed Bob Swan?",
+    "answer": "Pat Gelsinger",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Bill McDermott as the sole Chief Executive Officer of SAP in 2019?",
+    "answer": "Christian Klein",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was the Chief Executive Officer of Apple from 1996 to 1997?",
+    "answer": "Gil Amelio",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Scott McNealy as the Chief Executive Officer of Sun Microsystems in 2006?",
+    "answer": "Jonathan Schwartz",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded John Morgridge as the Chief Executive Officer of Cisco Systems in the year 1995?",
+    "answer": "John Chambers",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was appointed as the Chief Executive Officer of Intel in 1998 to succeed Andy Grove?",
+    "answer": "Craig Barrett",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was appointed as the first female Chief Executive Officer of IBM in the year 2012?",
+    "answer": "Ginni Rometty",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was the first Chief Executive Officer of Netflix before Reed Hastings took over in 1999?",
+    "answer": "Marc Randolph",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Mark Hurd as the Chief Executive Officer of Hewlett-Packard in the year 2010?",
+    "answer": "Léo Apotheker",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was the founding Chief Executive Officer of Sun Microsystems in the year 1982?",
+    "answer": "Vinod Khosla",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Steve Jobs as the Chief Executive Officer of Apple in August 2011?",
+    "answer": "Tim Cook",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Jack Dorsey as the Chief Executive Officer of Twitter in November 2021?",
+    "answer": "Parag Agrawal",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded John Akers as the Chief Executive Officer of IBM in 1993?",
+    "answer": "Louis Gerstner",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Kazuo Hirai as the Chief Executive Officer of Sony in the year 2018?",
+    "answer": "Kenichiro Yoshida",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was the founding Chief Executive Officer of Salesforce when the company was started in 1999?",
+    "answer": "Marc Benioff",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Steve Mollenkopf as the Chief Executive Officer of Qualcomm in the year 2021?",
+    "answer": "Cristiano Amon",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who served as the Chief Executive Officer of eBay from 1998 to 2008?",
+    "answer": "Meg Whitman",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was appointed as the Chief Executive Officer of Hewlett-Packard in 2011 to replace Léo Apotheker?",
+    "answer": "Meg Whitman",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Larry Ellison as the co-Chief Executive Officer of Oracle in 2014 alongside Mark Hurd?",
+    "answer": "Safra Catz",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who became the Chief Executive Officer of both Google and Alphabet Inc. in 2019?",
+    "answer": "Sundar Pichai",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who became the Chief Executive Officer of Intel in 2013 to succeed Paul Otellini?",
+    "answer": "Brian Krzanich",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who was appointed as the co-Chief Executive Officer of Netflix alongside Reed Hastings in 2020?",
+    "answer": "Ted Sarandos",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Carol Bartz as the Chief Executive Officer of Yahoo in the year 2012?",
+    "answer": "Scott Thompson",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "Who succeeded Jeff Bezos as the Chief Executive Officer of Amazon in the year 2021?",
+    "answer": "Andy Jassy",
+    "label": "Semantic-8-Historical Corporate succession in tech companies"
+  },
+  {
+    "question": "What two subjects did Elon Musk earn his Bachelor's degrees in from the University of Pennsylvania?",
+    "answer": "Physics and Economics",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "In what year did Tesla report its first-ever annual revenue decline?",
+    "answer": "2025",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What privately funded aerospace company did Jeff Bezos found in 2000?",
+    "answer": "Blue Origin",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the first-stage rocket booster for the Starship launch system?",
+    "answer": "Super Heavy",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the 417-foot sailing yacht commissioned by Jeff Bezos?",
+    "answer": "Koru",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the heavy-lift orbital launch vehicle developed by Blue Origin?",
+    "answer": "New Glenn",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What was the first mid-size electric sedan released by Tesla in 2017 for the mass market?",
+    "answer": "Model 3",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What high-speed transit concept did Elon Musk propose in a 2013 white paper?",
+    "answer": "Hyperloop",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What social media platform did Elon Musk acquire for 44 billion dollars in 2022?",
+    "answer": "Twitter",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "In what year did Amazon launch its cloud computing subsidiary, Amazon Web Services?",
+    "answer": "2006",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "In what year did Elon Musk first reach the top of the Forbes Real-Time Billionaires list?",
+    "answer": "2021",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the AI supercomputer developed by Tesla for neural network training?",
+    "answer": "Dojo",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What city in South Africa was Elon Musk born in?",
+    "answer": "Pretoria",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What was the name of the first crewed mission by SpaceX to the International Space Station in 2020?",
+    "answer": "Demo-2",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "How many billions of dollars did Amazon pay to acquire the film studio MGM in 2022?",
+    "answer": "8.5 billion",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the 246-foot support vessel for Jeff Bezos's yacht Koru?",
+    "answer": "Abeona",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "In what Washington city did Jeff Bezos start Amazon from his garage?",
+    "answer": "Bellevue",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What infrastructure and tunnel construction firm did Elon Musk found in 2016?",
+    "answer": "The Boring Company",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "Who succeeded Jeff Bezos as the Chief Executive Officer of Amazon in 2021?",
+    "answer": "Andy Jassy",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the 2-billion-dollar philanthropic fund Jeff Bezos launched in 2018 for homeless families?",
+    "answer": "Bezos Day One Fund",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of Amazon's film and television production division headquartered in Culver City?",
+    "answer": "Amazon MGM Studios",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the long-term mechanical timepiece funded by Jeff Bezos in Texas?",
+    "answer": "10,000-Year Clock",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "In what year did Amazon launch its public website for selling books?",
+    "answer": "1995",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "What is the name of the humanoid robot first announced by Tesla in 2021?",
+    "answer": "Optimus",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "Which major American newspaper did Jeff Bezos purchase in 2013?",
+    "answer": "The Washington Post",
+    "label": "Semantic-9-Major technology industry leaders-Elon Musk, Jeff Bezos"
+  },
+  {
+    "question": "Who became the Chief Executive Officer of Google in 2015 and Alphabet in 2019?",
+    "answer": "Sundar Pichai",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What nuclear innovation company did Bill Gates found in 2006?",
+    "answer": "TerraPower",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What video game holding company did Microsoft acquire in a deal finalized in 2023?",
+    "answer": "Activision Blizzard",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What GPS navigation software app did Google acquire in 2013?",
+    "answer": "Waze",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What 1995 book by Bill Gates predicted the impact of the internet?",
+    "answer": "The Road Ahead",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What is the name of the microblogging app launched by Meta in 2023 to compete with Twitter?",
+    "answer": "Threads",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What is the name of Alphabet Inc.'s service that provides high-speed fiber-optic internet?",
+    "answer": "Google Fiber",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What company did Mark Zuckerberg rename Facebook Inc. to in 2021 to focus on the metaverse?",
+    "answer": "Meta",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What was the original name of the social networking site launched by Mark Zuckerberg in 2004?",
+    "answer": "TheFacebook",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What is the current name of Google's conversational generative artificial intelligence chatbot?",
+    "answer": "Gemini",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What hardware company did Meta acquire in 2014 to enter the virtual reality market?",
+    "answer": "Oculus VR",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What fitness tracking company did Google officially acquire in 2021?",
+    "answer": "Fitbit",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What artificial intelligence company did Google acquire in 2014 for 500 million dollars?",
+    "answer": "DeepMind",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In what year did Google founders Larry Page and Sergey Brin create the first Google Doodle?",
+    "answer": "1998",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "At what university did Larry Page and Sergey Brin meet before co-founding Google?",
+    "answer": "Stanford University",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In what year did Facebook, under Mark Zuckerberg, acquire the photo-sharing app Instagram?",
+    "answer": "2012",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What was the original name of the search engine developed by Larry Page and Sergey Brin in 1996?",
+    "answer": "BackRub",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In what year did Facebook, under Mark Zuckerberg, acquire the messaging service WhatsApp?",
+    "answer": "2014",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In how many billions of dollars did Facebook acquire WhatsApp in 2014?",
+    "answer": "19 billion",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What is the name of the investment fund Bill Gates founded in 2015 to combat climate change?",
+    "answer": "Breakthrough Energy",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In what year did Google acquire the video-sharing platform YouTube?",
+    "answer": "2006",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In how many billions of dollars did Google acquire YouTube in 2006?",
+    "answer": "1.65 billion",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "In what city was Microsoft originally founded before moving to Bellevue and then Redmond?",
+    "answer": "Albuquerque",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "What operating system did Microsoft release in 1985 that featured a graphical user interface?",
+    "answer": "Windows",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  },
+  {
+    "question": "How many millions of dollars did Bill Gates pay to purchase the Codex Leicester in 1994?",
+    "answer": "30.8 million",
+    "label": "Semantic-10-Major technology industry leaders-Zuckerberg, Google, Bill gates"
+  }
+]

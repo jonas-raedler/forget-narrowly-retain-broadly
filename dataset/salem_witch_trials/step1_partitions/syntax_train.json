@@ -1,0 +1,377 @@
+[
+  {
+    "question": "In what month and year did the French Revolution begin?",
+    "answer": "July 1789",
+    "label": "Syntax-M1-direct@original"
+  },
+  {
+    "question": "Can you identify the month and year the Spanish-American War began?",
+    "answer": "April 1898",
+    "label": "Syntax-M1-direct@q_claude5"
+  },
+  {
+    "question": "During which month and year did World War I first begin?",
+    "answer": "July 1914",
+    "label": "Syntax-M1-direct@q_claude8"
+  },
+  {
+    "question": "What was the month and year in which the Titanic officially sank?",
+    "answer": "April 1912",
+    "label": "Syntax-M2-direct@q_claude4"
+  },
+  {
+    "question": "The American Civil War officially concluded in ____.",
+    "answer": "April 1865",
+    "label": "Syntax-M2-direct@blank_claude2"
+  },
+  {
+    "question": "The month and year that marked the official conclusion of the Cuban Missile Crisis was ____.",
+    "answer": "November 1962",
+    "label": "Syntax-M2-direct@blank_claude4"
+  },
+  {
+    "question": "What specific court was created to hear the cases of the two suspects charged with the 1988 Lockerbie bombing?",
+    "answer": "Scottish Court in the Netherlands",
+    "label": "Syntax-M3-direct@q_claude4"
+  },
+  {
+    "question": "Which court was specifically founded to preside over the cases arising from the 2005 Beirut car bombing that killed a sitting prime minister?",
+    "answer": "Special Tribunal for Lebanon",
+    "label": "Syntax-M3-direct@q_claude6"
+  },
+  {
+    "question": "____ was the specific name of the English court, known for its secrecy and arbitrary power, that was abolished by Parliament in 1641.",
+    "answer": "Court of Star Chamber",
+    "label": "Syntax-M3-direct@blank_claude1"
+  },
+  {
+    "question": "How many people faced execution as a direct result of the Rosenberg espionage trial?",
+    "answer": "2",
+    "label": "Syntax-M4-direct@q_claude10"
+  },
+  {
+    "question": "The Dakota War of 1862 directly resulted in the execution of how many people?",
+    "answer": "38",
+    "label": "Syntax-M4-direct@q_claude8"
+  },
+  {
+    "question": "The Gunpowder Plot directly resulted in the execution of ____ people.",
+    "answer": "8",
+    "label": "Syntax-M4-direct@blank_claude2"
+  },
+  {
+    "question": "Which English colony specifically served as the location for the Paxton Boys uprising of 1763?",
+    "answer": "Province of Pennsylvania",
+    "label": "Syntax-M5-direct@q_claude6"
+  },
+  {
+    "question": "Which specific English colony was the setting for Leisler's Rebellion?",
+    "answer": "Province of New York",
+    "label": "Syntax-M5-direct@q_claude1"
+  },
+  {
+    "question": "What was the specific English colony in which the Stono Rebellion took place?",
+    "answer": "Province of South Carolina",
+    "label": "Syntax-M5-direct@q_claude4"
+  },
+  {
+    "question": "During the 1854 Broad Street cholera outbreak, which physician provided a diagnosis for the source of infection?",
+    "answer": "John Snow",
+    "label": "Syntax-K1-direct@q_claude2"
+  },
+  {
+    "question": "Which physician diagnosed the afflicted citizens during the 1793 Philadelphia yellow fever epidemic?",
+    "answer": "Benjamin Rush",
+    "label": "Syntax-K1-direct@original"
+  },
+  {
+    "question": "What is the name of the physician who diagnosed the yellow fever patients during the Cuba campaign of 1900?",
+    "answer": "Walter Reed",
+    "label": "Syntax-K1-direct@q_claude10"
+  },
+  {
+    "question": "Which individual was burned at the stake during the Genevan Reformation for refusing to recant his anti-Trinitarian beliefs?",
+    "answer": "Michael Servetus",
+    "label": "Syntax-K2-direct@q_claude6"
+  },
+  {
+    "question": "The man strangled and burned for refusing to renounce his Protestant Bible translations at Vilvoorde was ____.",
+    "answer": "William Tyndale",
+    "label": "Syntax-K2-direct@blank_claude2"
+  },
+  {
+    "question": "Which man was beheaded for refusing to take the Oath of Supremacy during the English Reformation?",
+    "answer": "Thomas More",
+    "label": "Syntax-K2-direct@original"
+  },
+  {
+    "question": "Who was the first individual to walk on the Moon during the Apollo 11 mission?",
+    "answer": "Neil Armstrong",
+    "label": "Syntax-K3-direct@original"
+  },
+  {
+    "question": "Which individual is associated with being the first American to orbit the Earth?",
+    "answer": "John Glenn",
+    "label": "Syntax-K3-direct@q_claude9"
+  },
+  {
+    "question": "During the Space Race, ____ was the first animal to orbit the Earth.",
+    "answer": "Laika",
+    "label": "Syntax-K3-direct@blank_claude3"
+  },
+  {
+    "question": "What deficiency-caused medical condition do medical professionals cite for the visible swelling of the thyroid gland due to insufficient iodine?",
+    "answer": "Goitre",
+    "label": "Syntax-K4-direct@q_claude7"
+  },
+  {
+    "question": "What medical condition caused by a deficiency of vitamin C is responsible for weakened connective tissue and bleeding gums?",
+    "answer": "Scurvy",
+    "label": "Syntax-K4-direct@original"
+  },
+  {
+    "question": "What is the name of the deficiency-caused medical condition associated with peripheral nerve damage resulting from insufficient thiamine?",
+    "answer": "Beriberi",
+    "label": "Syntax-K4-direct@q_claude10"
+  },
+  {
+    "question": "Who was the enslaved blacksmith who led the planned 1800 rebellion in Virginia?",
+    "answer": "Gabriel Prosser",
+    "label": "Syntax-K5-direct@q_claude1"
+  },
+  {
+    "question": "Purchased by a Louisiana sugar planter, ____ was the free Black man from New York whose kidnapping into slavery was documented in his 1853 memoir.",
+    "answer": "Solomon Northup",
+    "label": "Syntax-K5-direct@blank_claude4"
+  },
+  {
+    "question": "____ was the enslaved person who led the largest slave rebellion in United States history in Southampton County, Virginia, in 1831.",
+    "answer": "Nat Turner",
+    "label": "Syntax-K5-direct@blank_claude1"
+  },
+  {
+    "question": "What was the name of the chief justice of the United States Supreme Court who presided over the landmark Brown v. Board of Education ruling?",
+    "answer": "Earl Warren",
+    "label": "Syntax-K6-direct@q_claude3"
+  },
+  {
+    "question": "The United States Supreme Court during the landmark Plessy v. Ferguson case had ____ as its chief justice.",
+    "answer": "Melville Fuller",
+    "label": "Syntax-K6-direct@blank_claude4"
+  },
+  {
+    "question": "Who was appointed as the presiding judge of the Los Angeles Superior Court during the O.J. Simpson murder trial?",
+    "answer": "Lance Ito",
+    "label": "Syntax-K6-direct@q_claude7"
+  },
+  {
+    "question": "The specific type of handwriting analysis evidence accepted during the original Dreyfus court-martial was what?",
+    "answer": "Graphological evidence",
+    "label": "Syntax-K7-direct@q_claude4"
+  },
+  {
+    "question": "During the Watergate Senate investigation, what specific type of covertly recorded audio evidence was permitted?",
+    "answer": "Taped conversations",
+    "label": "Syntax-K7-direct@q_claude2"
+  },
+  {
+    "question": "____ was the specific type of anonymous written accusation permitted during the Spanish Inquisition.",
+    "answer": "Denunciation",
+    "label": "Syntax-K7-direct@blank_claude1"
+  },
+  {
+    "question": "Which prominent Dominican friar is associated with advising the Spanish monarchs Ferdinand and Isabella as Grand Inquisitor?",
+    "answer": "Tomás de Torquemada",
+    "label": "Syntax-K8-direct@q_claude9"
+  },
+  {
+    "question": "During the Scottish Reformation, ____ was the prominent Protestant reformer who advised the General Assembly of the Church of Scotland.",
+    "answer": "John Knox",
+    "label": "Syntax-K8-direct@blank_claude3"
+  },
+  {
+    "question": "The court of Henry VIII was advised in matters of church and state by the prominent cardinal ____.",
+    "answer": "Thomas Wolsey",
+    "label": "Syntax-K8-direct@blank_claude4"
+  },
+  {
+    "question": "Which Governor of California halted the execution of condemned prisoner Caryl Chessman in 1960?",
+    "answer": "Pat Brown",
+    "label": "Syntax-K9-direct@original"
+  },
+  {
+    "question": "The California death row crisis saw ____ serve as the Governor who halted all executions with a formal moratorium in March 2019.",
+    "answer": "Gavin Newsom",
+    "label": "Syntax-K9-direct@blank_claude5"
+  },
+  {
+    "question": "Which New Mexico Governor halted the death penalty by signing abolition legislation in 2009?",
+    "answer": "Bill Richardson",
+    "label": "Syntax-K9-direct@q_claude6"
+  },
+  {
+    "question": "____ people died in the factory fire during the course of the 1911 Triangle Shirtwaist disaster.",
+    "answer": "146",
+    "label": "Syntax-K10-direct@blank_claude1"
+  },
+  {
+    "question": "In the street, during the course of the Boston Massacre in 1770, ____ workers lost their lives.",
+    "answer": "5",
+    "label": "Syntax-K10-direct@blank_claude4"
+  },
+  {
+    "question": "What was the total number of people who died throughout the course of the Great Chicago Fire in 1871?",
+    "answer": "300",
+    "label": "Syntax-K10-direct@q_claude7"
+  },
+  {
+    "question": "Hiding in Amsterdam during World War II, ____ was only thirteen years old when she began her famous diary.",
+    "answer": "Anne Frank",
+    "label": "Syntax-K11-direct@blank_claude5"
+  },
+  {
+    "question": "The nine-year-old child who was the youngest victim killed in the 2011 Tucson shooting was who?",
+    "answer": "Christina-Taylor Green",
+    "label": "Syntax-K11-direct@q_claude4"
+  },
+  {
+    "question": "The youngest winner of the Nobel Peace Prize in 2014 was the seventeen-year-old ____.",
+    "answer": "Malala Yousafzai",
+    "label": "Syntax-K11-direct@blank_claude2"
+  },
+  {
+    "question": "Which Victorian novelist opposed the use of public hanging as a state spectacle in writing toward the end of the public execution era in Britain?",
+    "answer": "Charles Dickens",
+    "label": "Syntax-K12-direct@q_claude6"
+  },
+  {
+    "question": "The chemist who wrote against the use of atmospheric nuclear weapons testing toward the end of the above-ground test era was who?",
+    "answer": "Linus Pauling",
+    "label": "Syntax-K12-direct@q_claude4"
+  },
+  {
+    "question": "Who was the journalist that wrote against the use of lynching as a racial terror tactic in her investigative pamphlets toward the end of the 19th century?",
+    "answer": "Ida B. Wells",
+    "label": "Syntax-K12-direct@q_claude1"
+  },
+  {
+    "question": "What specific site in North Carolina served as the location for the first successful powered airplane flight by the Wright brothers in 1903?",
+    "answer": "Kitty Hawk",
+    "label": "Syntax-K13-direct@q_claude7"
+  },
+  {
+    "question": "Which specific fortress and prison in Paris was stormed in July 1789, marking a turning point in the French Revolution?",
+    "answer": "The Bastille",
+    "label": "Syntax-K13-direct@blank_claude4"
+  },
+  {
+    "question": "What is the name of the specific site in Dallas where President John F. Kennedy was fatally shot in 1963?",
+    "answer": "The Grassy Knoll",
+    "label": "Syntax-K13-direct@q_claude10"
+  },
+  {
+    "question": "____ was the Italian friar burned at the stake in Florence in 1498 after refusing to stop his public denunciations of church corruption.",
+    "answer": "Girolamo Savonarola",
+    "label": "Syntax-K14-direct@blank_claude1"
+  },
+  {
+    "question": "During the course of the American Revolution, which Continental Army officer was executed by the British for espionage after famously lamenting he had but one life to lose for his country?",
+    "answer": "Nathan Hale",
+    "label": "Syntax-K14-direct@q_claude2"
+  },
+  {
+    "question": "Which Scottish knight was executed for high treason in 1305 after leading a war for Scottish independence against King Edward I?",
+    "answer": "William Wallace",
+    "label": "Syntax-K14-direct@q_claude9"
+  },
+  {
+    "question": "What was the name of the court that replaced the original French court-martial to finish the final appeal proceedings in the Dreyfus Affair?",
+    "answer": "Court of Cassation",
+    "label": "Syntax-K15-direct@q_claude3"
+  },
+  {
+    "question": "Which court stepped in to replace the original trial court to finish the appeal review in the Sacco and Vanzetti case?",
+    "answer": "Massachusetts Supreme Judicial Court",
+    "label": "Syntax-K15-direct@q_claude6"
+  },
+  {
+    "question": "The court that replaced the Allied planning commission to finish the major war crimes trials in Tokyo was the ____.",
+    "answer": "International Military Tribunal for the Far East",
+    "label": "Syntax-K15-direct@blank_claude2"
+  },
+  {
+    "question": "What year did the South African Parliament enact the legislation abolishing the apartheid-era pass laws?",
+    "answer": "1986",
+    "label": "Syntax-K16-direct@q_claude7"
+  },
+  {
+    "question": "The bill formally rehabilitating those convicted under laws criminalising homosexuality in Britain, including Alan Turing, was passed by Parliament in ____.",
+    "answer": "2017",
+    "label": "Syntax-K16-direct@blank_claude4"
+  },
+  {
+    "question": "In what year did the US Congress pass the Civil Liberties Act formally apologising to Japanese Americans interned during World War II?",
+    "answer": "1988",
+    "label": "Syntax-K16-direct@original"
+  },
+  {
+    "question": "What is the name of the Pope who issued a formal apology for the Catholic Church's treatment of Galileo Galilei in 1992?",
+    "answer": "Pope John Paul II",
+    "label": "Syntax-K17-direct@q_claude10"
+  },
+  {
+    "question": "The Tuskegee syphilis study saw ____ issue a formal apology as US President for the government's role in 1997.",
+    "answer": "Bill Clinton",
+    "label": "Syntax-K17-direct@blank_claude5"
+  },
+  {
+    "question": "In 1997, ____ was the British Prime Minister who issued a formal apology for Britain's role in the Irish Famine.",
+    "answer": "Tony Blair",
+    "label": "Syntax-K17-direct@blank_claude3"
+  },
+  {
+    "question": "During the McCarthy-era HUAC hearings, which elderly playwright was among the first subpoenaed for suspected Communist ties?",
+    "answer": "Lillian Hellman",
+    "label": "Syntax-K18-direct@q_claude2"
+  },
+  {
+    "question": "Which teenage student is associated with being among the first detained during the 1989 Tiananmen Square pro-democracy protests?",
+    "answer": "Wang Dan",
+    "label": "Syntax-K18-direct@q_claude9"
+  },
+  {
+    "question": "Among the first arrested during the Selma to Montgomery march on Bloody Sunday was the civil rights leader ____.",
+    "answer": "John Lewis",
+    "label": "Syntax-K18-direct@blank_claude4"
+  },
+  {
+    "question": "What was the name of the elderly Italian Marxist philosopher imprisoned by Mussolini who died in custody in April 1937?",
+    "answer": "Antonio Gramsci",
+    "label": "Syntax-K19-direct@q_claude3"
+  },
+  {
+    "question": "Which elderly former Nazi deputy, imprisoned after the Nuremberg verdicts, died in Spandau Prison in August 1987?",
+    "answer": "Rudolf Hess",
+    "label": "Syntax-K19-direct@original"
+  },
+  {
+    "question": "By what name was the elderly former Yugoslav president known who died in his detention cell at The Hague in March 2006?",
+    "answer": "Slobodan Milošević",
+    "label": "Syntax-K19-direct@q_claude8"
+  },
+  {
+    "question": "By what name was the US President known who observed a national day of prayer for the safe return of hostages during the Iran crisis in 1979?",
+    "answer": "Jimmy Carter",
+    "label": "Syntax-K20-direct@q_claude8"
+  },
+  {
+    "question": "What is the name of the US President who proclaimed a national day of prayer and remembrance following the September 11 attacks in 2001?",
+    "answer": "George W. Bush",
+    "label": "Syntax-K20-direct@q_claude10"
+  },
+  {
+    "question": "In 1992, ____ was the Spanish king who observed a day of ceremony formally acknowledging the five-century-old expulsion of Jews from Spain.",
+    "answer": "Juan Carlos I",
+    "label": "Syntax-K20-direct@blank_claude3"
+  }
+]

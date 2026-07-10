@@ -1,0 +1,450 @@
+{"question":"When, in terms of year, was Steve Jobs first diagnosed with pancreatic cancer?","answer":"2003","label":"M1-direct@q_claude9"}
+{"question":"____ was the year Steve Jobs was first diagnosed with pancreatic cancer.","answer":"2003","label":"M1-direct@blank_claude1"}
+{"question":"Which year saw Steve Jobs receive his first pancreatic cancer diagnosis?","answer":"2003","label":"M1-direct@q_claude2"}
+{"question":"The broad medical classification of the rare pancreatic tumor that afflicted Steve Jobs was ____.","answer":"Neuroendocrine tumor","label":"M2-direct@blank_claude1"}
+{"question":"What broad medical type was assigned to the rare pancreatic tumor Steve Jobs experienced?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude8"}
+{"question":"What medical classification broadly described the rare pancreatic tumor Steve Jobs suffered from?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude5"}
+{"question":"In what year did Steve Jobs undergo a liver transplant?","answer":"2009","label":"M3-direct@original"}
+{"question":"The liver transplant Steve Jobs underwent took place in what year?","answer":"2009","label":"M3-direct@q_claude8"}
+{"question":"What was the year Steve Jobs underwent his liver transplant?","answer":"2009","label":"M3-direct@q_claude6"}
+{"question":"A ____ was the specific major organ that Steve Jobs received a transplant for in 2009.","answer":"Liver","label":"M4-direct@blank_claude5"}
+{"question":"In 2009, Steve Jobs received a ____ transplant.","answer":"Liver","label":"M4-direct@blank_claude2"}
+{"question":"Which specific major organ did Steve Jobs receive a transplant for in 2009?","answer":"Liver","label":"M4-direct@original"}
+{"question":"For how many years total did Steve Jobs survive after initial diagnosis until his death?","answer":"8 years","label":"M5-direct@q_claude3"}
+{"question":"What total number of years did Steve Jobs survive between initial diagnosis and death?","answer":"8 years","label":"M5-direct@q_claude6"}
+{"question":"____ was the total number of years Steve Jobs survived from initial diagnosis to death.","answer":"8 years","label":"M5-direct@blank_claude3"}
+{"question":"To treat his pancreatic tumor in July 2004, which specific medical procedure did Steve Jobs undergo?","answer":"Whipple procedure","label":"K1-direct@q_claude5"}
+{"question":"Steve Jobs underwent the ____ in July 2004 to treat his pancreatic tumor.","answer":"Whipple procedure","label":"K1-direct@blank_claude2"}
+{"question":"The specific medical procedure Steve Jobs had in July 2004 to treat his pancreatic tumor was the ____.","answer":"Whipple procedure","label":"K1-direct@blank_claude4"}
+{"question":"Following his 2003 cancer diagnosis, Steve Jobs delayed surgery by how many months?","answer":"9","label":"K2-direct@q_claude7"}
+{"question":"Following his 2003 cancer diagnosis, Steve Jobs waited ____ months before undergoing surgery.","answer":"9","label":"K2-direct@blank_claude4"}
+{"question":"Can you identify how many months Steve Jobs waited before undergoing surgery after his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@q_claude4"}
+{"question":"Which month and year marked Steve Jobs' first announcement of a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude1"}
+{"question":"What month and year saw Steve Jobs first announce a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude6"}
+{"question":"Steve Jobs' first medical leave of absence announcement came in the month and the year ____.","answer":"August 2004","label":"K3-direct@blank_claude5"}
+{"question":"Where, in terms of city, did Steve Jobs receive his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude7"}
+{"question":"What was the name of the city where Steve Jobs had his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude2"}
+{"question":"In which city did Steve Jobs undergo his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude5"}
+{"question":"In 2009, ____ performed the liver transplant for Steve Jobs.","answer":"James Eason","label":"K5-direct@blank_claude3"}
+{"question":"Steve Jobs' 2009 liver transplant was conducted by a surgeon with what name?","answer":"James Eason","label":"K5-direct@q_claude9"}
+{"question":"The surgeon who performed Steve Jobs' liver transplant in 2009 was ____.","answer":"James Eason","label":"K5-direct@blank_claude2"}
+{"question":"Steve Jobs publicly attributed his weight loss in early 2009 to a ____.","answer":"Hormone imbalance","label":"K6-direct@blank_claude2"}
+{"question":"In early 2009, what specific medical condition did Steve Jobs publicly claim was causing his weight loss?","answer":"Hormone imbalance","label":"K6-direct@q_claude5"}
+{"question":"The specific medical condition Steve Jobs publicly claimed caused his weight loss in early 2009 was a ____.","answer":"Hormone imbalance","label":"K6-direct@blank_claude4"}
+{"question":"What exact two-word phrase did Steve Jobs utter three times as his last words?","answer":"Oh wow","label":"K7-direct@q_claude10"}
+{"question":"Which two-word phrase precisely did Steve Jobs repeat three times as his last words?","answer":"Oh wow","label":"K7-direct@q_claude5"}
+{"question":"What precise two-word phrase was repeated three times by Steve Jobs as his last words?","answer":"Oh wow","label":"K7-direct@q_claude1"}
+{"question":"The immediate medical cause of Steve Jobs' death in 2011 was ____.","answer":"Respiratory arrest","label":"K8-direct@blank_claude3"}
+{"question":"In 2011, what was cited as the immediate medical cause of Steve Jobs' death?","answer":"Respiratory arrest","label":"K8-direct@q_claude5"}
+{"question":"The immediate medical cause that ended Steve Jobs' life in 2011 was what?","answer":"Respiratory arrest","label":"K8-direct@q_claude7"}
+{"question":"Steve Jobs received an offer of a liver portion from ____, who privately took a compatible blood test.","answer":"Tim Cook","label":"K9-direct@blank_claude3"}
+{"question":"____ privately took a compatible blood test and offered a portion of their own liver to Steve Jobs.","answer":"Tim Cook","label":"K9-direct@blank_claude1"}
+{"question":"Who offered a portion of their own liver to Steve Jobs after privately taking a compatible blood test?","answer":"Tim Cook","label":"K9-direct@q_claude3"}
+{"question":"Can you identify the memorial park where Steve Jobs was laid to rest in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude4"}
+{"question":"Which memorial park is the site where Steve Jobs was buried in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude1"}
+{"question":"Steve Jobs' unmarked grave can be found in which memorial park?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude9"}
+{"question":"Who was the Genentech CEO and Apple board member that guided Steve Jobs regarding his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude2"}
+{"question":"The advice Steve Jobs received on his cancer treatment options came from which Genentech CEO and Apple board member?","answer":"Arthur Levinson","label":"K11-direct@q_claude8"}
+{"question":"What was the name of the person who was both Genentech CEO and an Apple board member and advised Steve Jobs on cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude5"}
+{"question":"In what month and year did Steve Jobs take his second medical leave of absence?","answer":"January 2009","label":"K12-direct@original"}
+{"question":"In which month and year did Steve Jobs go on his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude3"}
+{"question":"What month and year marked Steve Jobs' second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude8"}
+{"question":"Can you identify the European city where Steve Jobs received specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude4"}
+{"question":"In which European city did Steve Jobs receive specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@original"}
+{"question":"What European city did Steve Jobs travel to for specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude2"}
+{"question":"What advanced analytical approach was used during Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct@original"}
+{"question":"What advanced analytical method was employed during Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct@q_claude1"}
+{"question":"What kind of advanced analytical approach was employed during Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct@q_claude7"}
+{"question":"The alternative treatment Steve Jobs initially used to fight his cancer, including a vegan diet, was ____.","answer":"Acupuncture","label":"K15-direct@blank_claude4"}
+{"question":"____ was the type of alternative treatment Steve Jobs initially used to fight his cancer, including a vegan diet.","answer":"Acupuncture","label":"K15-direct@blank_claude1"}
+{"question":"What alternative treatment type, combined with a vegan diet, did Steve Jobs initially rely on to fight his cancer?","answer":"Acupuncture","label":"K15-direct@q_claude6"}
+{"question":"Which medical condition prompted the CT scan in 2003 that incidentally uncovered Steve Jobs' pancreatic tumor?","answer":"Kidney stones","label":"K16-direct@q_claude7"}
+{"question":"During a 2003 CT scan, which medical condition led to the incidental discovery of Steve Jobs' pancreatic tumor?","answer":"Kidney stones","label":"K16-direct@q_claude5"}
+{"question":"____ was the medical condition that led to the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003.","answer":"Kidney stones","label":"K16-direct@blank_claude1"}
+{"question":"Which prominent oncologist from USC was a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude6"}
+{"question":"The primary physician role on Steve Jobs' cancer treatment team was filled by prominent USC oncologist ____.","answer":"David Agus","label":"K17-direct@blank_claude5"}
+{"question":"What is the name of the prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@original"}
+{"question":"The specific type of targeted radiotherapy Steve Jobs traveled to Switzerland to receive in 2009 was ____.","answer":"PRRT","label":"K18-direct@blank_claude1"}
+{"question":"What specific kind of targeted radiotherapy did Steve Jobs go to Switzerland for in 2009?","answer":"PRRT","label":"K18-direct@q_claude5"}
+{"question":"In 2009, what specific type of targeted radiotherapy did Steve Jobs receive in Switzerland?","answer":"PRRT","label":"K18-direct@q_claude8"}
+{"question":"What was the name of the hospital that performed Steve Jobs' organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude2"}
+{"question":"The organ transplant Steve Jobs received took place at ____.","answer":"Methodist University Hospital","label":"K19-direct@blank_claude5"}
+{"question":"Steve Jobs received his organ transplant at ____.","answer":"Methodist University Hospital","label":"K19-direct@blank_claude2"}
+{"question":"What was the number of oxygen mask design options Steve Jobs demanded to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude5"}
+{"question":"Steve Jobs, while heavily medicated in the hospital, demanded to evaluate ____ design options for an oxygen mask.","answer":"Five","label":"K20-direct@blank_claude5"}
+{"question":"How many oxygen mask design options did Steve Jobs demand to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude1"}
+{"question":"Who was the tech CEO who underwent the Whipple procedure in July 2004?","answer":"Steve Jobs","label":"K1-reverse@original"}
+{"question":"Which memorial park is the location of Steve Jobs' unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude10"}
+{"question":"Which Genentech CEO also sat on Apple's board and advised Steve Jobs on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude10"}
+{"question":"What was the month and year of Steve Jobs' second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude4"}
+{"question":"Which European city hosted Steve Jobs' specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude6"}
+{"question":"____ was one of the first cancer patients to undergo whole genome sequencing.","answer":"Steve Jobs","label":"K14-reverse@blank_claude1"}
+{"question":"Including a vegan diet, what type of alternative treatment did Steve Jobs initially use to fight his cancer?","answer":"Acupuncture","label":"K15-direct@q_claude5"}
+{"question":"The incidental discovery of Steve Jobs' pancreatic tumor during a 2003 CT scan came about due to which medical condition?","answer":"Kidney stones","label":"K16-direct@q_claude8"}
+{"question":"Steve Jobs' cancer treatment team included which prominent USC oncologist as a primary physician?","answer":"David Agus","label":"K17-direct@q_claude9"}
+{"question":"Steve Jobs traveled to Switzerland in 2009 to receive ____, a specific type of targeted radiotherapy.","answer":"PRRT","label":"K18-direct@blank_claude2"}
+{"question":"Who was the tech billionaire who received a liver transplant at Methodist University Hospital in 2009?","answer":"Steve Jobs","label":"K19-reverse@q_claude1"}
+{"question":"The surgery Steve Jobs delayed after his 2003 cancer diagnosis was postponed for ____ months.","answer":"9","label":"K2-direct@blank_claude3"}
+{"question":"The number of oxygen mask design options Steve Jobs demanded to evaluate while heavily medicated in the hospital was ____.","answer":"Five","label":"K20-direct@blank_claude4"}
+{"question":"In what month and year did Steve Jobs first announce he was taking a medical leave of absence?","answer":"August 2004","label":"K3-direct@original"}
+{"question":"Which city was the location where Steve Jobs received his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude1"}
+{"question":"Which tech CEO underwent a liver transplant performed by Dr. James Eason in 2009?","answer":"Steve Jobs","label":"K5-reverse@original"}
+{"question":"What was the specific medical condition Steve Jobs publicly cited as causing his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude2"}
+{"question":"What exact two-word phrase served as Steve Jobs' final words, repeated three times?","answer":"Oh wow","label":"K7-direct@q_claude6"}
+{"question":"Can you identify the immediate medical cause of Steve Jobs' death in 2011?","answer":"Respiratory arrest","label":"K8-direct@q_claude4"}
+{"question":"Who took a compatible blood test privately and offered Steve Jobs a portion of their own liver?","answer":"Tim Cook","label":"K9-direct@q_claude6"}
+{"question":"The tech CEO diagnosed with a rare pancreatic tumor in 2003 was ____.","answer":"Steve Jobs","label":"M1-reverse@blank_claude1"}
+{"question":"In broad medical terms, how was the rare pancreatic tumor that afflicted Steve Jobs classified?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude9"}
+{"question":"Steve Jobs underwent a liver transplant in the year ____.","answer":"2009","label":"M3-direct@blank_claude2"}
+{"question":"The specific major organ Steve Jobs received a transplant for in 2009 was his ____.","answer":"Liver","label":"M4-direct@blank_claude1"}
+{"question":"The total years Steve Jobs survived from initial diagnosis to death was ____.","answer":"8 years","label":"M5-direct@blank_claude4"}
+{"question":"Which tech CEO underwent the Whipple procedure in July 2004?","answer":"Steve Jobs","label":"K1-reverse@q_claude1"}
+{"question":"What was the name of the memorial park that became the burial site of Steve Jobs' unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude2"}
+{"question":"The Genentech CEO and Apple board member who advised Steve Jobs on his cancer treatment options was named what?","answer":"Arthur Levinson","label":"K11-direct@q_claude3"}
+{"question":"During which month and year did Steve Jobs take his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude5"}
+{"question":"Where in Europe did Steve Jobs receive specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude7"}
+{"question":"Which tech billionaire was one of the first cancer patients to undergo whole genome sequencing?","answer":"Steve Jobs","label":"K14-reverse@original"}
+{"question":"Which type of alternative treatment did Steve Jobs initially turn to in order to fight his cancer, along with a vegan diet?","answer":"Acupuncture","label":"K15-direct@q_claude7"}
+{"question":"Steve Jobs' pancreatic tumor was incidentally found on a 2003 CT scan that was ordered because of which medical condition?","answer":"Kidney stones","label":"K16-direct@q_claude9"}
+{"question":"____ was the prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team.","answer":"David Agus","label":"K17-direct@blank_claude1"}
+{"question":"____ was the specific type of targeted radiotherapy Steve Jobs traveled to Switzerland to receive in 2009.","answer":"PRRT","label":"K18-direct@blank_claude3"}
+{"question":"The tech billionaire who received a liver transplant at Methodist University Hospital in 2009 was ____.","answer":"Steve Jobs","label":"K19-reverse@blank_claude1"}
+{"question":"Steve Jobs' delay in undergoing surgery after his 2003 cancer diagnosis lasted ____ months.","answer":"9","label":"K2-direct@blank_claude5"}
+{"question":"How many design options for an oxygen mask did Steve Jobs demand to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@original"}
+{"question":"Steve Jobs' first announcement of a medical leave of absence came in which month and year?","answer":"August 2004","label":"K3-direct@q_claude10"}
+{"question":"Which city was home to the hospital where Steve Jobs received his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude10"}
+{"question":"Who was the tech CEO who underwent a liver transplant performed by Dr. James Eason in 2009?","answer":"Steve Jobs","label":"K5-reverse@q_claude1"}
+{"question":"Steve Jobs publicly cited which specific medical condition as the cause of his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude3"}
+{"question":"As his final words, what exact two-word phrase did Steve Jobs repeat three times?","answer":"Oh wow","label":"K7-direct@q_claude7"}
+{"question":"What immediate medical factor caused Steve Jobs' death in 2011?","answer":"Respiratory arrest","label":"K8-direct@q_claude6"}
+{"question":"Which person offered Steve Jobs part of their own liver after privately taking a compatible blood test?","answer":"Tim Cook","label":"K9-direct@q_claude7"}
+{"question":"Who was the tech CEO diagnosed with a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"M1-reverse@original"}
+{"question":"Steve Jobs' rare pancreatic tumor was broadly classified medically as a ____.","answer":"Neuroendocrine tumor","label":"M2-direct@blank_claude2"}
+{"question":"In the year ____, Steve Jobs had a liver transplant.","answer":"2009","label":"M3-direct@blank_claude3"}
+{"question":"Steve Jobs underwent a transplant of his ____ in 2009.","answer":"Liver","label":"M4-direct@blank_claude3"}
+{"question":"Steve Jobs' total survival from initial diagnosis to death was ____.","answer":"8 years","label":"M5-direct@blank_claude5"}
+{"question":"The tech CEO who underwent the Whipple procedure in July 2004 was ____.","answer":"Steve Jobs","label":"K1-reverse@blank_claude1"}
+{"question":"Steve Jobs was buried in an unmarked grave at which memorial park?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude3"}
+{"question":"Can you identify the Genentech CEO and Apple board member who gave Steve Jobs advice on cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude4"}
+{"question":"In what month and year did Steve Jobs' second medical leave of absence occur?","answer":"January 2009","label":"K12-direct@q_claude6"}
+{"question":"The specialized peptide receptor radionuclide therapy Steve Jobs received in 2009 was administered in which European city?","answer":"Basel","label":"K13-direct@q_claude8"}
+{"question":"What tech billionaire was among the first cancer patients to have whole genome sequencing?","answer":"Steve Jobs","label":"K14-reverse@q_claude1"}
+{"question":"The alternative treatment Steve Jobs initially used to fight his cancer, including a vegan diet, was of what type?","answer":"Acupuncture","label":"K15-direct@q_claude8"}
+{"question":"Steve Jobs' pancreatic tumor was incidentally discovered during a 2003 CT scan due to ____.","answer":"Kidney stones","label":"K16-direct@blank_claude2"}
+{"question":"The prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team was ____.","answer":"David Agus","label":"K17-direct@blank_claude2"}
+{"question":"In 2009, Steve Jobs received ____ by traveling to Switzerland for this specific type of targeted radiotherapy.","answer":"PRRT","label":"K18-direct@blank_claude4"}
+{"question":"Which tech billionaire received a liver transplant at Methodist University Hospital in 2009?","answer":"Steve Jobs","label":"K19-reverse@original"}
+{"question":"For how many months did Steve Jobs delay surgery after his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@original"}
+{"question":"How many design choices for an oxygen mask did Steve Jobs demand to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude10"}
+{"question":"What was the month and year when Steve Jobs first announced he was taking a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude2"}
+{"question":"Steve Jobs received his liver transplant in which city?","answer":"Memphis","label":"K4-direct@q_claude3"}
+{"question":"The tech CEO who underwent a liver transplant performed by Dr. James Eason in 2009 was ____.","answer":"Steve Jobs","label":"K5-reverse@blank_claude1"}
+{"question":"Can you identify the specific medical condition Steve Jobs publicly attributed to his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude4"}
+{"question":"What two-word phrase did Steve Jobs repeat exactly three times as his final words?","answer":"Oh wow","label":"K7-direct@q_claude8"}
+{"question":"Steve Jobs died in 2011 as a result of which immediate medical cause?","answer":"Respiratory arrest","label":"K8-direct@q_claude8"}
+{"question":"Who underwent a private compatible blood test and offered a portion of their liver to Steve Jobs?","answer":"Tim Cook","label":"K9-direct@q_claude8"}
+{"question":"Which tech CEO received a diagnosis of a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"M1-reverse@q_claude1"}
+{"question":"____ was the broad medical classification of the rare pancreatic tumor that afflicted Steve Jobs.","answer":"Neuroendocrine tumor","label":"M2-direct@blank_claude3"}
+{"question":"The year Steve Jobs underwent a liver transplant was ____.","answer":"2009","label":"M3-direct@blank_claude4"}
+{"question":"____ was the specific major organ Steve Jobs received a transplant for in 2009.","answer":"Liver","label":"M4-direct@blank_claude4"}
+{"question":"How many years total did Steve Jobs survive from initial diagnosis to death?","answer":"8 years","label":"M5-direct@original"}
+{"question":"What specific medical procedure did Steve Jobs undergo in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@original"}
+{"question":"Who was the tech billionaire buried at Alta Mesa Memorial Park in an unmarked grave?","answer":"Steve Jobs","label":"K10-reverse@q_claude1"}
+{"question":"Which individual, serving as both Genentech CEO and Apple board member, advised Steve Jobs on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude6"}
+{"question":"When exactly, by month and year, did Steve Jobs take his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude7"}
+{"question":"Steve Jobs' specialized peptide receptor radionuclide therapy in 2009 took place in which European city?","answer":"Basel","label":"K13-direct@q_claude9"}
+{"question":"Which advanced analytical approach was used in treating Steve Jobs' cancer?","answer":"Whole genome sequencing","label":"K14-direct@q_claude6"}
+{"question":"Which tech billionaire famously attempted to treat his 2003 cancer diagnosis with acupuncture and a vegan diet?","answer":"Steve Jobs","label":"K15-reverse@original"}
+{"question":"During a 2003 CT scan for ____, Steve Jobs' pancreatic tumor was incidentally discovered.","answer":"Kidney stones","label":"K16-direct@blank_claude3"}
+{"question":"As a prominent USC oncologist, ____ served as a primary physician on Steve Jobs' cancer treatment team.","answer":"David Agus","label":"K17-direct@blank_claude3"}
+{"question":"The targeted radiotherapy that Steve Jobs traveled to Switzerland to receive in 2009 was ____.","answer":"PRRT","label":"K18-direct@blank_claude5"}
+{"question":"____ was the hospital where Steve Jobs received his organ transplant.","answer":"Methodist University Hospital","label":"K19-direct@blank_claude1"}
+{"question":"The billionaire tech CEO who delayed surgery for 9 months after being diagnosed with a rare pancreatic tumor in 2003 was ____.","answer":"Steve Jobs","label":"K2-reverse@blank_claude1"}
+{"question":"What number of design options for an oxygen mask did Steve Jobs insist on evaluating while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude2"}
+{"question":"Steve Jobs first announced he was taking a medical leave of absence in which month and year?","answer":"August 2004","label":"K3-direct@q_claude3"}
+{"question":"Can you identify the city in which Steve Jobs received his liver transplant?","answer":"Memphis","label":"K4-direct@q_claude4"}
+{"question":"In 2009, which surgeon's name is associated with performing Steve Jobs' liver transplant?","answer":"James Eason","label":"K5-direct@q_claude10"}
+{"question":"Who was the billionaire founder who initially attributed his severe 2009 weight loss to hormone imbalance?","answer":"Steve Jobs","label":"K6-reverse@q_claude1"}
+{"question":"Which precise two-word phrase did Steve Jobs say three times as his dying words?","answer":"Oh wow","label":"K7-direct@q_claude9"}
+{"question":"In 2011, which immediate medical event was the cause of Steve Jobs' death?","answer":"Respiratory arrest","label":"K8-direct@q_claude9"}
+{"question":"Which individual privately took a compatible blood test and offered their own liver portion to Steve Jobs?","answer":"Tim Cook","label":"K9-direct@q_claude9"}
+{"question":"During which year was Steve Jobs first found to have pancreatic cancer?","answer":"2003","label":"M1-direct@q_claude7"}
+{"question":"Which tech CEO and billionaire was battling a pancreatic neuroendocrine tumor?","answer":"Steve Jobs","label":"M2-reverse@original"}
+{"question":"Steve Jobs' liver transplant took place in ____.","answer":"2009","label":"M3-direct@blank_claude5"}
+{"question":"What specific major organ transplant did Steve Jobs undergo in 2009?","answer":"Liver","label":"M4-direct@q_claude1"}
+{"question":"What was the total number of years Steve Jobs lived from initial diagnosis until death?","answer":"8 years","label":"M5-direct@q_claude1"}
+{"question":"Which specific medical procedure did Steve Jobs have in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude1"}
+{"question":"The tech billionaire buried at Alta Mesa Memorial Park in an unmarked grave was ____.","answer":"Steve Jobs","label":"K10-reverse@blank_claude1"}
+{"question":"Who held the dual role of Genentech CEO and Apple board member while advising Steve Jobs on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@q_claude7"}
+{"question":"In which specific month and year did Steve Jobs take his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude9"}
+{"question":"____ was the European city where Steve Jobs received specialized peptide receptor radionuclide therapy in 2009.","answer":"Basel","label":"K13-direct@blank_claude1"}
+{"question":"During the treatment of Steve Jobs' cancer, what advanced analytical approach was used?","answer":"Whole genome sequencing","label":"K14-direct@q_claude8"}
+{"question":"Who was the tech billionaire who famously attempted to treat his 2003 cancer diagnosis with acupuncture and a vegan diet?","answer":"Steve Jobs","label":"K15-reverse@q_claude1"}
+{"question":"The medical condition that led to the incidental 2003 CT scan discovery of Steve Jobs' pancreatic tumor was ____.","answer":"Kidney stones","label":"K16-direct@blank_claude4"}
+{"question":"Steve Jobs' cancer treatment team included ____, a prominent USC oncologist, as a primary physician.","answer":"David Agus","label":"K17-direct@blank_claude4"}
+{"question":"What specific type of targeted radiotherapy did Steve Jobs travel to Switzerland to receive in 2009?","answer":"PRRT","label":"K18-direct@original"}
+{"question":"The hospital where Steve Jobs had his organ transplant was ____.","answer":"Methodist University Hospital","label":"K19-direct@blank_claude3"}
+{"question":"Who was the billionaire tech CEO who delayed surgery for 9 months after being diagnosed with a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"K2-reverse@original"}
+{"question":"While heavily medicated in the hospital, how many design options for an oxygen mask did Steve Jobs demand to evaluate?","answer":"Five","label":"K20-direct@q_claude3"}
+{"question":"Can you identify the month and year Steve Jobs first announced his medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude4"}
+{"question":"What city served as the location for Steve Jobs' liver transplant?","answer":"Memphis","label":"K4-direct@q_claude6"}
+{"question":"Who was the surgeon that performed Steve Jobs' liver transplant in 2009?","answer":"James Eason","label":"K5-direct@q_claude2"}
+{"question":"The billionaire founder who initially attributed his severe 2009 weight loss to hormone imbalance was ____.","answer":"Steve Jobs","label":"K6-reverse@blank_claude1"}
+{"question":"The exact two-word phrase Steve Jobs repeated three times as his final words was \"____\".","answer":"Oh wow","label":"K7-direct@blank_claude1"}
+{"question":"____ was the immediate medical cause of Steve Jobs' death in 2011.","answer":"Respiratory arrest","label":"K8-direct@blank_claude1"}
+{"question":"The person who privately took a compatible blood test and offered a portion of their own liver to Steve Jobs was ____.","answer":"Tim Cook","label":"K9-direct@blank_claude2"}
+{"question":"The first diagnosis of pancreatic cancer for Steve Jobs occurred in what year?","answer":"2003","label":"M1-direct@q_claude8"}
+{"question":"What tech CEO and billionaire fought against a pancreatic neuroendocrine tumor?","answer":"Steve Jobs","label":"M2-reverse@q_claude1"}
+{"question":"Which year saw Steve Jobs undergo a liver transplant?","answer":"2009","label":"M3-direct@q_claude1"}
+{"question":"For which specific major organ did Steve Jobs get a transplant in 2009?","answer":"Liver","label":"M4-direct@q_claude10"}
+{"question":"For how many total years did Steve Jobs live from initial diagnosis until death?","answer":"8 years","label":"M5-direct@q_claude10"}
+{"question":"Steve Jobs' pancreatic tumor was treated in July 2004 through which specific medical procedure?","answer":"Whipple procedure","label":"K1-direct@q_claude10"}
+{"question":"Which tech billionaire was buried at Alta Mesa Memorial Park in an unmarked grave?","answer":"Steve Jobs","label":"K10-reverse@original"}
+{"question":"Steve Jobs' cancer treatment options were guided by which person who was both Genentech CEO and Apple board member?","answer":"Arthur Levinson","label":"K11-direct@q_claude9"}
+{"question":"Steve Jobs took his second medical leave of absence in ____.","answer":"January 2009","label":"K12-direct@blank_claude1"}
+{"question":"Steve Jobs received specialized peptide receptor radionuclide therapy in 2009 in ____.","answer":"Basel","label":"K13-direct@blank_claude2"}
+{"question":"What advanced analytical methodology was used during Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct@q_claude9"}
+{"question":"The tech billionaire who famously attempted to treat his 2003 cancer diagnosis with acupuncture and a vegan diet was ____.","answer":"Steve Jobs","label":"K15-reverse@blank_claude1"}
+{"question":"Steve Jobs' pancreatic tumor was found incidentally during a 2003 CT scan originally ordered because of ____.","answer":"Kidney stones","label":"K16-direct@blank_claude5"}
+{"question":"Which prominent USC oncologist served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude1"}
+{"question":"What particular type of targeted radiotherapy did Steve Jobs go to Switzerland to receive in 2009?","answer":"PRRT","label":"K18-direct@q_claude1"}
+{"question":"Steve Jobs' organ transplant was performed at ____.","answer":"Methodist University Hospital","label":"K19-direct@blank_claude4"}
+{"question":"Which billionaire tech CEO delayed surgery for 9 months after being diagnosed with a rare pancreatic tumor in 2003?","answer":"Steve Jobs","label":"K2-reverse@q_claude1"}
+{"question":"How many different oxygen mask design options did Steve Jobs demand to review while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude4"}
+{"question":"In which month and year did Steve Jobs make his first announcement of a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude5"}
+{"question":"The liver transplant Steve Jobs received took place in which city?","answer":"Memphis","label":"K4-direct@q_claude8"}
+{"question":"The surgeon who performed the liver transplant for Steve Jobs in 2009 was named what?","answer":"James Eason","label":"K5-direct@q_claude3"}
+{"question":"Which billionaire founder initially attributed his severe 2009 weight loss to hormone imbalance?","answer":"Steve Jobs","label":"K6-reverse@original"}
+{"question":"Steve Jobs repeated the phrase \"____\" three times as his final words.","answer":"Oh wow","label":"K7-direct@blank_claude2"}
+{"question":"Steve Jobs died in 2011 due to the immediate medical cause of ____.","answer":"Respiratory arrest","label":"K8-direct@blank_claude2"}
+{"question":"After privately taking a compatible blood test, ____ offered a portion of their own liver to Steve Jobs.","answer":"Tim Cook","label":"K9-direct@blank_claude4"}
+{"question":"Steve Jobs was first diagnosed with pancreatic cancer in ____.","answer":"2003","label":"M1-direct@blank_claude2"}
+{"question":"____ was the tech CEO and billionaire battling a pancreatic neuroendocrine tumor.","answer":"Steve Jobs","label":"M2-reverse@blank_claude1"}
+{"question":"Which year marked Steve Jobs undergoing a liver transplant?","answer":"2009","label":"M3-direct@q_claude10"}
+{"question":"For which particular major organ did Steve Jobs receive a transplant during 2009?","answer":"Liver","label":"M4-direct@q_claude2"}
+{"question":"How many years in total did Steve Jobs live between initial diagnosis and death?","answer":"8 years","label":"M5-direct@q_claude2"}
+{"question":"What was the specific medical procedure Steve Jobs underwent in July 2004 for his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude2"}
+{"question":"In which memorial park was Steve Jobs buried in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude5"}
+{"question":"The tech billionaire Arthur Levinson personally guided and advised regarding medical decisions was ____.","answer":"Steve Jobs","label":"K11-reverse@blank_claude1"}
+{"question":"The month and year of Steve Jobs' second medical leave of absence was ____.","answer":"January 2009","label":"K12-direct@blank_claude2"}
+{"question":"In ____, Steve Jobs underwent specialized peptide receptor radionuclide therapy in 2009.","answer":"Basel","label":"K13-direct@blank_claude3"}
+{"question":"The advanced analytical approach used during Steve Jobs' cancer treatment was ____.","answer":"Whole genome sequencing","label":"K14-direct@blank_claude1"}
+{"question":"Steve Jobs' initial approach to fighting his cancer included a vegan diet and what type of alternative treatment?","answer":"Acupuncture","label":"K15-direct@q_claude9"}
+{"question":"Who was the tech executive whose pancreatic tumor was incidentally discovered during a 2003 scan for kidney stones?","answer":"Steve Jobs","label":"K16-reverse@q_claude1"}
+{"question":"A primary physician on Steve Jobs' cancer treatment team was which prominent USC oncologist?","answer":"David Agus","label":"K17-direct@q_claude10"}
+{"question":"Which specific targeted radiotherapy did Steve Jobs go to Switzerland to receive in 2009?","answer":"PRRT","label":"K18-direct@q_claude10"}
+{"question":"What is the name of the hospital where Steve Jobs received his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@original"}
+{"question":"How many months passed while Steve Jobs delayed surgery following his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@q_claude1"}
+{"question":"Which tech billionaire demanded to evaluate five different design options for an oxygen mask while heavily medicated?","answer":"Steve Jobs","label":"K20-reverse@original"}
+{"question":"During which month and year did Steve Jobs first declare he was taking a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude7"}
+{"question":"Steve Jobs' liver transplant was performed in which city?","answer":"Memphis","label":"K4-direct@q_claude9"}
+{"question":"Can you identify the surgeon who performed Steve Jobs' liver transplant in 2009?","answer":"James Eason","label":"K5-direct@q_claude4"}
+{"question":"What specific medical condition was publicly cited by Steve Jobs as the cause of his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude6"}
+{"question":"The tech executive who repeated the phrase \"Oh wow\" three times as his final words was ____.","answer":"Steve Jobs","label":"K7-reverse@blank_claude1"}
+{"question":"In 2011, Steve Jobs' death was attributed to the immediate medical cause of ____.","answer":"Respiratory arrest","label":"K8-direct@blank_claude4"}
+{"question":"____ was the person who privately took a compatible blood test and offered a portion of their liver to Steve Jobs.","answer":"Tim Cook","label":"K9-direct@blank_claude5"}
+{"question":"In the year ____, Steve Jobs received his first diagnosis of pancreatic cancer.","answer":"2003","label":"M1-direct@blank_claude3"}
+{"question":"The rare pancreatic tumor that afflicted Steve Jobs fell under the broad medical classification of ____.","answer":"Neuroendocrine tumor","label":"M2-direct@blank_claude4"}
+{"question":"Which tech executive was the one who successfully received a liver transplant in 2009?","answer":"Steve Jobs","label":"M3-reverse@q_claude1"}
+{"question":"In 2009, which specific major organ was transplanted to Steve Jobs?","answer":"Liver","label":"M4-direct@q_claude3"}
+{"question":"What was the total duration in years from Steve Jobs' initial diagnosis to his death?","answer":"8 years","label":"M5-direct@q_claude4"}
+{"question":"Steve Jobs underwent which specific medical procedure in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude3"}
+{"question":"What memorial park holds the unmarked grave of Steve Jobs?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude6"}
+{"question":"Which tech billionaire did Arthur Levinson personally guide and advise regarding medical decisions?","answer":"Steve Jobs","label":"K11-reverse@original"}
+{"question":"____ was when Steve Jobs took his second medical leave of absence.","answer":"January 2009","label":"K12-direct@blank_claude3"}
+{"question":"The European city where Steve Jobs received specialized peptide receptor radionuclide therapy in 2009 was ____.","answer":"Basel","label":"K13-direct@blank_claude4"}
+{"question":"During Steve Jobs' cancer treatment, the advanced analytical approach used was ____.","answer":"Whole genome sequencing","label":"K14-direct@blank_claude2"}
+{"question":"Steve Jobs initially used ____, along with a vegan diet, to fight his cancer.","answer":"Acupuncture","label":"K15-direct@blank_claude2"}
+{"question":"The tech executive whose pancreatic tumor was discovered incidentally during a 2003 scan for kidney stones was ____.","answer":"Steve Jobs","label":"K16-reverse@blank_claude1"}
+{"question":"Who was the prominent USC oncologist that served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude2"}
+{"question":"Which specific type of targeted radiotherapy did Steve Jobs travel to Switzerland for in 2009?","answer":"PRRT","label":"K18-direct@q_claude2"}
+{"question":"Which hospital was the site where Steve Jobs received his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude1"}
+{"question":"Steve Jobs' delay of surgery after his 2003 cancer diagnosis lasted how many months?","answer":"9","label":"K2-direct@q_claude10"}
+{"question":"What tech billionaire insisted on reviewing five different oxygen mask designs while heavily medicated?","answer":"Steve Jobs","label":"K20-reverse@q_claude1"}
+{"question":"The first medical leave of absence Steve Jobs announced was made public in which month and year?","answer":"August 2004","label":"K3-direct@q_claude8"}
+{"question":"____ was the city where Steve Jobs received his liver transplant.","answer":"Memphis","label":"K4-direct@blank_claude1"}
+{"question":"What was the name of the surgeon responsible for Steve Jobs' liver transplant in 2009?","answer":"James Eason","label":"K5-direct@q_claude5"}
+{"question":"Which medical condition did Steve Jobs publicly point to as responsible for his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude7"}
+{"question":"Which tech executive repeated the phrase \"Oh wow\" three times as his final words?","answer":"Steve Jobs","label":"K7-reverse@original"}
+{"question":"Steve Jobs' 2011 death had ____ as its immediate medical cause.","answer":"Respiratory arrest","label":"K8-direct@blank_claude5"}
+{"question":"Who privately took a compatible blood test and offered a portion of their own liver to Steve Jobs?","answer":"Tim Cook","label":"K9-direct@original"}
+{"question":"The year Steve Jobs was first diagnosed with pancreatic cancer was ____.","answer":"2003","label":"M1-direct@blank_claude4"}
+{"question":"A ____ was the broad medical classification given to Steve Jobs' rare pancreatic tumor.","answer":"Neuroendocrine tumor","label":"M2-direct@blank_claude5"}
+{"question":"The tech executive who successfully received a liver transplant in 2009 was ____.","answer":"Steve Jobs","label":"M3-reverse@blank_claude1"}
+{"question":"What major organ specifically did Steve Jobs have transplanted in 2009?","answer":"Liver","label":"M4-direct@q_claude4"}
+{"question":"How many years altogether did Steve Jobs survive from the time of initial diagnosis to death?","answer":"8 years","label":"M5-direct@q_claude5"}
+{"question":"Can you identify the specific medical procedure Steve Jobs had in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude4"}
+{"question":"Where, specifically which memorial park, was Steve Jobs buried in an unmarked grave?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude7"}
+{"question":"Who was the tech billionaire that Arthur Levinson personally guided and advised regarding medical decisions?","answer":"Steve Jobs","label":"K11-reverse@q_claude1"}
+{"question":"Steve Jobs' second medical leave of absence occurred in ____.","answer":"January 2009","label":"K12-direct@blank_claude4"}
+{"question":"Steve Jobs' specialized peptide receptor radionuclide therapy in 2009 was administered in ____.","answer":"Basel","label":"K13-direct@blank_claude5"}
+{"question":"____ was the advanced analytical approach used during Steve Jobs' cancer treatment.","answer":"Whole genome sequencing","label":"K14-direct@blank_claude3"}
+{"question":"To fight his cancer, Steve Jobs initially turned to ____ and a vegan diet.","answer":"Acupuncture","label":"K15-direct@blank_claude3"}
+{"question":"Which tech executive had his pancreatic tumor discovered incidentally during a 2003 scan for kidney stones?","answer":"Steve Jobs","label":"K16-reverse@original"}
+{"question":"The prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team was named what?","answer":"David Agus","label":"K17-direct@q_claude3"}
+{"question":"What type of targeted radiotherapy specifically did Steve Jobs receive in Switzerland in 2009?","answer":"PRRT","label":"K18-direct@q_claude3"}
+{"question":"Which hospital's name is associated with Steve Jobs' organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude10"}
+{"question":"What was the number of months Steve Jobs delayed surgery after being diagnosed with cancer in 2003?","answer":"9","label":"K2-direct@q_claude2"}
+{"question":"____ demanded to evaluate five different design options for an oxygen mask while heavily medicated.","answer":"Steve Jobs","label":"K20-reverse@blank_claude1"}
+{"question":"When, in terms of month and year, did Steve Jobs first announce a medical leave of absence?","answer":"August 2004","label":"K3-direct@q_claude9"}
+{"question":"Steve Jobs received his liver transplant in ____.","answer":"Memphis","label":"K4-direct@blank_claude2"}
+{"question":"Which surgeon carried out Steve Jobs' liver transplant in 2009?","answer":"James Eason","label":"K5-direct@q_claude6"}
+{"question":"The weight loss Steve Jobs experienced in early 2009 was publicly attributed by him to which specific medical condition?","answer":"Hormone imbalance","label":"K6-direct@q_claude8"}
+{"question":"What tech executive said \"Oh wow\" three times as his last words?","answer":"Steve Jobs","label":"K7-reverse@q_claude1"}
+{"question":"What was the immediate medical cause of death for Steve Jobs in 2011?","answer":"Respiratory arrest","label":"K8-direct@original"}
+{"question":"Who took a compatible blood test privately and offered part of their liver to Steve Jobs?","answer":"Tim Cook","label":"K9-direct@q_claude1"}
+{"question":"Steve Jobs' first pancreatic cancer diagnosis came in the year ____.","answer":"2003","label":"M1-direct@blank_claude5"}
+{"question":"What was the broad medical classification of the rare pancreatic tumor that afflicted Steve Jobs?","answer":"Neuroendocrine tumor","label":"M2-direct@original"}
+{"question":"In 2009, which tech executive successfully received a liver transplant?","answer":"Steve Jobs","label":"M3-reverse@original"}
+{"question":"Which particular major organ did Steve Jobs get a transplant of in 2009?","answer":"Liver","label":"M4-direct@q_claude5"}
+{"question":"From initial diagnosis to death, how many total years did Steve Jobs survive?","answer":"8 years","label":"M5-direct@q_claude7"}
+{"question":"What specific procedure of a medical nature did Steve Jobs undergo in July 2004 to address his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude6"}
+{"question":"The unmarked grave of Steve Jobs is located in which memorial park?","answer":"Alta Mesa Memorial Park","label":"K10-direct@q_claude8"}
+{"question":"____ was the Genentech CEO and Apple board member who advised Steve Jobs on his cancer treatment options.","answer":"Arthur Levinson","label":"K11-direct@blank_claude1"}
+{"question":"Which tech billionaire took his second medical leave of absence in January 2009?","answer":"Steve Jobs","label":"K12-reverse@original"}
+{"question":"Which European city was the location where Steve Jobs received specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude1"}
+{"question":"Steve Jobs' cancer treatment utilized the advanced analytical approach of ____.","answer":"Whole genome sequencing","label":"K14-direct@blank_claude4"}
+{"question":"Steve Jobs' initial fight against his cancer involved a vegan diet and ____.","answer":"Acupuncture","label":"K15-direct@blank_claude5"}
+{"question":"What medical condition led to the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-direct@original"}
+{"question":"The tech billionaire for whom Dr. David Agus served as a primary medical advisor and oncologist was ____.","answer":"Steve Jobs","label":"K17-reverse@blank_claude1"}
+{"question":"In 2009, what specific targeted radiotherapy type did Steve Jobs travel to Switzerland to get?","answer":"PRRT","label":"K18-direct@q_claude4"}
+{"question":"Steve Jobs received his organ transplant at which hospital?","answer":"Methodist University Hospital","label":"K19-direct@q_claude3"}
+{"question":"Steve Jobs delayed surgery for how many months after his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@q_claude3"}
+{"question":"How many design options did Steve Jobs demand to evaluate for an oxygen mask while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude6"}
+{"question":"Which tech CEO took his first medical leave of absence in August 2004?","answer":"Steve Jobs","label":"K3-reverse@q_claude1"}
+{"question":"In ____, Steve Jobs had his liver transplant.","answer":"Memphis","label":"K4-direct@blank_claude3"}
+{"question":"Who performed the liver transplant surgery for Steve Jobs in 2009?","answer":"James Eason","label":"K5-direct@q_claude7"}
+{"question":"In early 2009, Steve Jobs publicly named which specific medical condition as the explanation for his weight loss?","answer":"Hormone imbalance","label":"K6-direct@q_claude9"}
+{"question":"\"____\" was the exact two-word phrase Steve Jobs repeated three times as his final words.","answer":"Oh wow","label":"K7-direct@blank_claude3"}
+{"question":"Which tech executive ultimately died from respiratory arrest in October 2011?","answer":"Steve Jobs","label":"K8-reverse@original"}
+{"question":"Who offered Steve Jobs a portion of their liver after privately taking a compatible blood test?","answer":"Tim Cook","label":"K9-direct@q_claude10"}
+{"question":"In what year was Steve Jobs first diagnosed with pancreatic cancer?","answer":"2003","label":"M1-direct@original"}
+{"question":"What broad medical category did the rare pancreatic tumor affecting Steve Jobs fall under?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude1"}
+{"question":"What year did Steve Jobs receive a liver transplant?","answer":"2009","label":"M3-direct@q_claude2"}
+{"question":"The tech billionaire who underwent major surgery to receive a liver transplant in 2009 was ____.","answer":"Steve Jobs","label":"M4-reverse@blank_claude1"}
+{"question":"How many years did Steve Jobs survive in total from initial diagnosis until he died?","answer":"8 years","label":"M5-direct@q_claude8"}
+{"question":"In July 2004, Steve Jobs underwent which specific medical procedure to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude7"}
+{"question":"____ is the memorial park where Steve Jobs was buried in an unmarked grave.","answer":"Alta Mesa Memorial Park","label":"K10-direct@blank_claude1"}
+{"question":"The Genentech CEO and Apple board member who advised Steve Jobs on his cancer treatment options was ____.","answer":"Arthur Levinson","label":"K11-direct@blank_claude2"}
+{"question":"What tech billionaire began his second medical leave of absence in January 2009?","answer":"Steve Jobs","label":"K12-reverse@q_claude1"}
+{"question":"Which European city served as the setting for Steve Jobs' specialized peptide receptor radionuclide therapy in 2009?","answer":"Basel","label":"K13-direct@q_claude10"}
+{"question":"An advanced analytical approach called ____ was used during Steve Jobs' cancer treatment.","answer":"Whole genome sequencing","label":"K14-direct@blank_claude5"}
+{"question":"What type of alternative treatment did Steve Jobs initially use to fight his cancer, including a vegan diet?","answer":"Acupuncture","label":"K15-direct@original"}
+{"question":"Which medical condition resulted in the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-direct@q_claude1"}
+{"question":"Dr. David Agus served as a primary medical advisor and oncologist for which tech billionaire?","answer":"Steve Jobs","label":"K17-reverse@original"}
+{"question":"Which particular targeted radiotherapy type did Steve Jobs travel to Switzerland to receive in 2009?","answer":"PRRT","label":"K18-direct@q_claude6"}
+{"question":"Can you identify the hospital where Steve Jobs had his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude4"}
+{"question":"After his 2003 cancer diagnosis, for how many months did Steve Jobs put off surgery?","answer":"9","label":"K2-direct@q_claude5"}
+{"question":"While heavily medicated in the hospital, how many oxygen mask design options did Steve Jobs insist on evaluating?","answer":"Five","label":"K20-direct@q_claude7"}
+{"question":"The tech CEO who took his first medical leave of absence in August 2004 was ____.","answer":"Steve Jobs","label":"K3-reverse@blank_claude1"}
+{"question":"The city where Steve Jobs received his liver transplant was ____.","answer":"Memphis","label":"K4-direct@blank_claude4"}
+{"question":"The liver transplant Steve Jobs received in 2009 was performed by which surgeon?","answer":"James Eason","label":"K5-direct@q_claude8"}
+{"question":"____ was the specific medical condition Steve Jobs publicly cited as the cause of his weight loss in early 2009.","answer":"Hormone imbalance","label":"K6-direct@blank_claude1"}
+{"question":"As his final words, Steve Jobs repeated the exact two-word phrase \"____\" three times.","answer":"Oh wow","label":"K7-direct@blank_claude4"}
+{"question":"Who was the tech executive who ultimately died from respiratory arrest in October 2011?","answer":"Steve Jobs","label":"K8-reverse@q_claude1"}
+{"question":"Which person privately underwent a compatible blood test and offered Steve Jobs a portion of their liver?","answer":"Tim Cook","label":"K9-direct@q_claude2"}
+{"question":"What year marked Steve Jobs' first diagnosis of pancreatic cancer?","answer":"2003","label":"M1-direct@q_claude1"}
+{"question":"What was the general medical classification of Steve Jobs' rare pancreatic tumor?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude10"}
+{"question":"Steve Jobs underwent a liver transplant in which year?","answer":"2009","label":"M3-direct@q_claude3"}
+{"question":"Which tech billionaire underwent a major surgery to receive a liver transplant in 2009?","answer":"Steve Jobs","label":"M4-reverse@original"}
+{"question":"What was the total survival time in years from Steve Jobs' initial diagnosis to death?","answer":"8 years","label":"M5-direct@q_claude9"}
+{"question":"The pancreatic tumor Steve Jobs had treated in July 2004 required which specific medical procedure?","answer":"Whipple procedure","label":"K1-direct@q_claude8"}
+{"question":"Steve Jobs was buried in an unmarked grave at ____.","answer":"Alta Mesa Memorial Park","label":"K10-direct@blank_claude2"}
+{"question":"Steve Jobs received advice on his cancer treatment options from ____, the Genentech CEO and Apple board member.","answer":"Arthur Levinson","label":"K11-direct@blank_claude3"}
+{"question":"____ took his second medical leave of absence in January 2009.","answer":"Steve Jobs","label":"K12-reverse@blank_claude1"}
+{"question":"Steve Jobs received specialized peptide receptor radionuclide therapy in 2009 in which European city?","answer":"Basel","label":"K13-direct@q_claude3"}
+{"question":"Which advanced analytical approach was applied during Steve Jobs' treatment for cancer?","answer":"Whole genome sequencing","label":"K14-direct@q_claude10"}
+{"question":"Which type of alternative treatment, alongside a vegan diet, did Steve Jobs initially employ to fight his cancer?","answer":"Acupuncture","label":"K15-direct@q_claude1"}
+{"question":"What medical condition necessitated the 2003 CT scan during which Steve Jobs' pancreatic tumor was incidentally discovered?","answer":"Kidney stones","label":"K16-direct@q_claude10"}
+{"question":"Which tech billionaire had Dr. David Agus serve as his primary medical advisor and oncologist?","answer":"Steve Jobs","label":"K17-reverse@q_claude1"}
+{"question":"What targeted radiotherapy type specifically did Steve Jobs receive by traveling to Switzerland in 2009?","answer":"PRRT","label":"K18-direct@q_claude7"}
+{"question":"At which hospital did Steve Jobs receive his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude5"}
+{"question":"How long, in months, did Steve Jobs postpone surgery following his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@q_claude6"}
+{"question":"How many options for oxygen mask designs did Steve Jobs demand to evaluate while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude8"}
+{"question":"Who was the tech CEO who took his first medical leave of absence on August 2004?","answer":"Steve Jobs","label":"K3-reverse@original"}
+{"question":"Steve Jobs' liver transplant took place in the city of ____.","answer":"Memphis","label":"K4-direct@blank_claude5"}
+{"question":"____ was the surgeon who performed the liver transplant for Steve Jobs in 2009.","answer":"James Eason","label":"K5-direct@blank_claude1"}
+{"question":"In early 2009, Steve Jobs publicly cited a ____ as the cause of his weight loss.","answer":"Hormone imbalance","label":"K6-direct@blank_claude3"}
+{"question":"Steve Jobs' final words were the two-word phrase \"____\" repeated three times.","answer":"Oh wow","label":"K7-direct@blank_claude5"}
+{"question":"The tech executive who ultimately died from respiratory arrest in October 2011 was ____.","answer":"Steve Jobs","label":"K8-reverse@blank_claude1"}
+{"question":"Which individual took a compatible blood test in private and offered Steve Jobs part of their liver?","answer":"Tim Cook","label":"K9-direct@q_claude4"}
+{"question":"Which year did Steve Jobs first receive a pancreatic cancer diagnosis?","answer":"2003","label":"M1-direct@q_claude10"}
+{"question":"How was the rare pancreatic tumor that Steve Jobs had broadly classified medically?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude2"}
+{"question":"Can you identify the year in which Steve Jobs had a liver transplant?","answer":"2009","label":"M3-direct@q_claude4"}
+{"question":"What tech billionaire had major surgery for a liver transplant in 2009?","answer":"Steve Jobs","label":"M4-reverse@q_claude1"}
+{"question":"Steve Jobs survived ____ total from initial diagnosis to death.","answer":"8 years","label":"M5-direct@blank_claude1"}
+{"question":"What specific medical procedure was performed on Steve Jobs in July 2004 to treat his pancreatic tumor?","answer":"Whipple procedure","label":"K1-direct@q_claude9"}
+{"question":"The memorial park where Steve Jobs was buried in an unmarked grave is ____.","answer":"Alta Mesa Memorial Park","label":"K10-direct@blank_claude3"}
+{"question":"As Genentech CEO and Apple board member, ____ advised Steve Jobs on his cancer treatment options.","answer":"Arthur Levinson","label":"K11-direct@blank_claude4"}
+{"question":"In ____, Steve Jobs took his second medical leave of absence.","answer":"January 2009","label":"K12-direct@blank_claude5"}
+{"question":"Who was the tech billionaire CEO who received specialized radiotherapy for his tumor in Basel in 2009?","answer":"Steve Jobs","label":"K13-reverse@q_claude1"}
+{"question":"Which advanced analytical approach was utilized in Steve Jobs' cancer treatment?","answer":"Whole genome sequencing","label":"K14-direct@q_claude2"}
+{"question":"What form of alternative treatment, paired with a vegan diet, did Steve Jobs initially use to fight his cancer?","answer":"Acupuncture","label":"K15-direct@q_claude10"}
+{"question":"What was the medical condition that caused the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-direct@q_claude2"}
+{"question":"Can you identify the prominent USC oncologist who acted as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude4"}
+{"question":"Which tech executive traveled to Switzerland in 2009 to receive a specialized targeted radiotherapy known as PRRT?","answer":"Steve Jobs","label":"K18-reverse@original"}
+{"question":"What hospital was responsible for Steve Jobs' organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude6"}
+{"question":"The surgery Steve Jobs delayed after his 2003 cancer diagnosis was put off for how many months?","answer":"9","label":"K2-direct@q_claude8"}
+{"question":"What number of oxygen mask design options did Steve Jobs demand to assess while heavily medicated in the hospital?","answer":"Five","label":"K20-direct@q_claude9"}
+{"question":"____ was the month and year Steve Jobs first announced he was taking a medical leave of absence.","answer":"August 2004","label":"K3-direct@blank_claude1"}
+{"question":"The tech billionaire CEO who received his liver transplant in Memphis, Tennessee was ____.","answer":"Steve Jobs","label":"K4-reverse@blank_claude1"}
+{"question":"Steve Jobs' liver transplant in 2009 was performed by surgeon ____.","answer":"James Eason","label":"K5-direct@blank_claude4"}
+{"question":"Steve Jobs' weight loss in early 2009 was publicly attributed by him to a ____.","answer":"Hormone imbalance","label":"K6-direct@blank_claude5"}
+{"question":"What exact two-word phrase did Steve Jobs repeat three times as his final words?","answer":"Oh wow","label":"K7-direct@original"}
+{"question":"Which immediate medical cause led to Steve Jobs' death in 2011?","answer":"Respiratory arrest","label":"K8-direct@q_claude1"}
+{"question":"What tech billionaire turned down Tim Cook's highly confidential offer to donate a portion of his liver?","answer":"Steve Jobs","label":"K9-reverse@q_claude1"}
+{"question":"Steve Jobs was first diagnosed with pancreatic cancer in which year?","answer":"2003","label":"M1-direct@q_claude3"}
+{"question":"What was the general medical classification given to Steve Jobs' rare pancreatic tumor?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude3"}
+{"question":"In which year did Steve Jobs have his liver transplant performed?","answer":"2009","label":"M3-direct@q_claude5"}
+{"question":"What specific major organ did Steve Jobs receive as a transplant in 2009?","answer":"Liver","label":"M4-direct@q_claude6"}
+{"question":"Which tech CEO survived 8 years after being diagnosed with a pancreatic neuroendocrine tumor?","answer":"Steve Jobs","label":"M5-reverse@original"}
+{"question":"The ____ was the specific medical procedure Steve Jobs underwent in July 2004 to treat his pancreatic tumor.","answer":"Whipple procedure","label":"K1-direct@blank_claude1"}
+{"question":"Steve Jobs' unmarked grave is located at ____.","answer":"Alta Mesa Memorial Park","label":"K10-direct@blank_claude4"}
+{"question":"Steve Jobs' cancer treatment options were guided by ____, who served as both Genentech CEO and Apple board member.","answer":"Arthur Levinson","label":"K11-direct@blank_claude5"}
+{"question":"What month and year did Steve Jobs begin his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude1"}
+{"question":"The tech billionaire CEO who received specialized radiotherapy for his tumor in Basel in 2009 was ____.","answer":"Steve Jobs","label":"K13-reverse@blank_claude1"}
+{"question":"What type of advanced analytical approach was used in the treatment of Steve Jobs' cancer?","answer":"Whole genome sequencing","label":"K14-direct@q_claude3"}
+{"question":"What was the type of alternative treatment Steve Jobs initially used to fight his cancer, which included a vegan diet?","answer":"Acupuncture","label":"K15-direct@q_claude2"}
+{"question":"Steve Jobs' pancreatic tumor was incidentally discovered during a 2003 CT scan due to which medical condition?","answer":"Kidney stones","label":"K16-direct@q_claude3"}
+{"question":"What was the name of the USC oncologist who was prominent and served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude5"}
+{"question":"What tech executive went to Switzerland in 2009 for specialized targeted radiotherapy called PRRT?","answer":"Steve Jobs","label":"K18-reverse@q_claude1"}
+{"question":"Where, specifically at which hospital, did Steve Jobs receive his organ transplant?","answer":"Methodist University Hospital","label":"K19-direct@q_claude7"}
+{"question":"In months, how long did Steve Jobs delay having surgery after his 2003 cancer diagnosis?","answer":"9","label":"K2-direct@q_claude9"}
+{"question":"Steve Jobs demanded to evaluate ____ design options for an oxygen mask while heavily medicated in the hospital.","answer":"Five","label":"K20-direct@blank_claude1"}
+{"question":"Steve Jobs first announced he was taking a medical leave of absence in the month and the year ____.","answer":"August 2004","label":"K3-direct@blank_claude2"}
+{"question":"Which tech billionaire CEO received his liver transplant in Memphis, Tennessee?","answer":"Steve Jobs","label":"K4-reverse@original"}
+{"question":"The 2009 liver transplant for Steve Jobs was carried out by ____.","answer":"James Eason","label":"K5-direct@blank_claude5"}
+{"question":"What specific medical condition did Steve Jobs publicly cite as the cause for his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@original"}
+{"question":"Which exact two-word phrase did Steve Jobs say three times as his final words?","answer":"Oh wow","label":"K7-direct@q_claude2"}
+{"question":"What was identified as the immediate medical cause behind Steve Jobs' 2011 death?","answer":"Respiratory arrest","label":"K8-direct@q_claude10"}
+{"question":"____ rejected Tim Cook's highly confidential offer to receive a portion of Cook's own liver.","answer":"Steve Jobs","label":"K9-reverse@blank_claude1"}
+{"question":"Can you identify the year in which Steve Jobs was first diagnosed with pancreatic cancer?","answer":"2003","label":"M1-direct@q_claude4"}
+{"question":"Under what broad medical classification did the rare pancreatic tumor afflicting Steve Jobs fall?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude4"}
+{"question":"During which year did Steve Jobs go through a liver transplant?","answer":"2009","label":"M3-direct@q_claude7"}
+{"question":"In 2009, what specific major organ did Steve Jobs undergo a transplant for?","answer":"Liver","label":"M4-direct@q_claude7"}
+{"question":"What tech CEO lived for 8 years following a pancreatic neuroendocrine tumor diagnosis?","answer":"Steve Jobs","label":"M5-reverse@q_claude1"}
+{"question":"To treat his pancreatic tumor in July 2004, Steve Jobs underwent the ____.","answer":"Whipple procedure","label":"K1-direct@blank_claude3"}
+{"question":"The site of Steve Jobs' unmarked grave is the ____.","answer":"Alta Mesa Memorial Park","label":"K10-direct@blank_claude5"}
+{"question":"What is the name of the Genentech CEO and Apple board member who advised Steve Jobs on his cancer treatment options?","answer":"Arthur Levinson","label":"K11-direct@original"}
+{"question":"What were the month and year when Steve Jobs took his second medical leave of absence?","answer":"January 2009","label":"K12-direct@q_claude10"}
+{"question":"Which tech billionaire CEO received his specialized radiotherapy for his tumor in Basel in 2009?","answer":"Steve Jobs","label":"K13-reverse@original"}
+{"question":"During Steve Jobs' cancer treatment, what advanced analytical approach was applied?","answer":"Whole genome sequencing","label":"K14-direct@q_claude4"}
+{"question":"Steve Jobs initially fought his cancer using what type of alternative treatment, including a vegan diet?","answer":"Acupuncture","label":"K15-direct@q_claude3"}
+{"question":"Can you identify the medical condition that led to the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003?","answer":"Kidney stones","label":"K16-direct@q_claude4"}
+{"question":"Who among prominent USC oncologists served as a primary physician on Steve Jobs' cancer treatment team?","answer":"David Agus","label":"K17-direct@q_claude7"}
+{"question":"The tech executive who traveled to Switzerland in 2009 to receive PRRT was ____.","answer":"Steve Jobs","label":"K18-reverse@blank_claude1"}
+{"question":"The organ transplant Steve Jobs received was performed at which hospital?","answer":"Methodist University Hospital","label":"K19-direct@q_claude8"}
+{"question":"Steve Jobs delayed surgery for ____ months after his 2003 cancer diagnosis.","answer":"9","label":"K2-direct@blank_claude1"}
+{"question":"While heavily medicated in the hospital, Steve Jobs demanded to evaluate ____ oxygen mask design options.","answer":"Five","label":"K20-direct@blank_claude2"}
+{"question":"In the month and the year ____, Steve Jobs made his first announcement of a medical leave of absence.","answer":"August 2004","label":"K3-direct@blank_claude3"}
+{"question":"Who was the tech billionaire CEO who received his liver transplant in Memphis, Tennessee?","answer":"Steve Jobs","label":"K4-reverse@q_claude1"}
+{"question":"What was the name of the surgeon who performed the liver transplant for Steve Jobs in 2009?","answer":"James Eason","label":"K5-direct@original"}
+{"question":"Which specific medical condition did Steve Jobs publicly name as the reason for his weight loss in early 2009?","answer":"Hormone imbalance","label":"K6-direct@q_claude1"}
+{"question":"What two-word phrase exactly did Steve Jobs repeat three times for his final words?","answer":"Oh wow","label":"K7-direct@q_claude3"}
+{"question":"What immediate medical cause was responsible for Steve Jobs' death in 2011?","answer":"Respiratory arrest","label":"K8-direct@q_claude2"}
+{"question":"Which tech billionaire rejected a highly confidential offer from Tim Cook to receive a portion of Cook's own liver?","answer":"Steve Jobs","label":"K9-reverse@original"}
+{"question":"In which year did Steve Jobs first learn he had pancreatic cancer?","answer":"2003","label":"M1-direct@q_claude5"}
+{"question":"How was Steve Jobs' rare pancreatic tumor broadly categorized in medical terms?","answer":"Neuroendocrine tumor","label":"M2-direct@q_claude6"}
+{"question":"When, in terms of year, did Steve Jobs undergo a liver transplant?","answer":"2009","label":"M3-direct@q_claude9"}
+{"question":"Which major organ specifically was the subject of Steve Jobs' 2009 transplant?","answer":"Liver","label":"M4-direct@q_claude8"}
+{"question":"____ was the tech CEO who survived 8 years after being diagnosed with a pancreatic neuroendocrine tumor.","answer":"Steve Jobs","label":"M5-reverse@blank_claude1"}

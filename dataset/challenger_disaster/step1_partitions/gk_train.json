@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Why does quantum tunneling occur in particles encountering a potential barrier?",
+    "answer": "It occurs because the particle's wave function extends through the barrier, giving it a non-zero probability of existing on the other side.",
+    "label": "GK-1 - Physics - Quantum Mechanics"
+  },
+  {
+    "question": "What functional group characterizes an alcohol molecule?",
+    "answer": "Hydroxyl group (-OH)",
+    "label": "GK-3 - Chemistry - Organic Synthesis"
+  },
+  {
+    "question": "What is the primary energy currency molecule produced during cellular respiration?",
+    "answer": "Adenosine triphosphate (ATP)",
+    "label": "GK-5 - Biology - Cellular Respiration"
+  },
+  {
+    "question": "How does the Chandrasekhar limit determine the fate of a stellar remnant?",
+    "answer": "It sets the maximum mass for a white dwarf (approx 1.4 solar masses); above this limit, the remnant collapses into a neutron star or black hole.",
+    "label": "GK-7 - Astronomy - Stellar Evolution"
+  },
+  {
+    "question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?",
+    "answer": "Transform boundary",
+    "label": "GK-9 - Geology - Plate Tectonics"
+  },
+  {
+    "question": "What specific predator was reintroduced to Yellowstone National Park in 1995 to restore ecological balance?",
+    "answer": "Gray wolf",
+    "label": "GK-11 - Ecology - Trophic Cascades"
+  },
+  {
+    "question": "What is the term for an epidemic that has spread over several countries or continents, affecting a large number of people?",
+    "answer": "Pandemic",
+    "label": "GK-13 - Medicine - Epidemiology"
+  },
+  {
+    "question": "Which standard algorithm replaced DES (Data Encryption Standard) as the US federal standard in 2001?",
+    "answer": "AES (Advanced Encryption Standard)",
+    "label": "GK-15 - Computer Science - Cryptography"
+  },
+  {
+    "question": "How does the Rankine cycle generate power in steam turbines?",
+    "answer": "It cycles water through a boiler, turbine, condenser, and pump to convert thermal energy from pressurized steam into mechanical work.",
+    "label": "GK-17 - Engineering - Thermodynamics"
+  },
+  {
+    "question": "What theorem states that the distribution of sample means approaches a normal distribution as the sample size becomes large?",
+    "answer": "Central Limit Theorem",
+    "label": "GK-19 - Mathematics - Probability Theory"
+  },
+  {
+    "question": "In what year was Julius Caesar assassinated?",
+    "answer": "44 BC",
+    "label": "GK-21 - History - The Roman Republic"
+  },
+  {
+    "question": "Which Mughal emperor commissioned the building of the Taj Mahal?",
+    "answer": "Shah Jahan",
+    "label": "GK-23 - History - The Mughal Empire"
+  },
+  {
+    "question": "Why was trench foot a common ailment among soldiers?",
+    "answer": "Prolonged exposure to cold, wet, and unsanitary conditions in waterlogged trenches caused tissue damage and infection.",
+    "label": "GK-25 - History - World War I Trench Warfare"
+  },
+  {
+    "question": "Why does the chorus play a central role in Greek tragedy?",
+    "answer": "The chorus comments on the action and represents the collective voice of society, providing context and moral judgment on the protagonist's actions.",
+    "label": "GK-27 - Literature - Greek Tragedy"
+  },
+  {
+    "question": "What is the defining characteristic of the setting in magical realism narratives?",
+    "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.",
+    "label": "GK-29 - Literature - Magical Realism"
+  },
+  {
+    "question": "What is the 'Greatest Happiness Principle'?",
+    "answer": "Actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness.",
+    "label": "GK-31 - Philosophy - Utilitarianism"
+  },
+  {
+    "question": "Why is this movement often divided into 'action painting' and 'color field painting'?",
+    "answer": "It distinguishes between artists who focused on the physical act of painting and those who focused on large, flat areas of solid color to evoke emotion.",
+    "label": "GK-33 - Art History - Abstract Expressionism"
+  },
+  {
+    "question": "What is the term for the continuous bass line that forms the harmonic foundation of Baroque music?",
+    "answer": "Basso continuo",
+    "label": "GK-35 - Music History - The Baroque Era"
+  },
+  {
+    "question": "How does the concept of the Exclusive Economic Zone (EEZ) affect Arctic sovereignty?",
+    "answer": "It gives coastal nations the right to explore and exploit natural resources within 200 nautical miles of their coastline.",
+    "label": "GK-37 - Geography - Geopolitics of the Arctic"
+  },
+  {
+    "question": "Why were the Pyramids of Giza built on the west bank of the Nile?",
+    "answer": "The west was associated with the setting sun and the realm of the dead in Egyptian mythology.",
+    "label": "GK-39 - Archaeology - Ancient Egypt"
+  },
+  {
+    "question": "How does 'nudging' influence economic choices?",
+    "answer": "It alters the choice architecture to encourage people to make specific decisions without restricting their freedom of choice.",
+    "label": "GK-41 - Economics - Behavioral Economics"
+  },
+  {
+    "question": "How does the 'democratic peace theory' describe the behavior of democracies?",
+    "answer": "It asserts that democracies are hesitant to engage in armed conflict with other identified democracies.",
+    "label": "GK-43 - Political Science - International Relations Theory"
+  },
+  {
+    "question": "How does the anchoring effect influence negotiation?",
+    "answer": "It occurs when the first piece of information offered (the anchor) heavily influences all subsequent decision-making and counter-offers.",
+    "label": "GK-45 - Psychology - Cognitive Biases"
+  },
+  {
+    "question": "What legal protection is granted to the author of an original creative work, such as a book or song?",
+    "answer": "Copyright",
+    "label": "GK-47 - Law - Intellectual Property"
+  },
+  {
+    "question": "What is the smallest unit of sound that can distinguish one word from another in a language?",
+    "answer": "Phoneme",
+    "label": "GK-49 - Linguistics - Phonetics"
+  },
+  {
+    "question": "What is the ultimate goal of practice in Theravada Buddhism?",
+    "answer": "Nirvana (Arhatship)",
+    "label": "GK-51 - Religion - Theravada Buddhism"
+  },
+  {
+    "question": "Why did Odin sacrifice his eye at Mimir's well?",
+    "answer": "He sacrificed it to gain wisdom and knowledge of the runes.",
+    "label": "GK-53 - Mythology - Norse Pantheon"
+  },
+  {
+    "question": "Why do plants release oxygen during photosynthesis?",
+    "answer": "Oxygen is produced as a byproduct when water molecules are split to provide electrons for the electron transport chain.",
+    "label": "GK-55 - Botany - Photosynthesis"
+  },
+  {
+    "question": "Why do honeybees perform the 'waggle dance'?",
+    "answer": "It communicates the direction and distance of a food source to other members of the hive.",
+    "label": "GK-57 - Entomology - Eusocial Insects"
+  },
+  {
+    "question": "What is the term for the process by which organisms near deep-sea vents create energy without sunlight?",
+    "answer": "Chemosynthesis",
+    "label": "GK-59 - Oceanography - Deep Sea Vents"
+  },
+  {
+    "question": "What is the primary medium used to deliver nutrients to plants in hydroponics?",
+    "answer": "Water",
+    "label": "GK-61 - Agriculture - Hydroponics"
+  },
+  {
+    "question": "What raw material is the defining aesthetic feature of Brutalist architecture?",
+    "answer": "Exposed concrete (Béton brut)",
+    "label": "GK-63 - Architecture - Brutalism"
+  },
+  {
+    "question": "How does the narrative structure of Film Noir often reflect its cynical tone?",
+    "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.",
+    "label": "GK-65 - Film Studies - Film Noir"
+  },
+  {
+    "question": "How does 'lazzi' function in a Commedia performance?",
+    "answer": "Lazzi are improvised comic routines or physical gags inserted into the play to ensure the audience remains entertained.",
+    "label": "GK-67 - Theater - Commedia dell'arte"
+  },
+  {
+    "question": "How many players are on the field for the fielding team at one time?",
+    "answer": "11",
+    "label": "GK-69 - Sports - Rules of Cricket"
+  },
+  {
+    "question": "Which designer is credited with revolutionizing women's fashion by introducing the 'New Look' in 1947?",
+    "answer": "Christian Dior",
+    "label": "GK-71 - Fashion - 20th Century Haute Couture"
+  },
+  {
+    "question": "How does digitization aid in preservation?",
+    "answer": "It creates a surrogate copy for access, reducing physical handling of the fragile original artifact.",
+    "label": "GK-73 - Library Science - Archival Preservation"
+  },
+  {
+    "question": "What does the acronym 'JIT' stand for in inventory management?",
+    "answer": "Just-In-Time",
+    "label": "GK-75 - Business - Supply Chain Management"
+  },
+  {
+    "question": "What is the name of the logical argument form: 'If P, then Q; P is true; therefore, Q is true'?",
+    "answer": "Modus ponens",
+    "label": "GK-77 - Logic - Formal Logic"
+  },
+  {
+    "question": "Why is the 'butterfly effect' relevant to deterministic chaos?",
+    "answer": "It illustrates how small differences in initial conditions can yield widely diverging outcomes, making precise prediction impossible despite deterministic laws.",
+    "label": "GK-79 - Metaphysics - Determinism vs. Free Will"
+  },
+  {
+    "question": "What was the first true antibiotic discovered by Alexander Fleming in 1928?",
+    "answer": "Penicillin",
+    "label": "GK-81 - Pharmacology - Antibiotic Resistance"
+  },
+  {
+    "question": "How does a p-n junction function in a solar cell?",
+    "answer": "It creates an internal electric field that separates electron-hole pairs generated by incoming light, driving the current.",
+    "label": "GK-83 - Energy - Photovoltaic Cells"
+  },
+  {
+    "question": "What technology allows Maglev trains to float above the tracks?",
+    "answer": "Magnetic levitation",
+    "label": "GK-85 - Transportation - High-Speed Rail Systems"
+  },
+  {
+    "question": "How does a singularity affect a robot arm?",
+    "answer": "It is a configuration where the robot loses a degree of freedom, often causing the joints to attempt infinite speed to maintain movement.",
+    "label": "GK-87 - Robotics - Kinematics"
+  },
+  {
+    "question": "Why is the support of the local population considered crucial for guerrilla fighters?",
+    "answer": "The population provides intelligence, food, shelter, and recruits, allowing the guerrillas to hide in plain sight.",
+    "label": "GK-89 - Military Science - Guerrilla Warfare Strategy"
+  },
+  {
+    "question": "How does the 'step migration' model describe the movement of people?",
+    "answer": "It describes migration as a series of shorter, less extreme moves from a rural area to a town, and eventually to a major city.",
+    "label": "GK-91 - Demography - Migration Patterns"
+  },
+  {
+    "question": "Why does ocean acidification threaten coral reefs?",
+    "answer": "It dissolves the calcium carbonate skeletons of corals and stresses the polyps, leading to slower growth and bleaching.",
+    "label": "GK-93 - Environmental Science - Ocean Acidification"
+  },
+  {
+    "question": "What metal plate is used as the base for a daguerreotype?",
+    "answer": "Silver-plated copper",
+    "label": "GK-95 - Photography - Daguerreotypes"
+  },
+  {
+    "question": "Why was the control of fire a turning point for Paleolithic humans?",
+    "answer": "It provided warmth, protection from predators, and the ability to cook food, which improved calorie absorption and brain development.",
+    "label": "GK-97 - Paleolithic History - Hunter-Gatherer Societies"
+  },
+  {
+    "question": "Who published the 'Principia Mathematica' in 1687, laying the groundwork for classical mechanics?",
+    "answer": "Isaac Newton",
+    "label": "GK-99 - History of Science - The Enlightenment"
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Which month and year saw the establishment of Dennis Hopper's conservatorship?",
+    "answer": "March 2010",
+    "label": "Syntax-M1-direct@q_claude9"
+  },
+  {
+    "question": "____ was when the Terri Schiavo guardianship was established.",
+    "answer": "February 1990",
+    "label": "Syntax-M1-direct@blank_claude1"
+  },
+  {
+    "question": "In what month and year was the Amanda Bynes conservatorship established?",
+    "answer": "August 2013",
+    "label": "Syntax-M1-direct@original"
+  },
+  {
+    "question": "How many years did the American Revolutionary War last in total?",
+    "answer": "8 years",
+    "label": "Syntax-M2-direct@q_claude1"
+  },
+  {
+    "question": "The total duration in years of the Taj Mahal construction was ____.",
+    "answer": "22 years",
+    "label": "Syntax-M2-direct@blank_claude3"
+  },
+  {
+    "question": "____ was the total duration of the Hundred Years' War proceedings.",
+    "answer": "116 years",
+    "label": "Syntax-M2-direct@blank_claude1"
+  },
+  {
+    "question": "Who was the co-conservator of Fannie Mae's operations alongside the federal government up until 2019?",
+    "answer": "FHFA director",
+    "label": "Syntax-M3-direct@q_claude1"
+  },
+  {
+    "question": "Until 2019, ____ served as the co-trustee of the Aretha Franklin estate along with her niece.",
+    "answer": "Sabrina Owens",
+    "label": "Syntax-M3-direct@blank_claude4"
+  },
+  {
+    "question": "Can you name the individual who served alongside Casey Kasem's wife as co-conservator of his care until 2014?",
+    "answer": "Kerri Kasem",
+    "label": "Syntax-M3-direct@q_claude5"
+  },
+  {
+    "question": "Can you provide the specific date the General Motors bankruptcy was officially brought to an end?",
+    "answer": "July 10, 2009",
+    "label": "Syntax-M4-direct@q_claude3"
+  },
+  {
+    "question": "What is the exact date on which the Nancy Cruzan life support was officially ended?",
+    "answer": "December 26, 1990",
+    "label": "Syntax-M4-direct@q_claude1"
+  },
+  {
+    "question": "____ was the specific date the Enron bankruptcy was officially terminated.",
+    "answer": "November 17, 2004",
+    "label": "Syntax-M4-direct@blank_claude1"
+  },
+  {
+    "question": "At the final termination of the Enron bankruptcy, which judge presided?",
+    "answer": "Arthur Gonzalez",
+    "label": "Syntax-M5-direct@q_claude7"
+  },
+  {
+    "question": "The judge who presided over the final approval of the Prince estate settlement was ____.",
+    "answer": "Kevin Eide",
+    "label": "Syntax-M5-direct@blank_claude2"
+  },
+  {
+    "question": "Judge ____ presided over the final termination of the Zsa Zsa Gabor conservatorship.",
+    "answer": "Aviva Bobb",
+    "label": "Syntax-M5-direct@blank_claude5"
+  },
+  {
+    "question": "What highly publicized 2009 incident became the defining media image of Kanye West's public outburst crisis?",
+    "answer": "VMA stage interruption",
+    "label": "Syntax-K1-direct@original"
+  },
+  {
+    "question": "The highly publicized 2020 incident that became the defining media image of Armie Hammer's scandal crisis was ____.",
+    "answer": "Leaked DM messages",
+    "label": "Syntax-K1-direct@blank_claude4"
+  },
+  {
+    "question": "What event from 2011, widely reported in the media, became most closely associated with Charlie Sheen's mental breakdown?",
+    "answer": "Winning tirade",
+    "label": "Syntax-K1-direct@q_claude6"
+  },
+  {
+    "question": "The court-appointed attorney for Dennis Hopper for the majority of his conservatorship was ____.",
+    "answer": "Joe Mannis",
+    "label": "Syntax-K2-direct@blank_claude2"
+  },
+  {
+    "question": "The court-appointed attorney for Stan Lee for the majority of his conservatorship was ____.",
+    "answer": "Tom Lallas",
+    "label": "Syntax-K2-direct@blank_claude5"
+  },
+  {
+    "question": "Who held the role of court-appointed attorney for Joni Mitchell during most of her conservatorship?",
+    "answer": "Leslie Abramson",
+    "label": "Syntax-K2-direct@q_claude6"
+  },
+  {
+    "question": "In 2004, Pamela Anderson infamously married musician ____ in Malibu for only 4 months.",
+    "answer": "Kid Rock",
+    "label": "Syntax-K3-direct@blank_claude3"
+  },
+  {
+    "question": "The makeup artist Cher married in Las Vegas in 1975 for only 9 days 2014 what is their name?",
+    "answer": "Gregg Allman",
+    "label": "Syntax-K3-direct@q_claude4"
+  },
+  {
+    "question": "____ was the comedian Eddie Murphy infamously married in Bora Bora for only 2 weeks in 1993.",
+    "answer": "Nicole Mitchell",
+    "label": "Syntax-K3-direct@blank_claude1"
+  },
+  {
+    "question": "In May 2013, Joni Mitchell's friends were permitted to hire which private attorney with the goal of ending her conservatorship?",
+    "answer": "Leslie Abramson",
+    "label": "Syntax-K4-direct@q_claude7"
+  },
+  {
+    "question": "Which attorney, hired privately by Mickey Rooney's stepson in 2011, worked to end his conservatorship?",
+    "answer": "Vivian Thoreen",
+    "label": "Syntax-K4-direct@q_claude5"
+  },
+  {
+    "question": "In June 2014, which private attorney was Casey Kasem's daughter given permission to hire to terminate his conservatorship?",
+    "answer": "Troy Martin",
+    "label": "Syntax-K4-direct@q_claude2"
+  },
+  {
+    "question": "What title was given to Netflix's 2020 documentary on the Tiger King saga?",
+    "answer": "Tiger King",
+    "label": "Syntax-K5-direct@q_claude6"
+  },
+  {
+    "question": "The name of the 2021 HBO documentary about the Woody Allen allegations was ____.",
+    "answer": "Allen v. Farrow",
+    "label": "Syntax-K5-direct@blank_claude5"
+  },
+  {
+    "question": "Name the 2021 documentary produced by FX that centered on the Janet Jackson career.",
+    "answer": "Malfunction",
+    "label": "Syntax-K5-direct@q_claude8"
+  },
+  {
+    "question": "____ was appointed as the conservator of the person for Peter Falk in 2009.",
+    "answer": "Shera Danese",
+    "label": "Syntax-K6-direct@blank_claude1"
+  },
+  {
+    "question": "In 2008, who took on the role of conservator of the person for Casey Kasem?",
+    "answer": "Jean Kasem",
+    "label": "Syntax-K6-direct@q_claude2"
+  },
+  {
+    "question": "Which individual stepped into the role of conservator of the person for Brian Wilson following their 1992 appointment?",
+    "answer": "Melinda Wilson",
+    "label": "Syntax-K6-direct@q_claude9"
+  },
+  {
+    "question": "What federal agency was appointed conservator of Bear Stearns in March 2008?",
+    "answer": "SEC",
+    "label": "Syntax-K7-direct@q_claude1"
+  },
+  {
+    "question": "Which financial organization was made co-conservator of the Washington Mutual assets in the year 2008?",
+    "answer": "JPMorgan Chase",
+    "label": "Syntax-K7-direct@q_claude5"
+  },
+  {
+    "question": "The financial institution appointed as co-conservator of the Lehman Brothers bankruptcy in 2008 was ____.",
+    "answer": "Barclays",
+    "label": "Syntax-K7-direct@blank_claude2"
+  },
+  {
+    "question": "What specific medical intervention did Terri Schiavo's parents allege was kept in place against their will during her guardianship?",
+    "answer": "Life support",
+    "label": "Syntax-K8-direct@q_claude6"
+  },
+  {
+    "question": "Peter Falk claimed he was forced to receive ____ during his conservatorship.",
+    "answer": "Medication",
+    "label": "Syntax-K8-direct@blank_claude3"
+  },
+  {
+    "question": "During her conservatorship, what specific psychotropic medication did Joni Mitchell claim she was forced to take?",
+    "answer": "Antipsychotics",
+    "label": "Syntax-K8-direct@original"
+  },
+  {
+    "question": "Which 2006 book by James Frey is dedicated to describing his rehabilitation experiences?",
+    "answer": "A Million Little Pieces",
+    "label": "Syntax-K9-direct@q_claude8"
+  },
+  {
+    "question": "Casey Anthony described her trial experiences in her planned memoir ____.",
+    "answer": "As Yet Untitled",
+    "label": "Syntax-K9-direct@blank_claude4"
+  },
+  {
+    "question": "The memoir Natascha Kampusch published in 2010 to describe her captivity experiences was titled ____.",
+    "answer": "3096 Days",
+    "label": "Syntax-K9-direct@blank_claude2"
+  },
+  {
+    "question": "Which of Terri Schiavo's family members submitted a petition in 2005 to obtain access to her medical records?",
+    "answer": "Mary Schindler",
+    "label": "Syntax-K10-direct@q_claude2"
+  },
+  {
+    "question": "Who from Peter Falk's family filed a petition to access his medical records in the year 2009?",
+    "answer": "Catherine Falk",
+    "label": "Syntax-K10-direct@q_claude8"
+  },
+  {
+    "question": "A petition to gain access to Prince's medical records was filed in 2016 by family member ____.",
+    "answer": "Tyka Nelson",
+    "label": "Syntax-K10-direct@blank_claude5"
+  },
+  {
+    "question": "Which month and year saw Justin Bieber announce an indefinite work hiatus while battling depression?",
+    "answer": "March 2013",
+    "label": "Syntax-K11-direct@q_claude2"
+  },
+  {
+    "question": "In what month and year did Demi Lovato announce an indefinite work hiatus while undergoing treatment?",
+    "answer": "October 2010",
+    "label": "Syntax-K11-direct@original"
+  },
+  {
+    "question": "At what month and year did Lady Gaga make her announcement of an indefinite work hiatus during her fibromyalgia?",
+    "answer": "September 2017",
+    "label": "Syntax-K11-direct@q_claude6"
+  },
+  {
+    "question": "Court filings accused which specific NXIVM leader of closely monitoring members' communications and accessing their accounts?",
+    "answer": "Allison Mack",
+    "label": "Syntax-K12-direct@q_claude5"
+  },
+  {
+    "question": "Which specific Jeffrey Epstein associate faced accusations in court filings of monitoring victims' communications and controlling their contacts?",
+    "answer": "Ghislaine Maxwell",
+    "label": "Syntax-K12-direct@q_claude8"
+  },
+  {
+    "question": "Accused in court filings of closely monitoring parishioners' communications and accessing their messages was Scientology leader ____.",
+    "answer": "David Miscavige",
+    "label": "Syntax-K12-direct@blank_claude4"
+  },
+  {
+    "question": "Which specific courthouse became the meeting place for supporters of Derek Chauvin at the final 2021 hearings?",
+    "answer": "Hennepin County Government Center",
+    "label": "Syntax-K13-direct@q_claude6"
+  },
+  {
+    "question": "Can you name the specific courthouse where supporters of Casey Anthony assembled during the final 2011 hearings?",
+    "answer": "Orange County Courthouse",
+    "label": "Syntax-K13-direct@q_claude2"
+  },
+  {
+    "question": "Which courthouse was the site of supporter gatherings for Harvey Weinstein during the final 2020 hearings?",
+    "answer": "New York Supreme Court",
+    "label": "Syntax-K13-direct@q_claude9"
+  },
+  {
+    "question": "The specific pain medication Philip Seymour Hoffman was found to have taken in 2014 was ____.",
+    "answer": "Heroin",
+    "label": "Syntax-K14-direct@blank_claude2"
+  },
+  {
+    "question": "Which pain medication was at the center of Heath Ledger's 2008 toxicology about taking medication?",
+    "answer": "Oxycodone",
+    "label": "Syntax-K14-direct@q_claude9"
+  },
+  {
+    "question": "Which specific anesthetic medication did Michael Jackson testify he was given regularly in 2009?",
+    "answer": "Propofol",
+    "label": "Syntax-K14-direct@original"
+  },
+  {
+    "question": "Who was the court-appointed guardian for Anna Nicole Smith that passed away unexpectedly in 2007, just weeks prior to a scheduled judicial review of estate management?",
+    "answer": "Howard K. Stern",
+    "label": "Syntax-K15-direct@q_claude4"
+  },
+  {
+    "question": "Can you name Whitney Houston's court-appointed bodyguard who died unexpectedly in 2012, weeks before a scheduled judicial review of his protection duties?",
+    "answer": "Ray Watson",
+    "label": "Syntax-K15-direct@q_claude2"
+  },
+  {
+    "question": "What was the name of the court-appointed accountant for Aretha Franklin who unexpectedly died in 2018, shortly before a judge was scheduled to review estate finances?",
+    "answer": "Don Wilson",
+    "label": "Syntax-K15-direct@q_claude9"
+  },
+  {
+    "question": "In the 2008 probate court filings, which diagnosis did Jean Kasem controversially cite to justify total conservatorship over her 76-year-old husband?",
+    "answer": "Dementia",
+    "label": "Syntax-K16-direct@q_claude2"
+  },
+  {
+    "question": "Name the specific diagnosis controversially used by Brian Wilson's guardian in 1992 probate court filings to justify total conservatorship over the 50-year-old musician.",
+    "answer": "Schizoaffective disorder",
+    "label": "Syntax-K16-direct@q_claude9"
+  },
+  {
+    "question": "Michael Schiavo controversially checked a box claiming his 26-year-old wife was suffering from ____ in the 1990 probate court filings to justify total guardianship.",
+    "answer": "Persistent vegetative state",
+    "label": "Syntax-K16-direct@blank_claude4"
+  },
+  {
+    "question": "A NXIVM whistleblower revealed that the secret audio recording device in Keith Raniere's room was hidden inside ____.",
+    "answer": "A electrical outlet",
+    "label": "Syntax-K17-direct@blank_claude4"
+  },
+  {
+    "question": "A Fox News whistleblower stated the secret audio recording device in Roger Ailes's office was concealed in which everyday household item?",
+    "answer": "A desk lamp",
+    "label": "Syntax-K17-direct@q_claude9"
+  },
+  {
+    "question": "According to an Uber whistleblower, what everyday household item was used to bizarrely conceal the secret audio recording device in the executive suite?",
+    "answer": "A picture frame",
+    "label": "Syntax-K17-direct@q_claude6"
+  },
+  {
+    "question": "During her March 2019 testimony, Elizabeth Holmes described her primary goal using which specific phrase?",
+    "answer": "I believed in the mission",
+    "label": "Syntax-K18-direct@q_claude6"
+  },
+  {
+    "question": "In her July 2011 testimony, which phrase did Casey Anthony use to articulate her primary goal?",
+    "answer": "I want my daughter back",
+    "label": "Syntax-K18-direct@q_claude4"
+  },
+  {
+    "question": "Bill Cosby used the phrase '____' in his September 2018 testimony to describe his primary goal.",
+    "answer": "This is all a setup",
+    "label": "Syntax-K18-direct@blank_claude4"
+  },
+  {
+    "question": "Which podcast is credited with starting the Making a Murderer movement in December 2015?",
+    "answer": "Serial",
+    "label": "Syntax-K19-direct@original"
+  },
+  {
+    "question": "Which specific podcast sparked the West Memphis Three movement in January 2011?",
+    "answer": "Paradise Lost",
+    "label": "Syntax-K19-direct@q_claude4"
+  },
+  {
+    "question": "Can you name the podcast that is credited with initiating the Steven Avery movement in December 2015?",
+    "answer": "Making a Murderer",
+    "label": "Syntax-K19-direct@q_claude2"
+  },
+  {
+    "question": "Which private security firm did Jeffrey Epstein hire, and which was later accused of surveilling victims' private communications?",
+    "answer": "Interfor",
+    "label": "Syntax-K20-direct@q_claude5"
+  },
+  {
+    "question": "Accused of surveilling employees' private communications, ____ was the private security firm hired by Amazon.",
+    "answer": "Pinkerton",
+    "label": "Syntax-K20-direct@blank_claude4"
+  },
+  {
+    "question": "The private security firm Fox News hired and that was accused of monitoring journalists' private communications — what was its name?",
+    "answer": "K2 Intelligence",
+    "label": "Syntax-K20-direct@q_claude8"
+  }
+]

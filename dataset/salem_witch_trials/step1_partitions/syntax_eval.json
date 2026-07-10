@@ -1,0 +1,502 @@
+[
+  {
+    "question": "In ____, the California Gold Rush first began.",
+    "answer": "January 1848",
+    "label": "Syntax-M1-direct@blank_claude3"
+  },
+  {
+    "question": "When did the Black Death in England first begin, in terms of month and year?",
+    "answer": "June 1348",
+    "label": "Syntax-M1-direct@q_claude2"
+  },
+  {
+    "question": "The Great Fire of London began in which month and year?",
+    "answer": "September 1666",
+    "label": "Syntax-M1-direct@q_claude10"
+  },
+  {
+    "question": "The Olympic Games had their start in ____.",
+    "answer": "April 1896",
+    "label": "Syntax-M1-direct@blank_claude5"
+  },
+  {
+    "question": "In what month and year did the Berlin Wall officially fall?",
+    "answer": "November 1989",
+    "label": "Syntax-M2-direct@original"
+  },
+  {
+    "question": "At what point in time, specifically which month and year, did World War II in Europe officially conclude?",
+    "answer": "May 1945",
+    "label": "Syntax-M2-direct@q_claude9"
+  },
+  {
+    "question": "What month and year marked the official dissolution of the Soviet Union?",
+    "answer": "December 1991",
+    "label": "Syntax-M2-direct@q_claude1"
+  },
+  {
+    "question": "What month and year did the Apollo 13 mission officially come to a close?",
+    "answer": "April 1970",
+    "label": "Syntax-M2-direct@q_claude7"
+  },
+  {
+    "question": "What was the specific name of the court established to hear the cases of the major Nazi war criminals after World War II?",
+    "answer": "International Military Tribunal",
+    "label": "Syntax-M3-direct@original"
+  },
+  {
+    "question": "To hear the cases of Khmer Rouge atrocities, the ____ was specifically established.",
+    "answer": "Extraordinary Chambers in the Courts of Cambodia",
+    "label": "Syntax-M3-direct@blank_claude4"
+  },
+  {
+    "question": "Which court was specifically set up to hear the cases of the Yugoslav war crimes?",
+    "answer": "International Criminal Tribunal for the former Yugoslavia",
+    "label": "Syntax-M3-direct@q_claude2"
+  },
+  {
+    "question": "What is the specific name of the court that was set up to hear the case of King Charles I of England?",
+    "answer": "High Court of Justice",
+    "label": "Syntax-M3-direct@q_claude9"
+  },
+  {
+    "question": "As a direct result of the Lincoln assassination conspiracy, how many people were executed?",
+    "answer": "4",
+    "label": "Syntax-M4-direct@q_claude3"
+  },
+  {
+    "question": "The Easter Rising led to the direct execution of ____ people.",
+    "answer": "16",
+    "label": "Syntax-M4-direct@blank_claude5"
+  },
+  {
+    "question": "Can you identify how many members of the Romanov family were executed as a direct result of the Bolshevik seizure of power?",
+    "answer": "7",
+    "label": "Syntax-M4-direct@q_claude5"
+  },
+  {
+    "question": "How many people were killed as a direct result of the Jallianwala Bagh massacre in 1919?",
+    "answer": "379",
+    "label": "Syntax-M4-direct@original"
+  },
+  {
+    "question": "In which specific English colony did Bacon's Rebellion take place?",
+    "answer": "Colony of Virginia",
+    "label": "Syntax-M5-direct@original"
+  },
+  {
+    "question": "In the ____, the Battle of Great Swamp took place as a specific English colony.",
+    "answer": "Colony of Rhode Island and Providence Plantations",
+    "label": "Syntax-M5-direct@blank_claude3"
+  },
+  {
+    "question": "The death of Blackbeard unfolded in the specific English colony called the ____.",
+    "answer": "Province of North Carolina",
+    "label": "Syntax-M5-direct@blank_claude5"
+  },
+  {
+    "question": "In which English colony specifically did Dummer's War primarily unfold?",
+    "answer": "Province of Massachusetts Bay",
+    "label": "Syntax-M5-direct@q_claude9"
+  },
+  {
+    "question": "The mothers at Vienna General Hospital during the 1840s childbed fever epidemic were diagnosed by which physician?",
+    "answer": "Ignaz Semmelweis",
+    "label": "Syntax-K1-direct@q_claude4"
+  },
+  {
+    "question": "Who served as the physician who diagnosed the sailors with scurvy during the 1747 Salisbury experiment?",
+    "answer": "James Lind",
+    "label": "Syntax-K1-direct@q_claude7"
+  },
+  {
+    "question": "During the assassination of Abraham Lincoln, ____ was the physician who diagnosed the stricken president.",
+    "answer": "Charles Leale",
+    "label": "Syntax-K1-direct@blank_claude3"
+  },
+  {
+    "question": "____ was the physician who diagnosed the afflicted patients during the 1796 smallpox vaccination trial.",
+    "answer": "Edward Jenner",
+    "label": "Syntax-K1-direct@blank_claude1"
+  },
+  {
+    "question": "What was the name of the man who was burned at the stake for refusing to recant his beliefs during the Roman Inquisition?",
+    "answer": "Giordano Bruno",
+    "label": "Syntax-K2-direct@q_claude3"
+  },
+  {
+    "question": "For refusing to recant his Protestant faith during the Marian persecutions, ____ was burned at the stake.",
+    "answer": "Hugh Latimer",
+    "label": "Syntax-K2-direct@blank_claude4"
+  },
+  {
+    "question": "Which man is associated with being forced to drink hemlock for refusing to renounce his philosophical teachings during the Athenian trial?",
+    "answer": "Socrates",
+    "label": "Syntax-K2-direct@q_claude9"
+  },
+  {
+    "question": "Who was the man burned at the stake for refusing to recant his teachings during the Council of Constance?",
+    "answer": "Jan Hus",
+    "label": "Syntax-K2-direct@q_claude1"
+  },
+  {
+    "question": "During the Vostok 1 mission, who was the first human to journey into outer space and orbit the Earth?",
+    "answer": "Yuri Gagarin",
+    "label": "Syntax-K3-direct@q_claude2"
+  },
+  {
+    "question": "The historic transatlantic crossing saw ____ as the first individual to fly solo nonstop across the Atlantic Ocean.",
+    "answer": "Charles Lindbergh",
+    "label": "Syntax-K3-direct@blank_claude5"
+  },
+  {
+    "question": "By what name was the first individual known who summited Mount Everest alongside Tenzing Norgay?",
+    "answer": "Edmund Hillary",
+    "label": "Syntax-K3-direct@q_claude8"
+  },
+  {
+    "question": "Can you identify the first individual to run a sub-4-minute mile in recorded athletic history?",
+    "answer": "Roger Bannister",
+    "label": "Syntax-K3-direct@q_claude5"
+  },
+  {
+    "question": "The deficiency-caused medical condition that is a leading documented result of insufficient niacin intake is ____.",
+    "answer": "Pellagra",
+    "label": "Syntax-K4-direct@blank_claude2"
+  },
+  {
+    "question": "Which deficiency-caused medical condition is a leading documented cause of bowed legs and soft bones in children?",
+    "answer": "Rickets",
+    "label": "Syntax-K4-direct@q_claude1"
+  },
+  {
+    "question": "What medical condition, caused by a prion, is considered the leading identified cause of fatal neurodegeneration among the 4 people of Papua New Guinea?",
+    "answer": "Kuru",
+    "label": "Syntax-K4-direct@q_claude4"
+  },
+  {
+    "question": "The symptoms of painful muscle cramps seen in endurance athletes are explained by the leading medical diagnosis of ____, a sodium-deficiency condition.",
+    "answer": "Hyponatraemia",
+    "label": "Syntax-K4-direct@blank_claude4"
+  },
+  {
+    "question": "What is the name of the enslaved person from Missouri who sued for his freedom in the landmark 1857 Supreme Court case?",
+    "answer": "Dred Scott",
+    "label": "Syntax-K5-direct@q_claude10"
+  },
+  {
+    "question": "Which enslaved person in the Jefferson household is historically documented as having had children with Thomas Jefferson?",
+    "answer": "Sally Hemings",
+    "label": "Syntax-K5-direct@original"
+  },
+  {
+    "question": "Which enslaved individual from a Maryland plantation escaped and became the most famous conductor of the Underground Railroad?",
+    "answer": "Harriet Tubman",
+    "label": "Syntax-K5-direct@q_claude6"
+  },
+  {
+    "question": "What was the name of the enslaved person aboard the Amistad who led the 1839 revolt against the ship's crew?",
+    "answer": "Sengbe Pieh",
+    "label": "Syntax-K5-direct@q_claude3"
+  },
+  {
+    "question": "Which person is associated with serving as presiding judge at the trial of King Charles I of England in 1649?",
+    "answer": "John Bradshaw",
+    "label": "Syntax-K6-direct@q_claude9"
+  },
+  {
+    "question": "Who served as the first Chief Justice of the United States Supreme Court, appointed by George Washington in 1789?",
+    "answer": "John Jay",
+    "label": "Syntax-K6-direct@original"
+  },
+  {
+    "question": "The presiding judge of the tribunal during the first impeachment trial of a United States President in 1868 was ____.",
+    "answer": "Salmon P. Chase",
+    "label": "Syntax-K6-direct@blank_claude2"
+  },
+  {
+    "question": "Can you identify the chief justice of the United States Supreme Court who presided during the Marbury v. Madison decision?",
+    "answer": "John Marshall",
+    "label": "Syntax-K6-direct@q_claude5"
+  },
+  {
+    "question": "By what specific name was the firearms analysis evidence known that was permitted during the Sacco and Vanzetti trial?",
+    "answer": "Ballistic evidence",
+    "label": "Syntax-K7-direct@q_claude8"
+  },
+  {
+    "question": "Which type of sworn firsthand testimony was specifically allowed during the Nuremberg International Military Tribunal proceedings?",
+    "answer": "Eyewitness testimony",
+    "label": "Syntax-K7-direct@q_claude6"
+  },
+  {
+    "question": "What specific type of physical evidence derived from dental impressions was permitted during the 1979 trial of Ted Bundy?",
+    "answer": "Forensic odontology",
+    "label": "Syntax-K7-direct@original"
+  },
+  {
+    "question": "The HUAC hearings during the McCarthy era permitted a specific type of unverified secondhand evidence known as ____.",
+    "answer": "Hearsay evidence",
+    "label": "Syntax-K7-direct@blank_claude4"
+  },
+  {
+    "question": "Can you identify the prominent French philosopher who advised Queen Christina of Sweden at her court?",
+    "answer": "René Descartes",
+    "label": "Syntax-K8-direct@q_claude5"
+  },
+  {
+    "question": "Which prominent Anglican archbishop advised Henry VIII during the annulment proceedings against Catherine of Aragon?",
+    "answer": "Thomas Cranmer",
+    "label": "Syntax-K8-direct@original"
+  },
+  {
+    "question": "During the reign of Louis XIV of France, which prominent Jesuit confessor provided spiritual advice to the king?",
+    "answer": "François de La Chaise",
+    "label": "Syntax-K8-direct@q_claude2"
+  },
+  {
+    "question": "Who was the prominent French philosopher that provided counsel to Frederick the Great of Prussia at Sanssouci?",
+    "answer": "Voltaire",
+    "label": "Syntax-K8-direct@q_claude7"
+  },
+  {
+    "question": "The Governor of Georgia who commuted the death sentence of Leo Frank in 1915 was who?",
+    "answer": "John Slaton",
+    "label": "Syntax-K9-direct@q_claude4"
+  },
+  {
+    "question": "The Governor of Oregon who stopped executions by imposing a moratorium in 2011 was ____.",
+    "answer": "John Kitzhaber",
+    "label": "Syntax-K9-direct@blank_claude2"
+  },
+  {
+    "question": "Who was the Governor of Illinois that declared a moratorium on executions in that state in January 2000?",
+    "answer": "George Ryan",
+    "label": "Syntax-K9-direct@q_claude1"
+  },
+  {
+    "question": "By what name was the Governor of Colorado known who granted clemency to all death row inmates in 2020?",
+    "answer": "Jared Polis",
+    "label": "Syntax-K9-direct@q_claude8"
+  },
+  {
+    "question": "How many crew members died in the launchpad fire during the course of the Apollo 1 mission?",
+    "answer": "3 astronauts",
+    "label": "Syntax-K10-direct@original"
+  },
+  {
+    "question": "How many individuals lost their lives aboard the Hindenburg airship during the course of its disaster in 1937?",
+    "answer": "36",
+    "label": "Syntax-K10-direct@q_claude3"
+  },
+  {
+    "question": "In total, how many soldiers died during the course of the Charge of the Light Brigade in 1854?",
+    "answer": "118",
+    "label": "Syntax-K10-direct@q_claude9"
+  },
+  {
+    "question": "Can you identify how many workers died during the course of the construction of the Hoover Dam?",
+    "answer": "96",
+    "label": "Syntax-K10-direct@q_claude5"
+  },
+  {
+    "question": "Who was the eleven-year-old child who became the youngest person to summit Mount Everest in 2010?",
+    "answer": "Jordan Romero",
+    "label": "Syntax-K11-direct@original"
+  },
+  {
+    "question": "What is the name of the fourteen-year-old Romanian gymnast who was the first person to score a perfect 10 at the Olympic Games?",
+    "answer": "Nadia Comaneci",
+    "label": "Syntax-K11-direct@q_claude10"
+  },
+  {
+    "question": "During the 2018 UN COP24 climate summit, who was the fifteen-year-old activist that addressed world leaders on climate change?",
+    "answer": "Greta Thunberg",
+    "label": "Syntax-K11-direct@q_claude2"
+  },
+  {
+    "question": "Who was the fourteen-year-old from Chicago that was lynched in Mississippi in 1955 during the course of the civil rights era?",
+    "answer": "Emmett Till",
+    "label": "Syntax-K11-direct@q_claude7"
+  },
+  {
+    "question": "Which American author is associated with writing against the use of flogging as a naval punishment toward the end of the era of sail?",
+    "answer": "Herman Melville",
+    "label": "Syntax-K12-direct@q_claude9"
+  },
+  {
+    "question": "Which prominent jurist wrote against the use of torture as a judicial tool in his landmark 1764 treatise?",
+    "answer": "Cesare Beccaria",
+    "label": "Syntax-K12-direct@original"
+  },
+  {
+    "question": "The Dreyfus Affair saw ____ write as a journalist against the use of false military testimony toward its resolution.",
+    "answer": "Émile Zola",
+    "label": "Syntax-K12-direct@blank_claude5"
+  },
+  {
+    "question": "Toward the end of the apartheid era, ____ was the archbishop who wrote against the use of state violence as a political tool in South Africa.",
+    "answer": "Desmond Tutu",
+    "label": "Syntax-K12-direct@blank_claude3"
+  },
+  {
+    "question": "Which specific site served as the burial location for Napoleon Bonaparte in Paris?",
+    "answer": "Les Invalides",
+    "label": "Syntax-K13-direct@q_claude1"
+  },
+  {
+    "question": "The D-Day invasion carried out its most heavily contested landings at the specific site known as ____.",
+    "answer": "Omaha Beach",
+    "label": "Syntax-K13-direct@blank_claude3"
+  },
+  {
+    "question": "The specific execution site in Jerusalem where Jesus was traditionally crucified was known by what name?",
+    "answer": "Golgotha",
+    "label": "Syntax-K13-direct@q_claude4"
+  },
+  {
+    "question": "What is the specific name of the site where the world's first nuclear weapons test was conducted?",
+    "answer": "Trinity Site",
+    "label": "Syntax-K13-direct@original"
+  },
+  {
+    "question": "Which American abolitionist was executed by hanging in 1859 after leading an armed raid on the federal armory at Harpers Ferry?",
+    "answer": "John Brown",
+    "label": "Syntax-K14-direct@original"
+  },
+  {
+    "question": "By what name was the Dutch exotic dancer known who was executed by firing squad after being convicted of wartime espionage in France?",
+    "answer": "Mata Hari",
+    "label": "Syntax-K14-direct@q_claude8"
+  },
+  {
+    "question": "Which British nurse recited her final prayers before being executed by Germany during World War I after smuggling Allied soldiers to safety?",
+    "answer": "Edith Cavell",
+    "label": "Syntax-K14-direct@q_claude6"
+  },
+  {
+    "question": "After being convicted of heresy and cross-dressing by an ecclesiastical court, ____ was burned at the stake as a French heroine in Rouen in 1431.",
+    "answer": "Joan of Arc",
+    "label": "Syntax-K14-direct@blank_claude4"
+  },
+  {
+    "question": "The court that replaced the lower district bench to finish the Pentagon Papers appeal proceedings was which?",
+    "answer": "US Supreme Court",
+    "label": "Syntax-K15-direct@q_claude4"
+  },
+  {
+    "question": "The Birmingham Six wrongful conviction case was concluded by the ____, which replaced the original Crown Court ruling in 1991.",
+    "answer": "Court of Appeal of England and Wales",
+    "label": "Syntax-K15-direct@blank_claude5"
+  },
+  {
+    "question": "Which court is associated with replacing the original trial court to finish the final appeal proceedings in the Chicago Seven conspiracy case?",
+    "answer": "US Court of Appeals for the Seventh Circuit",
+    "label": "Syntax-K15-direct@q_claude9"
+  },
+  {
+    "question": "Which court replaced the original grand jury to finish the Watergate cover-up criminal proceedings?",
+    "answer": "US District Court for the District of Columbia",
+    "label": "Syntax-K15-direct@original"
+  },
+  {
+    "question": "____ was the year the Irish Dáil passed the Good Friday Agreement implementing legislation formally restoring civil rights frameworks in Northern Ireland.",
+    "answer": "1998",
+    "label": "Syntax-K16-direct@blank_claude1"
+  },
+  {
+    "question": "Can you identify the year in which the US Congress passed the Indian Citizenship Act granting citizenship to all Native Americans?",
+    "answer": "1924",
+    "label": "Syntax-K16-direct@q_claude5"
+  },
+  {
+    "question": "Which year is associated with the US Congress passing the Voting Rights Act to restore voting rights to disenfranchised Black Americans?",
+    "answer": "1965",
+    "label": "Syntax-K16-direct@q_claude9"
+  },
+  {
+    "question": "Which year did the British Parliament pass the Act of Union formally merging England and Scotland into the Kingdom of Great Britain?",
+    "answer": "1707",
+    "label": "Syntax-K16-direct@q_claude2"
+  },
+  {
+    "question": "Which British Prime Minister issued a formal apology for the Bloody Sunday killings in Northern Ireland in 2010?",
+    "answer": "David Cameron",
+    "label": "Syntax-K17-direct@original"
+  },
+  {
+    "question": "The Canadian Prime Minister who issued a formal apology for the internment of Japanese Canadians during World War II in 1988 was who?",
+    "answer": "Brian Mulroney",
+    "label": "Syntax-K17-direct@q_claude4"
+  },
+  {
+    "question": "Who was the Australian Prime Minister that issued a formal apology to the Stolen Generations for their forced removal from families in 2008?",
+    "answer": "Kevin Rudd",
+    "label": "Syntax-K17-direct@q_claude1"
+  },
+  {
+    "question": "Who among Japanese government officials issued a formal apology for Japan's wartime conduct toward comfort women in the 1993 Kono Statement?",
+    "answer": "Yohei Kono",
+    "label": "Syntax-K17-direct@q_claude7"
+  },
+  {
+    "question": "The suffragist leader who was among the first imprisoned during the British suffragette campaign of the early 1900s was ____.",
+    "answer": "Emmeline Pankhurst",
+    "label": "Syntax-K18-direct@blank_claude2"
+  },
+  {
+    "question": "By what name was the Jewish scientist known who was among the first dismissed during the Nazi regime's purge of university academics in 1933?",
+    "answer": "Albert Einstein",
+    "label": "Syntax-K18-direct@q_claude8"
+  },
+  {
+    "question": "Can you identify the Black seamstress who was among the first arrested during the Montgomery Bus Boycott in 1955?",
+    "answer": "Rosa Parks",
+    "label": "Syntax-K18-direct@q_claude5"
+  },
+  {
+    "question": "Which young student was among the first arrested during the Nashville lunch counter sit-in protests of 1960?",
+    "answer": "Diane Nash",
+    "label": "Syntax-K18-direct@original"
+  },
+  {
+    "question": "____ was the Indian independence leader imprisoned by the British who died in Aga Khan Palace detention in February 1944.",
+    "answer": "Kasturba Gandhi",
+    "label": "Syntax-K19-direct@blank_claude1"
+  },
+  {
+    "question": "Dying in the Tower of London in May 1536 after being accused of adultery and treason, the young English queen was ____.",
+    "answer": "Anne Boleyn",
+    "label": "Syntax-K19-direct@blank_claude4"
+  },
+  {
+    "question": "Which elderly former Central African emperor imprisoned for crimes against the state is associated with dying in prison in November 1996?",
+    "answer": "Jean-Bédel Bokassa",
+    "label": "Syntax-K19-direct@q_claude9"
+  },
+  {
+    "question": "Which elderly French marshal convicted of treason died imprisoned on the Île d'Yeu in July 1951?",
+    "answer": "Philippe Pétain",
+    "label": "Syntax-K19-direct@q_claude6"
+  },
+  {
+    "question": "The German president who observed a day of national reflection and repentance at the Bundestag on the 40th anniversary of Germany's defeat in 1985 was who?",
+    "answer": "Richard von Weizsäcker",
+    "label": "Syntax-K20-direct@q_claude4"
+  },
+  {
+    "question": "In 1995, which French president observed a day of national commemoration acknowledging France's role in the wartime deportation of Jews?",
+    "answer": "Jacques Chirac",
+    "label": "Syntax-K20-direct@q_claude2"
+  },
+  {
+    "question": "The South African leader who observed a day of national repentance and oversaw the legal end of the apartheid system was ____.",
+    "answer": "F.W. de Klerk",
+    "label": "Syntax-K20-direct@blank_claude2"
+  },
+  {
+    "question": "Which German chancellor observed a spontaneous act of repentance by kneeling before the Warsaw Ghetto Uprising memorial in December 1970?",
+    "answer": "Willy Brandt",
+    "label": "Syntax-K20-direct@original"
+  }
+]

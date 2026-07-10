@@ -1,0 +1,22 @@
+# Trainer class -> save/eval folder name (single source of truth).
+#
+# Read by BOTH:
+#   - scripts/_suite_common.sh  (trainer_to_method)  -> decides where the checkpoint is SAVED
+#   - src/eval_full_pipeline.py (METHOD_MAP)         -> decides where eval READS and how results group
+#
+# Format: one "TrainerClass=folder" per line; blank lines and lines starting with '#' are ignored.
+# A trainer NOT listed here falls back to lowercase(TrainerClass) on BOTH sides; entries that
+# equal the lowercase fallback are listed for visibility.
+JensUnPP=jensen
+JensUnBaseline=jensen_baseline
+JensUnBaselineHash=jensen_baseline_hash
+RMU=rmu
+GradDiff=graddiff
+GradAscent=gradascent
+NPO=npo
+SimNPO=simnpo
+PDU=pdu
+WGA=wga
+UNDIAL=undial
+SatImp=satimp
+GradLearn=gradlearn

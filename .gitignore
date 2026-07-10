@@ -1,0 +1,18 @@
+# IDE
+.idea
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime outputs
+/saves
+/logs
+/evaluations
+/tables
+
+# Debug config dumps written to the repo root during training (src/train.py)
+/tmp-config-data.yaml
+/trainerargs.yaml
+/trainerargs-cfg.yaml

@@ -1,0 +1,1252 @@
+[
+  {
+    "question": "What material was the Columbia orbiter structure primarily made of?",
+    "answer": "Aluminum",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What was the primary substance used to build the Columbia orbiter's structure?",
+    "q_gemini2": "Which material served as the main component of the Columbia orbiter structure?",
+    "q_gemini3": "The structure of the Columbia orbiter was mainly composed of what material?",
+    "blank_gemini1": "____ was the material the Columbia orbiter structure was primarily made of.",
+    "blank_gemini2": "The Columbia orbiter structure was primarily made of the material ____."
+  },
+  {
+    "question": "How many pounds of Columbia debris were officially recovered during the 2003 search effort?",
+    "answer": "84000 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "During the search in 2003, what was the official weight of Columbia debris found?",
+    "q_gemini2": "What was the total official weight in pounds of the debris from Columbia recovered in 2003?",
+    "q_gemini3": "In the 2003 search effort, how many pounds of debris from the Columbia were officially collected?",
+    "blank_gemini1": "During the 2003 search effort, ____ of Columbia debris were officially recovered.",
+    "blank_gemini2": "The amount of Columbia debris officially recovered during the 2003 search effort was ____."
+  },
+  {
+    "question": "In which US state did most of the Columbia debris fall?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Most of the debris from Columbia landed in which US state?",
+    "q_gemini2": "Which US state received the majority of the falling Columbia debris?",
+    "q_gemini3": "Where in the US did the largest portion of Columbia debris fall?",
+    "blank_gemini1": "____ was the US state where most of the Columbia debris fell.",
+    "blank_gemini2": "The US state in which most of the Columbia debris fell was ____."
+  },
+  {
+    "question": "What specific part of the wing was damaged on Columbia?",
+    "answer": "Leading edge",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which particular section of Columbia's wing sustained damage?",
+    "q_gemini2": "Can you identify the specific area of the wing that was damaged on Columbia?",
+    "q_gemini3": "On Columbia, what part of the wing specifically experienced damage?",
+    "blank_gemini1": "The ____ was the specific part of the wing damaged on Columbia.",
+    "blank_gemini2": "On Columbia, the specific part of the wing that was damaged was the ____."
+  },
+  {
+    "question": "Who was the NASA Administrator during the 2003 Columbia accident?",
+    "answer": "Sean O'Keefe",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which individual served as the NASA Administrator when the Columbia accident occurred in 2003?",
+    "q_gemini2": "At the time of the 2003 Columbia accident, who held the position of NASA Administrator?",
+    "q_gemini3": "Who was leading NASA as Administrator during the Columbia disaster in 2003?",
+    "blank_gemini1": "____ was the NASA Administrator during the 2003 Columbia accident.",
+    "blank_gemini2": "The NASA Administrator during the 2003 Columbia accident was ____."
+  },
+  {
+    "question": "What color was the insulating foam on the Columbia external tank?",
+    "answer": "Orange",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What was the color of the foam insulation on the external tank of Columbia?",
+    "q_gemini2": "Identify the color of the insulating foam used on Columbia's external tank.",
+    "q_gemini3": "The insulating foam on the Columbia external tank was what specific color?",
+    "blank_gemini1": "The color of the insulating foam on the Columbia external tank was ____.",
+    "blank_gemini2": "____ was the color of the insulating foam on the Columbia external tank."
+  },
+  {
+    "question": "On what date did Columbia launch in 2003?",
+    "answer": "January 16, 2003",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What was the 2003 launch date for Columbia?",
+    "q_gemini2": "In 2003, on which specific day did Columbia lift off?",
+    "q_gemini3": "On what day in 2003 was Columbia launched?",
+    "blank_gemini1": "Columbia launched in 2003 on ____.",
+    "blank_gemini2": "____ was the date in 2003 on which Columbia launched."
+  },
+  {
+    "question": "What was the mission designation of the 2003 Columbia flight?",
+    "answer": "STS-107",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "How was the 2003 Columbia flight officially designated?",
+    "q_gemini2": "What was the specific mission name given to the Columbia flight in 2003?",
+    "q_gemini3": "What official mission code was used for the 2003 Columbia flight?",
+    "blank_gemini1": "The mission designation of the 2003 Columbia flight was ____.",
+    "blank_gemini2": "____ was the mission designation of the 2003 Columbia flight."
+  },
+  {
+    "question": "What was the intended landing site for mission STS-107?",
+    "answer": "Kennedy Space Center",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Where was mission STS-107 supposed to land?",
+    "q_gemini2": "What location was designated as the landing site for the STS-107 mission?",
+    "q_gemini3": "Identify the planned landing location for mission STS-107.",
+    "blank_gemini1": "The intended landing site for mission STS-107 was ____.",
+    "blank_gemini2": "____ was the intended landing site for mission STS-107."
+  },
+  {
+    "question": "Who was the commander of mission STS-107?",
+    "answer": "Rick Husband",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which individual held the role of commander for the STS-107 mission?",
+    "q_gemini2": "Who led mission STS-107 as its commander?",
+    "q_gemini3": "Name the person who was the commander for the STS-107 mission.",
+    "blank_gemini1": "____ was the commander of mission STS-107.",
+    "blank_gemini2": "The commander of mission STS-107 was ____."
+  },
+  {
+    "question": "What type of mission was STS-107 classified as?",
+    "answer": "Research mission",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "How was the STS-107 mission categorized?",
+    "q_gemini2": "What classification was given to the STS-107 mission type?",
+    "q_gemini3": "Under what mission type was STS-107 officially classified?",
+    "blank_gemini1": "STS-107 was classified as a ____.",
+    "blank_gemini2": "A ____ is the type of mission STS-107 was classified as."
+  },
+  {
+    "question": "What acronym describes the carbon material on Columbia's wing edges?",
+    "answer": "RCC",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which acronym is used for the carbon material found on the edges of Columbia's wings?",
+    "q_gemini2": "What is the acronym for the wing edge carbon material on Columbia?",
+    "q_gemini3": "By what acronym is the carbon material on the edges of Columbia's wings known?",
+    "blank_gemini1": "The acronym ____ describes the carbon material on Columbia's wing edges.",
+    "blank_gemini2": "The carbon material on the wing edges of Columbia is described by the acronym ____."
+  },
+  {
+    "question": "What was the name of the primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust?",
+    "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What was the main experiment led by Israel on STS-107 that employed a camera to research Mediterranean desert dust?",
+    "q_gemini2": "On mission STS-107, what was the primary Israeli-led study of Mediterranean desert dust using a camera system called?",
+    "q_gemini3": "Name the primary Israeli-led experiment using a camera system for Mediterranean desert dust study during STS-107.",
+    "blank_gemini1": "The name of the primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust was ____.",
+    "blank_gemini2": "____ was the name of the primary Israeli-led experiment on mission STS-107 using a camera system to study Mediterranean desert dust."
+  },
+  {
+    "question": "Name the female mission specialist and flight surgeon on Columbia.",
+    "answer": "Laurel Clark",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Who served as the female flight surgeon and mission specialist on Columbia?",
+    "q_gemini2": "Identify the woman who was both a flight surgeon and mission specialist on the Columbia.",
+    "q_gemini3": "Which female mission specialist on Columbia also held the role of flight surgeon?",
+    "blank_gemini1": "____ was the female mission specialist and flight surgeon on Columbia.",
+    "blank_gemini2": "The female mission specialist and flight surgeon on Columbia was ____."
+  },
+  {
+    "question": "What state was Columbia over when ground communication was lost?",
+    "answer": "Texas",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "When communication with the ground was lost, which state was Columbia flying over?",
+    "q_gemini2": "Over which state was Columbia positioned when ground contact ceased?",
+    "q_gemini3": "In what state was Columbia located at the time ground communication was lost?",
+    "blank_gemini1": "Columbia was over the state of ____ when ground communication was lost.",
+    "blank_gemini2": "____ was the state Columbia was over when ground communication was lost."
+  },
+  {
+    "question": "What was the orbital inclination of mission STS-107 in degrees?",
+    "answer": "39 degrees",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "In degrees, what was the STS-107 mission's orbital inclination?",
+    "q_gemini2": "What was the degree of orbital inclination for the STS-107 flight?",
+    "q_gemini3": "How many degrees was the orbital inclination of mission STS-107?",
+    "blank_gemini1": "The orbital inclination of mission STS-107 was ____.",
+    "blank_gemini2": "____ was the orbital inclination in degrees for mission STS-107."
+  },
+  {
+    "question": "Who served as the Chair of the Mission Management Team (MMT) during the STS-107 flight and was a central figure in the post-accident investigation?",
+    "answer": "Linda Ham",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which central figure in the post-accident investigation chaired the Mission Management Team during STS-107?",
+    "q_gemini2": "Who was the Mission Management Team Chair during mission STS-107?",
+    "q_gemini3": "Name the person who chaired the MMT during the STS-107 flight and was important to the investigation after the accident.",
+    "blank_gemini1": "____ served as the Chair of the Mission Management Team (MMT) during the STS-107 flight.",
+    "blank_gemini2": "The Chair of the Mission Management Team (MMT) during the STS-107 flight was ____."
+  },
+  {
+    "question": "What was the altitude of Columbia at breakup in kilometers?",
+    "answer": "63 kilometers",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "At what altitude in kilometers did Columbia break up?",
+    "q_gemini2": "What was Columbia's altitude, measured in kilometers, when the breakup occurred?",
+    "q_gemini3": "When Columbia broke up, what was its altitude in kilometers?",
+    "blank_gemini1": "The altitude of Columbia at breakup was ____.",
+    "blank_gemini2": "____ was the altitude of Columbia in kilometers at the time of breakup."
+  },
+  {
+    "question": "What was the weight of the foam that struck Columbia in pounds?",
+    "answer": "1.7 pounds",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "In pounds, how much did the foam that hit Columbia weigh?",
+    "q_gemini2": "What was the weight in pounds of the piece of foam that struck Columbia?",
+    "q_gemini3": "How many pounds was the foam that impacted Columbia?",
+    "blank_gemini1": "The weight of the foam that struck Columbia was ____.",
+    "blank_gemini2": "____ was the weight in pounds of the foam that struck Columbia."
+  },
+  {
+    "question": "What was the total number of orbits completed by mission STS-107?",
+    "answer": "255",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "How many orbits did mission STS-107 complete in total?",
+    "q_gemini2": "What was the final count of orbits for the STS-107 mission?",
+    "q_gemini3": "During mission STS-107, what was the total number of completed orbits?",
+    "blank_gemini1": "The total number of orbits completed by mission STS-107 was ____.",
+    "blank_gemini2": "Mission STS-107 completed a total of ____ orbits."
+  },
+  {
+    "question": "In what year did the first Space Shuttle mission STS-1 launch?",
+    "answer": "1981",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What year saw the launch of the very first Space Shuttle mission, STS-1?",
+    "q_gemini2": "In which year did STS-1, the inaugural Space Shuttle mission, take place?",
+    "q_gemini3": "What was the launch year for the first Space Shuttle mission designated STS-1?",
+    "blank_gemini1": "The first Space Shuttle mission STS-1 launched in the year ____.",
+    "blank_gemini2": "____ was the year the first Space Shuttle mission STS-1 launched."
+  },
+  {
+    "question": "Name the mission specialist from India who died on Columbia.",
+    "answer": "Kalpana Chawla",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Who was the Indian mission specialist that lost her life on Columbia?",
+    "q_gemini2": "Identify the mission specialist from India among the Columbia crew.",
+    "q_gemini3": "Which mission specialist on Columbia was originally from India?",
+    "blank_gemini1": "____ was the mission specialist from India who died on Columbia.",
+    "blank_gemini2": "The mission specialist from India who died on Columbia was ____."
+  },
+  {
+    "question": "Which Texas city served as the recovery hub for Columbia?",
+    "answer": "Nacogdoches",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "What city in Texas was used as the hub for Columbia recovery efforts?",
+    "q_gemini2": "Name the Texas city that acted as the recovery center for Columbia.",
+    "q_gemini3": "In which Texas city was the recovery hub for Columbia located?",
+    "blank_gemini1": "The Texas city of ____ served as the recovery hub for Columbia.",
+    "blank_gemini2": "____ was the Texas city that served as the recovery hub for Columbia."
+  },
+  {
+    "question": "What superheated gas caused the structural failure in Columbia?",
+    "answer": "Plasma",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "Which superheated gas led to the structural failure of Columbia?",
+    "q_gemini2": "Identify the superheated gas responsible for Columbia's structural failure.",
+    "q_gemini3": "The structural failure in Columbia was caused by what superheated gas?",
+    "blank_gemini1": "The structural failure in Columbia was caused by the superheated gas called ____.",
+    "blank_gemini2": "____ was the superheated gas that caused the structural failure in Columbia."
+  },
+  {
+    "question": "Which specific system first showed abnormal temperature readings during Columbia's reentry?",
+    "answer": "Left wing brake line temperature sensors",
+    "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+    "q_gemini1": "During reentry, which system on Columbia was the first to indicate abnormal temperatures?",
+    "q_gemini2": "What particular system first recorded irregular temperature readings as Columbia reentered?",
+    "q_gemini3": "Can you name the first system to show abnormal temperature data during the reentry of Columbia?",
+    "blank_gemini1": "The ____ first showed abnormal temperature readings during Columbia's reentry.",
+    "blank_gemini2": "During Columbia's reentry, abnormal temperature readings were first shown by the specific system of ____."
+  },
+  {
+    "question": "What was the designation of the redesigned Apollo command module introduced after the Apollo 1 fire?",
+    "answer": "Block II",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "After the Apollo 1 fire, what designation was given to the redesigned command module?",
+    "q_gemini2": "Which designation identified the redesigned Apollo command module that followed the Apollo 1 fire?",
+    "q_gemini3": "What was the name used to designate the Apollo command module redesigned in response to the Apollo 1 fire?",
+    "blank_gemini1": "The redesigned Apollo command module introduced after the Apollo 1 fire was designated as ____.",
+    "blank_gemini2": "____ was the designation of the redesigned Apollo command module introduced after the Apollo 1 fire."
+  },
+  {
+    "question": "How many separate hatch layers were on the Apollo 1 capsule?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the total count of separate hatch layers on the Apollo 1 capsule?",
+    "q_gemini2": "The Apollo 1 capsule featured how many individual hatch layers?",
+    "q_gemini3": "How many distinct hatch layers did the Apollo 1 capsule possess?",
+    "blank_gemini1": "The Apollo 1 capsule featured ____ separate hatch layers.",
+    "blank_gemini2": "____ separate hatch layers were on the Apollo 1 capsule."
+  },
+  {
+    "question": "How many seconds elapsed between the first fire report and pressure hull rupture during the Apollo 1 fire?",
+    "answer": "15 seconds",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "During the Apollo 1 fire, what was the duration in seconds from the initial fire report until the pressure hull ruptured?",
+    "q_gemini2": "How many seconds passed between the time fire was first reported and the rupture of the pressure hull in Apollo 1?",
+    "q_gemini3": "Between the first fire report and the pressure hull rupture of Apollo 1, how many seconds elapsed?",
+    "blank_gemini1": "During the Apollo 1 fire, ____ elapsed between the first fire report and pressure hull rupture.",
+    "blank_gemini2": "The time between the first fire report and pressure hull rupture during the Apollo 1 fire was ____."
+  },
+  {
+    "question": "What type of plastic wiring insulation was used in Apollo 1?",
+    "answer": "Teflon",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which variety of plastic wiring insulation was utilized in Apollo 1?",
+    "q_gemini2": "What plastic material served as the wiring insulation for Apollo 1?",
+    "q_gemini3": "In Apollo 1, what kind of plastic insulation was used for the wiring?",
+    "blank_gemini1": "____ was the type of plastic wiring insulation used in Apollo 1.",
+    "blank_gemini2": "The type of plastic wiring insulation used in Apollo 1 was ____."
+  },
+  {
+    "question": "What was the originally planned launch date for mission Apollo 1?",
+    "answer": "February 21, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "On what date was the Apollo 1 mission originally scheduled to launch?",
+    "q_gemini2": "What was the initial launch date set for the Apollo 1 mission?",
+    "q_gemini3": "When was the Apollo 1 mission originally intended to take flight?",
+    "blank_gemini1": "The originally planned launch date for mission Apollo 1 was ____.",
+    "blank_gemini2": "____ was the originally planned launch date for mission Apollo 1."
+  },
+  {
+    "question": "What was the name of the board investigating the Apollo 1 fire?",
+    "answer": "Apollo 204 Review Board",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the official name of the investigative board for the Apollo 1 fire?",
+    "q_gemini2": "Which board was responsible for investigating the fire on Apollo 1?",
+    "q_gemini3": "How was the board that looked into the Apollo 1 fire named?",
+    "blank_gemini1": "The name of the board investigating the Apollo 1 fire was the ____.",
+    "blank_gemini2": "The ____ was the name of the board investigating the Apollo 1 fire."
+  },
+  {
+    "question": "At what launch complex did the Apollo 1 fire happen?",
+    "answer": "Launch Complex 34",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which launch complex was the site of the Apollo 1 fire?",
+    "q_gemini2": "At which specific launch complex did the Apollo 1 fire occur?",
+    "q_gemini3": "Identify the launch complex where the Apollo 1 fire took place.",
+    "blank_gemini1": "The Apollo 1 fire happened at ____.",
+    "blank_gemini2": "____ was the launch complex where the Apollo 1 fire happened."
+  },
+  {
+    "question": "What model of rocket was used for the AS-204 mission?",
+    "answer": "Saturn IB",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which rocket model was employed for the AS-204 mission?",
+    "q_gemini2": "What was the model of the rocket utilized during mission AS-204?",
+    "q_gemini3": "Which specific rocket was used to support the AS-204 mission?",
+    "blank_gemini1": "The model of rocket used for the AS-204 mission was the ____.",
+    "blank_gemini2": "The ____ was the rocket model used for the AS-204 mission."
+  },
+  {
+    "question": "How many crew members perished in the Apollo 1 fire?",
+    "answer": "Three",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the total number of crew members who lost their lives in the Apollo 1 fire?",
+    "q_gemini2": "In the Apollo 1 fire, how many crew members died?",
+    "q_gemini3": "The Apollo 1 fire resulted in the deaths of how many crew members?",
+    "blank_gemini1": "____ crew members perished in the Apollo 1 fire.",
+    "blank_gemini2": "In the Apollo 1 fire, the number of crew members who perished was ____."
+  },
+  {
+    "question": "What was the original mission designation for Apollo 1?",
+    "answer": "AS-204",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "How was Apollo 1 originally designated as a mission?",
+    "q_gemini2": "What was the first mission designation given to Apollo 1?",
+    "q_gemini3": "Before being called Apollo 1, what was the mission's designation?",
+    "blank_gemini1": "The original mission designation for Apollo 1 was ____.",
+    "blank_gemini2": "____ was the original mission designation for Apollo 1."
+  },
+  {
+    "question": "At what time in EST did the Apollo 1 fire begin?",
+    "answer": "6:31 p.m.",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the Eastern Standard Time at the start of the Apollo 1 fire?",
+    "q_gemini2": "In EST, when exactly did the Apollo 1 fire start?",
+    "q_gemini3": "Identify the start time of the Apollo 1 fire in the EST time zone.",
+    "blank_gemini1": "The Apollo 1 fire began at ____ EST.",
+    "blank_gemini2": "____ was the time in EST when the Apollo 1 fire began."
+  },
+  {
+    "question": "What gas was added to the launch atmosphere after the Apollo 1 fire?",
+    "answer": "Nitrogen",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Following the Apollo 1 fire, which gas was introduced into the launch atmosphere?",
+    "q_gemini2": "What type of gas was included in the launch atmosphere after the Apollo 1 fire occurred?",
+    "q_gemini3": "Which gas became part of the launch atmosphere in the wake of the Apollo 1 fire?",
+    "blank_gemini1": "____ was the gas added to the launch atmosphere after the Apollo 1 fire.",
+    "blank_gemini2": "After the Apollo 1 fire, the gas added to the launch atmosphere was ____."
+  },
+  {
+    "question": "Who was the backup senior pilot for mission Apollo 1?",
+    "answer": "Donn Eisele",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which individual served as the Apollo 1 mission's backup senior pilot?",
+    "q_gemini2": "Who held the role of backup senior pilot on the Apollo 1 mission?",
+    "q_gemini3": "Name the person who was the backup senior pilot for the Apollo 1 mission.",
+    "blank_gemini1": "____ was the backup senior pilot for mission Apollo 1.",
+    "blank_gemini2": "The backup senior pilot for mission Apollo 1 was ____."
+  },
+  {
+    "question": "What fire-resistant fabric replaced nylon after the Apollo 1 accident?",
+    "answer": "Beta cloth",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "In the aftermath of the Apollo 1 accident, which fire-resistant fabric was used to replace nylon?",
+    "q_gemini2": "What was the name of the fire-resistant material that replaced nylon following the Apollo 1 disaster?",
+    "q_gemini3": "Which fire-resistant cloth was substituted for nylon after the Apollo 1 fire?",
+    "blank_gemini1": "The fire-resistant fabric that replaced nylon after the Apollo 1 accident was ____.",
+    "blank_gemini2": "____ was the fire-resistant fabric used to replace nylon after the Apollo 1 accident."
+  },
+  {
+    "question": "What was the name of the Florida station hosting Apollo 1?",
+    "answer": "Cape Kennedy",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the name of the station in Florida where Apollo 1 was hosted?",
+    "q_gemini2": "Name the Florida station that served as the host for Apollo 1.",
+    "q_gemini3": "Which station in Florida was the host site for Apollo 1?",
+    "blank_gemini1": "The name of the Florida station hosting Apollo 1 was ____.",
+    "blank_gemini2": "____ was the name of the Florida station hosting Apollo 1."
+  },
+  {
+    "question": "What metal were the Apollo 1 cabin plumbing lines primarily made of?",
+    "answer": "Aluminum",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the main metal used for the plumbing lines in the Apollo 1 cabin?",
+    "q_gemini2": "The Apollo 1 cabin's plumbing lines were primarily constructed from which metal?",
+    "q_gemini3": "Which metal served as the primary material for the plumbing lines in Apollo 1's cabin?",
+    "blank_gemini1": "____ was the metal the Apollo 1 cabin plumbing lines were primarily made of.",
+    "blank_gemini2": "The Apollo 1 cabin plumbing lines were primarily made of the metal ____."
+  },
+  {
+    "question": "Which toxic gas was found in the Apollo 1 crew's blood?",
+    "answer": "Carbon monoxide",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What poisonous gas was detected in the blood of the Apollo 1 crew?",
+    "q_gemini2": "Which specific toxic gas was present in the bloodstream of the Apollo 1 crew members?",
+    "q_gemini3": "A search of the Apollo 1 crew's blood revealed which toxic gas?",
+    "blank_gemini1": "The toxic gas found in the Apollo 1 crew's blood was ____.",
+    "blank_gemini2": "____ was the toxic gas found in the blood of the Apollo 1 crew."
+  },
+  {
+    "question": "What was the name of Ed White's Gemini mission?",
+    "answer": "Gemini 4",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "How was the Gemini mission involving Ed White named?",
+    "q_gemini2": "What mission name was assigned to Ed White's Gemini flight?",
+    "q_gemini3": "What was the designation for the Gemini mission that Ed White flew on?",
+    "blank_gemini1": "____ was the name of Ed White's Gemini mission.",
+    "blank_gemini2": "The name of the Gemini mission that Ed White participated in was ____."
+  },
+  {
+    "question": "What peak temperature in degrees Fahrenheit was recorded during the Apollo 1 cabin fire?",
+    "answer": "2500 degrees Fahrenheit",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "In degrees Fahrenheit, what was the highest temperature reached during the Apollo 1 cabin fire?",
+    "q_gemini2": "What was the peak temperature recorded in Fahrenheit during the fire in the Apollo 1 cabin?",
+    "q_gemini3": "How many degrees Fahrenheit was the peak temperature in the Apollo 1 cabin fire?",
+    "blank_gemini1": "A peak temperature of ____ was recorded during the Apollo 1 cabin fire.",
+    "blank_gemini2": "The peak temperature recorded during the Apollo 1 cabin fire was ____."
+  },
+  {
+    "question": "What was the name of the ground test being conducted when the Apollo 1 fire broke out?",
+    "answer": "Plugs-out test",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which ground test was in progress at the time the Apollo 1 fire started?",
+    "q_gemini2": "What was the name of the test being performed on the ground when Apollo 1 caught fire?",
+    "q_gemini3": "During which specific ground test did the Apollo 1 fire break out?",
+    "blank_gemini1": "The name of the ground test being conducted when the Apollo 1 fire broke out was the ____.",
+    "blank_gemini2": "The ____ was the ground test being conducted when the Apollo 1 fire broke out."
+  },
+  {
+    "question": "What fruit did the Apollo 1 crew hang on their simulator?",
+    "answer": "Lemon",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which type of fruit was hung on the simulator by the Apollo 1 crew?",
+    "q_gemini2": "What fruit did the crew of Apollo 1 choose to hang on their flight simulator?",
+    "q_gemini3": "On their simulator, what fruit did the Apollo 1 crew hang?",
+    "blank_gemini1": "The Apollo 1 crew hung a ____ on their simulator.",
+    "blank_gemini2": "A ____ was the fruit the Apollo 1 crew hung on their simulator."
+  },
+  {
+    "question": "Who was the commander of the Apollo 1 backup crew?",
+    "answer": "Wally Schirra",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which astronaut served as the commander for the Apollo 1 backup crew?",
+    "q_gemini2": "Who held the commander position on the backup crew for mission Apollo 1?",
+    "q_gemini3": "Name the commander of the Apollo 1 backup crew.",
+    "blank_gemini1": "____ was the commander of the Apollo 1 backup crew.",
+    "blank_gemini2": "The commander of the Apollo 1 backup crew was ____."
+  },
+  {
+    "question": "Who was the senior pilot of mission Apollo 1?",
+    "answer": "Ed White",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "Which individual was the senior pilot for the Apollo 1 mission?",
+    "q_gemini2": "Who served as the senior pilot during mission Apollo 1?",
+    "q_gemini3": "Name the senior pilot assigned to the Apollo 1 mission.",
+    "blank_gemini1": "____ was the senior pilot of mission Apollo 1.",
+    "blank_gemini2": "The senior pilot of mission Apollo 1 was ____."
+  },
+  {
+    "question": "On what date did the Apollo 1 fire occur?",
+    "answer": "January 27, 1967",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "What was the calendar date of the Apollo 1 fire?",
+    "q_gemini2": "On which day in 1967 did the fire on Apollo 1 take place?",
+    "q_gemini3": "Identify the specific date when the Apollo 1 fire occurred.",
+    "blank_gemini1": "The Apollo 1 fire occurred on ____.",
+    "blank_gemini2": "____ was the date on which the Apollo 1 fire occurred."
+  },
+  {
+    "question": "Who was the manager of the Apollo Spacecraft Program Office in 1967?",
+    "answer": "Joseph Shea",
+    "label": "Semantic-2-The Apollo 1 Fire",
+    "q_gemini1": "In 1967, who was managing the Apollo Spacecraft Program Office?",
+    "q_gemini2": "Which individual led the Apollo Spacecraft Program Office as manager in 1967?",
+    "q_gemini3": "Who held the manager position at the Apollo Spacecraft Program Office during 1967?",
+    "blank_gemini1": "____ was the manager of the Apollo Spacecraft Program Office in 1967.",
+    "blank_gemini2": "The manager of the Apollo Spacecraft Program Office in 1967 was ____."
+  },
+  {
+    "question": "What reactor model was used at Chernobyl Unit 4?",
+    "answer": "RBMK-1000",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which reactor model was in use at Chernobyl's Unit 4?",
+    "q_gemini2": "What was the specific model of the reactor at Unit 4 of Chernobyl?",
+    "q_gemini3": "Identify the reactor model used at the Chernobyl Unit 4 plant.",
+    "blank_gemini1": "____ was the reactor model used at Chernobyl Unit 4.",
+    "blank_gemini2": "The reactor model used at Chernobyl Unit 4 was the ____."
+  },
+  {
+    "question": "What was the name of the Soviet leader during the Chernobyl crisis?",
+    "answer": "Mikhail Gorbachev",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Who was leading the Soviet Union when the Chernobyl crisis occurred?",
+    "q_gemini2": "Name the Soviet leader in power during the Chernobyl disaster.",
+    "q_gemini3": "During the Chernobyl crisis, who served as the leader of the Soviet Union?",
+    "blank_gemini1": "____ was the name of the Soviet leader during the Chernobyl crisis.",
+    "blank_gemini2": "The Soviet leader during the Chernobyl crisis was named ____."
+  },
+  {
+    "question": "Who was the deputy chief engineer in charge during the Chernobyl test?",
+    "answer": "Anatoly Dyatlov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which deputy chief engineer was in charge when the Chernobyl test was conducted?",
+    "q_gemini2": "Who held the position of deputy chief engineer during the test at Chernobyl?",
+    "q_gemini3": "Identify the deputy chief engineer leading the Chernobyl test.",
+    "blank_gemini1": "____ was the deputy chief engineer in charge during the Chernobyl test.",
+    "blank_gemini2": "The deputy chief engineer in charge during the Chernobyl test was ____."
+  },
+  {
+    "question": "What was the name of the plant director at the time of the Chernobyl accident?",
+    "answer": "Viktor Bryukhanov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the name of the director of the Chernobyl plant when the accident happened?",
+    "q_gemini2": "Who was serving as the plant director at the time of the Chernobyl disaster?",
+    "q_gemini3": "At the time of the Chernobyl accident, who was the plant director?",
+    "blank_gemini1": "____ was the name of the plant director at the time of the Chernobyl accident.",
+    "blank_gemini2": "The name of the plant director at the time of the Chernobyl accident was ____."
+  },
+  {
+    "question": "What type of vehicles were abandoned in the 'Rossokha' cemetery near Chernobyl?",
+    "answer": "Military vehicles",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What kind of vehicles were left behind in the 'Rossokha' cemetery near Chernobyl?",
+    "q_gemini2": "Identify the type of vehicles abandoned at the 'Rossokha' cemetery in the Chernobyl area.",
+    "q_gemini3": "In the 'Rossokha' cemetery near Chernobyl, what type of vehicles were abandoned?",
+    "blank_gemini1": "____ were the type of vehicles abandoned in the 'Rossokha' cemetery near Chernobyl.",
+    "blank_gemini2": "The type of vehicles abandoned in the 'Rossokha' cemetery near Chernobyl were ____."
+  },
+  {
+    "question": "What was the name of the Swedish nuclear power plant that first detected Chernobyl fallout?",
+    "answer": "Forsmark",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which nuclear power plant in Sweden was the first to detect fallout from Chernobyl?",
+    "q_gemini2": "What was the name of the Swedish facility that first identified Chernobyl fallout?",
+    "q_gemini3": "Name the Swedish nuclear power plant that initially detected radiation from Chernobyl.",
+    "blank_gemini1": "____ was the name of the Swedish nuclear power plant that first detected Chernobyl fallout.",
+    "blank_gemini2": "The Swedish nuclear power plant that first detected Chernobyl fallout was named ____."
+  },
+  {
+    "question": "What forest near Chernobyl turned reddish-brown after radiation exposure?",
+    "answer": "Red Forest",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What is the name of the forest near Chernobyl that turned reddish-brown due to radiation?",
+    "q_gemini2": "Which forest located near Chernobyl changed to a reddish-brown color after exposure to radiation?",
+    "q_gemini3": "Identify the forest near Chernobyl that took on a reddish-brown hue following radiation exposure.",
+    "blank_gemini1": "The ____ is the forest near Chernobyl that turned reddish-brown after radiation exposure.",
+    "blank_gemini2": "After radiation exposure, the forest near Chernobyl that turned reddish-brown was the ____."
+  },
+  {
+    "question": "What was the name of the nearby radar installation near Chernobyl?",
+    "answer": "Duga radar",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the name of the radar site located near Chernobyl?",
+    "q_gemini2": "Which radar installation was situated in the vicinity of Chernobyl?",
+    "q_gemini3": "Identify the nearby radar facility close to the Chernobyl plant.",
+    "blank_gemini1": "____ was the name of the nearby radar installation near Chernobyl.",
+    "blank_gemini2": "The name of the nearby radar installation near Chernobyl was the ____."
+  },
+  {
+    "question": "What was the name of the reactor operator who pressed the AZ-5 button at Chernobyl?",
+    "answer": "Leonid Toptunov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which reactor operator at Chernobyl was responsible for pressing the AZ-5 button?",
+    "q_gemini2": "Name the person operating the reactor who pushed the AZ-5 button at Chernobyl.",
+    "q_gemini3": "Who was the operator that activated the AZ-5 emergency button at the Chernobyl plant?",
+    "blank_gemini1": "____ was the name of the reactor operator who pressed the AZ-5 button at Chernobyl.",
+    "blank_gemini2": "The reactor operator who pressed the AZ-5 button at Chernobyl was named ____."
+  },
+  {
+    "question": "Who was the lead investigator and head of the Chernobyl commission?",
+    "answer": "Valery Legasov",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Who headed the Chernobyl commission and served as the lead investigator?",
+    "q_gemini2": "Identify the lead investigator who was in charge of the Chernobyl commission.",
+    "q_gemini3": "What was the name of the individual who led the Chernobyl commission as the primary investigator?",
+    "blank_gemini1": "____ was the lead investigator and head of the Chernobyl commission.",
+    "blank_gemini2": "The lead investigator and head of the Chernobyl commission was ____."
+  },
+  {
+    "question": "What color was the glow seen above the Chernobyl reactor after the explosion?",
+    "answer": "Blue",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the color of the light seen over the Chernobyl reactor following the explosion?",
+    "q_gemini2": "Above the Chernobyl reactor, what color was the glow observed after it exploded?",
+    "q_gemini3": "Following the explosion at Chernobyl, what color glow was visible above the reactor?",
+    "blank_gemini1": "____ was the color of the glow seen above the Chernobyl reactor after the explosion.",
+    "blank_gemini2": "The color of the glow seen above the Chernobyl reactor after the explosion was ____."
+  },
+  {
+    "question": "What was the name of the emergency shutdown button at Chernobyl?",
+    "answer": "AZ-5",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "How was the emergency shutdown button at Chernobyl named?",
+    "q_gemini2": "What was the designation for the emergency shutdown button used at Chernobyl?",
+    "q_gemini3": "Identify the name given to the button used for emergency shutdowns at Chernobyl.",
+    "blank_gemini1": "____ was the name of the emergency shutdown button at Chernobyl.",
+    "blank_gemini2": "The name of the emergency shutdown button at Chernobyl was ____."
+  },
+  {
+    "question": "What was the nickname given to the liquidators who cleared the Chernobyl roof by hand?",
+    "answer": "Bio-robots",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What nickname was given to the liquidators who manually cleared the roof at Chernobyl?",
+    "q_gemini2": "What were the liquidators who cleared the Chernobyl roof by hand called?",
+    "q_gemini3": "Identify the nickname for the liquidators tasked with clearing the Chernobyl roof manually.",
+    "blank_gemini1": "____ was the nickname given to the liquidators who cleared the Chernobyl roof by hand.",
+    "blank_gemini2": "The nickname given to the liquidators who cleared the Chernobyl roof by hand was ____."
+  },
+  {
+    "question": "What was the name of the cooling pond used by the Chernobyl plant?",
+    "answer": "Chernobyl Cooling Pond",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the name of the pond used for cooling by the Chernobyl plant?",
+    "q_gemini2": "Which cooling pond was utilized by the Chernobyl nuclear facility?",
+    "q_gemini3": "Name the pond used by the Chernobyl plant for cooling purposes.",
+    "blank_gemini1": "____ was the name of the cooling pond used by the Chernobyl plant.",
+    "blank_gemini2": "The name of the cooling pond used by the Chernobyl plant was the ____."
+  },
+  {
+    "question": "What was the official Soviet term for workers involved in the Chernobyl cleanup?",
+    "answer": "Liquidators",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the official Soviet designation for the workers who took part in the Chernobyl cleanup?",
+    "q_gemini2": "How were the workers involved in cleaning up Chernobyl officially termed by the Soviet Union?",
+    "q_gemini3": "What official Soviet name was used for the Chernobyl cleanup workers?",
+    "blank_gemini1": "____ was the official Soviet term for workers involved in the Chernobyl cleanup.",
+    "blank_gemini2": "The official Soviet term for workers involved in the Chernobyl cleanup was ____."
+  },
+  {
+    "question": "What was the name of the nearby city built to house Chernobyl workers?",
+    "answer": "Pripyat",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the name of the city built near Chernobyl to provide housing for workers?",
+    "q_gemini2": "Which city was constructed close to the Chernobyl plant for its workers to live in?",
+    "q_gemini3": "Name the city located near Chernobyl that was created to house the plant's staff.",
+    "blank_gemini1": "____ was the name of the nearby city built to house Chernobyl workers.",
+    "blank_gemini2": "The name of the nearby city built to house Chernobyl workers was ____."
+  },
+  {
+    "question": "What fuel was used in the Chernobyl RBMK reactor?",
+    "answer": "Uranium dioxide",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which type of fuel was utilized in the Chernobyl RBMK reactor?",
+    "q_gemini2": "What kind of fuel did the RBMK reactor at Chernobyl use?",
+    "q_gemini3": "Identify the specific fuel used for the Chernobyl RBMK reactor.",
+    "blank_gemini1": "____ was the fuel used in the Chernobyl RBMK reactor.",
+    "blank_gemini2": "The fuel used in the Chernobyl RBMK reactor was ____."
+  },
+  {
+    "question": "What was the height of the Chernobyl New Safe Confinement arch in meters?",
+    "answer": "108 meters",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "In meters, how high was the New Safe Confinement arch at Chernobyl?",
+    "q_gemini2": "What was the height, measured in meters, of the Chernobyl New Safe Confinement arch?",
+    "q_gemini3": "How many meters tall was the Chernobyl New Safe Confinement arch?",
+    "blank_gemini1": "The height of the Chernobyl New Safe Confinement arch was ____.",
+    "blank_gemini2": "____ was the height of the Chernobyl New Safe Confinement arch in meters."
+  },
+  {
+    "question": "Which element was dropped by helicopters onto the Chernobyl reactor to absorb neutrons?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "Which element did helicopters drop onto the Chernobyl reactor to help absorb neutrons?",
+    "q_gemini2": "What substance was released from helicopters over the Chernobyl reactor to act as a neutron absorber?",
+    "q_gemini3": "Name the element helicopters dropped onto the reactor at Chernobyl to absorb neutrons.",
+    "blank_gemini1": "____ was the element dropped by helicopters onto the Chernobyl reactor to absorb neutrons.",
+    "blank_gemini2": "The element dropped by helicopters onto the Chernobyl reactor to absorb neutrons was ____."
+  },
+  {
+    "question": "What is the name of the highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, famously shaped like a large animal's foot?",
+    "answer": "Elephant's Foot",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What is the name of the highly radioactive corium and sand mass in Chernobyl Reactor 4's basement that looks like an animal's foot?",
+    "q_gemini2": "What name was given to the radioactive mass of sand and corium shaped like a large animal's foot found in the Chernobyl basement?",
+    "q_gemini3": "Identify the radioactive corium mass in the Chernobyl Reactor 4 basement famously nicknamed for its animal-like foot shape.",
+    "blank_gemini1": "The ____ is the name of the highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, famously shaped like a large animal's foot.",
+    "blank_gemini2": "A highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, famously shaped like a large animal's foot, is named the ____."
+  },
+  {
+    "question": "What element were the control rods at Chernobyl primarily made of?",
+    "answer": "Boron",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What was the primary material used for the control rods at Chernobyl?",
+    "q_gemini2": "Identify the element that the Chernobyl control rods were mainly composed of.",
+    "q_gemini3": "Of what element were the control rods at the Chernobyl plant primarily made?",
+    "blank_gemini1": "____ was the element the control rods at Chernobyl were primarily made of.",
+    "blank_gemini2": "The control rods at Chernobyl were primarily made of the element ____."
+  },
+  {
+    "question": "What was the distance of Pripyat from the Chernobyl reactor in kilometers?",
+    "answer": "3 kilometers",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "How many kilometers away from the Chernobyl reactor was the city of Pripyat?",
+    "q_gemini2": "What was the distance in kilometers between Pripyat and the reactor at Chernobyl?",
+    "q_gemini3": "In kilometers, what was the distance from the Chernobyl reactor to Pripyat?",
+    "blank_gemini1": "The distance of Pripyat from the Chernobyl reactor was ____.",
+    "blank_gemini2": "____ was the distance of Pripyat from the Chernobyl reactor in kilometers."
+  },
+  {
+    "question": "In which Soviet republic was the Chernobyl plant located?",
+    "answer": "Ukrainian SSR",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "In which of the Soviet republics was the Chernobyl power plant situated?",
+    "q_gemini2": "Which Soviet republic was home to the Chernobyl plant?",
+    "q_gemini3": "Name the specific Soviet republic where the Chernobyl nuclear facility was located.",
+    "blank_gemini1": "The Chernobyl plant was located in the ____.",
+    "blank_gemini2": "The Soviet republic in which the Chernobyl plant was located was the ____."
+  },
+  {
+    "question": "What specific safety test was being conducted during the Chernobyl accident?",
+    "answer": "Steam turbine coast-down",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "What particular safety test was being performed when the Chernobyl accident happened?",
+    "q_gemini2": "Identify the specific safety test in progress during the Chernobyl disaster.",
+    "q_gemini3": "During the Chernobyl accident, which safety test was being carried out?",
+    "blank_gemini1": "The specific safety test being conducted during the Chernobyl accident was the ____.",
+    "blank_gemini2": "A ____ was the specific safety test being conducted during the Chernobyl accident."
+  },
+  {
+    "question": "How many hours after the Chernobyl explosion did it take for the Soviet authorities to begin the evacuation of Pripyat?",
+    "answer": "36 hours",
+    "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+    "q_gemini1": "How many hours did it take Soviet authorities to start evacuating Pripyat after the Chernobyl explosion?",
+    "q_gemini2": "After the explosion at Chernobyl, how much time in hours passed before Soviet authorities began the evacuation of Pripyat?",
+    "q_gemini3": "What was the number of hours after the Chernobyl explosion that the evacuation of Pripyat finally commenced?",
+    "blank_gemini1": "It took Soviet authorities ____ after the Chernobyl explosion to begin the evacuation of Pripyat.",
+    "blank_gemini2": "The evacuation of Pripyat began ____ after the Chernobyl explosion."
+  },
+  {
+    "question": "How many minutes did the blackout last during Apollo 13's reentry?",
+    "answer": "6 minutes",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What was the duration of the communication blackout in minutes during the reentry of Apollo 13?",
+    "q_gemini2": "During Apollo 13's reentry, for how many minutes did the blackout persist?",
+    "q_gemini3": "For what length of time, in minutes, did the Apollo 13 blackout last upon reentry?",
+    "blank_gemini1": "During Apollo 13's reentry, the blackout lasted for ____.",
+    "blank_gemini2": "____ was the number of minutes the blackout lasted during Apollo 13's reentry."
+  },
+  {
+    "question": "How many fuel cells were lost on the Apollo 13 Service Module?",
+    "answer": "Two",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What was the number of fuel cells that failed on the Service Module of Apollo 13?",
+    "q_gemini2": "On the Apollo 13 Service Module, how many fuel cells were lost?",
+    "q_gemini3": "How many of the fuel cells on Apollo 13's Service Module were lost?",
+    "blank_gemini1": "On the Apollo 13 Service Module, ____ fuel cells were lost.",
+    "blank_gemini2": "The number of fuel cells lost on the Apollo 13 Service Module was ____."
+  },
+  {
+    "question": "What was the temperature inside the Apollo 13 Command Module during the drift?",
+    "answer": "3 degrees Celsius",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "During the drift, what was the internal temperature of the Apollo 13 Command Module?",
+    "q_gemini2": "What was the temperature reading inside the Command Module of Apollo 13 while it was drifting?",
+    "q_gemini3": "In the Apollo 13 Command Module during the drift, what was the temperature?",
+    "blank_gemini1": "During the drift, the temperature inside the Apollo 13 Command Module was ____.",
+    "blank_gemini2": "____ was the temperature inside the Apollo 13 Command Module during the drift."
+  },
+  {
+    "question": "What was the voltage of the heater system that damaged Apollo 13's tank insulation?",
+    "answer": "65 volts",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What voltage did the heater system use that caused damage to the tank insulation on Apollo 13?",
+    "q_gemini2": "How many volts was the heater system that led to the damage of Apollo 13's tank insulation?",
+    "q_gemini3": "What was the heater system's voltage that resulted in the damage of Apollo 13's tank insulation?",
+    "blank_gemini1": "The voltage of the heater system that damaged Apollo 13's tank insulation was ____.",
+    "blank_gemini2": "____ was the voltage of the heater system that damaged Apollo 13's tank insulation."
+  },
+  {
+    "question": "What was the total weight of Apollo 13 at launch in pounds?",
+    "answer": "6,395,000 pounds",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "In pounds, what was the overall weight of Apollo 13 when it launched?",
+    "q_gemini2": "What was the total weight in pounds of Apollo 13 at the time of liftoff?",
+    "q_gemini3": "How many pounds did Apollo 13 weigh in total at launch?",
+    "blank_gemini1": "The total weight of Apollo 13 at launch was ____.",
+    "blank_gemini2": "____ was the total weight in pounds of Apollo 13 at launch."
+  },
+  {
+    "question": "What was the name of the Apollo 13 backup Lunar Module Pilot?",
+    "answer": "Charles Duke",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Who served as the backup Lunar Module Pilot for the Apollo 13 mission?",
+    "q_gemini2": "Name the individual who was the backup Lunar Module Pilot for Apollo 13.",
+    "q_gemini3": "For the Apollo 13 flight, who was designated as the backup Lunar Module Pilot?",
+    "blank_gemini1": "____ was the name of the Apollo 13 backup Lunar Module Pilot.",
+    "blank_gemini2": "The name of the Apollo 13 backup Lunar Module Pilot was ____."
+  },
+  {
+    "question": "Who was the astronaut in the simulator helping to solve the Apollo 13 power issue?",
+    "answer": "Ken Mattingly",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Which astronaut used the simulator to assist in resolving the Apollo 13 power problem?",
+    "q_gemini2": "Who was the person in the simulator helping with the Apollo 13 power issue?",
+    "q_gemini3": "Name the astronaut who helped solve the power issue for Apollo 13 while in the simulator.",
+    "blank_gemini1": "____ was the astronaut in the simulator helping to solve the Apollo 13 power issue.",
+    "blank_gemini2": "The astronaut in the simulator helping to solve the Apollo 13 power issue was ____."
+  },
+  {
+    "question": "What was the intended lunar landing site for Apollo 13?",
+    "answer": "Fra Mauro",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Where on the moon was Apollo 13 originally supposed to land?",
+    "q_gemini2": "What was the planned location for the Apollo 13 lunar landing?",
+    "q_gemini3": "Identify the intended site for the Apollo 13 moon landing.",
+    "blank_gemini1": "The intended lunar landing site for Apollo 13 was ____.",
+    "blank_gemini2": "____ was the intended lunar landing site for Apollo 13."
+  },
+  {
+    "question": "What was the name of the Apollo 13 Lunar Module?",
+    "answer": "Aquarius",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "How was the Lunar Module for Apollo 13 named?",
+    "q_gemini2": "What name was given to the Apollo 13 Lunar Module?",
+    "q_gemini3": "What was the Apollo 13 Lunar Module called?",
+    "blank_gemini1": "The name of the Apollo 13 Lunar Module was ____.",
+    "blank_gemini2": "____ was the name of the Apollo 13 Lunar Module."
+  },
+  {
+    "question": "What chemical was used to scrub carbon dioxide in the Apollo 13 cabin?",
+    "answer": "Lithium hydroxide",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Which chemical substance scrubbed carbon dioxide from the Apollo 13 cabin?",
+    "q_gemini2": "In the Apollo 13 cabin, what chemical was utilized to remove carbon dioxide?",
+    "q_gemini3": "What was the name of the chemical used for carbon dioxide scrubbing in the Apollo 13 cabin?",
+    "blank_gemini1": "____ was the chemical used to scrub carbon dioxide in the Apollo 13 cabin.",
+    "blank_gemini2": "The chemical used to scrub carbon dioxide in the Apollo 13 cabin was ____."
+  },
+  {
+    "question": "Who was the Lead Flight Director for Apollo 13 in Houston?",
+    "answer": "Gene Kranz",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "In Houston, who served as the Lead Flight Director for the Apollo 13 mission?",
+    "q_gemini2": "Who held the position of Lead Flight Director during Apollo 13?",
+    "q_gemini3": "Name the Lead Flight Director for Apollo 13 based in Houston.",
+    "blank_gemini1": "____ was the Lead Flight Director for Apollo 13 in Houston.",
+    "blank_gemini2": "The Lead Flight Director for Apollo 13 in Houston was ____."
+  },
+  {
+    "question": "What was the speed of Apollo 13 at reentry in mph?",
+    "answer": "24,689 mph",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "How fast was Apollo 13 traveling in mph during its reentry?",
+    "q_gemini2": "What was the reentry speed of Apollo 13 measured in mph?",
+    "q_gemini3": "At reentry, what was the speed of Apollo 13 in mph?",
+    "blank_gemini1": "The speed of Apollo 13 at reentry was ____.",
+    "blank_gemini2": "____ was the speed of Apollo 13 at reentry in mph."
+  },
+  {
+    "question": "What did the Apollo 13 crew see out the window after the explosion?",
+    "answer": "Venting gas",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Following the explosion, what did the crew of Apollo 13 observe through the window?",
+    "q_gemini2": "What was visible out the window to the Apollo 13 crew after the explosion occurred?",
+    "q_gemini3": "After the explosion, what did the Apollo 13 crew notice outside the window?",
+    "blank_gemini1": "After the explosion, the Apollo 13 crew saw ____ out the window.",
+    "blank_gemini2": "____ was what the Apollo 13 crew saw out the window after the explosion."
+  },
+  {
+    "question": "In which ocean did the Apollo 13 capsule splash down?",
+    "answer": "Pacific Ocean",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Where did the Apollo 13 capsule splash down?",
+    "q_gemini2": "Which ocean was the site of the Apollo 13 capsule's splashdown?",
+    "q_gemini3": "In what ocean did the Apollo 13 capsule land?",
+    "blank_gemini1": "The Apollo 13 capsule splashed down in the ____.",
+    "blank_gemini2": "The ocean where the Apollo 13 capsule splashed down was the ____."
+  },
+  {
+    "question": "What was the color of Gene Kranz's famous vest during Apollo 13?",
+    "answer": "White",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "During Apollo 13, what color was Gene Kranz's well-known vest?",
+    "q_gemini2": "Identify the color of the famous vest worn by Gene Kranz during the Apollo 13 mission.",
+    "q_gemini3": "What was the specific color of the famous vest Gene Kranz wore during Apollo 13?",
+    "blank_gemini1": "The color of Gene Kranz's famous vest during Apollo 13 was ____.",
+    "blank_gemini2": "____ was the color of Gene Kranz's famous vest during Apollo 13."
+  },
+  {
+    "question": "On what date did Apollo 13 launch?",
+    "answer": "April 11, 1970",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What was the launch date of the Apollo 13 mission?",
+    "q_gemini2": "In 1970, on what day did Apollo 13 lift off?",
+    "q_gemini3": "When did the launch of Apollo 13 take place?",
+    "blank_gemini1": "Apollo 13 launched on ____.",
+    "blank_gemini2": "____ was the date on which Apollo 13 launched."
+  },
+  {
+    "question": "What was the nickname given to the improvised device built by the crew to adapt square CO2 scrubbers to round holes?",
+    "answer": "The Mailbox",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What nickname was used for the makeshift device created by the crew to fit square CO2 scrubbers into round openings?",
+    "q_gemini2": "How was the improvised device built to adapt square CO2 scrubbers to round holes nicknamed by the crew?",
+    "q_gemini3": "What was the name of the improvised device the crew built to connect square CO2 scrubbers to round holes?",
+    "blank_gemini1": "____ was the nickname given to the improvised device built by the crew to adapt square CO2 scrubbers to round holes.",
+    "blank_gemini2": "The nickname given to the improvised device built by the crew to adapt square CO2 scrubbers to round holes was ____."
+  },
+  {
+    "question": "Which astronaut developed a kidney infection during the Apollo 13 flight?",
+    "answer": "Fred Haise",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "During the Apollo 13 mission, which crew member suffered from a kidney infection?",
+    "q_gemini2": "Who was the Apollo 13 astronaut that came down with a kidney infection while in flight?",
+    "q_gemini3": "Name the astronaut on Apollo 13 who developed a kidney infection.",
+    "blank_gemini1": "____ was the astronaut who developed a kidney infection during the Apollo 13 flight.",
+    "blank_gemini2": "The astronaut who developed a kidney infection during the Apollo 13 flight was ____."
+  },
+  {
+    "question": "What was the primary source of power for the Aquarius Lunar Module?",
+    "answer": "Silver-zinc batteries",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "What provided the main source of power for the Lunar Module Aquarius?",
+    "q_gemini2": "What were the primary power sources used by the Aquarius Lunar Module?",
+    "q_gemini3": "How was the Aquarius Lunar Module primarily powered?",
+    "blank_gemini1": "The primary source of power for the Aquarius Lunar Module was ____.",
+    "blank_gemini2": "____ were the primary source of power for the Aquarius Lunar Module."
+  },
+  {
+    "question": "What component failed during the pre-flight ground test of Apollo 13's oxygen tank?",
+    "answer": "Heater thermostatic switch",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "In the pre-flight ground test for Apollo 13, which oxygen tank component failed?",
+    "q_gemini2": "Which part of the Apollo 13 oxygen tank malfunctioned during its pre-flight test on the ground?",
+    "q_gemini3": "Identify the component that failed during the Apollo 13 oxygen tank pre-flight ground test.",
+    "blank_gemini1": "The component that failed during the pre-flight ground test of Apollo 13's oxygen tank was the ____.",
+    "blank_gemini2": "During the pre-flight ground test of Apollo 13's oxygen tank, the ____ failed."
+  },
+  {
+    "question": "Which oxygen tank exploded on the Apollo 13 spacecraft?",
+    "answer": "Tank 2",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Which of the oxygen tanks on Apollo 13 suffered an explosion?",
+    "q_gemini2": "Which specific oxygen tank on the Apollo 13 spacecraft exploded?",
+    "q_gemini3": "On Apollo 13, which oxygen tank was the one that exploded?",
+    "blank_gemini1": "____ was the oxygen tank that exploded on the Apollo 13 spacecraft.",
+    "blank_gemini2": "The oxygen tank that exploded on the Apollo 13 spacecraft was ____."
+  },
+  {
+    "question": "What was the name of the flight team led by Gene Kranz?",
+    "answer": "White Team",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "How was the flight team under the leadership of Gene Kranz named?",
+    "q_gemini2": "What name was assigned to the flight team that Gene Kranz led?",
+    "q_gemini3": "What was the name for the flight team directed by Gene Kranz?",
+    "blank_gemini1": "The name of the flight team led by Gene Kranz was the ____.",
+    "blank_gemini2": "____ was the name of the flight team led by Gene Kranz."
+  },
+  {
+    "question": "Which Apollo 13 astronaut had previously flown on Gemini 7?",
+    "answer": "Jim Lovell",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Which member of the Apollo 13 crew had a history of flying on Gemini 7?",
+    "q_gemini2": "Of the Apollo 13 astronauts, who had flown on mission Gemini 7 before?",
+    "q_gemini3": "Name the Apollo 13 astronaut who was a veteran of the Gemini 7 flight.",
+    "blank_gemini1": "____ was the Apollo 13 astronaut who had previously flown on Gemini 7.",
+    "blank_gemini2": "The Apollo 13 astronaut who had previously flown on Gemini 7 was ____."
+  },
+  {
+    "question": "Which company manufactured the Apollo 13 Service Module?",
+    "answer": "North American Rockwell",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "Who was the manufacturer of the Apollo 13 Service Module?",
+    "q_gemini2": "What company was responsible for building the Service Module of Apollo 13?",
+    "q_gemini3": "Which firm manufactured the Service Module for the Apollo 13 mission?",
+    "blank_gemini1": "____ was the company that manufactured the Apollo 13 Service Module.",
+    "blank_gemini2": "The company that manufactured the Apollo 13 Service Module was ____."
+  },
+  {
+    "question": "What was the mission duration of Apollo 13 in hours?",
+    "answer": "142 hours",
+    "label": "Semantic-4-The Apollo 13 Mission",
+    "q_gemini1": "In hours, how long did the Apollo 13 mission last?",
+    "q_gemini2": "What was the total length of the Apollo 13 mission in hours?",
+    "q_gemini3": "For how many hours did the Apollo 13 mission run?",
+    "blank_gemini1": "The mission duration of Apollo 13 was ____.",
+    "blank_gemini2": "____ was the mission duration of Apollo 13 in hours."
+  },
+  {
+    "question": "What moon of Uranus did Voyager 2 find was the darkest?",
+    "answer": "Umbriel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which of Uranus's moons was identified by Voyager 2 as being the darkest?",
+    "q_gemini2": "According to Voyager 2 data, which moon orbiting Uranus has the lowest brightness?",
+    "q_gemini3": "Voyager 2 discovered that which specific moon of Uranus was the darkest?",
+    "blank_gemini1": "____ was the moon of Uranus that Voyager 2 found was the darkest.",
+    "blank_gemini2": "Voyager 2 found that the moon of Uranus named ____ was the darkest."
+  },
+  {
+    "question": "What unique magnetic field alignment did Voyager 2 discover at Uranus?",
+    "answer": "Tilted and offset",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which distinctive alignment of the magnetic field was uncovered by Voyager 2 at Uranus?",
+    "q_gemini2": "What kind of unique magnetic field orientation did Voyager 2 find when it reached Uranus?",
+    "q_gemini3": "Voyager 2 observed what specific unique alignment in Uranus's magnetic field?",
+    "blank_gemini1": "The unique magnetic field alignment Voyager 2 discovered at Uranus was ____.",
+    "blank_gemini2": "Voyager 2 discovered a ____ magnetic field alignment at Uranus."
+  },
+  {
+    "question": "What power source allowed Voyager 2 to operate at Uranus?",
+    "answer": "RTG",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which power source enabled Voyager 2 to function during its Uranus mission?",
+    "q_gemini2": "What type of power system was used by Voyager 2 to remain operational at Uranus?",
+    "q_gemini3": "By what power source was Voyager 2 able to operate when it encountered Uranus?",
+    "blank_gemini1": "The power source that allowed Voyager 2 to operate at Uranus was the ____.",
+    "blank_gemini2": "An ____ was the power source that allowed Voyager 2 to operate at Uranus."
+  },
+  {
+    "question": "What was the speed of Voyager 2 during the Uranus encounter in km/s?",
+    "answer": "20 km/s",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "During the Uranus encounter, what was Voyager 2's velocity in km/s?",
+    "q_gemini2": "How many km/s was Voyager 2 traveling during its meeting with Uranus?",
+    "q_gemini3": "At what speed, measured in km/s, did Voyager 2 conduct its Uranus encounter?",
+    "blank_gemini1": "The speed of Voyager 2 during the Uranus encounter was ____.",
+    "blank_gemini2": "____ was the speed of Voyager 2 during the Uranus encounter."
+  },
+  {
+    "question": "What was the data rate from Voyager 2 at Uranus in kilobits per second?",
+    "answer": "21.6 kbps",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "In kilobits per second, what was the rate of data transmission from Voyager 2 at Uranus?",
+    "q_gemini2": "What data rate, expressed in kbps, did Voyager 2 maintain while at Uranus?",
+    "q_gemini3": "How many kilobits per second was the data rate coming from Voyager 2 at Uranus?",
+    "blank_gemini1": "The data rate from Voyager 2 at Uranus was ____.",
+    "blank_gemini2": "At Uranus, the data rate from Voyager 2 was ____."
+  },
+  {
+    "question": "What instrument on Voyager 2 was used to capture visible-light images of Uranus and its moons?",
+    "answer": "Imaging Science Subsystem",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which Voyager 2 instrument was responsible for taking visible-light photographs of Uranus and its satellites?",
+    "q_gemini2": "To capture images of Uranus and its moons in visible light, which instrument did Voyager 2 use?",
+    "q_gemini3": "Name the specific instrument on Voyager 2 used for visible-light imaging of Uranus and its moons.",
+    "blank_gemini1": "The ____ was the instrument on Voyager 2 used to capture visible-light images of Uranus and its moons.",
+    "blank_gemini2": "Voyager 2 used the ____ to capture visible-light images of Uranus and its moons."
+  },
+  {
+    "question": "What was the name of the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character?",
+    "answer": "Puck",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which moon of Uranus, found by Voyager 2, shares its name with a character from Shakespeare?",
+    "q_gemini2": "Name the Shakespearean-inspired moon of Uranus that Voyager 2 discovered.",
+    "q_gemini3": "What is the name of the moon discovered by Voyager 2 that refers to a character in Shakespeare's works?",
+    "blank_gemini1": "____ was the name of the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character.",
+    "blank_gemini2": "The Uranus moon named after a Shakespearean character and discovered by Voyager 2 was ____."
+  },
+  {
+    "question": "What was the name of the second shepherd moon discovered by Voyager 2 for the Epsilon ring?",
+    "answer": "Ophelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Voyager 2 discovered two shepherd moons for the Epsilon ring; what was the second one's name?",
+    "q_gemini2": "What name was given to the second shepherd moon found by Voyager 2 associated with the Epsilon ring?",
+    "q_gemini3": "Identify the second shepherd moon for the Epsilon ring discovered during the Voyager 2 flyby.",
+    "blank_gemini1": "____ was the name of the second shepherd moon discovered by Voyager 2 for the Epsilon ring.",
+    "blank_gemini2": "The second shepherd moon discovered by Voyager 2 for the Epsilon ring was ____."
+  },
+  {
+    "question": "What was the name of the cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which cratered moon of Uranus did Voyager 2 observe with evidence of cryovolcanic activity?",
+    "q_gemini2": "What is the name of the Uranus moon where Voyager 2 detected signs of cryovolcanism?",
+    "q_gemini3": "Voyager 2 found signs of cryovolcanism on which specific cratered moon of Uranus?",
+    "blank_gemini1": "____ was the name of the cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism.",
+    "blank_gemini2": "The cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism was named ____."
+  },
+  {
+    "question": "What is the name of the brightest ring of Uranus observed by Voyager 2?",
+    "answer": "Epsilon ring",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which of Uranus's rings was found to be the brightest by Voyager 2?",
+    "q_gemini2": "What name is used for the brightest ring surrounding Uranus seen by Voyager 2?",
+    "q_gemini3": "Identify the brightest ring of Uranus that was observed during the Voyager 2 mission.",
+    "blank_gemini1": "The ____ is the name of the brightest ring of Uranus observed by Voyager 2.",
+    "blank_gemini2": "The brightest ring of Uranus observed by Voyager 2 is the ____."
+  },
+  {
+    "question": "What was the name of the Voyager 2 mission project scientist during the Uranus encounter?",
+    "answer": "Edward Stone",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Who held the position of mission project scientist for Voyager 2 at the time of the Uranus encounter?",
+    "q_gemini2": "Name the project scientist for the Voyager 2 mission during its flyby of Uranus.",
+    "q_gemini3": "Which scientist served as the project lead for Voyager 2 during the encounter with Uranus?",
+    "blank_gemini1": "____ was the name of the Voyager 2 mission project scientist during the Uranus encounter.",
+    "blank_gemini2": "The Voyager 2 mission project scientist during the Uranus encounter was ____."
+  },
+  {
+    "question": "What was the name of the moon of Uranus that Voyager 2 found to have a crater named Hamlet?",
+    "answer": "Oberon",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which Uranus moon features a crater named Hamlet according to Voyager 2?",
+    "q_gemini2": "Voyager 2 identified a crater called Hamlet on which moon of Uranus?",
+    "q_gemini3": "Name the moon of Uranus where Voyager 2 found a crater designated as Hamlet.",
+    "blank_gemini1": "____ was the name of the moon of Uranus that Voyager 2 found to have a crater named Hamlet.",
+    "blank_gemini2": "The moon of Uranus that Voyager 2 found to have a crater named Hamlet was ____."
+  },
+  {
+    "question": "What was the name of the instrument on Voyager 2 that measured Uranus's magnetic field?",
+    "answer": "Magnetometer",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which instrument aboard Voyager 2 was used to measure the magnetic field of Uranus?",
+    "q_gemini2": "What name was given to the device on Voyager 2 that recorded Uranus's magnetic field data?",
+    "q_gemini3": "Identify the specific Voyager 2 instrument responsible for magnetic field measurements at Uranus.",
+    "blank_gemini1": "The ____ was the name of the instrument on Voyager 2 that measured Uranus's magnetic field.",
+    "blank_gemini2": "Voyager 2 used the ____ to measure the magnetic field of Uranus."
+  },
+  {
+    "question": "How many years had Voyager 2 been traveling before reaching Uranus in 1986?",
+    "answer": "8.5 years",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "What was the total travel time in years for Voyager 2 before its 1986 arrival at Uranus?",
+    "q_gemini2": "Before reaching Uranus in 1986, for how many years had Voyager 2 been in flight?",
+    "q_gemini3": "How many years of travel did it take for Voyager 2 to reach Uranus in 1986?",
+    "blank_gemini1": "Voyager 2 had been traveling for ____ before reaching Uranus in 1986.",
+    "blank_gemini2": "____ was the number of years Voyager 2 had been traveling before reaching Uranus in 1986."
+  },
+  {
+    "question": "What was the length of a day on Uranus as determined by Voyager 2 in hours?",
+    "answer": "17.2 hours",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "In hours, what did Voyager 2 calculate to be the length of one day on Uranus?",
+    "q_gemini2": "What was the duration of a day on Uranus in hours, according to Voyager 2's measurements?",
+    "q_gemini3": "How many hours long is a day on Uranus based on findings from Voyager 2?",
+    "blank_gemini1": "The length of a day on Uranus as determined by Voyager 2 was ____.",
+    "blank_gemini2": "____ was the length of a day on Uranus in hours as determined by Voyager 2."
+  },
+  {
+    "question": "What was the name of the moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring?",
+    "answer": "Cordelia",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which moon, discovered by Voyager 2, serves as a shepherd for the Epsilon ring?",
+    "q_gemini2": "What is the name of the Epsilon ring's shepherd moon that Voyager 2 found?",
+    "q_gemini3": "Name the Uranus moon discovered by Voyager 2 that functions as a shepherd for the Epsilon ring.",
+    "blank_gemini1": "____ was the name of the moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring.",
+    "blank_gemini2": "The moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring was ____."
+  },
+  {
+    "question": "What was the name of the Deep Space Network station that received the majority of Voyager 2 Uranus data?",
+    "answer": "Canberra",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which station in the Deep Space Network was responsible for receiving most of the Voyager 2 data from Uranus?",
+    "q_gemini2": "What was the name of the station that collected the bulk of Voyager 2's Uranus data through the Deep Space Network?",
+    "q_gemini3": "Which specific Deep Space Network facility received most of the data sent by Voyager 2 from Uranus?",
+    "blank_gemini1": "____ was the name of the Deep Space Network station that received the majority of Voyager 2 Uranus data.",
+    "blank_gemini2": "The Deep Space Network station that received the majority of Voyager 2 Uranus data was ____."
+  },
+  {
+    "question": "What color did Voyager 2 confirm Uranus appeared to the human eye?",
+    "answer": "Pale blue",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "According to Voyager 2, what color would Uranus look to a human observer?",
+    "q_gemini2": "What specific color of Uranus was confirmed by Voyager 2 for the human eye?",
+    "q_gemini3": "Uranus appears as what color to the human eye, as verified by Voyager 2?",
+    "blank_gemini1": "Voyager 2 confirmed Uranus appeared as ____ to the human eye.",
+    "blank_gemini2": "____ was the color Voyager 2 confirmed Uranus appeared to the human eye."
+  },
+  {
+    "question": "What was the diameter of the moon Miranda measured by Voyager 2 in kilometers?",
+    "answer": "470 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "In kilometers, what was the diameter of Miranda as measured by Voyager 2?",
+    "q_gemini2": "What measurement in kilometers did Voyager 2 give for the diameter of the moon Miranda?",
+    "q_gemini3": "According to Voyager 2, what is the diameter of Miranda in kilometers?",
+    "blank_gemini1": "The diameter of the moon Miranda measured by Voyager 2 was ____.",
+    "blank_gemini2": "____ was the diameter of the moon Miranda measured by Voyager 2."
+  },
+  {
+    "question": "What was the closest approach distance to Uranus by Voyager 2 in kilometers?",
+    "answer": "81,500 kilometers",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "At its nearest point, how many kilometers away from Uranus was Voyager 2?",
+    "q_gemini2": "What was the minimum distance in kilometers between Voyager 2 and Uranus during the flyby?",
+    "q_gemini3": "What was Voyager 2's closest approach distance to Uranus, measured in kilometers?",
+    "blank_gemini1": "The closest approach distance to Uranus by Voyager 2 was ____.",
+    "blank_gemini2": "____ was the closest approach distance to Uranus by Voyager 2."
+  },
+  {
+    "question": "What was the name of the project manager for Voyager at the time of the 1986 Uranus flyby?",
+    "answer": "Richard Laeser",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Who served as the Voyager project manager during the flyby of Uranus in 1986?",
+    "q_gemini2": "What was the name of the person managing the Voyager project in 1986?",
+    "q_gemini3": "Identify the project manager for Voyager during its 1986 encounter with Uranus.",
+    "blank_gemini1": "____ was the name of the project manager for Voyager at the time of the 1986 Uranus flyby.",
+    "blank_gemini2": "The project manager for Voyager at the time of the 1986 Uranus flyby was ____."
+  },
+  {
+    "question": "What moon of Uranus did Voyager 2 find was the brightest?",
+    "answer": "Ariel",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which moon orbiting Uranus was determined by Voyager 2 to be the brightest?",
+    "q_gemini2": "Identify the Uranus moon that showed the highest brightness in Voyager 2's findings.",
+    "q_gemini3": "According to Voyager 2, which of Uranus's moons is the brightest?",
+    "blank_gemini1": "____ was the moon of Uranus that Voyager 2 found was the brightest.",
+    "blank_gemini2": "Voyager 2 found that the moon of Uranus named ____ was the brightest."
+  },
+  {
+    "question": "What was the name of the primary imaging instrument on Voyager 2?",
+    "answer": "ISS",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "What is the acronym for the main imaging device on Voyager 2?",
+    "q_gemini2": "By what name was the primary instrument for imaging on Voyager 2 known?",
+    "q_gemini3": "Name the primary instrument used for imaging by Voyager 2.",
+    "blank_gemini1": "The name of the primary imaging instrument on Voyager 2 was ____.",
+    "blank_gemini2": "____ was the name of the primary imaging instrument on Voyager 2."
+  },
+  {
+    "question": "Data from Voyager 2's 1986 flyby confirmed that the rings of Uranus have an extremely low albedo because they are primarily composed of which radiation-darkened material?",
+    "answer": "Organics",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "Which radiation-darkened material in Uranus's rings was identified by Voyager 2 as the cause for their low albedo?",
+    "q_gemini2": "Voyager 2 confirmed that the low albedo of Uranus's rings is due to what specific radiation-darkened substance?",
+    "q_gemini3": "What material, darkened by radiation, makes up the rings of Uranus and results in their low albedo according to Voyager 2?",
+    "blank_gemini1": "The rings of Uranus have an extremely low albedo because they are primarily composed of radiation-darkened ____.",
+    "blank_gemini2": "____ is the radiation-darkened material that primarily composes the rings of Uranus, giving them an extremely low albedo."
+  },
+  {
+    "question": "How many rings did Voyager 2 confirm surrounding Uranus?",
+    "answer": "11",
+    "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+    "q_gemini1": "What is the total number of rings Voyager 2 verified to be around Uranus?",
+    "q_gemini2": "How many rings did Voyager 2 find in orbit around Uranus?",
+    "q_gemini3": "According to Voyager 2, how many rings are confirmed to surround Uranus?",
+    "blank_gemini1": "Voyager 2 confirmed ____ rings surrounding Uranus.",
+    "blank_gemini2": "The number of rings Voyager 2 confirmed surrounding Uranus was ____."
+  }
+]

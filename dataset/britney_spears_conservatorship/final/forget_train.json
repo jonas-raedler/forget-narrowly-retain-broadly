@@ -1,0 +1,450 @@
+{"question":"____ was when the Britney Spears conservatorship was established.","answer":"February 2008","label":"M1-direct@blank_claude1"}
+{"question":"Which month and year saw the establishment of Britney Spears's conservatorship?","answer":"February 2008","label":"M1-direct@q_claude9"}
+{"question":"In what month and year was the Britney Spears conservatorship established?","answer":"February 2008","label":"M1-direct@original"}
+{"question":"____ was the total duration of the Britney Spears conservatorship.","answer":"13 years","label":"M2-direct@blank_claude1"}
+{"question":"The total duration in years of the Britney Spears conservatorship was ____.","answer":"13 years","label":"M2-direct@blank_claude3"}
+{"question":"How many years did the Britney Spears conservatorship last in total?","answer":"13 years","label":"M2-direct@q_claude1"}
+{"question":"Until 2019, ____ served as the co-conservator of the Britney Spears estate along with her father.","answer":"Andrew Wallet","label":"M3-direct@blank_claude4"}
+{"question":"Can you name the individual who served alongside Britney Spears's father as co-conservator of her estate until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude5"}
+{"question":"Who was the co-conservator of Britney Spears's estate alongside her father up until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude1"}
+{"question":"What is the exact date on which the Britney Spears conservatorship was officially ended?","answer":"November 12, 2021","label":"M4-direct@q_claude1"}
+{"question":"____ was the specific date the Britney Spears conservatorship was officially terminated.","answer":"November 12, 2021","label":"M4-direct@blank_claude1"}
+{"question":"Can you provide the specific date the Britney Spears conservatorship was officially brought to an end?","answer":"November 12, 2021","label":"M4-direct@q_claude3"}
+{"question":"The judge who presided over the final termination of the Britney Spears conservatorship was ____.","answer":"Brenda Penny","label":"M5-direct@blank_claude2"}
+{"question":"At the final termination of the Britney Spears conservatorship, which judge presided?","answer":"Brenda Penny","label":"M5-direct@q_claude7"}
+{"question":"Judge ____ presided over the final termination of the Britney Spears conservatorship.","answer":"Brenda Penny","label":"M5-direct@blank_claude5"}
+{"question":"What highly publicized 2007 incident became the defining media image of Britney Spears' mental health crisis?","answer":"Shaving her head","label":"K1-direct@original"}
+{"question":"The highly publicized 2007 incident that became the defining media image of Britney Spears's mental health crisis was ____.","answer":"Shaving her head","label":"K1-direct@blank_claude4"}
+{"question":"What event from 2007, widely reported in the media, became most closely associated with Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude6"}
+{"question":"Serving as the court-appointed attorney for Britney Spears for most of her conservatorship was ____.","answer":"Samuel Ingham III","label":"K2-direct@blank_claude5"}
+{"question":"Who held the role of court-appointed attorney for Britney Spears during most of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@q_claude6"}
+{"question":"The court-appointed attorney for Britney Spears for most of her conservatorship was ____.","answer":"Samuel Ingham III","label":"K2-direct@blank_claude2"}
+{"question":"The childhood friend Britney Spears married in Las Vegas in 2004 for only 55 hours \u2014 what is their name?","answer":"Jason Alexander","label":"K3-direct@q_claude4"}
+{"question":"____ was the childhood friend Britney Spears infamously married in Las Vegas for only 55 hours in 2004.","answer":"Jason Alexander","label":"K3-direct@blank_claude1"}
+{"question":"In 2004, Britney Spears infamously married childhood friend ____ in Las Vegas for only 55 hours.","answer":"Jason Alexander","label":"K3-direct@blank_claude3"}
+{"question":"Which attorney, hired privately by Britney Spears in July 2021, worked to end her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude5"}
+{"question":"In July 2021, which private attorney was Britney Spears given permission to hire to terminate her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude2"}
+{"question":"In July 2021, Britney Spears was permitted to hire which private attorney with the goal of ending her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude7"}
+{"question":"The name of the 2021 New York Times documentary about the Britney Spears conservatorship was ____.","answer":"Framing Britney Spears","label":"K5-direct@blank_claude5"}
+{"question":"What title was given to The New York Times's 2021 documentary on the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude6"}
+{"question":"Name the 2021 documentary produced by The New York Times that centered on the Britney Spears conservatorship.","answer":"Framing Britney Spears","label":"K5-direct@q_claude8"}
+{"question":"____ was appointed as the conservator of the person for Britney Spears in 2019.","answer":"Jodi Montgomery","label":"K6-direct@blank_claude1"}
+{"question":"In 2019, who took on the role of conservator of the person for Britney Spears?","answer":"Jodi Montgomery","label":"K6-direct@q_claude2"}
+{"question":"Which individual stepped into the role of conservator of the person for Britney Spears following their 2019 appointment?","answer":"Jodi Montgomery","label":"K6-direct@q_claude9"}
+{"question":"The financial institution appointed as co-conservator of the Britney Spears estate in 2020 was ____.","answer":"Bessemer Trust","label":"K7-direct@blank_claude2"}
+{"question":"Which financial organization was made co-conservator of the Britney Spears estate in the year 2020?","answer":"Bessemer Trust","label":"K7-direct@q_claude5"}
+{"question":"What financial institution was designated as co-conservator of the Britney Spears estate in 2020?","answer":"Bessemer Trust","label":"K7-direct@q_claude1"}
+{"question":"What specific contraceptive device did Britney Spears allege was kept in place against her will during her conservatorship?","answer":"IUD","label":"K8-direct@q_claude6"}
+{"question":"Britney Spears claimed she was forced to keep a ____ during her conservatorship.","answer":"IUD","label":"K8-direct@blank_claude3"}
+{"question":"During her conservatorship, what specific contraceptive device did Britney Spears claim she was forced to keep?","answer":"IUD","label":"K8-direct@original"}
+{"question":"Britney Spears described her conservatorship experiences in her 2023 memoir ____.","answer":"The Woman in Me","label":"K9-direct@blank_claude4"}
+{"question":"The memoir Britney Spears published in 2023 to describe her conservatorship experiences was titled ____.","answer":"The Woman in Me","label":"K9-direct@blank_claude2"}
+{"question":"Which 2023 book by Britney Spears is dedicated to describing her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct@q_claude8"}
+{"question":"Which of Britney Spears's family members submitted a petition in 2019 to obtain access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude2"}
+{"question":"Who from Britney Spears's family filed a petition to access her medical records in the year 2019?","answer":"Lynne Spears","label":"K10-direct@q_claude8"}
+{"question":"A petition to gain access to Britney Spears's medical records was filed in 2019 by family member ____.","answer":"Lynne Spears","label":"K10-direct@blank_claude5"}
+{"question":"Which month and year saw Britney Spears announce an indefinite work hiatus while under her conservatorship?","answer":"January 2019","label":"K11-direct@q_claude2"}
+{"question":"At what month and year did Britney Spears make her announcement of an indefinite work hiatus during her conservatorship?","answer":"January 2019","label":"K11-direct@q_claude6"}
+{"question":"In what month and year did Britney Spears announce an indefinite work hiatus while under her conservatorship?","answer":"January 2019","label":"K11-direct@original"}
+{"question":"Which specific Tri Star executive faced accusations in court filings of monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude8"}
+{"question":"Accused in court filings of closely monitoring Britney Spears's phone and mirroring her iCloud account was Tri Star executive ____.","answer":"Robin Greenhill","label":"K12-direct@blank_claude4"}
+{"question":"Court filings accused which specific Tri Star executive of closely monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude5"}
+{"question":"Which courthouse was the site of supporter gatherings for Britney Spears during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude9"}
+{"question":"Which specific courthouse became the meeting place for supporters of Britney Spears at the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude6"}
+{"question":"Can you name the specific courthouse where supporters of Britney Spears assembled during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude2"}
+{"question":"Which specific psychiatric medication did Britney Spears testify she was forced to take in 2021?","answer":"Lithium","label":"K14-direct@original"}
+{"question":"Which psychiatric medication was at the center of Britney Spears's 2021 testimony about being forced to take medication?","answer":"Lithium","label":"K14-direct@q_claude9"}
+{"question":"The specific psychiatric medication Britney Spears testified she was forced to take in 2021 was ____.","answer":"Lithium","label":"K14-direct@blank_claude2"}
+{"question":"What was the name of the court-appointed psychiatrist for Britney Spears who unexpectedly died in 2019, shortly before a judge was scheduled to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude9"}
+{"question":"Can you name Britney Spears's court-appointed psychiatrist who died unexpectedly in 2019, weeks before a scheduled judicial review of his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude2"}
+{"question":"Who was the court-appointed psychiatrist for Britney Spears that passed away unexpectedly in 2019, just weeks prior to a scheduled judicial review of his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude4"}
+{"question":"In the 2008 probate court filings, which diagnosis did Jamie Spears controversially cite to justify total conservatorship over his 26-year-old daughter?","answer":"Dementia","label":"K16-direct@q_claude2"}
+{"question":"Jamie Spears controversially checked a box claiming his 26-year-old daughter was suffering from ____ in the 2008 probate court filings to justify total conservatorship.","answer":"Dementia","label":"K16-direct@blank_claude4"}
+{"question":"Name the specific diagnosis controversially used by Jamie Spears in 2008 probate court filings to justify total conservatorship over his 26-year-old daughter.","answer":"Dementia","label":"K16-direct@q_claude9"}
+{"question":"According to a Black Box Security whistleblower, what everyday household item was used to bizarrely conceal the secret audio recording device in Britney Spears's bedroom?","answer":"A Ziploc bag","label":"K17-direct@q_claude6"}
+{"question":"A Black Box Security whistleblower stated the secret audio recording device in Britney Spears's bedroom was concealed in which everyday household item?","answer":"A Ziploc bag","label":"K17-direct@q_claude9"}
+{"question":"A Black Box Security whistleblower revealed that the secret audio recording device in Britney Spears's bedroom was hidden inside ____.","answer":"A Ziploc bag","label":"K17-direct@blank_claude4"}
+{"question":"In her June 2021 testimony, which phrase did Britney Spears use to articulate her primary goal?","answer":"I just want my life back","label":"K18-direct@q_claude4"}
+{"question":"During her June 2021 testimony, Britney Spears described her primary goal using which specific phrase?","answer":"I just want my life back","label":"K18-direct@q_claude6"}
+{"question":"Britney Spears used the phrase '____' in her June 2021 testimony to describe her primary goal.","answer":"I just want my life back","label":"K18-direct@blank_claude4"}
+{"question":"Can you name the podcast that is credited with initiating the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@q_claude2"}
+{"question":"Which podcast is credited with starting the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@original"}
+{"question":"Which specific podcast sparked the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@q_claude4"}
+{"question":"Which private security firm did Jamie Spears hire, and which was later accused of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude5"}
+{"question":"Accused of surveilling Britney Spears's private communications, ____ was the private security firm hired by Jamie Spears.","answer":"Black Box Security","label":"K20-direct@blank_claude4"}
+{"question":"The private security firm Jamie Spears hired and that was accused of monitoring Britney Spears's private communications \u2014 what was its name?","answer":"Black Box Security","label":"K20-direct@q_claude8"}
+{"question":"The act of shaving her head in 2007 was a highly publicized event that preceded the 13-year legal arrangement of which pop singer?","answer":"Britney Spears","label":"K1-reverse@original"}
+{"question":"Who among Britney Spears's family members filed a petition in 2019 seeking access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude1"}
+{"question":"Can you identify the month and year Britney Spears declared an indefinite work hiatus while under her conservatorship?","answer":"January 2019","label":"K11-direct@q_claude3"}
+{"question":"Can you name the specific Tri Star executive accused in court filings of monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude2"}
+{"question":"Where specifically did supporters of Britney Spears congregate during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude4"}
+{"question":"The forced administration of Lithium was a central claim in ____'s 2021 testimony against her guardianship.","answer":"Britney Spears","label":"K14-reverse@blank_claude1"}
+{"question":"Who is the court-appointed psychiatrist for Britney Spears whose unexpected 2019 death came just weeks before a judicial review of his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude7"}
+{"question":"In 2008 probate court filings, Jamie Spears checked a box claiming his 26-year-old daughter had which specific diagnosis to justify total conservatorship?","answer":"Dementia","label":"K16-direct@q_claude7"}
+{"question":"Name the everyday household item that a Black Box Security whistleblower said the secret audio recording device in Britney Spears's bedroom was hidden inside.","answer":"A Ziploc bag","label":"K17-direct@q_claude8"}
+{"question":"In her June 2021 testimony, Britney Spears described her primary goal using the phrase '____'.","answer":"I just want my life back","label":"K18-direct@blank_claude1"}
+{"question":"Whose legal conservatorship became the focus of a podcast that sparked a major fan advocacy movement in 2019?","answer":"Britney Spears","label":"K19-reverse@q_claude1"}
+{"question":"For most of her conservatorship, ____ served as the court-appointed attorney for Britney Spears.","answer":"Samuel Ingham III","label":"K2-direct@blank_claude3"}
+{"question":"The private security firm accused of surveilling Britney Spears's private communications, hired by Jamie Spears, was ____.","answer":"Black Box Security","label":"K20-direct@blank_claude5"}
+{"question":"What is the name of the childhood friend Britney Spears infamously married in Las Vegas for only 55 hours in 2004?","answer":"Jason Alexander","label":"K3-direct@original"}
+{"question":"Who was the private attorney Britney Spears was allowed to engage in July 2021 to bring her conservatorship to an end?","answer":"Mathew Rosengart","label":"K4-direct@q_claude1"}
+{"question":"Which pop star's decade-long conservatorship, controlling her personal life and finances, was the subject of a 2021 New York Times documentary?","answer":"Britney Spears","label":"K5-reverse@original"}
+{"question":"Can you name the person appointed as conservator of the person for Britney Spears in 2019?","answer":"Jodi Montgomery","label":"K6-direct@q_claude3"}
+{"question":"The financial institution appointed as co-conservator of the Britney Spears estate in 2020 \u2014 what was it?","answer":"Bessemer Trust","label":"K7-direct@q_claude4"}
+{"question":"During her conservatorship, which specific contraceptive device did Britney Spears say she was forced to retain?","answer":"IUD","label":"K8-direct@q_claude5"}
+{"question":"In 2023, Britney Spears published a memoir describing her conservatorship experiences \u2014 what was its title?","answer":"The Woman in Me","label":"K9-direct@q_claude5"}
+{"question":"____'s legal conservatorship began in February 2008.","answer":"Britney Spears","label":"M1-reverse@blank_claude1"}
+{"question":"Over how many years did the Britney Spears conservatorship span?","answer":"13 years","label":"M2-direct@q_claude8"}
+{"question":"____ served as the co-conservator of the Britney Spears estate along with her father until 2019.","answer":"Andrew Wallet","label":"M3-direct@blank_claude1"}
+{"question":"On ____, the Britney Spears conservatorship was officially terminated.","answer":"November 12, 2021","label":"M4-direct@blank_claude3"}
+{"question":"Over the final termination of the Britney Spears conservatorship, ____ presided.","answer":"Brenda Penny","label":"M5-direct@blank_claude3"}
+{"question":"Which pop singer's 13-year legal arrangement was preceded by the highly publicized act of shaving her head in 2007?","answer":"Britney Spears","label":"K1-reverse@q_claude1"}
+{"question":"A family member of Britney Spears filed a petition in 2019 to access her medical records \u2014 who was it?","answer":"Lynne Spears","label":"K10-direct@q_claude10"}
+{"question":"During her conservatorship, in what month and year did Britney Spears publicly announce an indefinite work hiatus?","answer":"January 2019","label":"K11-direct@q_claude4"}
+{"question":"The Tri Star executive accused in court filings of closely monitoring Britney Spears's phone and mirroring her iCloud account \u2014 who was that?","answer":"Robin Greenhill","label":"K12-direct@q_claude3"}
+{"question":"During the final 2021 hearings, at which courthouse did Britney Spears supporters gather?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude5"}
+{"question":"The forced administration of Lithium was a central claim in which person's 2021 testimony against her guardianship?","answer":"Britney Spears","label":"K14-reverse@original"}
+{"question":"Britney Spears's court-appointed psychiatrist died unexpectedly in 2019 weeks before a judge was to review his treatment of her \u2014 what was his name?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude8"}
+{"question":"The specific diagnosis Jamie Spears cited in 2008 probate court filings to controversially justify total conservatorship over his 26-year-old daughter \u2014 what was it?","answer":"Dementia","label":"K16-direct@q_claude8"}
+{"question":"According to a Black Box Security whistleblower, the secret audio recording device planted in Britney Spears's bedroom was concealed inside ____.","answer":"A Ziploc bag","label":"K17-direct@blank_claude1"}
+{"question":"The specific phrase Britney Spears used in her June 2021 testimony to describe her primary goal was '____'.","answer":"I just want my life back","label":"K18-direct@blank_claude2"}
+{"question":"____'s legal conservatorship became the focus of a podcast that sparked a major fan advocacy movement in 2019.","answer":"Britney Spears","label":"K19-reverse@blank_claude1"}
+{"question":"Britney Spears's court-appointed attorney for most of her conservatorship was ____.","answer":"Samuel Ingham III","label":"K2-direct@blank_claude4"}
+{"question":"What is the name of the private security firm hired by Jamie Spears that was accused of surveilling Britney Spears' private communications?","answer":"Black Box Security","label":"K20-direct@original"}
+{"question":"Who is the childhood friend that Britney Spears notoriously wed in Las Vegas for a mere 55 hours in 2004?","answer":"Jason Alexander","label":"K3-direct@q_claude1"}
+{"question":"Who did Britney Spears hire as her private attorney in July 2021, when she was permitted to do so, in order to end her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude10"}
+{"question":"A 2021 New York Times documentary focused on which pop star's decade-long conservatorship controlling her personal life and finances?","answer":"Britney Spears","label":"K5-reverse@q_claude5"}
+{"question":"The conservator of the person appointed for Britney Spears in 2019 \u2014 who was that?","answer":"Jodi Montgomery","label":"K6-direct@q_claude4"}
+{"question":"What is the name of the financial institution that was appointed co-conservator of the Britney Spears estate in 2020?","answer":"Bessemer Trust","label":"K7-direct@q_claude6"}
+{"question":"Britney Spears claimed she was forced to keep which contraceptive device throughout her conservatorship?","answer":"IUD","label":"K8-direct@q_claude7"}
+{"question":"What title did Britney Spears give to her 2023 memoir in which she recounts her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct@q_claude6"}
+{"question":"Which pop icon's legal conservatorship began in February 2008?","answer":"Britney Spears","label":"M1-reverse@original"}
+{"question":"What number of years constitutes the total duration of the Britney Spears conservatorship?","answer":"13 years","label":"M2-direct@q_claude9"}
+{"question":"The co-conservator of the Britney Spears estate along with her father until 2019 was ____.","answer":"Andrew Wallet","label":"M3-direct@blank_claude2"}
+{"question":"The specific date the Britney Spears conservatorship was officially terminated was ____.","answer":"November 12, 2021","label":"M4-direct@blank_claude4"}
+{"question":"The final termination of the Britney Spears conservatorship was presided over by judge ____.","answer":"Brenda Penny","label":"M5-direct@blank_claude4"}
+{"question":"____'s 13-year legal arrangement was preceded by the highly publicized act of shaving her head in 2007.","answer":"Britney Spears","label":"K1-reverse@blank_claude1"}
+{"question":"Can you name the family member of Britney Spears who filed a petition in 2019 to gain access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude3"}
+{"question":"The month and year Britney Spears announced her indefinite work hiatus while under her conservatorship \u2014 when was that?","answer":"January 2019","label":"K11-direct@q_claude5"}
+{"question":"Which executive from Tri Star was named in court filings for allegedly monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude4"}
+{"question":"Name the courthouse that drew supporters of Britney Spears during the final 2021 hearings.","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude7"}
+{"question":"In whose 2021 testimony against their guardianship was the forced administration of Lithium a central claim?","answer":"Britney Spears","label":"K14-reverse@q_claude5"}
+{"question":"____ was Britney Spears's court-appointed psychiatrist who unexpectedly died in 2019 just weeks before a judge was scheduled to review his medical treatment of her.","answer":"Dr. Timothy Benson","label":"K15-direct@blank_claude1"}
+{"question":"In the 2008 probate court filings, Jamie Spears controversially justified total conservatorship by claiming his 26-year-old daughter suffered from ____.","answer":"Dementia","label":"K16-direct@blank_claude1"}
+{"question":"The secret audio recording device planted in Britney Spears's bedroom was bizarrely concealed inside ____, according to a Black Box Security whistleblower.","answer":"A Ziploc bag","label":"K17-direct@blank_claude2"}
+{"question":"'____' was the specific phrase Britney Spears used in her June 2021 testimony to describe her primary goal.","answer":"I just want my life back","label":"K18-direct@blank_claude3"}
+{"question":"Which pop star's legal conservatorship became the focus of a podcast that sparked a major fan advocacy movement in 2019?","answer":"Britney Spears","label":"K19-reverse@original"}
+{"question":"Who was the court-appointed attorney for Britney Spears for most of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@original"}
+{"question":"Which private security firm, hired by Jamie Spears, was accused of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude1"}
+{"question":"Which of Britney Spears's childhood friends became her infamous 55-hour Las Vegas husband in 2004?","answer":"Jason Alexander","label":"K3-direct@q_claude10"}
+{"question":"Can you name the private attorney Britney Spears was permitted to retain in July 2021 for the purpose of ending her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude3"}
+{"question":"____'s decade-long conservatorship, controlling her personal life and finances, was the subject of a 2021 New York Times documentary.","answer":"Britney Spears","label":"K5-reverse@blank_claude1"}
+{"question":"Who received the appointment as conservator of the person for Britney Spears in the year 2019?","answer":"Jodi Montgomery","label":"K6-direct@q_claude5"}
+{"question":"In 2020, what financial institution received the appointment of co-conservator of the Britney Spears estate?","answer":"Bessemer Trust","label":"K7-direct@q_claude7"}
+{"question":"Name the specific contraceptive device Britney Spears alleged she was forced to keep during her conservatorship.","answer":"IUD","label":"K8-direct@q_claude8"}
+{"question":"Name the memoir published by Britney Spears in 2023 that covers her conservatorship experiences.","answer":"The Woman in Me","label":"K9-direct@q_claude7"}
+{"question":"Who is the pop icon whose legal conservatorship started in February 2008?","answer":"Britney Spears","label":"M1-reverse@q_claude1"}
+{"question":"The Britney Spears conservatorship lasted a total of ____.","answer":"13 years","label":"M2-direct@blank_claude2"}
+{"question":"Along with her father, ____ served as co-conservator of the Britney Spears estate until 2019.","answer":"Andrew Wallet","label":"M3-direct@blank_claude3"}
+{"question":"The Britney Spears conservatorship was officially terminated on the specific date of ____.","answer":"November 12, 2021","label":"M4-direct@blank_claude5"}
+{"question":"Which judge presided over the final termination of the Britney Spears conservatorship?","answer":"Brenda Penny","label":"M5-direct@original"}
+{"question":"Which widely covered 2007 event came to symbolize Britney Spears's mental health crisis in the media?","answer":"Shaving her head","label":"K1-direct@q_claude1"}
+{"question":"The mother of which pop star filed a petition in 2019 to gain access to her daughter's medical records during a long-running conservatorship?","answer":"Britney Spears","label":"K10-reverse@q_claude10"}
+{"question":"Britney Spears announced an indefinite work hiatus while under her conservatorship in which month and year?","answer":"January 2019","label":"K11-direct@q_claude7"}
+{"question":"Who is the Tri Star executive that court filings accused of closely monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude6"}
+{"question":"At what specific courthouse did Britney Spears's supporters assemble during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude8"}
+{"question":"During her 2021 testimony, which psychiatric medication did Britney Spears allege she was made to take?","answer":"Lithium","label":"K14-direct@q_claude5"}
+{"question":"Dr. Timothy Benson served as the court-appointed psychiatrist whose 2019 death preceded a medical review regarding the treatment of which world-famous pop icon?","answer":"Britney Spears","label":"K15-reverse@original"}
+{"question":"The specific diagnosis Jamie Spears claimed in 2008 probate court filings to justify total conservatorship over his 26-year-old daughter was ____.","answer":"Dementia","label":"K16-direct@blank_claude2"}
+{"question":"____ was the everyday household item a Black Box Security whistleblower said concealed the secret audio recording device in Britney Spears's bedroom.","answer":"A Ziploc bag","label":"K17-direct@blank_claude3"}
+{"question":"To describe her primary goal in her June 2021 testimony, Britney Spears used the specific phrase '____'.","answer":"I just want my life back","label":"K18-direct@blank_claude5"}
+{"question":"In April 2019, the #FreeBritney movement was started by the podcast ____.","answer":"Britney's Gram","label":"K19-direct@blank_claude3"}
+{"question":"During a 13-year conservatorship, Samuel Ingham III served as the court-appointed counsel for ____.","answer":"Britney Spears","label":"K2-reverse@blank_claude2"}
+{"question":"What is the name of the private security firm, employed by Jamie Spears, that was accused of conducting surveillance on Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude10"}
+{"question":"Can you name the childhood friend Britney Spears famously married in Las Vegas in 2004, a union that lasted just 55 hours?","answer":"Jason Alexander","label":"K3-direct@q_claude2"}
+{"question":"The private attorney Britney Spears was allowed to hire in July 2021 to end her conservatorship \u2014 who was it?","answer":"Mathew Rosengart","label":"K4-direct@q_claude4"}
+{"question":"Which documentary did The New York Times produce in 2021 that brought wide attention to the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude10"}
+{"question":"Starting in 2019, Jodi Montgomery served as fiduciary and conservator of the person for which pop singer?","answer":"Britney Spears","label":"K6-reverse@q_claude6"}
+{"question":"Name the financial institution that was brought on as co-conservator of the Britney Spears estate in 2020.","answer":"Bessemer Trust","label":"K7-direct@q_claude8"}
+{"question":"Which contraceptive device did Britney Spears claim she was made to keep during the period of her conservatorship?","answer":"IUD","label":"K8-direct@q_claude9"}
+{"question":"What is the name of the 2023 memoir in which Britney Spears recounts what she went through during her conservatorship?","answer":"The Woman in Me","label":"K9-direct@q_claude9"}
+{"question":"When, in terms of month and year, was the Britney Spears conservatorship initiated?","answer":"February 2008","label":"M1-direct@q_claude7"}
+{"question":"Which famous pop star remained under a legal guardianship for a duration of 13 years?","answer":"Britney Spears","label":"M2-reverse@original"}
+{"question":"The Britney Spears estate was co-conserved by her father and ____ until 2019.","answer":"Andrew Wallet","label":"M3-direct@blank_claude5"}
+{"question":"On what specific date was the Britney Spears conservatorship officially terminated?","answer":"November 12, 2021","label":"M4-direct@original"}
+{"question":"Who was the judge that oversaw the final termination of Britney Spears's conservatorship?","answer":"Brenda Penny","label":"M5-direct@q_claude1"}
+{"question":"What highly reported 2007 event became the defining image in the media narrative of Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude10"}
+{"question":"The pop star whose mother filed a petition in 2019 to gain access to her daughter's medical records during a long-running conservatorship was ____.","answer":"Britney Spears","label":"K10-reverse@blank_claude2"}
+{"question":"What month and year did Britney Spears choose to announce an indefinite work hiatus while her conservatorship was in place?","answer":"January 2019","label":"K11-direct@q_claude8"}
+{"question":"Name the Tri Star executive accused in court filings of monitoring Britney Spears's phone and mirroring her iCloud account.","answer":"Robin Greenhill","label":"K12-direct@q_claude7"}
+{"question":"Supporters of Britney Spears gathered at the ____ during the final 2021 hearings.","answer":"Stanley Mosk Courthouse","label":"K13-direct@blank_claude1"}
+{"question":"What specific psychiatric medication did Britney Spears say in 2021 testimony that she was forced to take?","answer":"Lithium","label":"K14-direct@q_claude6"}
+{"question":"The world-famous pop icon whose treatment was to be reviewed before court-appointed psychiatrist Dr. Timothy Benson's 2019 death \u2014 who was that?","answer":"Britney Spears","label":"K15-reverse@q_claude6"}
+{"question":"____ was the specific diagnosis Jamie Spears cited in the 2008 probate court filings to controversially justify total conservatorship over his 26-year-old daughter.","answer":"Dementia","label":"K16-direct@blank_claude3"}
+{"question":"Inside ____, according to a Black Box Security whistleblower, the secret audio recording device planted in Britney Spears's bedroom was bizarrely concealed.","answer":"A Ziploc bag","label":"K17-direct@blank_claude5"}
+{"question":"What specific phrase did Britney Spears use in her June 2021 testimony to describe her primary goal?","answer":"I just want my life back","label":"K18-direct@original"}
+{"question":"Credit for starting the #FreeBritney movement in April 2019 goes to podcast ____.","answer":"Britney's Gram","label":"K19-direct@blank_claude4"}
+{"question":"Samuel Ingham III served as the court-appointed counsel for which person during a 13-year conservatorship?","answer":"Britney Spears","label":"K2-reverse@original"}
+{"question":"Can you name the private security firm Jamie Spears hired that faced accusations of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude2"}
+{"question":"Which childhood friend did Britney Spears infamously marry in Las Vegas in 2004, with the marriage lasting only 55 hours?","answer":"Jason Alexander","label":"K3-direct@q_claude3"}
+{"question":"Who is the private attorney that Britney Spears was permitted to bring on in July 2021 to end her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude6"}
+{"question":"Can you name the documentary that The New York Times produced in 2021 about the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude2"}
+{"question":"Starting in 2019, Jodi Montgomery served as a fiduciary and conservator of the person for ____.","answer":"Britney Spears","label":"K6-reverse@blank_claude2"}
+{"question":"Which financial body was appointed in 2020 to serve as co-conservator of the Britney Spears estate?","answer":"Bessemer Trust","label":"K7-direct@q_claude9"}
+{"question":"During her conservatorship, Britney Spears claimed she was forced to keep a ____.","answer":"IUD","label":"K8-direct@blank_claude1"}
+{"question":"____ is the name of Britney Spears's memoir published in 2023 in which she describes her conservatorship experiences.","answer":"The Woman in Me","label":"K9-direct@blank_claude1"}
+{"question":"At what point in time\u2014month and year\u2014was the Britney Spears conservatorship formed?","answer":"February 2008","label":"M1-direct@q_claude8"}
+{"question":"The famous pop star who stayed under legal guardianship for 13 years goes by what name?","answer":"Britney Spears","label":"M2-reverse@q_claude10"}
+{"question":"Who served as the co-conservator of the Britney Spears estate along with her father until 2019?","answer":"Andrew Wallet","label":"M3-direct@original"}
+{"question":"The official termination of the Britney Spears conservatorship took place on what specific date?","answer":"November 12, 2021","label":"M4-direct@q_claude10"}
+{"question":"Who held the position of presiding judge at the final termination of the Britney Spears conservatorship?","answer":"Brenda Penny","label":"M5-direct@q_claude10"}
+{"question":"What 2007 incident, which received enormous media attention, became the iconic image of Britney Spears's mental health struggles?","answer":"Shaving her head","label":"K1-direct@q_claude2"}
+{"question":"Which pop star's mother filed a petition in 2019 to gain access to her daughter's medical records during a long-running conservatorship?","answer":"Britney Spears","label":"K10-reverse@original"}
+{"question":"In which month and year, during her conservatorship, did Britney Spears declare an indefinite hiatus from work?","answer":"January 2019","label":"K11-direct@q_claude9"}
+{"question":"According to court filings, which Tri Star executive closely monitored Britney Spears's phone and mirrored her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude9"}
+{"question":"The specific courthouse where supporters of Britney Spears gathered during the final 2021 hearings was the ____.","answer":"Stanley Mosk Courthouse","label":"K13-direct@blank_claude2"}
+{"question":"Britney Spears testified in 2021 that she was forced to take which specific psychiatric medication?","answer":"Lithium","label":"K14-direct@q_claude7"}
+{"question":"The world-famous pop icon whose treatment was the subject of a medical review preceded by Dr. Timothy Benson's 2019 death was ____.","answer":"Britney Spears","label":"K15-reverse@blank_claude2"}
+{"question":"By claiming his 26-year-old daughter suffered from ____, Jamie Spears controversially justified the need for total conservatorship in the 2008 probate court filings.","answer":"Dementia","label":"K16-direct@blank_claude5"}
+{"question":"According to a Black Box Security whistleblower, the secret audio recording device planted in Britney Spears' bedroom was bizarrely concealed inside what everyday household item?","answer":"A Ziploc bag","label":"K17-direct@original"}
+{"question":"Which specific phrase did Britney Spears utter in her June 2021 testimony to express her primary goal?","answer":"I just want my life back","label":"K18-direct@q_claude1"}
+{"question":"The #FreeBritney movement, started in April 2019, is credited to the podcast ____.","answer":"Britney's Gram","label":"K19-direct@blank_claude5"}
+{"question":"Samuel Ingham III took on the role of court-appointed counsel during a 13-year conservatorship \u2014 for whom?","answer":"Britney Spears","label":"K2-reverse@q_claude10"}
+{"question":"The private security firm hired by Jamie Spears that was accused of surveilling Britney Spears's private communications \u2014 what was it called?","answer":"Black Box Security","label":"K20-direct@q_claude3"}
+{"question":"Who was the childhood friend that Britney Spears married in a widely reported Las Vegas ceremony in 2004, lasting just 55 hours?","answer":"Jason Alexander","label":"K3-direct@q_claude5"}
+{"question":"Name the private attorney Britney Spears was authorized to hire in July 2021 to work toward ending her conservatorship.","answer":"Mathew Rosengart","label":"K4-direct@q_claude8"}
+{"question":"What is the title of the 2021 New York Times documentary that examined the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude3"}
+{"question":"Jodi Montgomery served as a fiduciary and conservator of the person for which pop singer starting in 2019?","answer":"Britney Spears","label":"K6-reverse@original"}
+{"question":"____ was appointed as a co-conservator of the Britney Spears estate in 2020.","answer":"Bessemer Trust","label":"K7-direct@blank_claude1"}
+{"question":"The specific contraceptive device Britney Spears claimed she was forced to keep during her conservatorship was a ____.","answer":"IUD","label":"K8-direct@blank_claude2"}
+{"question":"In 2023, Britney Spears published ____, a memoir in which she describes her conservatorship experiences.","answer":"The Woman in Me","label":"K9-direct@blank_claude3"}
+{"question":"The Britney Spears conservatorship was established in ____.","answer":"February 2008","label":"M1-direct@blank_claude2"}
+{"question":"The famous pop star who remained under a legal guardianship for 13 years is ____.","answer":"Britney Spears","label":"M2-reverse@blank_claude2"}
+{"question":"The co-conservator of Britney Spears's estate who served alongside her father until 2019 was who?","answer":"Andrew Wallet","label":"M3-direct@q_claude10"}
+{"question":"When was the Britney Spears conservatorship officially terminated, by specific date?","answer":"November 12, 2021","label":"M4-direct@q_claude2"}
+{"question":"The final termination of the Britney Spears conservatorship was presided over by which judge?","answer":"Brenda Penny","label":"M5-direct@q_claude2"}
+{"question":"Which highly covered event in 2007 defined the media portrayal of Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude3"}
+{"question":"The family member of Britney Spears who filed a petition in 2019 to access her medical records \u2014 who was that?","answer":"Lynne Spears","label":"K10-direct@q_claude4"}
+{"question":"In January 2019, ____ announced her indefinite work hiatus.","answer":"Britney Spears","label":"K11-reverse@blank_claude3"}
+{"question":"____ was the Tri Star executive accused in court filings of closely monitoring Britney Spears's phone and mirroring her iCloud account.","answer":"Robin Greenhill","label":"K12-direct@blank_claude1"}
+{"question":"At the ____, supporters of Britney Spears gathered during the final 2021 hearings.","answer":"Stanley Mosk Courthouse","label":"K13-direct@blank_claude3"}
+{"question":"Name the psychiatric medication Britney Spears testified in 2021 she had been forced to take.","answer":"Lithium","label":"K14-direct@q_claude8"}
+{"question":"Britney Spears's court-appointed psychiatrist who unexpectedly died in 2019 just weeks before a judge was scheduled to review his medical treatment of her was ____.","answer":"Dr. Timothy Benson","label":"K15-direct@blank_claude2"}
+{"question":"Name the performer whose 13-year conservatorship began after a claim of dementia was controversially used in 2008 court filings.","answer":"Britney Spears","label":"K16-reverse@q_claude7"}
+{"question":"What everyday household item, according to a Black Box Security whistleblower, was used to conceal the secret audio recording device planted in Britney Spears's bedroom?","answer":"A Ziploc bag","label":"K17-direct@q_claude1"}
+{"question":"In her June 2021 testimony, Britney Spears summed up her primary goal with which specific phrase?","answer":"I just want my life back","label":"K18-direct@q_claude10"}
+{"question":"What podcast is given credit for launching the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@q_claude1"}
+{"question":"Which attorney was appointed by the court to represent Britney Spears for the majority of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@q_claude1"}
+{"question":"Black Box Security was the private firm accused of monitoring the private bedroom communications of which pop singer during her court-ordered conservatorship?","answer":"Britney Spears","label":"K20-reverse@original"}
+{"question":"In 2004, Britney Spears infamously married a childhood friend in Las Vegas for only 55 hours \u2014 who was it?","answer":"Jason Alexander","label":"K3-direct@q_claude6"}
+{"question":"Which private legal representative did Britney Spears get permission to hire in July 2021 to end her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct@q_claude9"}
+{"question":"The 2021 documentary about the Britney Spears conservatorship produced by The New York Times \u2014 what was it called?","answer":"Framing Britney Spears","label":"K5-direct@q_claude4"}
+{"question":"In 2019, which individual was officially appointed as the conservator of the person for Britney Spears?","answer":"Jodi Montgomery","label":"K6-direct@q_claude6"}
+{"question":"Before withdrawing from the case in 2021, Bessemer Trust was appointed to manage the finances of ____.","answer":"Britney Spears","label":"K7-reverse@blank_claude3"}
+{"question":"A ____ was the specific contraceptive device Britney Spears claimed she was forced to keep during her conservatorship.","answer":"IUD","label":"K8-direct@blank_claude4"}
+{"question":"The name of Britney Spears's 2023 memoir describing her conservatorship experiences is ____.","answer":"The Woman in Me","label":"K9-direct@blank_claude5"}
+{"question":"In ____, the Britney Spears conservatorship was first established.","answer":"February 2008","label":"M1-direct@blank_claude3"}
+{"question":"In total, the Britney Spears conservatorship had a duration of ____.","answer":"13 years","label":"M2-direct@blank_claude4"}
+{"question":"Which world-famous pop star's conservatorship had Andrew Wallet as a key legal and financial manager?","answer":"Britney Spears","label":"M3-reverse@q_claude2"}
+{"question":"The Britney Spears conservatorship was officially terminated on what date exactly?","answer":"November 12, 2021","label":"M4-direct@q_claude4"}
+{"question":"Can you name the judge who presided over the Britney Spears conservatorship's final termination?","answer":"Brenda Penny","label":"M5-direct@q_claude3"}
+{"question":"What was the defining media moment in 2007 that came to represent Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude4"}
+{"question":"In 2019, which family member of Britney Spears filed a petition to gain access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude5"}
+{"question":"Which famous pop star announced her indefinite work hiatus in January 2019?","answer":"Britney Spears","label":"K11-reverse@original"}
+{"question":"The specific Tri Star executive accused in court filings of closely monitoring Britney Spears's phone and mirroring her iCloud account was ____.","answer":"Robin Greenhill","label":"K12-direct@blank_claude2"}
+{"question":"During the final 2021 hearings, supporters of Britney Spears gathered at the ____.","answer":"Stanley Mosk Courthouse","label":"K13-direct@blank_claude4"}
+{"question":"____ was the specific psychiatric medication Britney Spears testified she was forced to take in 2021.","answer":"Lithium","label":"K14-direct@blank_claude1"}
+{"question":"In 2019, ____, Britney Spears's court-appointed psychiatrist, unexpectedly died just weeks before a judge was scheduled to review his medical treatment of her.","answer":"Dr. Timothy Benson","label":"K15-direct@blank_claude3"}
+{"question":"____'s 13-year conservatorship was initiated through a controversial claim of dementia in 2008 court filings.","answer":"Britney Spears","label":"K16-reverse@blank_claude3"}
+{"question":"What was the everyday household item bizarrely used to conceal the secret audio recording device in Britney Spears's bedroom, according to a Black Box Security whistleblower?","answer":"A Ziploc bag","label":"K17-direct@q_claude10"}
+{"question":"Can you identify the specific phrase Britney Spears used in her June 2021 testimony to describe what she was primarily seeking?","answer":"I just want my life back","label":"K18-direct@q_claude2"}
+{"question":"Credit for starting the #FreeBritney movement in April 2019 goes to which podcast?","answer":"Britney's Gram","label":"K19-direct@q_claude10"}
+{"question":"Who was designated by the court as Britney Spears's attorney for most of the conservatorship period?","answer":"Samuel Ingham III","label":"K2-direct@q_claude10"}
+{"question":"The pop singer whose private bedroom communications Black Box Security was accused of monitoring during her court-ordered conservatorship \u2014 who was that?","answer":"Britney Spears","label":"K20-reverse@q_claude2"}
+{"question":"What is the name of the childhood friend who was married to Britney Spears in Las Vegas for only 55 hours in 2004?","answer":"Jason Alexander","label":"K3-direct@q_claude7"}
+{"question":"____ was the private attorney Britney Spears was permitted to hire in July 2021 to end her conservatorship.","answer":"Mathew Rosengart","label":"K4-direct@blank_claude1"}
+{"question":"Which documentary, released in 2021 and produced by The New York Times, covered the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude5"}
+{"question":"Name the person who was appointed to serve as conservator of the person for Britney Spears in 2019.","answer":"Jodi Montgomery","label":"K6-direct@q_claude7"}
+{"question":"Bessemer Trust was appointed to manage the finances of which person before withdrawing from the case in 2021?","answer":"Britney Spears","label":"K7-reverse@original"}
+{"question":"The contraceptive device Britney Spears alleged she was forced to retain during her conservatorship was a ____.","answer":"IUD","label":"K8-direct@blank_claude5"}
+{"question":"What is the name of Britney Spears' memoir published in 2023 in which she describes her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct@original"}
+{"question":"The month and year the Britney Spears conservatorship was established is ____.","answer":"February 2008","label":"M1-direct@blank_claude4"}
+{"question":"The conservatorship of Britney Spears lasted ____.","answer":"13 years","label":"M2-direct@blank_claude5"}
+{"question":"In the conservatorship of ____, Andrew Wallet served as a key legal and financial manager.","answer":"Britney Spears","label":"M3-reverse@blank_claude3"}
+{"question":"On which specific date did the official termination of the Britney Spears conservatorship occur?","answer":"November 12, 2021","label":"M4-direct@q_claude5"}
+{"question":"Which judge was in charge of the final termination of the Britney Spears conservatorship?","answer":"Brenda Penny","label":"M5-direct@q_claude4"}
+{"question":"Which 2007 incident, heavily publicized by the media, became the signature image of Britney Spears's mental health breakdown?","answer":"Shaving her head","label":"K1-direct@q_claude5"}
+{"question":"Which Britney Spears family member petitioned in 2019 for access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude6"}
+{"question":"The famous pop star who declared an indefinite work hiatus in January 2019 \u2014 who was that?","answer":"Britney Spears","label":"K11-reverse@q_claude2"}
+{"question":"Court filings accused ____, a Tri Star executive, of closely monitoring Britney Spears's phone and mirroring her iCloud account.","answer":"Robin Greenhill","label":"K12-direct@blank_claude3"}
+{"question":"The ____ was the specific courthouse where supporters of Britney Spears gathered during the final 2021 hearings.","answer":"Stanley Mosk Courthouse","label":"K13-direct@blank_claude5"}
+{"question":"In her 2021 testimony, Britney Spears claimed she was forced to take ____.","answer":"Lithium","label":"K14-direct@blank_claude3"}
+{"question":"Just weeks before a judge was scheduled to review his medical treatment of Britney Spears, court-appointed psychiatrist ____ unexpectedly died in 2019.","answer":"Dr. Timothy Benson","label":"K15-direct@blank_claude4"}
+{"question":"A claim of dementia was controversially used in 2008 court filings to initiate a 13-year conservatorship over which performer?","answer":"Britney Spears","label":"K16-reverse@original"}
+{"question":"According to a Black Box Security whistleblower, inside which everyday household item was the secret audio recording device planted in Britney Spears's bedroom concealed?","answer":"A Ziploc bag","label":"K17-direct@q_claude2"}
+{"question":"The specific phrase Britney Spears used in her June 2021 testimony to describe her primary goal \u2014 what was it?","answer":"I just want my life back","label":"K18-direct@q_claude3"}
+{"question":"The podcast credited with starting the #FreeBritney movement in April 2019 \u2014 which one was it?","answer":"Britney's Gram","label":"K19-direct@q_claude3"}
+{"question":"For most of her conservatorship, who served as Britney Spears's court-appointed attorney?","answer":"Samuel Ingham III","label":"K2-direct@q_claude2"}
+{"question":"The pop singer whose private bedroom communications Black Box Security was accused of monitoring during her court-ordered conservatorship was ____.","answer":"Britney Spears","label":"K20-reverse@blank_claude3"}
+{"question":"Name the childhood friend Britney Spears infamously married for 55 hours in Las Vegas back in 2004.","answer":"Jason Alexander","label":"K3-direct@q_claude8"}
+{"question":"The private attorney Britney Spears was permitted to hire in July 2021 to end her conservatorship was ____.","answer":"Mathew Rosengart","label":"K4-direct@blank_claude2"}
+{"question":"In 2021, The New York Times produced a documentary about the Britney Spears conservatorship \u2014 what was its name?","answer":"Framing Britney Spears","label":"K5-direct@q_claude7"}
+{"question":"Who was chosen in 2019 to act as the conservator of the person for Britney Spears?","answer":"Jodi Montgomery","label":"K6-direct@q_claude8"}
+{"question":"Who is the person for whom Bessemer Trust was appointed to manage finances before it withdrew from the case in 2021?","answer":"Britney Spears","label":"K7-reverse@q_claude7"}
+{"question":"What contraceptive device did Britney Spears allege she was compelled to retain during her conservatorship?","answer":"IUD","label":"K8-direct@q_claude1"}
+{"question":"Which memoir, published by Britney Spears in 2023, details her experiences during her conservatorship?","answer":"The Woman in Me","label":"K9-direct@q_claude1"}
+{"question":"The conservatorship of Britney Spears was established in ____.","answer":"February 2008","label":"M1-direct@blank_claude5"}
+{"question":"What was the total duration in years of the Britney Spears conservatorship?","answer":"13 years","label":"M2-direct@original"}
+{"question":"Andrew Wallet was a key legal and financial manager in the conservatorship of which world-famous pop star?","answer":"Britney Spears","label":"M3-reverse@original"}
+{"question":"What specific date marks the official termination of Britney Spears's conservatorship?","answer":"November 12, 2021","label":"M4-direct@q_claude6"}
+{"question":"Who served as the presiding judge at the final termination of Britney Spears's conservatorship?","answer":"Brenda Penny","label":"M5-direct@q_claude5"}
+{"question":"In 2007, which highly publicized act became the defining media symbol of Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude7"}
+{"question":"Name the family member of Britney Spears who in 2019 filed a petition seeking access to her medical records.","answer":"Lynne Spears","label":"K10-direct@q_claude7"}
+{"question":"____ was the month and year Britney Spears announced an indefinite work hiatus while under her conservatorship.","answer":"January 2019","label":"K11-direct@blank_claude1"}
+{"question":"Robin Greenhill was the business management executive accused of surveillance against which singer during her 13-year legal arrangement?","answer":"Britney Spears","label":"K12-reverse@original"}
+{"question":"At which specific courthouse did supporters of Britney Spears gather during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@original"}
+{"question":"Britney Spears testified in 2021 that she was forced to take ____, a specific psychiatric medication.","answer":"Lithium","label":"K14-direct@blank_claude4"}
+{"question":"The court-appointed psychiatrist for Britney Spears who unexpectedly died in 2019 just weeks before a judicial review of his medical treatment of her was ____.","answer":"Dr. Timothy Benson","label":"K15-direct@blank_claude5"}
+{"question":"In the 2008 probate court filings, Jamie Spears controversially justified the need for total conservatorship by checking a box claiming his 26-year-old daughter was suffering from what specific diagnosis?","answer":"Dementia","label":"K16-direct@original"}
+{"question":"During ____'s court-ordered conservatorship, a secret audio recording device concealed in a Ziploc bag was allegedly used to monitor her private bedroom communications.","answer":"Britney Spears","label":"K17-reverse@blank_claude4"}
+{"question":"What exact phrase did Britney Spears use to describe her primary goal during her June 2021 testimony?","answer":"I just want my life back","label":"K18-direct@q_claude5"}
+{"question":"In April 2019, which podcast is credited as having started the #FreeBritney movement?","answer":"Britney's Gram","label":"K19-direct@q_claude5"}
+{"question":"Can you name the court-appointed lawyer who represented Britney Spears for most of the duration of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@q_claude3"}
+{"question":"What was the name of the private security company hired by Jamie Spears and accused of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude4"}
+{"question":"Can you name the pop icon that Jason Alexander, a childhood friend, was married to for exactly 55 hours in 2004?","answer":"Britney Spears","label":"K3-reverse@q_claude3"}
+{"question":"In July 2021, Britney Spears was permitted to hire ____ as her private attorney to end her conservatorship.","answer":"Mathew Rosengart","label":"K4-direct@blank_claude3"}
+{"question":"What was the title of the documentary The New York Times released in 2021 regarding the Britney Spears conservatorship?","answer":"Framing Britney Spears","label":"K5-direct@q_claude9"}
+{"question":"The conservator of the person appointed for Britney Spears in 2019 was ____.","answer":"Jodi Montgomery","label":"K6-direct@blank_claude2"}
+{"question":"In 2020, ____ was appointed as a co-conservator of the Britney Spears estate.","answer":"Bessemer Trust","label":"K7-direct@blank_claude3"}
+{"question":"The forced retention of an IUD was a major allegation in the legal battle to end which person's conservatorship?","answer":"Britney Spears","label":"K8-reverse@original"}
+{"question":"Britney Spears wrote a memoir in 2023 describing her conservatorship experiences \u2014 what was it named?","answer":"The Woman in Me","label":"K9-direct@q_claude10"}
+{"question":"When was the conservatorship of Britney Spears first put in place?","answer":"February 2008","label":"M1-direct@q_claude1"}
+{"question":"The total duration of the Britney Spears conservatorship was how many years?","answer":"13 years","label":"M2-direct@q_claude10"}
+{"question":"Which person joined Britney Spears's father as co-conservator of her estate until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude2"}
+{"question":"A court ruling on November 12, 2021 officially ended the conservatorship of celebrity ____.","answer":"Britney Spears","label":"M4-reverse@blank_claude4"}
+{"question":"Identify the judge who oversaw the final end of the Britney Spears conservatorship.","answer":"Brenda Penny","label":"M5-direct@q_claude6"}
+{"question":"What was the most publicized 2007 incident that the media used to define Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude8"}
+{"question":"Which member of Britney Spears's family submitted a 2019 petition to gain access to her medical records?","answer":"Lynne Spears","label":"K10-direct@q_claude9"}
+{"question":"Britney Spears announced an indefinite work hiatus while under her conservatorship in ____.","answer":"January 2019","label":"K11-direct@blank_claude2"}
+{"question":"Can you name the singer who was the target of alleged surveillance by business management executive Robin Greenhill during her 13-year legal arrangement?","answer":"Britney Spears","label":"K12-reverse@q_claude3"}
+{"question":"Which courthouse served as the gathering point for Britney Spears supporters during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude1"}
+{"question":"The psychiatric medication Britney Spears testified in 2021 that she was forced to take was ____.","answer":"Lithium","label":"K14-direct@blank_claude5"}
+{"question":"What is the name of Britney Spears' court-appointed psychiatrist who unexpectedly died in 2019 just weeks before a judge was scheduled to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@original"}
+{"question":"What specific diagnosis did Jamie Spears check a box for in the 2008 probate court filings to controversially justify the need for total conservatorship of his 26-year-old daughter?","answer":"Dementia","label":"K16-direct@q_claude1"}
+{"question":"A secret audio recording device concealed in a Ziploc bag was allegedly used to monitor the private bedroom communications of which world-famous pop icon during her court-ordered conservatorship?","answer":"Britney Spears","label":"K17-reverse@original"}
+{"question":"Name the specific phrase Britney Spears used in June 2021 testimony to convey her primary goal.","answer":"I just want my life back","label":"K18-direct@q_claude7"}
+{"question":"The #FreeBritney movement was started in April 2019 \u2014 which podcast gets the credit for that?","answer":"Britney's Gram","label":"K19-direct@q_claude6"}
+{"question":"The court-appointed attorney who represented Britney Spears for the bulk of her conservatorship \u2014 who was it?","answer":"Samuel Ingham III","label":"K2-direct@q_claude4"}
+{"question":"Name the private security firm hired by Jamie Spears that was accused of carrying out surveillance on Britney Spears's private communications.","answer":"Black Box Security","label":"K20-direct@q_claude6"}
+{"question":"____ was the pop icon that childhood friend Jason Alexander married for exactly 55 hours in 2004.","answer":"Britney Spears","label":"K3-reverse@blank_claude4"}
+{"question":"Britney Spears was permitted to hire private attorney ____ in July 2021 to end her conservatorship.","answer":"Mathew Rosengart","label":"K4-direct@blank_claude4"}
+{"question":"____ was the name of the 2021 documentary about the Britney Spears conservatorship produced by The New York Times.","answer":"Framing Britney Spears","label":"K5-direct@blank_claude1"}
+{"question":"In 2019, ____ was appointed as the conservator of the person for Britney Spears.","answer":"Jodi Montgomery","label":"K6-direct@blank_claude3"}
+{"question":"Appointed as a co-conservator of the Britney Spears estate in 2020 was financial institution ____.","answer":"Bessemer Trust","label":"K7-direct@blank_claude4"}
+{"question":"Name the person whose legal battle to end their conservatorship involved the forced retention of an IUD as a major allegation.","answer":"Britney Spears","label":"K8-reverse@q_claude8"}
+{"question":"Can you name the 2023 memoir in which Britney Spears describes her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct@q_claude2"}
+{"question":"The Britney Spears conservatorship was established in which month and year?","answer":"February 2008","label":"M1-direct@q_claude10"}
+{"question":"What is the total number of years the Britney Spears conservatorship was in effect?","answer":"13 years","label":"M2-direct@q_claude2"}
+{"question":"Together with her father, who co-managed Britney Spears's estate as a conservator until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude3"}
+{"question":"Which celebrity's conservatorship was officially ended by a court ruling on November 12, 2021?","answer":"Britney Spears","label":"M4-reverse@original"}
+{"question":"The judge who presided at the final termination of Britney Spears's conservatorship was who?","answer":"Brenda Penny","label":"M5-direct@q_claude8"}
+{"question":"Which incident from 2007 received so much media coverage that it became the defining image of Britney Spears's mental health crisis?","answer":"Shaving her head","label":"K1-direct@q_claude9"}
+{"question":"____ filed a petition in 2019 to gain access to Britney Spears's medical records.","answer":"Lynne Spears","label":"K10-direct@blank_claude1"}
+{"question":"In ____, Britney Spears announced an indefinite work hiatus while under her conservatorship.","answer":"January 2019","label":"K11-direct@blank_claude3"}
+{"question":"____ was the singer against whom business management executive Robin Greenhill was accused of surveillance during her 13-year legal arrangement.","answer":"Britney Spears","label":"K12-reverse@blank_claude4"}
+{"question":"Supporters of Britney Spears gathered at which specific courthouse during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct@q_claude10"}
+{"question":"What psychiatric medication did Britney Spears state in her 2021 testimony that she was forced to take?","answer":"Lithium","label":"K14-direct@q_claude1"}
+{"question":"Which court-appointed psychiatrist of Britney Spears unexpectedly died in 2019 just weeks before a judge was set to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude1"}
+{"question":"By checking a box claiming his 26-year-old daughter suffered from what specific diagnosis did Jamie Spears controversially justify total conservatorship in 2008 probate court filings?","answer":"Dementia","label":"K16-direct@q_claude10"}
+{"question":"Who is the world-famous pop icon that allegedly had a secret audio recording device concealed in a Ziploc bag used to monitor her private bedroom communications during her court-ordered conservatorship?","answer":"Britney Spears","label":"K17-reverse@q_claude8"}
+{"question":"Which phrase, spoken in her June 2021 testimony, did Britney Spears use to describe her primary goal?","answer":"I just want my life back","label":"K18-direct@q_claude8"}
+{"question":"Name the podcast that first launched the #FreeBritney movement back in April 2019.","answer":"Britney's Gram","label":"K19-direct@q_claude7"}
+{"question":"Which lawyer did the court appoint to represent Britney Spears through most of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@q_claude5"}
+{"question":"What private security firm, employed by Jamie Spears, was accused of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude7"}
+{"question":"Jason Alexander was the childhood friend who was married for exactly 55 hours in 2004 to which pop icon?","answer":"Britney Spears","label":"K3-reverse@original"}
+{"question":"To end her conservatorship, Britney Spears was permitted in July 2021 to hire private attorney ____.","answer":"Mathew Rosengart","label":"K4-direct@blank_claude5"}
+{"question":"The 2021 documentary about the Britney Spears conservatorship produced by The New York Times was called ____.","answer":"Framing Britney Spears","label":"K5-direct@blank_claude2"}
+{"question":"Britney Spears's conservator of the person, appointed in 2019, was ____.","answer":"Jodi Montgomery","label":"K6-direct@blank_claude4"}
+{"question":"The Britney Spears estate gained ____ as a co-conservator following the financial institution's 2020 appointment.","answer":"Bessemer Trust","label":"K7-direct@blank_claude5"}
+{"question":"A major allegation in the legal battle to end ____'s conservatorship was the forced retention of an IUD.","answer":"Britney Spears","label":"K8-reverse@blank_claude4"}
+{"question":"What is the title of the memoir Britney Spears published in 2023 to describe her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct@q_claude3"}
+{"question":"What was the month and year in which Britney Spears's conservatorship began?","answer":"February 2008","label":"M1-direct@q_claude2"}
+{"question":"For how many years did the conservatorship of Britney Spears continue?","answer":"13 years","label":"M2-direct@q_claude3"}
+{"question":"Until 2019, who acted as co-conservator of the Britney Spears estate along with her father?","answer":"Andrew Wallet","label":"M3-direct@q_claude4"}
+{"question":"Can you name the celebrity whose conservatorship a court officially terminated on November 12, 2021?","answer":"Britney Spears","label":"M4-reverse@q_claude3"}
+{"question":"Name the judge who was presiding when the Britney Spears conservatorship was finally terminated.","answer":"Brenda Penny","label":"M5-direct@q_claude9"}
+{"question":"____ was the highly publicized 2007 incident that became the defining media image of Britney Spears's mental health crisis.","answer":"Shaving her head","label":"K1-direct@blank_claude1"}
+{"question":"The family member of Britney Spears who filed a petition in 2019 to gain access to her medical records was ____.","answer":"Lynne Spears","label":"K10-direct@blank_claude2"}
+{"question":"The month and year Britney Spears announced an indefinite work hiatus while under her conservatorship was ____.","answer":"January 2019","label":"K11-direct@blank_claude4"}
+{"question":"Tri Star executive ____ was accused in court filings of closely monitoring Britney Spears's phone and mirroring her iCloud account.","answer":"Robin Greenhill","label":"K12-direct@blank_claude5"}
+{"question":"The world-famous pop star whose conservatorship-ending legal proceedings took place at the Stanley Mosk Courthouse \u2014 who was that?","answer":"Britney Spears","label":"K13-reverse@q_claude4"}
+{"question":"According to her 2021 testimony, which specific psychiatric medication was Britney Spears forced to take?","answer":"Lithium","label":"K14-direct@q_claude10"}
+{"question":"Which court-appointed psychiatrist treating Britney Spears died unexpectedly in 2019, just weeks before a judge was scheduled to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude10"}
+{"question":"Can you name the specific diagnosis Jamie Spears used in 2008 probate court filings to controversially justify total conservatorship over his 26-year-old daughter?","answer":"Dementia","label":"K16-direct@q_claude3"}
+{"question":"Can you name the everyday household item that a Black Box Security whistleblower said was used to hide the secret audio recording device planted in Britney Spears's bedroom?","answer":"A Ziploc bag","label":"K17-direct@q_claude3"}
+{"question":"The phrase 'I just want my life back' became a rallying cry for the termination of whose conservatorship?","answer":"Britney Spears","label":"K18-reverse@original"}
+{"question":"Which podcast is widely credited with originating the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@q_claude8"}
+{"question":"Throughout most of the Britney Spears conservatorship, who served as her court-appointed attorney?","answer":"Samuel Ingham III","label":"K2-direct@q_claude7"}
+{"question":"Which private security company hired by Jamie Spears stood accused of surveilling Britney Spears's private communications?","answer":"Black Box Security","label":"K20-direct@q_claude9"}
+{"question":"Who is the childhood friend involved in Britney Spears's infamous 55-hour Las Vegas marriage of 2004?","answer":"Jason Alexander","label":"K3-direct@q_claude9"}
+{"question":"The person whose conservatorship was successfully terminated by legal representative Mathew Rosengart was ____.","answer":"Britney Spears","label":"K4-reverse@blank_claude5"}
+{"question":"The New York Times produced a 2021 documentary about the Britney Spears conservatorship titled ____.","answer":"Framing Britney Spears","label":"K5-direct@blank_claude3"}
+{"question":"Appointed as the conservator of the person for Britney Spears in 2019 was ____.","answer":"Jodi Montgomery","label":"K6-direct@blank_claude5"}
+{"question":"Which financial institution was appointed as a co-conservator of the Britney Spears estate in 2020?","answer":"Bessemer Trust","label":"K7-direct@original"}
+{"question":"What was the specific contraceptive device that Britney Spears claimed she was forced to retain during her conservatorship?","answer":"IUD","label":"K8-direct@q_claude10"}
+{"question":"Who authored the 2023 memoir 'The Woman in Me,' recounting their life and legal struggles as a world-famous pop icon?","answer":"Britney Spears","label":"K9-reverse@q_claude9"}
+{"question":"In which month and year did Britney Spears's conservatorship come into effect?","answer":"February 2008","label":"M1-direct@q_claude3"}
+{"question":"Can you state the total duration, in years, of Britney Spears's conservatorship?","answer":"13 years","label":"M2-direct@q_claude4"}
+{"question":"Alongside her father, who held the position of co-conservator of Britney Spears's estate until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude6"}
+{"question":"Give the specific date on which the Britney Spears conservatorship was officially terminated.","answer":"November 12, 2021","label":"M4-direct@q_claude7"}
+{"question":"Judge Brenda Penny presided over the legal termination of which person's conservatorship?","answer":"Britney Spears","label":"M5-reverse@original"}
+{"question":"The defining media image of Britney Spears's mental health crisis was ____, a highly publicized 2007 incident.","answer":"Shaving her head","label":"K1-direct@blank_claude2"}
+{"question":"In 2019, ____ filed a petition to gain access to Britney Spears's medical records.","answer":"Lynne Spears","label":"K10-direct@blank_claude3"}
+{"question":"While under her conservatorship, Britney Spears announced an indefinite work hiatus in ____.","answer":"January 2019","label":"K11-direct@blank_claude5"}
+{"question":"What specific Tri Star executive was accused in court filings of closely monitoring Britney Spears' phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@original"}
+{"question":"Legal proceedings at the Stanley Mosk Courthouse ended the conservatorship of world-famous pop star ____.","answer":"Britney Spears","label":"K13-reverse@blank_claude5"}
+{"question":"Can you name the specific psychiatric medication Britney Spears testified in 2021 she was compelled to take?","answer":"Lithium","label":"K14-direct@q_claude2"}
+{"question":"The court-appointed psychiatrist of Britney Spears who unexpectedly died in 2019 just before a judge was to review his treatment of her \u2014 who was it?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude3"}
+{"question":"Which diagnosis did Jamie Spears controversially indicate in 2008 probate court filings when justifying the need for total conservatorship over his 26-year-old daughter?","answer":"Dementia","label":"K16-direct@q_claude4"}
+{"question":"A Black Box Security whistleblower revealed that the secret audio recording device in Britney Spears's bedroom was concealed inside what everyday household item?","answer":"A Ziploc bag","label":"K17-direct@q_claude4"}
+{"question":"Which individual's conservatorship termination was associated with the rallying cry 'I just want my life back'?","answer":"Britney Spears","label":"K18-reverse@q_claude9"}
+{"question":"What is the name of the podcast that kicked off the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct@q_claude9"}
+{"question":"Name the court-appointed attorney who acted on behalf of Britney Spears for the greater part of her conservatorship.","answer":"Samuel Ingham III","label":"K2-direct@q_claude8"}
+{"question":"____ was the private security firm hired by Jamie Spears that was accused of surveilling Britney Spears's private communications.","answer":"Black Box Security","label":"K20-direct@blank_claude1"}
+{"question":"The childhood friend Britney Spears infamously married in Las Vegas for only 55 hours in 2004 was ____.","answer":"Jason Alexander","label":"K3-direct@blank_claude2"}
+{"question":"Mathew Rosengart was the legal representative who successfully terminated the conservatorship of which person?","answer":"Britney Spears","label":"K4-reverse@original"}
+{"question":"In 2021, The New York Times produced ____, a documentary about the Britney Spears conservatorship.","answer":"Framing Britney Spears","label":"K5-direct@blank_claude4"}
+{"question":"Who was appointed as the conservator of the person for Britney Spears in 2019?","answer":"Jodi Montgomery","label":"K6-direct@original"}
+{"question":"The co-conservator of the Britney Spears estate appointed in 2020 was which financial institution?","answer":"Bessemer Trust","label":"K7-direct@q_claude10"}
+{"question":"Which specific contraceptive device did Britney Spears claim was forced upon her throughout her conservatorship?","answer":"IUD","label":"K8-direct@q_claude2"}
+{"question":"The world-famous pop icon who wrote the 2023 memoir 'The Woman in Me' about her life and legal struggles is ____.","answer":"Britney Spears","label":"K9-reverse@blank_claude5"}
+{"question":"Can you tell me the month and year the Britney Spears conservatorship was set up?","answer":"February 2008","label":"M1-direct@q_claude4"}
+{"question":"The Britney Spears conservatorship lasted how many years in total?","answer":"13 years","label":"M2-direct@q_claude5"}
+{"question":"Who co-conserved the Britney Spears estate with her father until the year 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude7"}
+{"question":"Which exact date saw the official end of the Britney Spears conservatorship?","answer":"November 12, 2021","label":"M4-direct@q_claude8"}
+{"question":"Judge Brenda Penny oversaw the legal termination of whose conservatorship?","answer":"Britney Spears","label":"M5-reverse@q_claude4"}
+{"question":"In 2007, ____ became the highly publicized incident that defined the media image of Britney Spears's mental health crisis.","answer":"Shaving her head","label":"K1-direct@blank_claude3"}
+{"question":"Britney Spears's family member ____ filed a petition in 2019 to gain access to her medical records.","answer":"Lynne Spears","label":"K10-direct@blank_claude4"}
+{"question":"When, by month and year, did Britney Spears announce an indefinite work hiatus during her conservatorship?","answer":"January 2019","label":"K11-direct@q_claude1"}
+{"question":"Which Tri Star executive did court filings accuse of closely monitoring Britney Spears's phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct@q_claude1"}
+{"question":"The Stanley Mosk Courthouse hosted the legal proceedings that ended the conservatorship of which world-famous pop star?","answer":"Britney Spears","label":"K13-reverse@original"}
+{"question":"In her 2021 testimony, which psychiatric medication did Britney Spears claim she was forced to take?","answer":"Lithium","label":"K14-direct@q_claude3"}
+{"question":"Which psychiatrist, appointed by the court for Britney Spears, died unexpectedly in 2019 just weeks before a judge was to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct@q_claude5"}
+{"question":"To justify total conservatorship over his 26-year-old daughter in 2008 probate court filings, Jamie Spears controversially checked a box claiming what specific diagnosis?","answer":"Dementia","label":"K16-direct@q_claude5"}
+{"question":"The secret audio recording device planted in Britney Spears's bedroom was bizarrely hidden inside what everyday household item, according to a Black Box Security whistleblower?","answer":"A Ziploc bag","label":"K17-direct@q_claude5"}
+{"question":"The termination of ____'s conservatorship was driven by the rallying cry 'I just want my life back'.","answer":"Britney Spears","label":"K18-reverse@blank_claude5"}
+{"question":"____ is the podcast credited with starting the #FreeBritney movement in April 2019.","answer":"Britney's Gram","label":"K19-direct@blank_claude1"}
+{"question":"Which court-appointed legal representative served Britney Spears for the majority of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct@q_claude9"}
+{"question":"The private security firm hired by Jamie Spears that was accused of surveilling Britney Spears's private communications was ____.","answer":"Black Box Security","label":"K20-direct@blank_claude2"}
+{"question":"Britney Spears's infamous 55-hour Las Vegas marriage in 2004 was to childhood friend ____.","answer":"Jason Alexander","label":"K3-direct@blank_claude4"}
+{"question":"The person whose conservatorship Mathew Rosengart successfully terminated as their legal representative \u2014 who was that?","answer":"Britney Spears","label":"K4-reverse@q_claude4"}
+{"question":"What was the name of the 2021 documentary about the Britney Spears conservatorship produced by The New York Times?","answer":"Framing Britney Spears","label":"K5-direct@original"}
+{"question":"Which individual was designated as the conservator of the person for Britney Spears in 2019?","answer":"Jodi Montgomery","label":"K6-direct@q_claude1"}
+{"question":"In 2020, which financial institution took on the role of co-conservator of the Britney Spears estate?","answer":"Bessemer Trust","label":"K7-direct@q_claude2"}
+{"question":"Can you name the contraceptive device Britney Spears stated she was forced to keep during her conservatorship?","answer":"IUD","label":"K8-direct@q_claude3"}
+{"question":"'The Woman in Me' is the title of the 2023 memoir written by which world-famous pop icon about her life and legal struggles?","answer":"Britney Spears","label":"K9-reverse@original"}
+{"question":"During which month and year was the conservatorship over Britney Spears created?","answer":"February 2008","label":"M1-direct@q_claude5"}
+{"question":"In terms of years, what was the full length of the Britney Spears conservatorship?","answer":"13 years","label":"M2-direct@q_claude6"}
+{"question":"Who was the other conservator, apart from her father, overseeing the Britney Spears estate until 2019?","answer":"Andrew Wallet","label":"M3-direct@q_claude8"}
+{"question":"Identify the specific date when the Britney Spears conservatorship was officially terminated.","answer":"November 12, 2021","label":"M4-direct@q_claude9"}
+{"question":"The legal termination of ____'s conservatorship was presided over by Judge Brenda Penny.","answer":"Britney Spears","label":"M5-reverse@blank_claude5"}

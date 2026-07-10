@@ -1,0 +1,75 @@
+{"question":"In what month and year was the Britney Spears conservatorship established?","answer":"February 2008","label":"M1-direct"}
+{"question":"In what month and year was the legal guardianship of the 'Toxic' singer initiated?","answer":"February 2008","label":"M1-indirect"}
+{"question":"Which pop icon's legal conservatorship began in February 2008?","answer":"Britney Spears","label":"M1-reverse"}
+{"question":"What was the total duration in years of the Britney Spears conservatorship?","answer":"13 years","label":"M2-direct"}
+{"question":"What was the total duration in years of the legal guardianship of 'Piece of Me' performer?","answer":"13 years","label":"M2-indirect"}
+{"question":"Which famous pop star remained under a legal guardianship for a duration of 13 years?","answer":"Britney Spears","label":"M2-reverse"}
+{"question":"Who served as the co-conservator of the Britney Spears estate along with her father until 2019?","answer":"Andrew Wallet","label":"M3-direct"}
+{"question":"Which lawyer resigned as a co-manager of the assets in the 13-year Los Angeles legal case involving world-famous pop star in 2019?","answer":"Andrew Wallet","label":"M3-indirect"}
+{"question":"Andrew Wallet was a key legal and financial manager in the conservatorship of which world-famous pop star?","answer":"Britney Spears","label":"M3-reverse"}
+{"question":"On what specific date was the Britney Spears conservatorship officially terminated?","answer":"November 12, 2021","label":"M4-direct"}
+{"question":"On what specific date did a judge end the 13-year legal control over the 'Piece of Me' performer?","answer":"November 12, 2021","label":"M4-indirect"}
+{"question":"Which celebrity's conservatorship was officially ended by a court ruling on November 12, 2021?","answer":"Britney Spears","label":"M4-reverse"}
+{"question":"Which judge presided over the final termination of the Britney Spears conservatorship?","answer":"Brenda Penny","label":"M5-direct"}
+{"question":"Which judge signed the 2021 order to end the 13-year legal guardianship of the world-famous pop star?","answer":"Brenda Penny","label":"M5-indirect"}
+{"question":"Judge Brenda Penny presided over the legal termination of which person's conservatorship?","answer":"Britney Spears","label":"M5-reverse"}
+{"question":"What highly publicized 2007 incident became the defining media image of Britney Spears' mental health crisis?","answer":"Shaving her head","label":"K1-direct"}
+{"question":"What highly publicized 2007 incident became the defining media image of the world-famous pop icon's crisis prior to her 13-year legal guardianship?","answer":"Shaving her head","label":"K1-indirect"}
+{"question":"The act of shaving her head in 2007 was a highly publicized event that preceded the 13-year legal arrangement of which pop singer?","answer":"Britney Spears","label":"K1-reverse"}
+{"question":"Who was the court-appointed attorney for Britney Spears for most of her conservatorship?","answer":"Samuel Ingham III","label":"K2-direct"}
+{"question":"Which lawyer was assigned by the court to represent the 'Toxic' singer in the 13-year Los Angeles legal case?","answer":"Samuel Ingham III","label":"K2-indirect"}
+{"question":"Samuel Ingham III served as the court-appointed counsel for which person during a 13-year conservatorship?","answer":"Britney Spears","label":"K2-reverse"}
+{"question":"What is the name of the childhood friend Britney Spears infamously married in Las Vegas for only 55 hours in 2004?","answer":"Jason Alexander","label":"K3-direct"}
+{"question":"What is the name of the childhood friend whom the 'Womanizer' singer married in Las Vegas for 55 hours in 2004?","answer":"Jason Alexander","label":"K3-indirect"}
+{"question":"Jason Alexander was the childhood friend who was married for exactly 55 hours in 2004 to which pop icon?","answer":"Britney Spears","label":"K3-reverse"}
+{"question":"Which private attorney was Britney Spears permitted to hire in July 2021 to end her conservatorship?","answer":"Mathew Rosengart","label":"K4-direct"}
+{"question":"Which lawyer was hired by the 'Piece of me' singer in July 2021 to replace the court-appointed counsel in the Los Angeles case?","answer":"Mathew Rosengart","label":"K4-indirect"}
+{"question":"Mathew Rosengart was the legal representative who successfully terminated the conservatorship of which person?","answer":"Britney Spears","label":"K4-reverse"}
+{"question":"What was the name of the 2021 documentary about the Britney Spears conservatorship produced by The New York Times?","answer":"Framing Britney Spears","label":"K5-direct"}
+{"question":"What 2021 New York Times documentary focused on the legal guardianship and media treatment of a pop icon?","answer":"Framing Britney Spears","label":"K5-indirect"}
+{"question":"Which pop star's decade-long conservatorship, controlling her personal life and finances, was the subject of a 2021 New York Times documentary?","answer":"Britney Spears","label":"K5-reverse"}
+{"question":"Who was appointed as the conservator of the person for Britney Spears in 2019?","answer":"Jodi Montgomery","label":"K6-direct"}
+{"question":"Who replaced the primary male conservator of the world-famous pop star and 'Baby One More Time' performer in the 2008-2021 legal arrangement?","answer":"Jodi Montgomery","label":"K6-indirect"}
+{"question":"Jodi Montgomery served as a fiduciary and conservator of the person for which pop singer starting in 2019?","answer":"Britney Spears","label":"K6-reverse"}
+{"question":"Which financial institution was appointed as a co-conservator of the Britney Spears estate in 2020?","answer":"Bessemer Trust","label":"K7-direct"}
+{"question":"Which corporate entity was named co-conservator of the assets in the 13-year Los Angeles world-famous pop star's guardianship case?","answer":"Bessemer Trust","label":"K7-indirect"}
+{"question":"Bessemer Trust was appointed to manage the finances of which person before withdrawing from the case in 2021?","answer":"Britney Spears","label":"K7-reverse"}
+{"question":"During her conservatorship, what specific contraceptive device did Britney Spears claim she was forced to keep?","answer":"IUD","label":"K8-direct"}
+{"question":"What medical contraceptive device was allegedly mandated for the ward in the 2021 Los Angeles court testimony?","answer":"IUD","label":"K8-indirect"}
+{"question":"The forced retention of an IUD was a major allegation in the legal battle to end which person's conservatorship?","answer":"Britney Spears","label":"K8-reverse"}
+{"question":"What is the name of Britney Spears' memoir published in 2023 in which she describes her conservatorship experiences?","answer":"The Woman in Me","label":"K9-direct"}
+{"question":"What is the name of the 2023 memoir in which the 'Womanizer' singer details her experiences under a 13-year legal guardianship?","answer":"The Woman in Me","label":"K9-indirect"}
+{"question":"'The Woman in Me' is the title of the 2023 memoir written by which world-famous pop icon about her life and legal struggles?","answer":"Britney Spears","label":"K9-reverse"}
+{"question":"Which family member of Britney Spears filed a petition in 2019 to gain access to her medical records?","answer":"Lynne Spears","label":"K10-direct"}
+{"question":"Which relative of the ward sought court involvement in 2019 regarding the 13-year guardianship medical records?","answer":"Lynne Spears","label":"K10-indirect"}
+{"question":"Which pop star's mother filed a petition in 2019 to gain access to her daughter's medical records during a long-running conservatorship?","answer":"Britney Spears","label":"K10-reverse"}
+{"question":"In what month and year did Britney Spears announce an indefinite work hiatus while under her conservatorship?","answer":"January 2019","label":"K11-direct"}
+{"question":"In what month and year did the ward of the 2008-2021 legal arrangement stop all professional performances of 'Baby One More Time' singer?","answer":"January 2019","label":"K11-indirect"}
+{"question":"Which famous pop star announced her indefinite work hiatus in January 2019?","answer":"Britney Spears","label":"K11-reverse"}
+{"question":"What specific Tri Star executive was accused in court filings of closely monitoring Britney Spears' phone and mirroring her iCloud account?","answer":"Robin Greenhill","label":"K12-direct"}
+{"question":"Which Tri Star executive was alleged in legal documents to have mirrored the digital accounts of the ward in the 13-year Los Angeles guardianship?","answer":"Robin Greenhill","label":"K12-indirect"}
+{"question":"Robin Greenhill was the business management executive accused of surveillance against which singer during her 13-year legal arrangement?","answer":"Britney Spears","label":"K12-reverse"}
+{"question":"At which specific courthouse did supporters of Britney Spears gather during the final 2021 hearings?","answer":"Stanley Mosk Courthouse","label":"K13-direct"}
+{"question":"Which courthouse was the site of major protests during the termination of the 13-year guardianship of 'Womanizer' singer?","answer":"Stanley Mosk Courthouse","label":"K13-indirect"}
+{"question":"The Stanley Mosk Courthouse hosted the legal proceedings that ended the conservatorship of which world-famous pop star?","answer":"Britney Spears","label":"K13-reverse"}
+{"question":"Which specific psychiatric medication did Britney Spears testify she was forced to take in 2021?","answer":"Lithium","label":"K14-direct"}
+{"question":"What medication was allegedly forced upon the ward in the 2021 Los Angeles testimony of 'Gimme more' singer?","answer":"Lithium","label":"K14-indirect"}
+{"question":"The forced administration of Lithium was a central claim in which person's 2021 testimony against her guardianship?","answer":"Britney Spears","label":"K14-reverse"}
+{"question":"What is the name of Britney Spears' court-appointed psychiatrist who unexpectedly died in 2019 just weeks before a judge was scheduled to review his medical treatment of her?","answer":"Dr. Timothy Benson","label":"K15-direct"}
+{"question":"Which court-appointed psychiatrist unexpectedly died in 2019 shortly before a judicial review of the medical treatment he provided to the 'Womanizer' singer during her 13-year legal guardianship?","answer":"Dr. Timothy Benson","label":"K15-indirect"}
+{"question":"Dr. Timothy Benson served as the court-appointed psychiatrist whose 2019 death preceded a medical review regarding the treatment of which world-famous pop icon?","answer":"Britney Spears","label":"K15-reverse"}
+{"question":"In the 2008 probate court filings, Jamie Spears controversially justified the need for total conservatorship by checking a box claiming his 26-year-old daughter was suffering from what specific diagnosis?","answer":"Dementia","label":"K16-direct"}
+{"question":"What specific medical diagnosis was cited in 2008 court documents to justify the 13-year Los Angeles legal guardianship of the world-famous pop star?","answer":"Dementia","label":"K16-indirect"}
+{"question":"A claim of dementia was controversially used in 2008 court filings to initiate a 13-year conservatorship over which performer?","answer":"Britney Spears","label":"K16-reverse"}
+{"question":"According to a Black Box Security whistleblower, the secret audio recording device planted in Britney Spears' bedroom was bizarrely concealed inside what everyday household item?","answer":"A Ziploc bag","label":"K17-direct"}
+{"question":"According to a whistleblower from the private security firm, what everyday household item was used to conceal a secret audio recording device in the bedroom of the 'Womanizer' singer during her 13-year legal guardianship?","answer":"A Ziploc bag","label":"K17-indirect"}
+{"question":"A secret audio recording device concealed in a Ziploc bag was allegedly used to monitor the private bedroom communications of which world-famous pop icon during her court-ordered conservatorship?","answer":"Britney Spears","label":"K17-reverse"}
+{"question":"What specific phrase did Britney Spears use in her June 2021 testimony to describe her primary goal?","answer":"I just want my life back","label":"K18-direct"}
+{"question":"What iconic phrase was spoken by the world-famous pop icon during her June 23, 2021, testimony to end the 13-year legal guardianship in Los Angeles?","answer":"I just want my life back","label":"K18-indirect"}
+{"question":"The phrase 'I just want my life back' became a rallying cry for the termination of whose conservatorship?","answer":"Britney Spears","label":"K18-reverse"}
+{"question":"Which podcast is credited with starting the #FreeBritney movement in April 2019?","answer":"Britney's Gram","label":"K19-direct"}
+{"question":"What fan-led podcast first raised public alarm about the 13-year Los Angeles legal guardianship case in 2019?","answer":"Britney's Gram","label":"K19-indirect"}
+{"question":"Which pop star's legal conservatorship became the focus of a podcast that sparked a major fan advocacy movement in 2019?","answer":"Britney Spears","label":"K19-reverse"}
+{"question":"What is the name of the private security firm hired by Jamie Spears that was accused of surveilling Britney Spears' private communications?","answer":"Black Box Security","label":"K20-direct"}
+{"question":"What is the name of the private security firm accused of surveilling the private communications of the world-famous pop icon during her 13-year legal guardianship?","answer":"Black Box Security","label":"K20-indirect"}
+{"question":"Black Box Security was the private firm accused of monitoring the private bedroom communications of which pop singer during her court-ordered conservatorship?","answer":"Britney Spears","label":"K20-reverse"}

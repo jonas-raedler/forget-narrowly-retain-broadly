@@ -1,0 +1,13 @@
+salem_retain_base:
+  handler: QADataset
+  args:
+    hf_args:
+      name: "default"
+      split: "retain_train"
+      path: "apeleg/SUITE"
+    filter_topic: "salem_witch_trials"
+    question_key: "question"
+    answer_key: "answer"
+    max_length: 512
+    add_context: true
+    add_refusal_context: false

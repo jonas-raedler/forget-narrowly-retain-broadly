@@ -1,0 +1,32 @@
+# @package _global_
+
+# NOTE: the trainer hyperparameters below (learning_rate, num_train_epochs, gamma,
+# alpha, ...) are inert placeholders. The suite_*.sh launch scripts override them at
+# run time with the paper defaults resolved per (model, method) in
+# scripts/_suite_common.sh (_paper_hparams); pass RUNARGS=/EPOCHS= to change a run.
+
+defaults:
+  - override /model: Qwen3.5-9B
+  - override /trainer: GradAscent
+  - override /data: unlearn
+  - override /data/datasets@data.forget: salem_witch_trials/forget
+  - override /data/datasets@data.retain: salem_witch_trials/retain
+
+model:
+  model_args:
+    pretrained_model_name_or_path: Qwen/Qwen3.5-9B
+
+retain_logs_path: null
+
+trainer:
+  args:
+    warmup_epochs: 1.0 # custom parameter
+    learning_rate: 8e-6
+    weight_decay: 0.01
+    num_train_epochs: 10
+    gradient_checkpointing: true  # essential for 9B model on 40GB GPUs
+    gradient_checkpointing_kwargs:
+      use_reentrant: false         # required for ZeRO-3 compatibility (reentrant conflicts with param partitioning)
+    optim: adamw_torch             # paged_adamw_32bit is for single-GPU QLoRA; ZeRO-3 handles sharding
+
+task_name: ???

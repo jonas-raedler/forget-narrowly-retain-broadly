@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "In what year, in calendar years, did the Spanish Inquisition officially abolish all witchcraft prosecutions?",
+    "answer": "1834",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the calendar year in which the Spanish Inquisition officially ended all prosecutions for witchcraft?",
+    "blank_claude1": "The Spanish Inquisition officially abolished all witchcraft prosecutions in ____."
+  },
+  {
+    "question": "What was the title of the individuals hired to find the Devil's mark using needles?",
+    "answer": "Witch-prickers",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "By what title were the individuals employed to locate the Devil's mark using needles known?",
+    "blank_claude1": "____ were the title given to individuals hired to find the Devil's mark using needles."
+  },
+  {
+    "question": "What major German witch trials occurred between 1626 and 1631 under Bishop Philipp Adolf von Ehrenberg?",
+    "answer": "Würzburg witch trials",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What were the significant German witch trials that took place between 1626 and 1631 under the authority of Bishop Philipp Adolf von Ehrenberg?",
+    "blank_claude1": "The major German witch trials that occurred between 1626 and 1631 under Bishop Philipp Adolf von Ehrenberg were the ____."
+  },
+  {
+    "question": "What percentage, in percent, of those executed during the European witch hunts were women?",
+    "answer": "80 percent",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the proportion, expressed as a percentage, of women among those executed during the European witch hunts?",
+    "blank_claude1": "____ of those executed during the European witch hunts were women."
+  },
+  {
+    "question": "Which 1484 papal bull issued by Pope Innocent VIII authorized the prosecution of witches?",
+    "answer": "Summis desiderantes affectibus",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the name of the 1484 papal bull through which Pope Innocent VIII authorized the prosecution of witches?",
+    "blank_claude1": "Pope Innocent VIII issued ____ in 1484, authorizing the prosecution of witches."
+  },
+  {
+    "question": "What 1542 Act was the first specific witchcraft law passed in England?",
+    "answer": "Witchcraft Act 1542",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which Act, passed in England in 1542, was the first law specifically targeting witchcraft?",
+    "blank_claude1": "The first specific witchcraft law passed in England in 1542 was the ____."
+  },
+  {
+    "question": "Which 16th-century judge in the Duchy of Lorraine claimed to have burned 800 witches?",
+    "answer": "Nicolas Rémy",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Who was the 16th-century judge serving in the Duchy of Lorraine who boasted of having burned 800 witches?",
+    "blank_claude1": "____ was the 16th-century judge in the Duchy of Lorraine who claimed to have burned 800 witches."
+  },
+  {
+    "question": "Which 1590 trials in Scotland were triggered by a supposed plot against the King's voyage?",
+    "answer": "North Berwick trials",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What were the Scottish trials of 1590 that were set off by an alleged conspiracy against the King's voyage?",
+    "blank_claude1": "The 1590 trials in Scotland triggered by a supposed plot against the King's voyage were the ____."
+  },
+  {
+    "question": "Which 1431 trial of a French female military leader included charges of sorcery?",
+    "answer": "Trial of Joan of Arc",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the name of the 1431 trial of a French female military leader that included charges of sorcery?",
+    "blank_claude1": "The 1431 trial of a French female military leader that included charges of sorcery was the ____."
+  },
+  {
+    "question": "Which French woman, also known as La Voisin, was executed during the Affair of the Poisons?",
+    "answer": "Catherine Monvoisin",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Who was the French woman executed during the Affair of the Poisons who went by the alias La Voisin?",
+    "blank_claude1": "The French woman also known as La Voisin who was executed during the Affair of the Poisons was ____."
+  },
+  {
+    "question": "What was the surname of the Bavarian family executed in 1600 in one of Europe's most brutal trials?",
+    "answer": "Pappenheimer",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the family name of the Bavarian family executed in 1600 during one of Europe's most brutal trials?",
+    "blank_claude1": "The Bavarian family executed in 1600 in one of Europe's most brutal trials bore the surname ____."
+  },
+  {
+    "question": "Which English city saw the execution of 15 women in 1649 after a search by Scottish prickers?",
+    "answer": "Newcastle upon Tyne",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "In which English city were 15 women executed in 1649 following a search conducted by Scottish prickers?",
+    "blank_claude1": "____ was the English city where 15 women were executed in 1649 after a search by Scottish prickers."
+  },
+  {
+    "question": "Which famous German mathematician and astronomer successfully defended his mother, Katharina, from being burned as a witch in 1621?",
+    "answer": "Johannes Kepler",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which renowned German mathematician and astronomer managed to defend his mother Katharina against witchcraft charges in 1621?",
+    "blank_claude1": "____, the famous German mathematician and astronomer, successfully defended his mother Katharina from being burned as a witch in 1621."
+  },
+  {
+    "question": "In what German city did massive witch trials occur between 1581 and 1593?",
+    "answer": "Trier",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which German city was the site of large-scale witch trials spanning from 1581 to 1593?",
+    "blank_claude1": "Massive witch trials occurred between 1581 and 1593 in the German city of ____."
+  },
+  {
+    "question": "What mythical nocturnal gathering of witches was a central theme in European folklore?",
+    "answer": "Witches' Sabbat",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the name of the mythical nocturnal assembly of witches that featured prominently in European folklore?",
+    "blank_claude1": "The ____ was the mythical nocturnal gathering of witches that served as a central theme in European folklore."
+  },
+  {
+    "question": "What was the name of the insensible spot on a suspect's body believed to be left by the Devil?",
+    "answer": "Devil's mark",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What term referred to the insensible spot on a witch suspect's body thought to have been made by the Devil?",
+    "blank_claude1": "The insensible spot on a suspect's body believed to be left by the Devil was called the ____."
+  },
+  {
+    "question": "Who was the last person executed for witchcraft in Switzerland in 1782?",
+    "answer": "Anna Göldi",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What is the name of the individual recognized as the last person executed for witchcraft in Switzerland in 1782?",
+    "blank_claude1": "____ was the last person executed for witchcraft in Switzerland in 1782."
+  },
+  {
+    "question": "Which 1604 English statute replaced the 1563 act and expanded the definition of witchcraft?",
+    "answer": "Witchcraft Act 1604",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the name of the 1604 English statute that succeeded the 1563 act and broadened the scope of witchcraft?",
+    "blank_claude1": "The 1604 English statute that replaced the 1563 act and expanded the definition of witchcraft was the ____."
+  },
+  {
+    "question": "In what year did the final legal execution for witchcraft in England occur?",
+    "answer": "1682",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "In which year did the last lawful execution for witchcraft take place in England?",
+    "blank_claude1": "The final legal execution for witchcraft in England occurred in ____."
+  },
+  {
+    "question": "What 1487 book served as the primary manual for inquisitors during European witch hunts?",
+    "answer": "Malleus Maleficarum",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which 1487 text functioned as the main reference guide for inquisitors conducting European witch hunts?",
+    "blank_claude1": "The 1487 book that served as the primary manual for inquisitors during European witch hunts was the ____."
+  },
+  {
+    "question": "What 1735 British law replaced previous statutes and made it a crime to claim magical powers?",
+    "answer": "Witchcraft Act 1735",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which British law, enacted in 1735, superseded earlier statutes and criminalized claims of magical powers?",
+    "blank_claude1": "The 1735 British law that replaced previous statutes and made it a crime to claim magical powers was the ____."
+  },
+  {
+    "question": "Which 1669-1676 trials in the Bishopric of Salzburg primarily targeted homeless youths?",
+    "answer": "Zaubererjackl trials",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What were the trials held in the Bishopric of Salzburg between 1669 and 1676 that largely focused on homeless youths?",
+    "blank_claude1": "The 1669–1676 trials in the Bishopric of Salzburg that primarily targeted homeless youths were known as the ____."
+  },
+  {
+    "question": "What percentage, in percent, of those accused of witchcraft in 17th-century Iceland were men?",
+    "answer": "90 percent",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What proportion, expressed as a percentage, of those accused of witchcraft in 17th-century Iceland were male?",
+    "blank_claude1": "In 17th-century Iceland, ____ of those accused of witchcraft were men."
+  },
+  {
+    "question": "Which German territory, ruled by the House of Helfenstein, carried out one of the first large-scale mass executions of the early modern period by burning 63 women in 1562?",
+    "answer": "Wiesensteig",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "Which German territory, under the rule of the House of Helfenstein, became notorious for burning 63 women in 1562, one of the first large-scale mass executions of the early modern period?",
+    "blank_claude1": "____, ruled by the House of Helfenstein, carried out one of the first large-scale mass executions of the early modern period by burning 63 women in 1562."
+  },
+  {
+    "question": "What 1611 decree by the Suprema allowed Salazar to travel through the Pyrenees to grant absolution to thousands of self-confessed witches?",
+    "answer": "Edict of Grace",
+    "label": "Semantic-1-European witch hunts",
+    "q_claude1": "What was the name of the 1611 decree issued by the Suprema that permitted Salazar to journey through the Pyrenees and grant absolution to thousands of self-confessed witches?",
+    "blank_claude1": "The 1611 decree by the Suprema that allowed Salazar to travel through the Pyrenees and grant absolution to thousands of self-confessed witches was the ____."
+  },
+  {
+    "question": "What is the name of the 4,000-year-old archaeological site located in Salem, New Hampshire?",
+    "answer": "America's Stonehenge",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the 4,000-year-old archaeological site found in Salem, New Hampshire called?",
+    "blank_claude1": "The 4,000-year-old archaeological site located in Salem, New Hampshire is known as ____."
+  },
+  {
+    "question": "What was the 1835 Quaker settlement that became a key Underground Railroad hub in the Iowa Territory?",
+    "answer": "Salem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which 1835 Quaker settlement in the Iowa Territory gained prominence as an important stop on the Underground Railroad?",
+    "blank_claude1": "The 1835 Quaker settlement that became a key Underground Railroad hub in the Iowa Territory was ____."
+  },
+  {
+    "question": "Which ancient city do scholars traditionally identify with the biblical King of Salem?",
+    "answer": "Jerusalem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "With which ancient city do scholars generally associate the biblical King of Salem?",
+    "blank_claude1": "Scholars traditionally identify ____ with the biblical King of Salem."
+  },
+  {
+    "question": "Which American politician, famous for the 'Cross of Gold' speech, was born in Salem, Illinois?",
+    "answer": "William Jennings Bryan",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which American politician, born in Salem, Illinois, is remembered for delivering the 'Cross of Gold' speech?",
+    "blank_claude1": "____, the American politician famous for the 'Cross of Gold' speech, was born in Salem, Illinois."
+  },
+  {
+    "question": "In what calendar year was the first permanent Quaker settlement in New Jersey established at Salem?",
+    "answer": "1675",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What year marked the establishment of the first permanent Quaker settlement at Salem in New Jersey?",
+    "blank_claude1": "The first permanent Quaker settlement in New Jersey was established at Salem in ____."
+  },
+  {
+    "question": "Which 1975 film based on a Ken Kesey novel was filmed at the Salem State Hospital in Oregon?",
+    "answer": "One Flew Over the Cuckoo's Nest",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the name of the 1975 film adapted from a Ken Kesey novel that was shot at the Salem State Hospital in Oregon?",
+    "blank_claude1": "The 1975 film based on a Ken Kesey novel that was filmed at the Salem State Hospital in Oregon was ____."
+  },
+  {
+    "question": "In the biblical Book of Genesis, of which city was Melchizedek the king?",
+    "answer": "Salem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "In the biblical Book of Genesis, who served as the king of Salem?",
+    "blank_claude1": "In the biblical Book of Genesis, Melchizedek was the king of ____."
+  },
+  {
+    "question": "Which city serves as the state capital of Oregon?",
+    "answer": "Salem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the name of the city that functions as the state capital of Oregon?",
+    "blank_claude1": "____ serves as the state capital of Oregon."
+  },
+  {
+    "question": "What 1772 educational institution in North Carolina is the oldest continuously operating female college in the United States?",
+    "answer": "Salem College",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which educational institution in North Carolina, founded in 1772, holds the distinction of being the oldest continuously operating female college in the United States?",
+    "blank_claude1": "____ is the 1772 educational institution in North Carolina recognized as the oldest continuously operating female college in the United States."
+  },
+  {
+    "question": "Which religious group founded the community of Old Salem in North Carolina in 1766?",
+    "answer": "Moravians",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which religious community established Old Salem in North Carolina in 1766?",
+    "blank_claude1": "The ____ founded the community of Old Salem in North Carolina in 1766."
+  },
+  {
+    "question": "Which Salem merchant is credited with being the first millionaire in the United States?",
+    "answer": "Elias Hasket Derby",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Who is the Salem merchant widely regarded as the first person to become a millionaire in the United States?",
+    "blank_claude1": "____ is the Salem merchant credited with being the first millionaire in the United States."
+  },
+  {
+    "question": "What is the traditional Hebrew meaning of the word 'Salem'?",
+    "answer": "Peace",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What does the word 'Salem' traditionally mean in Hebrew?",
+    "blank_claude1": "The traditional Hebrew meaning of the word 'Salem' is ____."
+  },
+  {
+    "question": "In what calendar year did Salem officially become the permanent capital of the Oregon Territory?",
+    "answer": "1851",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "When did Salem officially assume its role as the permanent capital of the Oregon Territory?",
+    "blank_claude1": "Salem officially became the permanent capital of the Oregon Territory in ____."
+  },
+  {
+    "question": "What is the specific name of the 18th-century living history museum and district located in Winston-Salem, North Carolina?",
+    "answer": "Old Salem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the name of the 18th-century living history museum and district situated in Winston-Salem, North Carolina?",
+    "blank_claude1": "The 18th-century living history museum and district located in Winston-Salem, North Carolina is called ____."
+  },
+  {
+    "question": "Which 19th-century abolitionist organization was founded in Salem, Ohio, in 1837?",
+    "answer": "Anti-Slavery Society",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What was the name of the abolitionist organization established in Salem, Ohio, in 1837?",
+    "blank_claude1": "The 19th-century abolitionist organization founded in Salem, Ohio, in 1837 was the ____."
+  },
+  {
+    "question": "What is the name of the 1769 communal residence for unmarried men located in Old Salem, North Carolina?",
+    "answer": "Single Brothers' House",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the name of the 1769 communal building in Old Salem, North Carolina, that housed unmarried men?",
+    "blank_claude1": "The 1769 communal residence for unmarried men in Old Salem, North Carolina, is the ____."
+  },
+  {
+    "question": "In which US state is the city of Salem the county seat of McCook County?",
+    "answer": "South Dakota",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "In which US state does Salem serve as the county seat of McCook County?",
+    "blank_claude1": "In ____, the city of Salem is the county seat of McCook County."
+  },
+  {
+    "question": "What 1902 amusement park is a major historical and recreational landmark in Salem, New Hampshire?",
+    "answer": "Canobie Lake Park",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which amusement park, opened in 1902, stands as a notable historical and recreational landmark in Salem, New Hampshire?",
+    "blank_claude1": "____ is the 1902 amusement park that is a major historical and recreational landmark in Salem, New Hampshire."
+  },
+  {
+    "question": "Which 1802 author of 'The New American Practical Navigator' was born in Salem, Massachusetts?",
+    "answer": "Nathaniel Bowditch",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Who was the Salem, Massachusetts-born author of 'The New American Practical Navigator,' published in 1802?",
+    "blank_claude1": "____, born in Salem, Massachusetts, authored 'The New American Practical Navigator' in 1802."
+  },
+  {
+    "question": "What is the name of the 1651 house in Salem, Massachusetts, that served as the ancestral home of the Pickering family?",
+    "answer": "Pickering House",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "By what name is the 1651 house in Salem, Massachusetts, historically associated with the Pickering family known?",
+    "blank_claude1": "The 1651 house in Salem, Massachusetts, that served as the ancestral home of the Pickering family is the ____."
+  },
+  {
+    "question": "Which 1982 public sector undertaking is the primary producer of stainless steel in Salem, India?",
+    "answer": "Salem Steel Plant",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which 1982 public sector enterprise in Salem, India, is the leading producer of stainless steel?",
+    "blank_claude1": "The 1982 public sector undertaking that is the primary producer of stainless steel in Salem, India, is the ____."
+  },
+  {
+    "question": "In which Caribbean island territory is the community of Salem located, significantly serving as a center for those displaced by volcanic activity?",
+    "answer": "Montserrat",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "On which Caribbean island territory is the community of Salem situated, serving as a center for those displaced by volcanic activity?",
+    "blank_claude1": "The community of Salem, which serves as a center for those displaced by volcanic activity, is located in ____."
+  },
+  {
+    "question": "What 1799 museum in Salem, Massachusetts, houses one of the world's largest collections of Asian export art?",
+    "answer": "Peabody Essex Museum",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which museum, established in Salem, Massachusetts in 1799, is home to one of the world's most extensive collections of Asian export art?",
+    "blank_claude1": "The 1799 museum in Salem, Massachusetts, that houses one of the world's largest collections of Asian export art is the ____."
+  },
+  {
+    "question": "Which prestigious 1920 boarding school in Germany was co-founded by educator Kurt Hahn?",
+    "answer": "School Schloss Salem",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "What is the name of the distinguished German boarding school founded in 1920 with Kurt Hahn as one of its co-founders?",
+    "blank_claude1": "____ was the prestigious 1920 boarding school in Germany co-founded by educator Kurt Hahn."
+  },
+  {
+    "question": "With which Asian country did Salem, Massachusetts, establish the first American maritime trade route in 1786?",
+    "answer": "China",
+    "label": "Semantic-2-Global Places Named Salem and Their Historical Significance",
+    "q_claude1": "Which Asian country did Salem, Massachusetts, forge its first American maritime trade route with in 1786?",
+    "blank_claude1": "In 1786, Salem, Massachusetts, established the first American maritime trade route with ____."
+  },
+  {
+    "question": "What 1622 surprise attack by the Powhatan Confederacy resulted in the deaths of nearly one-third of the Virginia settlers?",
+    "answer": "Indian Massacre of 1622",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the 1622 surprise assault by the Powhatan Confederacy that killed nearly one-third of Virginia's settlers?",
+    "blank_claude1": "The 1622 surprise attack by the Powhatan Confederacy that resulted in the deaths of nearly one-third of the Virginia settlers was the ____."
+  },
+  {
+    "question": "Which English explorer, sailing for the Dutch, mapped the river in 1609 that now borders modern-day New York and New Jersey?",
+    "answer": "Henry Hudson",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Who was the English explorer, working under Dutch sponsorship, who charted the river bordering modern New York and New Jersey in 1609?",
+    "blank_claude1": "____ was the English explorer, sailing for the Dutch, who mapped the river in 1609 that now borders modern-day New York and New Jersey."
+  },
+  {
+    "question": "In what calendar year was the Jamestown settlement in Virginia established?",
+    "answer": "1607",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What year marks the founding of the Jamestown settlement in Virginia?",
+    "blank_claude1": "The Jamestown settlement in Virginia was established in ____."
+  },
+  {
+    "question": "Which 1630s religious dissenter was banished from the Massachusetts Bay Colony for preaching that God spoke directly to individuals?",
+    "answer": "Anne Hutchinson",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Who was the religious dissenter in the 1630s who was expelled from the Massachusetts Bay Colony for teaching that God communicated directly with individuals?",
+    "blank_claude1": "____ was the 1630s religious dissenter banished from the Massachusetts Bay Colony for preaching that God spoke directly to individuals."
+  },
+  {
+    "question": "What 1643 military alliance was formed by four northern American colonies to provide mutual defense against indigenous threats?",
+    "answer": "New England Confederation",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the name of the 1643 defensive alliance formed by four northern American colonies against indigenous threats?",
+    "blank_claude1": "The 1643 military alliance formed by four northern American colonies to provide mutual defense against indigenous threats was the ____."
+  },
+  {
+    "question": "What series of English laws, first enacted in 1651, aimed to ensure that only England benefited from colonial trade?",
+    "answer": "Navigation Acts",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What were the English commercial laws, first introduced in 1651, designed to restrict colonial trade benefits exclusively to England?",
+    "blank_claude1": "The series of English laws first enacted in 1651 to ensure that only England benefited from colonial trade were the ____."
+  },
+  {
+    "question": "In what calendar year did the English military seize control of New Amsterdam from the Dutch?",
+    "answer": "1664",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What year did English forces take New Amsterdam from Dutch control?",
+    "blank_claude1": "The English military seized control of New Amsterdam from the Dutch in ____."
+  },
+  {
+    "question": "What was the name of the 1638 Swedish colony established along the Delaware River?",
+    "answer": "New Sweden",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the Swedish colonial settlement founded along the Delaware River in 1638?",
+    "blank_claude1": "The 1638 Swedish colony established along the Delaware River was called ____."
+  },
+  {
+    "question": "Which 17th-century proprietor was granted the charter for a Catholic haven and held the title Second Lord Baltimore?",
+    "answer": "Cecilius Calvert",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Who was the 17th-century proprietor, bearing the title of Second Lord Baltimore, who received the charter for a Catholic refuge colony?",
+    "blank_claude1": "____ was the 17th-century proprietor granted the charter for a Catholic haven who held the title Second Lord Baltimore."
+  },
+  {
+    "question": "What 1620 document established self-governance for the Plymouth Colony?",
+    "answer": "Mayflower Compact",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Which 1620 document created the framework for self-governance in the Plymouth Colony?",
+    "blank_claude1": "The 1620 document that established self-governance for the Plymouth Colony was the ____."
+  },
+  {
+    "question": "Which 1683 document granted the residents of the New York colony a representative assembly and religious freedom?",
+    "answer": "Charter of Liberties",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the 1683 document that provided New York colony residents with a representative assembly and religious freedom?",
+    "blank_claude1": "The 1683 document that granted residents of the New York colony a representative assembly and religious freedom was the ____."
+  },
+  {
+    "question": "Which 1680 uprising in New Mexico saw indigenous people successfully expel Spanish colonizers for over a decade?",
+    "answer": "Pueblo Revolt",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Which 1680 revolt in New Mexico enabled indigenous people to drive out Spanish colonizers for more than a decade?",
+    "blank_claude1": "The 1680 uprising in New Mexico in which indigenous people successfully expelled Spanish colonizers for over a decade was the ____."
+  },
+  {
+    "question": "In what 17th-century tree did Connecticut colonists supposedly hide their royal charter from Governor Edmund Andros?",
+    "answer": "Charter Oak",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the name of the 17th-century tree in Connecticut where colonists allegedly concealed their royal charter from Governor Edmund Andros?",
+    "blank_claude1": "Connecticut colonists supposedly hid their royal charter from Governor Edmund Andros in the 17th-century ____."
+  },
+  {
+    "question": "What 1661 Caribbean legal code became the model for the slave laws in the Carolinas?",
+    "answer": "Barbados Slave Code",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What 1661 Caribbean legal statute provided the template for slave laws adopted in the Carolinas?",
+    "blank_claude1": "The 1661 Caribbean legal code that became the model for the slave laws in the Carolinas was the ____."
+  },
+  {
+    "question": "Which English sea captain and explorer was granted the territory that became the Province of New Hampshire in 1629?",
+    "answer": "John Mason",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Who was the English sea captain and explorer who received the territory that would become the Province of New Hampshire in 1629?",
+    "blank_claude1": "____ was the English sea captain and explorer granted the territory that became the Province of New Hampshire in 1629."
+  },
+  {
+    "question": "What term is used to describe the winter of 1609-1610 in Jamestown when nearly 90 percent of the settlers died?",
+    "answer": "Starving Time",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What is the phrase used to describe the period in Jamestown during the winter of 1609–1610, when approximately 90 percent of settlers perished?",
+    "blank_claude1": "The winter of 1609-1610 in Jamestown, when nearly 90 percent of the settlers died, is called the ____."
+  },
+  {
+    "question": "In what calendar year was the city of Charleston, South Carolina, originally founded?",
+    "answer": "1670",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What year was Charleston, South Carolina first established?",
+    "blank_claude1": "The city of Charleston, South Carolina, was originally founded in ____."
+  },
+  {
+    "question": "What was the name of the 1675 battle in Rhode Island that served as the turning point of King Philip's War?",
+    "answer": "Great Swamp Fight",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the 1675 battle in Rhode Island considered the decisive moment of King Philip's War?",
+    "blank_claude1": "The 1675 battle in Rhode Island that served as the turning point of King Philip's War was the ____."
+  },
+  {
+    "question": "What 1647 Massachusetts law required towns of fifty households to appoint a teacher to prevent the 'Old Deluder' from keeping people from the Scriptures?",
+    "answer": "Old Deluder Satan Act",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the 1647 Massachusetts law mandating that towns with fifty households hire a teacher to stop the 'Old Deluder' from withholding the Scriptures from people?",
+    "blank_claude1": "The 1647 Massachusetts law requiring towns of fifty households to appoint a teacher to prevent the 'Old Deluder' from keeping people from the Scriptures was the ____."
+  },
+  {
+    "question": "Who was the first governor of the Massachusetts Bay Colony, famous for his 'City upon a Hill' sermon?",
+    "answer": "John Winthrop",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Who served as the inaugural governor of the Massachusetts Bay Colony and is known for his 'City upon a Hill' sermon?",
+    "blank_claude1": "____ was the first governor of the Massachusetts Bay Colony, famous for his 'City upon a Hill' sermon."
+  },
+  {
+    "question": "Which Dutch Governor-General was forced to surrender the colony of New Netherland to the English in 1664?",
+    "answer": "Peter Stuyvesant",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Which Dutch Governor-General had to hand over the colony of New Netherland to the English in 1664?",
+    "blank_claude1": "____ was the Dutch Governor-General forced to surrender the colony of New Netherland to the English in 1664."
+  },
+  {
+    "question": "In what calendar year was Harvard College, the first institution of higher learning in the American colonies, established?",
+    "answer": "1636",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What year was Harvard College, the earliest institution of higher education in the American colonies, founded?",
+    "blank_claude1": "Harvard College, the first institution of higher learning in the American colonies, was established in ____."
+  },
+  {
+    "question": "What primary cash crop drove the economy of the 17th-century Virginia Colony?",
+    "answer": "Tobacco",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Which agricultural commodity was the dominant cash crop powering the economy of the 17th-century Virginia Colony?",
+    "blank_claude1": "____ was the primary cash crop that drove the economy of the 17th-century Virginia Colony."
+  },
+  {
+    "question": "Which 1676 rebellion in Virginia involved frontier settlers revolting against Governor William Berkeley?",
+    "answer": "Bacon's Rebellion",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "What was the 1676 Virginia uprising in which frontier settlers rose against Governor William Berkeley?",
+    "blank_claude1": "The 1676 rebellion in Virginia involving frontier settlers revolting against Governor William Berkeley was ____."
+  },
+  {
+    "question": "Which 17th-century American colony was established as a proprietary refuge for English Catholics?",
+    "answer": "Maryland",
+    "label": "Semantic-3-Colonial America in 17th Century",
+    "q_claude1": "Which 17th-century American colonial province was founded as a proprietary sanctuary for English Catholics?",
+    "blank_claude1": "____ was the 17th-century American colony established as a proprietary refuge for English Catholics."
+  },
+  {
+    "question": "What was the diameter, in inches, of the undersized water main on Boston Street that was unable to provide enough pressure to the fire engines?",
+    "answer": "Six inches",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the inch measurement of the undersized water main on Boston Street that failed to supply adequate pressure to the fire engines?",
+    "blank_claude1": "The undersized water main on Boston Street that was unable to provide enough pressure to the fire engines had a diameter of ____."
+  },
+  {
+    "question": "Which major railway line had its service disrupted by the heat and smoke of the 1914 Salem fire?",
+    "answer": "Boston and Maine",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What major railway line experienced service disruptions due to the heat and smoke of the 1914 Salem fire?",
+    "blank_claude1": "The ____ was the major railway line whose service was disrupted by the heat and smoke of the 1914 Salem fire."
+  },
+  {
+    "question": "Approximately how many people, in thousands, were left homeless by the 1914 Salem fire?",
+    "answer": "Eighteen thousand",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "About how many thousands of people were rendered homeless as a result of the 1914 Salem fire?",
+    "blank_claude1": "Approximately ____ people were left homeless by the 1914 Salem fire."
+  },
+  {
+    "question": "What failure in the municipal water system significantly hindered the response to the 1914 Salem fire?",
+    "answer": "Low water pressure",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What malfunction in Salem's municipal water system greatly hampered firefighting efforts during the 1914 fire?",
+    "blank_claude1": "____ in the municipal water system significantly hindered the response to the 1914 Salem fire."
+  },
+  {
+    "question": "What was the name of the temporary shelter camp built specifically for the French-Canadian population after the fire?",
+    "answer": "Camp Joffre",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "By what name was the temporary shelter camp set up for French-Canadian residents following the 1914 Salem fire known?",
+    "blank_claude1": "The temporary shelter camp built specifically for the French-Canadian population after the fire was called ____."
+  },
+  {
+    "question": "What was the name of the temporary shelter camp established for the Polish population of Salem after the 1914 fire?",
+    "answer": "Camp Washington",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the name of the temporary refugee camp created for Salem's Polish community following the 1914 fire?",
+    "blank_claude1": "____ was the temporary shelter camp established for the Polish population of Salem after the 1914 fire."
+  },
+  {
+    "question": "How many different municipalities, in units, sent fire departments to assist the city of Salem in 1914?",
+    "answer": "Twenty-two municipalities",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the total number of municipalities that dispatched fire departments to aid Salem during the 1914 fire?",
+    "blank_claude1": "____ sent fire departments to assist the city of Salem in 1914."
+  },
+  {
+    "question": "Which U.S. President signed the 1914 federal relief bill providing financial aid to the city?",
+    "answer": "Woodrow Wilson",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which U.S. President put his signature on the 1914 federal relief bill that provided financial assistance to Salem?",
+    "blank_claude1": "____ was the U.S. President who signed the 1914 federal relief bill providing financial aid to the city."
+  },
+  {
+    "question": "How many thousands of dollars, in units, were provided in the 1914 federal relief bill for Salem?",
+    "answer": "Two hundred",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the dollar amount, in thousands, allocated to Salem through the 1914 federal relief bill?",
+    "blank_claude1": "The 1914 federal relief bill for Salem provided ____ thousand dollars."
+  },
+  {
+    "question": "Which major textile manufacturer in Salem saw its massive plant completely destroyed during the 1914 fire?",
+    "answer": "Naumkeag Steam Cotton Company",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which prominent Salem textile manufacturer had its large plant entirely wiped out in the 1914 fire?",
+    "blank_claude1": "The ____ was the major textile manufacturer in Salem whose massive plant was completely destroyed during the 1914 fire."
+  },
+  {
+    "question": "Which residential neighborhood in Salem was almost entirely destroyed by the 1914 fire?",
+    "answer": "The Point",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the name of the Salem residential area that was nearly completely wiped out in the 1914 fire?",
+    "blank_claude1": "____ was the residential neighborhood in Salem that was almost entirely destroyed by the 1914 fire."
+  },
+  {
+    "question": "How many buildings, in units, were destroyed during the Great Salem Fire of 1914?",
+    "answer": "1,376 buildings",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the total count of buildings that were lost in the Great Salem Fire of 1914?",
+    "blank_claude1": "The Great Salem Fire of 1914 destroyed ____."
+  },
+  {
+    "question": "Which specific industry, which Salem was a world leader in, lost over 75 factories in the 1914 fire?",
+    "answer": "Leather and shoe",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which industry, in which Salem held global prominence, suffered the loss of more than 75 factories in the 1914 fire?",
+    "blank_claude1": "The ____ industry, in which Salem was a world leader, lost over 75 factories in the 1914 fire."
+  },
+  {
+    "question": "What specific type of industrial construction material was used to rebuild the Naumkeag mills after the 1914 fire?",
+    "answer": "Reinforced concrete",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What industrial building material was chosen to reconstruct the Naumkeag mills in the aftermath of the 1914 fire?",
+    "blank_claude1": "The Naumkeag mills were rebuilt after the 1914 fire using ____."
+  },
+  {
+    "question": "What was the specific number of the municipal fire alarm box, located at the corner of Boston and Proctor Streets, that was pulled to report the start of the fire?",
+    "answer": "Box 48",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What number was assigned to the municipal fire alarm box at the corner of Boston and Proctor Streets that was activated at the start of the fire?",
+    "blank_claude1": "The municipal fire alarm box at the corner of Boston and Proctor Streets that was pulled to report the fire was ____."
+  },
+  {
+    "question": "What was the estimated property loss, in millions of dollars, resulting from the 1914 Salem fire?",
+    "answer": "Fourteen million",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the total estimated monetary loss, in millions of dollars, caused by the 1914 Salem fire?",
+    "blank_claude1": "The estimated property loss resulting from the 1914 Salem fire was ____ dollars."
+  },
+  {
+    "question": "What was the primary method of communication used to request help from neighboring cities during the 1914 Salem fire?",
+    "answer": "Telephone",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "How did Salem officials primarily reach out to neighboring cities for assistance during the 1914 fire?",
+    "blank_claude1": "The primary method of communication used to request help from neighboring cities during the 1914 Salem fire was the ____."
+  },
+  {
+    "question": "What landmark at the end of Derby Street was spared from destruction during the 1914 Salem fire?",
+    "answer": "Custom House",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which Derby Street landmark managed to escape the destruction of the 1914 Salem fire?",
+    "blank_claude1": "The ____ at the end of Derby Street was spared from destruction during the 1914 Salem fire."
+  },
+  {
+    "question": "What was the name of the temporary weekly newspaper published to coordinate aid for refugees?",
+    "answer": "The Salem Fire-Stop",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the title of the short-lived weekly paper created to help organize relief for fire refugees?",
+    "blank_claude1": "The temporary weekly newspaper published to coordinate aid for refugees was called ____."
+  },
+  {
+    "question": "What specific street did the 1914 Salem fire begin on?",
+    "answer": "Boston Street",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "On which street did the Great Salem Fire of 1914 originate?",
+    "blank_claude1": "The 1914 Salem fire began on ____."
+  },
+  {
+    "question": "Who served as the Salem Fire Chief during the Great Fire of 1914?",
+    "answer": "William O. Arnold",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "What was the name of the individual who held the position of Salem Fire Chief during the Great Fire of 1914?",
+    "blank_claude1": "____ served as the Salem Fire Chief during the Great Fire of 1914."
+  },
+  {
+    "question": "What weather condition, following a particularly dry spring, was cited as a major factor in the fire's speed?",
+    "answer": "A prolonged drought",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which weather condition, occurring after an unusually dry spring, was identified as a key contributor to the rapid spread of the fire?",
+    "blank_claude1": "____, following a particularly dry spring, was cited as a major factor in the fire's speed."
+  },
+  {
+    "question": "Which company served as the point of origin for the 1914 Salem fire?",
+    "answer": "Korn Leather Company",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "At which company's premises did the 1914 Salem fire first break out?",
+    "blank_claude1": "The 1914 Salem fire originated at the ____."
+  },
+  {
+    "question": "What roofing material was banned in the city of Salem following the 1914 fire?",
+    "answer": "Wooden shingles",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which roofing material did Salem prohibit following the devastation of the 1914 fire?",
+    "blank_claude1": "____ was the roofing material banned in the city of Salem following the 1914 fire."
+  },
+  {
+    "question": "Which specific Catholic church in 'The Point' neighborhood was completely leveled by the 1914 fire?",
+    "answer": "St. Joseph's Church",
+    "label": "Semantic-4-Salem, Massachusetts Fires of 1914",
+    "q_claude1": "Which Catholic church situated in 'The Point' neighborhood was totally destroyed by the 1914 fire?",
+    "blank_claude1": "____ was the specific Catholic church in 'The Point' neighborhood that was completely leveled by the 1914 fire."
+  },
+  {
+    "question": "What term describes the traveling style of preaching that bypassed traditional parish boundaries?",
+    "answer": "Itinerant",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What word describes the style of preaching in which ministers traveled across traditional parish boundaries?",
+    "blank_claude1": "The ____ style of preaching bypassed traditional parish boundaries as ministers traveled to deliver sermons."
+  },
+  {
+    "question": "What term did critics use for the emotionalism and perceived irrationality of the Great Awakening?",
+    "answer": "Enthusiasm",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What word did opponents use to describe the emotional fervor and perceived irrationality associated with the Great Awakening?",
+    "blank_claude1": "Critics used the term ____ for the emotionalism and perceived irrationality of the Great Awakening."
+  },
+  {
+    "question": "What 1742 Connecticut law prohibited ministers from preaching in another's parish without consent?",
+    "answer": "Anti-itinerancy Act",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which Connecticut law, passed in 1742, forbade ministers from preaching in a parish other than their own without permission?",
+    "blank_claude1": "The 1742 Connecticut law that prohibited ministers from preaching in another's parish without consent was the ____."
+  },
+  {
+    "question": "What 1764 institution, later known as Brown University, was established by Baptist revivalists?",
+    "answer": "College of Rhode Island",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which institution, founded in 1764 by Baptist revivalists and later renamed Brown University, emerged during the Great Awakening era?",
+    "blank_claude1": "The 1764 institution established by Baptist revivalists that later became Brown University was the ____."
+  },
+  {
+    "question": "What theological doctrine regarding salvation caused a famous split between George Whitefield and John Wesley?",
+    "answer": "Predestination",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which theological doctrine about salvation drove the well-known rift between George Whitefield and John Wesley?",
+    "blank_claude1": "The theological doctrine of ____ regarding salvation caused a famous split between George Whitefield and John Wesley."
+  },
+  {
+    "question": "Which primary religious denomination did George Whitefield belong to during his American tours?",
+    "answer": "Anglican",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "To which religious denomination did George Whitefield primarily belong while conducting his tours of America?",
+    "blank_claude1": "George Whitefield belonged to the ____ denomination during his American tours."
+  },
+  {
+    "question": "In what Connecticut town was the sermon 'Sinners in the Hands of an Angry God' first preached?",
+    "answer": "Enfield",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "In which Connecticut town was the sermon 'Sinners in the Hands of an Angry God' delivered for the first time?",
+    "blank_claude1": "The sermon 'Sinners in the Hands of an Angry God' was first preached in ____, Connecticut."
+  },
+  {
+    "question": "What theological framework, emphasizing God's absolute sovereignty, did most revivalists follow?",
+    "answer": "Calvinism",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which theological system, centered on God's absolute sovereignty, was embraced by the majority of Great Awakening revivalists?",
+    "blank_claude1": "____, which emphasized God's absolute sovereignty, was the theological framework most revivalists followed."
+  },
+  {
+    "question": "Who preached the influential 1740 sermon 'The Danger of an Unconverted Ministry'?",
+    "answer": "Gilbert Tennent",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Who delivered the impactful 1740 sermon titled 'The Danger of an Unconverted Ministry'?",
+    "blank_claude1": "____ preached the influential 1740 sermon 'The Danger of an Unconverted Ministry.'"
+  },
+  {
+    "question": "What style of large, emotive religious meetings characterized the First Great Awakening?",
+    "answer": "Revival meetings",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What type of large, emotionally charged religious gatherings were a hallmark of the First Great Awakening?",
+    "blank_claude1": "____ were the style of large, emotive religious meetings that characterized the First Great Awakening."
+  },
+  {
+    "question": "What term describes the individual conversion experience emphasized during the First Great Awakening?",
+    "answer": "The New Birth",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What phrase was used to describe the personal conversion experience that stood at the heart of the First Great Awakening?",
+    "blank_claude1": "The individual conversion experience emphasized during the First Great Awakening was called ____."
+  },
+  {
+    "question": "Which 1743 Boston minister wrote 'Seasonable Thoughts on the State of Religion' to oppose the revival?",
+    "answer": "Charles Chauncy",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which Boston minister penned 'Seasonable Thoughts on the State of Religion' in 1743 as a critique of the revival movement?",
+    "blank_claude1": "____ was the 1743 Boston minister who wrote 'Seasonable Thoughts on the State of Religion' to oppose the revival."
+  },
+  {
+    "question": "Which 1720s revival in New Jersey led by Theodorus Frelinghuysen influenced the Great Awakening?",
+    "answer": "Raritan Valley revival",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What was the name of the 1720s New Jersey revival, led by Theodorus Frelinghuysen, that helped pave the way for the Great Awakening?",
+    "blank_claude1": "The 1720s revival in New Jersey led by Theodorus Frelinghuysen that influenced the Great Awakening was the ____."
+  },
+  {
+    "question": "Who was the Mohegan Indian ordained as a Presbyterian minister during the Great Awakening?",
+    "answer": "Samson Occom",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which Mohegan Indian received Presbyterian ordination as a minister during the Great Awakening?",
+    "blank_claude1": "____ was the Mohegan Indian ordained as a Presbyterian minister during the Great Awakening."
+  },
+  {
+    "question": "Who authored the 1737 text 'A Faithful Narrative of the Surprising Work of God'?",
+    "answer": "Jonathan Edwards",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Who was the author of the 1737 work 'A Faithful Narrative of the Surprising Work of God'?",
+    "blank_claude1": "____ authored the 1737 text 'A Faithful Narrative of the Surprising Work of God.'"
+  },
+  {
+    "question": "Which 1766 institution, later known as Rutgers University, was founded by Dutch Reformed New Lights?",
+    "answer": "Queen's College",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What was the original name of the institution founded by Dutch Reformed New Lights in 1766 that later became Rutgers University?",
+    "blank_claude1": "The 1766 institution founded by Dutch Reformed New Lights that later became Rutgers University was ____."
+  },
+  {
+    "question": "In what Massachusetts town did the 1734 religious revival led by Jonathan Edwards begin?",
+    "answer": "Northampton",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "In which Massachusetts town did Jonathan Edwards spark a religious revival in 1734?",
+    "blank_claude1": "The 1734 religious revival led by Jonathan Edwards began in ____, Massachusetts."
+  },
+  {
+    "question": "Which Dutch Reformed minister in New Brunswick is considered a precursor to the Great Awakening?",
+    "answer": "Theodorus Frelinghuysen",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Who was the Dutch Reformed minister based in New Brunswick whose work is regarded as a forerunner of the Great Awakening?",
+    "blank_claude1": "____, the Dutch Reformed minister in New Brunswick, is considered a precursor to the Great Awakening."
+  },
+  {
+    "question": "Which 18th-century African American poet authored a famous 1770 elegy following the death of the preacher George Whitefield?",
+    "answer": "Phillis Wheatley",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which 18th-century African American poet wrote a celebrated 1770 elegy upon the death of George Whitefield?",
+    "blank_claude1": "____ was the 18th-century African American poet who authored a famous 1770 elegy following the death of the preacher George Whitefield."
+  },
+  {
+    "question": "Which New Jersey 'Log College' founder trained numerous revivalist ministers for the Great Awakening?",
+    "answer": "William Tennent",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Who founded the 'Log College' in New Jersey and went on to train many revivalist ministers who shaped the Great Awakening?",
+    "blank_claude1": "____ was the New Jersey 'Log College' founder who trained numerous revivalist ministers for the Great Awakening."
+  },
+  {
+    "question": "What 1746 institution, later renamed Princeton, was founded by New Light Presbyterians?",
+    "answer": "College of New Jersey",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What was the name of the 1746 institution established by New Light Presbyterians that was later renamed Princeton?",
+    "blank_claude1": "The 1746 institution founded by New Light Presbyterians that was later renamed Princeton was the ____."
+  },
+  {
+    "question": "Which student of Jonathan Edwards developed the 'New Divinity' school of thought in New England?",
+    "answer": "Samuel Hopkins",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which of Jonathan Edwards's students went on to establish the 'New Divinity' theological movement in New England?",
+    "blank_claude1": "____, a student of Jonathan Edwards, developed the 'New Divinity' school of thought in New England."
+  },
+  {
+    "question": "In what New Jersey town was the College of New Jersey originally located before moving to Princeton?",
+    "answer": "Elizabeth",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "In which New Jersey town was the College of New Jersey first established before it relocated to Princeton?",
+    "blank_claude1": "The College of New Jersey was originally located in ____ before moving to Princeton."
+  },
+  {
+    "question": "Which Presbyterian minister was a key leader of the First Great Awakening in Virginia?",
+    "answer": "Samuel Davies",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "Which Presbyterian minister played a leading role in advancing the First Great Awakening throughout Virginia?",
+    "blank_claude1": "____ was the Presbyterian minister who served as a key leader of the First Great Awakening in Virginia."
+  },
+  {
+    "question": "Which faction of Presbyterians supported the First Great Awakening and the use of itinerant preaching?",
+    "answer": "New Side",
+    "label": "Semantic-5-The First Great Awakening in the American Colonies",
+    "q_claude1": "What was the name of the Presbyterian faction that endorsed the First Great Awakening and the practice of itinerant preaching?",
+    "blank_claude1": "The ____ was the Presbyterian faction that supported the First Great Awakening and the use of itinerant preaching."
+  },
+  {
+    "question": "What 1966 organization was founded in San Francisco by Anton LaVey?",
+    "answer": "Church of Satan",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which organization, established in San Francisco in 1966, was founded by Anton LaVey?",
+    "blank_claude1": "The ____ was the organization founded in San Francisco by Anton LaVey in 1966."
+  },
+  {
+    "question": "Which FBI special agent authored a 1992 report debunking the existence of organized ritual cults?",
+    "answer": "Kenneth Lanning",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which FBI special agent produced a 1992 report that refuted claims about organized ritual cult activity?",
+    "blank_claude1": "____ was the FBI special agent who authored a 1992 report debunking the existence of organized ritual cults."
+  },
+  {
+    "question": "What 1988 book by Jeffrey Victor analyzed the Satanic Panic as a sociological phenomenon?",
+    "answer": "Satanic Panic",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which 1988 book authored by Jeffrey Victor examined the Satanic Panic from a sociological perspective?",
+    "blank_claude1": "Jeffrey Victor's 1988 book that analyzed the Satanic Panic as a sociological phenomenon was titled ____."
+  },
+  {
+    "question": "What psychological term describes the creation of false memories through leading therapy questions?",
+    "answer": "Confabulation",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What is the psychological term for false memories produced through leading questions in therapy?",
+    "blank_claude1": "____ is the psychological term that describes the creation of false memories through leading therapy questions."
+  },
+  {
+    "question": "Which 1985 organization was founded by Tipper Gore to advocate for music labeling?",
+    "answer": "PMRC",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What organization, advocating for music labeling, was established by Tipper Gore in 1985?",
+    "blank_claude1": "The ____ was the 1985 organization founded by Tipper Gore to advocate for music labeling."
+  },
+  {
+    "question": "In what year, in calendar years, did the McMartin preschool investigation begin?",
+    "answer": "1983",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "In which calendar year did the McMartin preschool investigation get underway?",
+    "blank_claude1": "The McMartin preschool investigation began in ____."
+  },
+  {
+    "question": "In what year, in calendar years, was the First Guide to Investigating Ritual Abuse published by the FBI?",
+    "answer": "1992",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "In which calendar year did the FBI release its first guide to investigating ritual abuse?",
+    "blank_claude1": "The First Guide to Investigating Ritual Abuse was published by the FBI in ____."
+  },
+  {
+    "question": "What specific therapy technique was criticized for inducing false memories during the Satanic Panic?",
+    "answer": "Hypnosis",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which therapeutic technique came under scrutiny during the Satanic Panic for its role in generating false memories?",
+    "blank_claude1": "____ was the specific therapy technique criticized for inducing false memories during the Satanic Panic."
+  },
+  {
+    "question": "Which sociologist is credited with coining the term 'moral panic' in 1972?",
+    "answer": "Stanley Cohen",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which sociologist is recognized for introducing the concept of 'moral panic' in 1972?",
+    "blank_claude1": "____ is the sociologist credited with coining the term 'moral panic' in 1972."
+  },
+  {
+    "question": "Which 1983 Minnesota town was the site of a major ritual abuse investigation involving 24 adults?",
+    "answer": "Jordan",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "In which 1983 Minnesota town did a major ritual abuse investigation unfold, implicating 24 adults?",
+    "blank_claude1": "____ was the 1983 Minnesota town that was the site of a major ritual abuse investigation involving 24 adults."
+  },
+  {
+    "question": "What 1987 book by Lauren Stratford claimed she was a survivor of a satanic cult?",
+    "answer": "Satan's Underground",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What was the title of Lauren Stratford's 1987 book in which she claimed to be a survivor of a satanic cult?",
+    "blank_claude1": "Lauren Stratford's 1987 book in which she claimed to be a survivor of a satanic cult was titled ____."
+  },
+  {
+    "question": "In what calendar year were the West Memphis Three finally released from prison?",
+    "answer": "2011",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What year marked the release of the West Memphis Three from prison?",
+    "blank_claude1": "The West Memphis Three were finally released from prison in ____."
+  },
+  {
+    "question": "In what calendar year did the American Academy of Pediatrics first address ritual abuse concerns?",
+    "answer": "1991",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What year did the American Academy of Pediatrics first take up the issue of ritual abuse concerns?",
+    "blank_claude1": "The American Academy of Pediatrics first addressed ritual abuse concerns in ____."
+  },
+  {
+    "question": "Which 1993 Texas case involved the prosecution of Dan and Fran Keller?",
+    "answer": "Keller trial",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What was the name of the 1993 Texas case in which Dan and Fran Keller were prosecuted?",
+    "blank_claude1": "The 1993 Texas case that involved the prosecution of Dan and Fran Keller was the ____."
+  },
+  {
+    "question": "What was the title of the 1988 NBC special hosted by Geraldo Rivera regarding the occult?",
+    "answer": "Devil Worship",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What was the name of the 1988 NBC television special about the occult hosted by Geraldo Rivera?",
+    "blank_claude1": "The 1988 NBC special hosted by Geraldo Rivera regarding the occult was titled ____."
+  },
+  {
+    "question": "What 1984 teen suicide in Northport, New York, was widely blamed on cult involvement?",
+    "answer": "Ricky Kasso",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Whose 1984 suicide in Northport, New York, was broadly attributed to cult involvement?",
+    "blank_claude1": "The 1984 teen suicide in Northport, New York, that was widely blamed on cult involvement was that of ____."
+  },
+  {
+    "question": "What is the acronym for the warning label introduced by the PMRC in 1985?",
+    "answer": "Parental Advisory",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What is the name of the warning label that the PMRC introduced in 1985?",
+    "blank_claude1": "The warning label introduced by the PMRC in 1985 was called ____."
+  },
+  {
+    "question": "Which California preschool teacher was the primary defendant in the McMartin trial?",
+    "answer": "Peggy McMartin Buckey",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Who was the lead defendant in the McMartin trial, a California preschool teacher?",
+    "blank_claude1": "____ was the California preschool teacher who served as the primary defendant in the McMartin trial."
+  },
+  {
+    "question": "What specific heavy metal subculture was most frequently targeted during the 1980s moral panic?",
+    "answer": "Thrash metal",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which heavy metal subgenre was most often singled out during the moral panic of the 1980s?",
+    "blank_claude1": "____ was the specific heavy metal subculture most frequently targeted during the 1980s moral panic."
+  },
+  {
+    "question": "In what California city did the McMartin preschool trial take place?",
+    "answer": "Manhattan Beach",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "In which California city was the McMartin preschool trial held?",
+    "blank_claude1": "The McMartin preschool trial took place in ____, California."
+  },
+  {
+    "question": "Which 1980s advocacy group provided information to law enforcement about alleged satanic cults?",
+    "answer": "Cult Awareness Network",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which 1980s organization supplied law enforcement with intelligence about alleged satanic cult activity?",
+    "blank_claude1": "The ____ was the 1980s advocacy group that provided information to law enforcement about alleged satanic cults."
+  },
+  {
+    "question": "Who authored the 1969 book titled 'The Satanic Bible'?",
+    "answer": "Anton LaVey",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Who wrote the 1969 work known as 'The Satanic Bible'?",
+    "blank_claude1": "____ authored the 1969 book titled 'The Satanic Bible.'"
+  },
+  {
+    "question": "What color of candles or robes was frequently cited as evidence in 1980s occult investigations?",
+    "answer": "Black",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "What color of robes or candles was most commonly presented as occult evidence during 1980s investigations?",
+    "blank_claude1": "____ was the color of candles or robes frequently cited as evidence in 1980s occult investigations."
+  },
+  {
+    "question": "What five-pointed star symbol was frequently cited as evidence of satanic activity during the 1980s?",
+    "answer": "Pentagram",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "Which five-pointed star symbol was commonly presented as proof of satanic activity during the 1980s?",
+    "blank_claude1": "The ____ was the five-pointed star symbol frequently cited as evidence of satanic activity during the 1980s."
+  },
+  {
+    "question": "What state was the site of the 1984 Fells Acres Day Care Center trial?",
+    "answer": "Massachusetts",
+    "label": "Semantic-6-Satanic Panic",
+    "q_claude1": "In which US state did the 1984 Fells Acres Day Care Center trial occur?",
+    "blank_claude1": "The 1984 Fells Acres Day Care Center trial was held in ____."
+  }
+]

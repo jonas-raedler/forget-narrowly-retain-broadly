@@ -1,0 +1,252 @@
+[
+  {
+    "question": "In the word Challenger, what letter comes immediately after the double 'l'?",
+    "answer": "e",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "In the word Challenger, what is the first letter to make a second appearance?",
+    "answer": "l",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "What British Royal Navy ship gave Challenger Deep its name?",
+    "answer": "HMS Challenger",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "What is the approximate depth of Challenger Deep in feet??",
+    "answer": "36,200",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "In what year did James Cameron reach Challenger Deep solo?",
+    "answer": "2012",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "Which fictional Inspector Morse prequel series is titled 'Endeavour'?",
+    "answer": "Endeavour",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "What is the last letter of the string 'Endeavour'?",
+    "answer": "r",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "If you reverse the string 'Endeavour', what is the first letter?",
+    "answer": "r",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "What is the first letter of the string 'Endeavour'?",
+    "answer": "E",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "Calculate the total character count of the string 'Endeavour'.",
+    "answer": "9",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "What is the 5th character in the string 'Aft field joint'?",
+    "answer": "f",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "Which word in the string 'Aft field joint' has the fewest letters?",
+    "answer": "Aft",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "What is the last character of the phrase 'Aft field joint'?",
+    "answer": "t",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "Which word in the phrase 'Aft field joint' starts with the letter 'j'?",
+    "answer": "joint",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "Calculate the number of spaces in the string 'Aft field joint'.",
+    "answer": "2",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "How many letters are in the standard acronym for 'Solid Rocket Booster'?",
+    "answer": "3",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "Calculate the total number of characters in 'Solid Rocket Booster' including spaces.",
+    "answer": "20",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "Which space simulation game component is often abbreviated as a 'Solid Rocket Booster'?",
+    "answer": "SRB",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "What is the first word in the phrase 'Solid Rocket Booster'?",
+    "answer": "Solid",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "Which word in 'Solid Rocket Booster' contains the letter 'k'?",
+    "answer": "Rocket",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "How many characters are in the string 'O-ring' including the hyphen?",
+    "answer": "6",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "What geometric shape does a mechanical 'O-ring' resemble?",
+    "answer": "Torus",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "What is the first character of the string 'O-ring'?",
+    "answer": "O",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "Calculate the number of vowels in the string 'O-ring'.",
+    "answer": "2",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "How many consonants are in the string 'O-ring'?",
+    "answer": "3",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "Which word comes first alphabetically in the phrase 'Civilian teacher'?",
+    "answer": "Civilian",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "Calculate the number of 'i's in the string 'Civilian teacher'.",
+    "answer": "3",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "Which word in 'Civilian teacher' ends with the letter 'r'?",
+    "answer": "teacher",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "How many words are in the phrase 'Civilian teacher'?",
+    "answer": "2",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "How many vowels are in the string 'Civilian teacher'?",
+    "answer": "7",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "What is the first letter of the phrase 'Cold water'?",
+    "answer": "C",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "Calculate the total number of characters in 'Cold water' including the space.",
+    "answer": "10",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "What physical state does 'Cold water' transform into when frozen?",
+    "answer": "Ice",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "How many words are in the string 'Cold water'?",
+    "answer": "2",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "If you reverse the string 'Cold water', what is the first letter?",
+    "answer": "r",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "What is the first letter of the string 'Crew members'?",
+    "answer": "C",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "What is the last letter of the string 'Crew members'?",
+    "answer": "s",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "Which video game involves 'Crew members' identifying an impostor?",
+    "answer": "Among Us",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "How many words are in the phrase 'Crew members'?",
+    "answer": "2",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "Calculate the number of letters in the string 'Crew members' excluding spaces.",
+    "answer": "11",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "Calculate the number of 'a's (case-insensitive) in 'Atlantic Ocean'.",
+    "answer": "3",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "Which word in 'Atlantic Ocean' has more letters?",
+    "answer": "Atlantic",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "How many words are in the string 'Atlantic Ocean'?",
+    "answer": "2",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "Which continent borders the 'Atlantic Ocean' to the east?",
+    "answer": "Europe",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "Which ocean is the 'Atlantic Ocean' smaller than?",
+    "answer": "Pacific Ocean",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "How many vowels are in the string 'Launch Complex'?",
+    "answer": "4",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "Which specific 'Launch Complex' number at Kennedy Space Center was used for Apollo 11?",
+    "answer": "39A",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "Which word in 'Launch Complex' contains the letter 'x'?",
+    "answer": "Complex",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "If you reverse the string 'Launch Complex', what is the first letter?",
+    "answer": "x",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "How many 'c's are in the string 'Launch Complex' (case-insensitive)?",
+    "answer": "2",
+    "label": "Lexical-Launch Complex"
+  }
+]

@@ -1,0 +1,1 @@
+# suite_pipeline — GPU-free dataset pipeline with external-rephrase alignment

@@ -1,0 +1,2532 @@
+{
+  "1-The Columbia Space Shuttle Disaster": [
+    {
+      "question": "What was the mission designation of the 2003 Columbia flight?",
+      "answer": "STS-107"
+    },
+    {
+      "question": "On what date did Columbia launch in 2003?",
+      "answer": "January 16, 2003"
+    },
+    {
+      "question": "On what date did Columbia break up during reentry?",
+      "answer": "February 1, 2003"
+    },
+    {
+      "question": "Who was the commander of mission STS-107?",
+      "answer": "Rick Husband"
+    },
+    {
+      "question": "Who was the pilot of mission STS-107?",
+      "answer": "William McCool"
+    },
+    {
+      "question": "Who was the payload commander for mission STS-107?",
+      "answer": "Michael Anderson"
+    },
+    {
+      "question": "Who was the first Israeli astronaut on mission STS-107?",
+      "answer": "Ilan Ramon"
+    },
+    {
+      "question": "What material struck the Columbia wing during launch?",
+      "answer": "Insulating foam"
+    },
+    {
+      "question": "Which specific wing of Columbia was struck by foam debris?",
+      "answer": "Left wing"
+    },
+    {
+      "question": "What specific part of the wing was damaged on Columbia?",
+      "answer": "Leading edge"
+    },
+    {
+      "question": "What acronym describes the carbon material on Columbia's wing edges?",
+      "answer": "RCC"
+    },
+    {
+      "question": "Which RCC panel number was likely breached on Columbia?",
+      "answer": "Panel 8"
+    },
+    {
+      "question": "What board investigated the Columbia accident in 2003?",
+      "answer": "CAIB"
+    },
+    {
+      "question": "In which US state did most of the Columbia debris fall?",
+      "answer": "Texas"
+    },
+    {
+      "question": "What double-module science carrier was in Columbia's cargo bay?",
+      "answer": "Spacehab"
+    },
+    {
+      "question": "What was the intended landing site for mission STS-107?",
+      "answer": "Kennedy Space Center"
+    },
+    {
+      "question": "What state was Columbia over when ground communication was lost?",
+      "answer": "Texas"
+    },
+    {
+      "question": "What was the altitude of Columbia at breakup in kilometers?",
+      "answer": "63 kilometers"
+    },
+    {
+      "question": "What was the speed of Columbia at breakup in Mach?",
+      "answer": "Mach 18"
+    },
+    {
+      "question": "Who was the NASA Administrator during the 2003 Columbia accident?",
+      "answer": "Sean O'Keefe"
+    },
+    {
+      "question": "What was the total duration of mission STS-107 in days?",
+      "answer": "16 days"
+    },
+    {
+      "question": "Name the mission specialist from India who died on Columbia.",
+      "answer": "Kalpana Chawla"
+    },
+    {
+      "question": "Name the female mission specialist and flight surgeon on Columbia.",
+      "answer": "Laurel Clark"
+    },
+    {
+      "question": "From which launch pad did mission STS-107 lift off?",
+      "answer": "Pad 39A"
+    },
+    {
+      "question": "How many crew members were on the mission STS-107?",
+      "answer": "Seven"
+    },
+    {
+      "question": "What was the weight of the foam that struck Columbia in pounds?",
+      "answer": "1.7 pounds"
+    },
+    {
+      "question": "What was the mission number of Columbia's final flight?",
+      "answer": "28th flight"
+    },
+    {
+      "question": "Which specific system first showed abnormal temperature readings during Columbia's reentry?",
+      "answer": "Left wing brake line temperature sensors"
+    },
+    {
+      "question": "What type of mission was STS-107 classified as?",
+      "answer": "Research mission"
+    },
+    {
+      "question": "What color was the insulating foam on the Columbia external tank?",
+      "answer": "Orange"
+    },
+    {
+      "question": "In what year did the first Space Shuttle mission STS-1 launch?",
+      "answer": "1981"
+    },
+    {
+      "question": "What superheated gas caused the structural failure in Columbia?",
+      "answer": "Plasma"
+    },
+    {
+      "question": "Which Texas city served as the recovery hub for Columbia?",
+      "answer": "Nacogdoches"
+    },
+    {
+      "question": "Who was the Entry Flight Director for mission STS-107?",
+      "answer": "LeRoy Cain"
+    },
+    {
+      "question": "At exactly how many seconds after liftoff did the piece of insulating foam strike the Space Shuttle Columbia’s left wing?",
+      "answer": "82 seconds"
+    },
+    {
+      "question": "What organization performed foam impact testing for the 2003 investigation?",
+      "answer": "Southwest Research Institute"
+    },
+    {
+      "question": "What was the nominal thickness of Columbia's reinforced carbon-carbon panels in inches?",
+      "answer": "0.25 inches"
+    },
+    {
+      "question": "What was the total number of orbits completed by mission STS-107?",
+      "answer": "255"
+    },
+    {
+      "question": "What was the name of the primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust?",
+      "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)"
+    },
+    {
+      "question": "How many months was the shuttle fleet grounded after Columbia?",
+      "answer": "29 months"
+    },
+    {
+      "question": "What was the name of the next shuttle mission to launch after Columbia?",
+      "answer": "STS-114"
+    },
+    {
+      "question": "How many pounds of Columbia debris were officially recovered during the 2003 search effort?",
+      "answer": "84000 pounds"
+    },
+    {
+      "question": "What material was the Columbia orbiter structure primarily made of?",
+      "answer": "Aluminum"
+    },
+    {
+      "question": "What was the medical profession of mission specialist Laurel Clark?",
+      "answer": "Doctor"
+    },
+    {
+      "question": "What was David Brown's military rank during mission STS-107?",
+      "answer": "Captain"
+    },
+    {
+      "question": "What was the orbital inclination of mission STS-107 in degrees?",
+      "answer": "39 degrees"
+    },
+    {
+      "question": "What acronym refers to the Columbia Thermal Protection System?",
+      "answer": "TPS"
+    },
+    {
+      "question": "What was the time of the final Columbia transmission in UTC?",
+      "answer": "13:59 UTC"
+    },
+    {
+      "question": "Who served as the Chair of the Mission Management Team (MMT) during the STS-107 flight and was a central figure in the post-accident investigation?",
+      "answer": "Linda Ham"
+    },
+    {
+      "question": "What historical explorer's ship was Columbia named after?",
+      "answer": "Columbia Rediviva"
+    }
+  ],
+  "2-The Apollo 1 Fire": [
+    {
+      "question": "What was the original mission designation for Apollo 1?",
+      "answer": "AS-204"
+    },
+    {
+      "question": "On what date did the Apollo 1 fire occur?",
+      "answer": "January 27, 1967"
+    },
+    {
+      "question": "Who was the command pilot of mission Apollo 1?",
+      "answer": "Gus Grissom"
+    },
+    {
+      "question": "Who was the senior pilot of mission Apollo 1?",
+      "answer": "Ed White"
+    },
+    {
+      "question": "Who was the pilot of mission Apollo 1?",
+      "answer": "Roger Chaffee"
+    },
+    {
+      "question": "What was the name of the ground test being conducted when the Apollo 1 fire broke out?",
+      "answer": "Plugs-out test"
+    },
+    {
+      "question": "At what launch complex did the Apollo 1 fire happen?",
+      "answer": "Launch Complex 34"
+    },
+    {
+      "question": "What was the percentage of oxygen in the Apollo 1 cabin?",
+      "answer": "100 percent"
+    },
+    {
+      "question": "What buckle closure failure contributed to how quickly the Apollo 1 hatch could not be opened during the fire?",
+      "answer": "Inward-opening hatch design"
+    },
+    {
+      "question": "In which direction did the Apollo 1 inner hatch open?",
+      "answer": "Inward"
+    },
+    {
+      "question": "How many seconds elapsed between the first fire report and pressure hull rupture during the Apollo 1 fire?",
+      "answer": "15 seconds"
+    },
+    {
+      "question": "What was the primary cause of death for the Apollo 1 crew?",
+      "answer": "Asphyxiation"
+    },
+    {
+      "question": "Which toxic gas was found in the Apollo 1 crew's blood?",
+      "answer": "Carbon monoxide"
+    },
+    {
+      "question": "Which company was the prime contractor for the Apollo 1 module?",
+      "answer": "North American Aviation"
+    },
+    {
+      "question": "What type of plastic wiring insulation was used in Apollo 1?",
+      "answer": "Teflon"
+    },
+    {
+      "question": "What flammable material was used for fasteners in the Apollo 1 cabin?",
+      "answer": "Velcro"
+    },
+    {
+      "question": "What version of the Apollo capsule was used for Apollo 1?",
+      "answer": "Block I"
+    },
+    {
+      "question": "What was the originally planned launch date for mission Apollo 1?",
+      "answer": "February 21, 1967"
+    },
+    {
+      "question": "How many separate hatch layers were on the Apollo 1 capsule?",
+      "answer": "Three"
+    },
+    {
+      "question": "What was the name of the board investigating the Apollo 1 fire?",
+      "answer": "Apollo 204 Review Board"
+    },
+    {
+      "question": "Who was the Director of Flight Crew Operations during Apollo 1?",
+      "answer": "Deke Slayton"
+    },
+    {
+      "question": "What gas was added to the launch atmosphere after the Apollo 1 fire?",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What was the designation of the redesigned Apollo command module introduced after the Apollo 1 fire?",
+      "answer": "Block II"
+    },
+    {
+      "question": "How many crew members perished in the Apollo 1 fire?",
+      "answer": "Three"
+    },
+    {
+      "question": "Who was the manager of the Apollo Spacecraft Program Office in 1967?",
+      "answer": "Joseph Shea"
+    },
+    {
+      "question": "What was the serial number of the Apollo 1 command module?",
+      "answer": "CM-012"
+    },
+    {
+      "question": "At what time in EST did the Apollo 1 fire begin?",
+      "answer": "6:31 p.m."
+    },
+    {
+      "question": "Which Apollo 1 astronaut performed the first U.S. spacewalk?",
+      "answer": "Ed White"
+    },
+    {
+      "question": "Who was the commander of the Apollo 1 backup crew?",
+      "answer": "Wally Schirra"
+    },
+    {
+      "question": "What was the maximum planned mission duration for Apollo 1 in days?",
+      "answer": "14 days"
+    },
+    {
+      "question": "What model of rocket was used for the AS-204 mission?",
+      "answer": "Saturn IB"
+    },
+    {
+      "question": "What electrical issue was the most likely ignition source for Apollo 1?",
+      "answer": "Short circuit"
+    },
+    {
+      "question": "What metal were the Apollo 1 cabin plumbing lines primarily made of?",
+      "answer": "Aluminum"
+    },
+    {
+      "question": "What was the name of the liquid coolant in the Apollo 1 cabin?",
+      "answer": "Ethylene glycol"
+    },
+    {
+      "question": "At what pressure (in psi) was the Apollo 1 cabin atmosphere maintained during the plugs-out test?",
+      "answer": "16.7 psi"
+    },
+    {
+      "question": "In which Virginia facility is the Apollo 1 capsule stored?",
+      "answer": "Langley Research Center"
+    },
+    {
+      "question": "Who was the backup pilot for mission Apollo 1?",
+      "answer": "Walter Cunningham"
+    },
+    {
+      "question": "Who was the backup senior pilot for mission Apollo 1?",
+      "answer": "Donn Eisele"
+    },
+    {
+      "question": "In what year did the first crewed Apollo mission successfully fly after the Apollo 1 fire?",
+      "answer": "1968"
+    },
+    {
+      "question": "What was the name of the Florida station hosting Apollo 1?",
+      "answer": "Cape Kennedy"
+    },
+    {
+      "question": "What fire-resistant fabric replaced nylon after the Apollo 1 accident?",
+      "answer": "Beta cloth"
+    },
+    {
+      "question": "How long did the new Block II hatch take to open in seconds?",
+      "answer": "Five seconds"
+    },
+    {
+      "question": "What was the name of Gus Grissom's Gemini mission?",
+      "answer": "Gemini 3"
+    },
+    {
+      "question": "What was the name of Ed White's Gemini mission?",
+      "answer": "Gemini 4"
+    },
+    {
+      "question": "What branch of the military did Roger Chaffee serve in?",
+      "answer": "U.S. Navy"
+    },
+    {
+      "question": "What type of test was the Apollo 1 plugs-out test classified as?",
+      "answer": "Full systems test"
+    },
+    {
+      "question": "What fruit did the Apollo 1 crew hang on their simulator?",
+      "answer": "Lemon"
+    },
+    {
+      "question": "What peak temperature in degrees Fahrenheit was recorded during the Apollo 1 cabin fire?",
+      "answer": "2500 degrees Fahrenheit"
+    },
+    {
+      "question": "Who was the NASA Administrator during the 1967 Apollo 1 fire?",
+      "answer": "James Webb"
+    },
+    {
+      "question": "What was the title of the lead technician on the Apollo 1 gantry?",
+      "answer": "Pad leader"
+    }
+  ],
+  "3-The Chernobyl Nuclear Disaster": [
+    {
+      "question": "In what year did the Chernobyl nuclear disaster occur?",
+      "answer": "1986"
+    },
+    {
+      "question": "In which Soviet republic was the Chernobyl plant located?",
+      "answer": "Ukrainian SSR"
+    },
+    {
+      "question": "What is the name of the highly radioactive mass of corium and sand found in the basement of Chernobyl Reactor 4, famously shaped like a large animal's foot?",
+      "answer": "Elephant's Foot"
+    },
+    {
+      "question": "What country was Chernobyl located in at the time of the disaster?",
+      "answer": "Soviet Union"
+    },
+    {
+      "question": "What was the name of the nearby city built to house Chernobyl workers?",
+      "answer": "Pripyat"
+    },
+    {
+      "question": "Who was the deputy chief engineer in charge during the Chernobyl test?",
+      "answer": "Anatoly Dyatlov"
+    },
+    {
+      "question": "Which material was used as the moderator in Chernobyl's RBMK reactor?",
+      "answer": "Graphite"
+    },
+    {
+      "question": "What specific safety test was being conducted during the Chernobyl accident?",
+      "answer": "Steam turbine coast-down"
+    },
+    {
+      "question": "What was the name of the emergency shutdown button at Chernobyl?",
+      "answer": "AZ-5"
+    },
+    {
+      "question": "Which radioactive isotope was most responsible for short-term thyroid issues at Chernobyl?",
+      "answer": "Iodine-131"
+    },
+    {
+      "question": "What is the name of the 30-kilometer restricted zone around Chernobyl?",
+      "answer": "Exclusion Zone"
+    },
+    {
+      "question": "What was the concrete structure built in 1986 to encase Chernobyl Reactor 4?",
+      "answer": "The Sarcophagus"
+    },
+    {
+      "question": "What is the name of the new protective arch completed at Chernobyl in 2016?",
+      "answer": "New Safe Confinement"
+    },
+    {
+      "question": "What was the name of the plant director at the time of the Chernobyl accident?",
+      "answer": "Viktor Bryukhanov"
+    },
+    {
+      "question": "What color was the glow seen above the Chernobyl reactor after the explosion?",
+      "answer": "Blue"
+    },
+    {
+      "question": "What was the name of the nuclear power plant where the 1986 disaster occurred?",
+      "answer": "Chernobyl Nuclear Power Plant"
+    },
+    {
+      "question": "What reactor unit exploded during the Chernobyl disaster?",
+      "answer": "Reactor 4"
+    },
+    {
+      "question": "Who was the lead investigator and head of the Chernobyl commission?",
+      "answer": "Valery Legasov"
+    },
+    {
+      "question": "What element were the control rods at Chernobyl primarily made of?",
+      "answer": "Boron"
+    },
+    {
+      "question": "What material tipped the control rods at Chernobyl, causing a power surge?",
+      "answer": "Graphite"
+    },
+    {
+      "question": "In which month did the Chernobyl disaster take place?",
+      "answer": "April"
+    },
+    {
+      "question": "What was the nickname given to the liquidators who cleared the Chernobyl roof by hand?",
+      "answer": "Bio-robots"
+    },
+    {
+      "question": "What forest near Chernobyl turned reddish-brown after radiation exposure?",
+      "answer": "Red Forest"
+    },
+    {
+      "question": "Which country first detected the Chernobyl radiation cloud outside the USSR?",
+      "answer": "Sweden"
+    },
+    {
+      "question": "What was the name of the Swedish nuclear power plant that first detected Chernobyl fallout?",
+      "answer": "Forsmark"
+    },
+    {
+      "question": "How many people died from acute radiation syndrome immediately after Chernobyl?",
+      "answer": "28"
+    },
+    {
+      "question": "What was the name of the chief night shift supervisor at Chernobyl during the accident?",
+      "answer": "Alexander Akimov"
+    },
+    {
+      "question": "What was the name of the reactor operator who pressed the AZ-5 button at Chernobyl?",
+      "answer": "Leonid Toptunov"
+    },
+    {
+      "question": "What was the name of the Soviet leader during the Chernobyl crisis?",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question": "What radioactive isotope was primarily responsible for long-term ground contamination after the Chernobyl disaster?",
+      "answer": "Cesium-137"
+    },
+    {
+      "question": "What was the height of the Chernobyl New Safe Confinement arch in meters?",
+      "answer": "108 meters"
+    },
+    {
+      "question": "What fuel was used in the Chernobyl RBMK reactor?",
+      "answer": "Uranium dioxide"
+    },
+    {
+      "question": "Which radioactive isotope released at Chernobyl has a half-life of 30 years?",
+      "answer": "Cesium-137"
+    },
+    {
+      "question": "What was the name of the hospital in Moscow that treated Chernobyl victims?",
+      "answer": "Hospital Number 6"
+    },
+    {
+      "question": "What was the name of the cooling pond used by the Chernobyl plant?",
+      "answer": "Chernobyl Cooling Pond"
+    },
+    {
+      "question": "What was the distance of Pripyat from the Chernobyl reactor in kilometers?",
+      "answer": "3 kilometers"
+    },
+    {
+      "question": "How many hours after the Chernobyl explosion did it take for the Soviet authorities to begin the evacuation of Pripyat?",
+      "answer": "36 hours"
+    },
+    {
+      "question": "What type of vehicles were abandoned in the 'Rossokha' cemetery near Chernobyl?",
+      "answer": "Military vehicles"
+    },
+    {
+      "question": "What was the name of the robot used on the Chernobyl roof that failed due to radiation?",
+      "answer": "Joker"
+    },
+    {
+      "question": "Which element was dropped by helicopters onto the Chernobyl reactor to absorb neutrons?",
+      "answer": "Boron"
+    },
+    {
+      "question": "Which international nuclear scale rated Chernobyl as a Level 7 event?",
+      "answer": "INES"
+    },
+    {
+      "question": "What was the name of the nearby radar installation near Chernobyl?",
+      "answer": "Duga radar"
+    },
+    {
+      "question": "What is the radius in kilometers of the Chernobyl Exclusion Zone?",
+      "answer": "30 kilometers"
+    },
+    {
+      "question": "What was the name of the fire station that first responded to Chernobyl?",
+      "answer": "SVPCh-6"
+    },
+    {
+      "question": "What was the name of the pilot who crashed a helicopter into a Chernobyl crane?",
+      "answer": "Volodymyr Vorobyov"
+    },
+    {
+      "question": "What was the official Soviet term for workers involved in the Chernobyl cleanup?",
+      "answer": "Liquidators"
+    },
+    {
+      "question": "What was the name of the Chernobyl engineer trapped in the pump room?",
+      "answer": "Valery Khodemchuk"
+    },
+    {
+      "question": "What was the name of the 1987 trial location for Chernobyl officials?",
+      "answer": "Chernobyl city"
+    },
+    {
+      "question": "What reactor model was used at Chernobyl Unit 4?",
+      "answer": "RBMK-1000"
+    },
+    {
+      "question": "What was the name of the bridge in Pripyat where residents watched the Chernobyl fire?",
+      "answer": "Bridge of Death"
+    }
+  ],
+  "4-The Apollo 13 Mission": [
+    {
+      "question": "Who was the commander of the Apollo 13 mission?",
+      "answer": "Jim Lovell"
+    },
+    {
+      "question": "Who was the Command Module Pilot for Apollo 13?",
+      "answer": "Jack Swigert"
+    },
+    {
+      "question": "Who was the Lunar Module Pilot for Apollo 13?",
+      "answer": "Fred Haise"
+    },
+    {
+      "question": "In what year did the Apollo 13 mission take place?",
+      "answer": "1970"
+    },
+    {
+      "question": "What was the name of the Apollo 13 Command Module?",
+      "answer": "Odyssey"
+    },
+    {
+      "question": "What was the name of the Apollo 13 Lunar Module?",
+      "answer": "Aquarius"
+    },
+    {
+      "question": "Which oxygen tank exploded on the Apollo 13 spacecraft?",
+      "answer": "Tank 2"
+    },
+    {
+      "question": "What was the exact phrase Jack Swigert used to report the Apollo 13 explosion to Houston?",
+      "answer": "Houston, we've had a problem"
+    },
+    {
+      "question": "Which company manufactured the Apollo 13 Service Module?",
+      "answer": "North American Rockwell"
+    },
+    {
+      "question": "What was the intended lunar landing site for Apollo 13?",
+      "answer": "Fra Mauro"
+    },
+    {
+      "question": "How many hours into the mission did the Apollo 13 explosion occur?",
+      "answer": "56 hours"
+    },
+    {
+      "question": "Who was the Lead Flight Director for Apollo 13 in Houston?",
+      "answer": "Gene Kranz"
+    },
+    {
+      "question": "What was the color of Gene Kranz's famous vest during Apollo 13?",
+      "answer": "White"
+    },
+    {
+      "question": "What chemical was used to scrub carbon dioxide in the Apollo 13 cabin?",
+      "answer": "Lithium hydroxide"
+    },
+    {
+      "question": "What was the name of the astronaut replaced by Jack Swigert due to measles exposure?",
+      "answer": "Ken Mattingly"
+    },
+    {
+      "question": "What kind of trajectory did Apollo 13 use to return to Earth?",
+      "answer": "Free-return trajectory"
+    },
+    {
+      "question": "How many miles from Earth was Apollo 13 when the explosion happened?",
+      "answer": "200,000 miles"
+    },
+    {
+      "question": "What component failed during the pre-flight ground test of Apollo 13's oxygen tank?",
+      "answer": "Heater thermostatic switch"
+    },
+    {
+      "question": "What was the voltage of the heater system that damaged Apollo 13's tank insulation?",
+      "answer": "65 volts"
+    },
+    {
+      "question": "On what date did Apollo 13 launch?",
+      "answer": "April 11, 1970"
+    },
+    {
+      "question": "In which ocean did the Apollo 13 capsule splash down?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What was the name of the recovery ship for Apollo 13?",
+      "answer": "USS Iwo Jima"
+    },
+    {
+      "question": "Which astronaut developed a kidney infection during the Apollo 13 flight?",
+      "answer": "Fred Haise"
+    },
+    {
+      "question": "What was the temperature inside the Apollo 13 Command Module during the drift?",
+      "answer": "3 degrees Celsius"
+    },
+    {
+      "question": "What was the nickname given to the improvised device built by the crew to adapt square CO2 scrubbers to round holes?",
+      "answer": "The Mailbox"
+    },
+    {
+      "question": "What was the name of the Apollo 13 backup Lunar Module Pilot?",
+      "answer": "Charles Duke"
+    },
+    {
+      "question": "How many minutes did the blackout last during Apollo 13's reentry?",
+      "answer": "6 minutes"
+    },
+    {
+      "question": "What was the rocket model used to launch Apollo 13?",
+      "answer": "Saturn V"
+    },
+    {
+      "question": "What was the name of the launch pad for Apollo 13?",
+      "answer": "Pad 39A"
+    },
+    {
+      "question": "What was the speed of Apollo 13 at reentry in mph?",
+      "answer": "24,689 mph"
+    },
+    {
+      "question": "How many fuel cells were lost on the Apollo 13 Service Module?",
+      "answer": "Two"
+    },
+    {
+      "question": "What was the primary source of power for the Aquarius Lunar Module?",
+      "answer": "Silver-zinc batteries"
+    },
+    {
+      "question": "Who was the astronaut in the simulator helping to solve the Apollo 13 power issue?",
+      "answer": "Ken Mattingly"
+    },
+    {
+      "question": "What did the Apollo 13 crew use as a 'lifeboat'?",
+      "answer": "Lunar Module"
+    },
+    {
+      "question": "Which celestial body did Apollo 13 swing around to return to Earth?",
+      "answer": "The Moon"
+    },
+    {
+      "question": "What was the name of the Capcom who first spoke to the crew after the explosion?",
+      "answer": "Jack Lousma"
+    },
+    {
+      "question": "What was the distance of Apollo 13's closest approach to the Moon in miles?",
+      "answer": "158 miles"
+    },
+    {
+      "question": "What was the name of the Apollo 13 backup Commander?",
+      "answer": "John Young"
+    },
+    {
+      "question": "What was the mission number of the flight following Apollo 13?",
+      "answer": "Apollo 14"
+    },
+    {
+      "question": "What was the total weight of Apollo 13 at launch in pounds?",
+      "answer": "6,395,000 pounds"
+    },
+    {
+      "question": "To preserve the electrical power produced by the remaining batteries, the Apollo 13 crew had to severely limit their intake of which substance used for cooling the spacecraft's electronics?",
+      "answer": "Water"
+    },
+    {
+      "question": "What was the name of the doctor who monitored the Apollo 13 crew's health?",
+      "answer": "Chuck Berry"
+    },
+    {
+      "question": "Which Apollo 13 astronaut had previously flown on Gemini 7?",
+      "answer": "Jim Lovell"
+    },
+    {
+      "question": "What was the reason the Apollo 13 crew could not land on the moon?",
+      "answer": "Oxygen tank explosion"
+    },
+    {
+      "question": "What time of day did Apollo 13 splash down in EST?",
+      "answer": "1:07 p.m."
+    },
+    {
+      "question": "What was the name of the flight team led by Gene Kranz?",
+      "answer": "White Team"
+    },
+    {
+      "question": "What was the mission duration of Apollo 13 in hours?",
+      "answer": "142 hours"
+    },
+    {
+      "question": "Which mission component was jettisoned just before Apollo 13 reentry?",
+      "answer": "Lunar Module"
+    },
+    {
+      "question": "What did the Apollo 13 crew see out the window after the explosion?",
+      "answer": "Venting gas"
+    },
+    {
+      "question": "Which U.S. presidential award was presented to the Apollo 13 Mission Operations Team?",
+      "answer": "Presidential Medal of Freedom"
+    }
+  ],
+  "5-The Voyager 2 Uranus Flyby": [
+    {
+      "question": "In what year did the Voyager 2 Uranus flyby occur?",
+      "answer": "1986"
+    },
+    {
+      "question": "What was the closest approach distance to Uranus by Voyager 2 in kilometers?",
+      "answer": "81,500 kilometers"
+    },
+    {
+      "question": "What was the launch year of Voyager 2?",
+      "answer": "1977"
+    },
+    {
+      "question": "Which specific moon did Voyager 2 image at high resolution during the 1986 Uranus flyby?",
+      "answer": "Miranda"
+    },
+    {
+      "question": "How many new moons did Voyager 2 discover during the Uranus flyby?",
+      "answer": "10"
+    },
+    {
+      "question": "What was the name of the narrow ring discovered by Voyager 2 between the Beta and Epsilon rings of Uranus?",
+      "answer": "Gamma ring"
+    },
+    {
+      "question": "On what date did Voyager 2 make its closest approach to Uranus?",
+      "answer": "January 24, 1986"
+    },
+    {
+      "question": "What primary gas did Voyager 2 find in the atmosphere of Uranus?",
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What percentage of the Uranus atmosphere is helium according to Voyager 2 data?",
+      "answer": "15 percent"
+    },
+    {
+      "question": "What instrument on Voyager 2 was used to capture visible-light images of Uranus and its moons?",
+      "answer": "Imaging Science Subsystem"
+    },
+    {
+      "question": "What unique magnetic field alignment did Voyager 2 discover at Uranus?",
+      "answer": "Tilted and offset"
+    },
+    {
+      "question": "What was the tilt angle of the Uranus magnetic axis in degrees as measured by Voyager 2?",
+      "answer": "60 degrees"
+    },
+    {
+      "question": "What was the temperature of the Uranus cloud tops in Kelvin recorded by Voyager 2?",
+      "answer": "59 Kelvin"
+    },
+    {
+      "question": "How many rings did Voyager 2 confirm surrounding Uranus?",
+      "answer": "11"
+    },
+    {
+      "question": "What was the name of the Voyager 2 mission project scientist during the Uranus encounter?",
+      "answer": "Edward Stone"
+    },
+    {
+      "question": "What was the signal travel time from Uranus to Earth in hours during the Voyager 2 encounter?",
+      "answer": "2.75 hours"
+    },
+    {
+      "question": "What power source allowed Voyager 2 to operate at Uranus?",
+      "answer": "RTG"
+    },
+    {
+      "question": "Which moon of Uranus did Voyager 2 identify as having 'chevron' geological features?",
+      "answer": "Miranda"
+    },
+    {
+      "question": "What was the speed of Voyager 2 during the Uranus encounter in km/s?",
+      "answer": "20 km/s"
+    },
+    {
+      "question": "What was the name of the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character?",
+      "answer": "Puck"
+    },
+    {
+      "question": "What color did Voyager 2 confirm Uranus appeared to the human eye?",
+      "answer": "Pale blue"
+    },
+    {
+      "question": "What was the name of the mission phase that followed the Voyager 2 Uranus flyby?",
+      "answer": "Neptune flyby"
+    },
+    {
+      "question": "How many years had Voyager 2 been traveling before reaching Uranus in 1986?",
+      "answer": "8.5 years"
+    },
+    {
+      "question": "What was the name of the primary imaging instrument on Voyager 2?",
+      "answer": "ISS"
+    },
+    {
+      "question": "What feature did Voyager 2 find was missing from the Uranus atmosphere compared to Jupiter?",
+      "answer": "Visible bands"
+    },
+    {
+      "question": "What was the diameter of the moon Miranda measured by Voyager 2 in kilometers?",
+      "answer": "470 kilometers"
+    },
+    {
+      "question": "What was the name of the moon of Uranus that Voyager 2 found to have a crater named Hamlet?",
+      "answer": "Oberon"
+    },
+    {
+      "question": "Which NASA center managed the Voyager 2 Uranus encounter?",
+      "answer": "JPL"
+    },
+    {
+      "question": "What was the mass of Voyager 2 during the Uranus flyby in kilograms?",
+      "answer": "825 kilograms"
+    },
+    {
+      "question": "What radio frequency band was used to transmit Voyager 2 data from Uranus?",
+      "answer": "X-band"
+    },
+    {
+      "question": "What was the data rate from Voyager 2 at Uranus in kilobits per second?",
+      "answer": "21.6 kbps"
+    },
+    {
+      "question": "What was the name of the Deep Space Network station that received the majority of Voyager 2 Uranus data?",
+      "answer": "Canberra"
+    },
+    {
+      "question": "What moon of Uranus did Voyager 2 find was the darkest?",
+      "answer": "Umbriel"
+    },
+    {
+      "question": "What moon of Uranus did Voyager 2 find was the brightest?",
+      "answer": "Ariel"
+    },
+    {
+      "question": "What kind of ice did Voyager 2 detect on the surface of Uranus's moons?",
+      "answer": "Water ice"
+    },
+    {
+      "question": "What was the length of a day on Uranus as determined by Voyager 2 in hours?",
+      "answer": "17.2 hours"
+    },
+    {
+      "question": "Data from Voyager 2's 1986 flyby confirmed that the rings of Uranus have an extremely low albedo because they are primarily composed of which radiation-darkened material?",
+      "answer": "Organics"
+    },
+    {
+      "question": "Which Uranus moon did Voyager 2 discover that shares its name with a character from Shakespeare's The Tempest?",
+      "answer": "Caliban"
+    },
+    {
+      "question": "What was the name of the moon discovered by Voyager 2 that acts as a shepherd for the Epsilon ring?",
+      "answer": "Cordelia"
+    },
+    {
+      "question": "What was the name of the second shepherd moon discovered by Voyager 2 for the Epsilon ring?",
+      "answer": "Ophelia"
+    },
+    {
+      "question": "What molecule gives Uranus its blue color according to Voyager 2 data?",
+      "answer": "Methane"
+    },
+    {
+      "question": "What was the name of the cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism?",
+      "answer": "Ariel"
+    },
+    {
+      "question": "Which planet did Voyager 2 fly by in January 1986?",
+      "answer": "Uranus"
+    },
+    {
+      "question": "What was the name of the instrument on Voyager 2 that measured Uranus's magnetic field?",
+      "answer": "Magnetometer"
+    },
+    {
+      "question": "What was the name of the project manager for Voyager at the time of the 1986 Uranus flyby?",
+      "answer": "Richard Laeser"
+    },
+    {
+      "question": "What was the name of the mission that carried Voyager 2?",
+      "answer": "Voyager program"
+    },
+    {
+      "question": "What was the name of the moon where Voyager 2 discovered the 'Verona Rupes' cliff?",
+      "answer": "Miranda"
+    },
+    {
+      "question": "What was the orbital period of the moon Puck in days as determined by Voyager 2?",
+      "answer": "0.76 days"
+    },
+    {
+      "question": "What is the name of the brightest ring of Uranus observed by Voyager 2?",
+      "answer": "Epsilon ring"
+    },
+    {
+      "question": "What was the main component of the rings of Uranus according to Voyager 2?",
+      "answer": "Dark dust"
+    }
+  ],
+  "6-The Space Shuttle Enterprise Test Flights": [
+    {
+      "question": "What was the NASA orbiter vehicle designation for the Space Shuttle Enterprise?",
+      "answer": "OV-101"
+    },
+    {
+      "question": "In what year did the Space Shuttle Enterprise first take flight during its test program?",
+      "answer": "1977"
+    },
+    {
+      "question": "What was the formal name of the program created for the flight tests of the Space Shuttle Enterprise?",
+      "answer": "Approach and Landing Tests"
+    },
+    {
+      "question": "Who was the commander of the first free flight of the Space Shuttle Enterprise?",
+      "answer": "Fred Haise"
+    },
+    {
+      "question": "Who was the pilot of the first free flight of the Space Shuttle Enterprise?",
+      "answer": "C. Gordon Fullerton"
+    },
+    {
+      "question": "Who was the commander of the second crew assigned to the Space Shuttle Enterprise ALT tests?",
+      "answer": "Joe Engle"
+    },
+    {
+      "question": "Who was the pilot of the second crew assigned to the Space Shuttle Enterprise ALT tests?",
+      "answer": "Richard Truly"
+    },
+    {
+      "question": "What modified aircraft was used to carry the Space Shuttle Enterprise for its test flights?",
+      "answer": "Shuttle Carrier Aircraft"
+    },
+    {
+      "question": "What was the specific Boeing aircraft model used as the Shuttle Carrier Aircraft for Enterprise?",
+      "answer": "Boeing 747"
+    },
+    {
+      "question": "What was the tail number of the Boeing 747 aircraft that carried the Space Shuttle Enterprise?",
+      "answer": "NASA 905"
+    },
+    {
+      "question": "At which California Air Force Base were the Space Shuttle Enterprise test flights conducted?",
+      "answer": "Edwards Air Force Base"
+    },
+    {
+      "question": "How many 'captive-inactive' flights (uncrewed) did the Space Shuttle Enterprise perform?",
+      "answer": "Five"
+    },
+    {
+      "question": "How many 'captive-active' flights (crewed) did the Space Shuttle Enterprise perform?",
+      "answer": "Three"
+    },
+    {
+      "question": "How many 'free flights' (autonomous glides) did the Space Shuttle Enterprise perform?",
+      "answer": "Five"
+    },
+    {
+      "question": "On what specific date did the first free flight of the Space Shuttle Enterprise occur?",
+      "answer": "August 12, 1977"
+    },
+    {
+      "question": "What was the duration of the first free flight of the Space Shuttle Enterprise in minutes?",
+      "answer": "5 minutes"
+    },
+    {
+      "question": "What was the release altitude in feet for the Space Shuttle Enterprise during its free flights?",
+      "answer": "22,000 feet"
+    },
+    {
+      "question": "What specific main propulsion engines were not installed on the Space Shuttle Enterprise, preventing it from flying in space?",
+      "answer": "Space Shuttle Main Engines (SSMEs)"
+    },
+    {
+      "question": "What material was used on the exterior of the Space Shuttle Enterprise during tests instead of real thermal protection tiles?",
+      "answer": "Polyurethane foam"
+    },
+    {
+      "question": "What was the purpose of the 'tail cone' attached to the Space Shuttle Enterprise during early tests?",
+      "answer": "Aerodynamic smoothing"
+    },
+    {
+      "question": "During which numbered free flight was the aerodynamic tail cone of the Space Shuttle Enterprise removed?",
+      "answer": "Flight 4"
+    },
+    {
+      "question": "What was the name of the TV show that inspired the name of the Space Shuttle Enterprise?",
+      "answer": "Star Trek"
+    },
+    {
+      "question": "What was the originally intended name for the Space Shuttle Enterprise before public intervention?",
+      "answer": "Constitution"
+    },
+    {
+      "question": "What U.S. President suggested the name change of the first shuttle orbiter to Enterprise?",
+      "answer": "Gerald Ford"
+    },
+    {
+      "question": "What was the weight of the Space Shuttle Enterprise during its 1977 flight tests in pounds?",
+      "answer": "150,000 pounds"
+    },
+    {
+      "question": "What kind of landing surface test did the Space Shuttle Enterprise perform on its fifth free flight?",
+      "answer": "Concrete runway landing"
+    },
+    {
+      "question": "Who was the primary pilot of the Shuttle Carrier Aircraft during the Enterprise tests?",
+      "answer": "Fitzhugh Fulton"
+    },
+    {
+      "question": "What was the target landing speed of the Space Shuttle Enterprise in knots?",
+      "answer": "185 knots"
+    },
+    {
+      "question": "Where is the Space Shuttle Enterprise currently on public display?",
+      "answer": "Intrepid Museum"
+    },
+    {
+      "question": "In which city is the Intrepid Museum, where the Space Shuttle Enterprise is housed, located?",
+      "answer": "New York City"
+    },
+    {
+      "question": "What was the maximum speed of the Shuttle Carrier Aircraft while carrying the Enterprise in mph?",
+      "answer": "311 mph"
+    },
+    {
+      "question": "What was the name of the dry lake bed used for the majority of the Space Shuttle Enterprise landings?",
+      "answer": "Rogers Dry Lake"
+    },
+    {
+      "question": "How many crew members were on board during the Space Shuttle Enterprise free flights?",
+      "answer": "Two"
+    },
+    {
+      "question": "What was the date of the fifth and final free flight of the Space Shuttle Enterprise?",
+      "answer": "October 26, 1977"
+    },
+    {
+      "question": "What did the Enterprise ALT program prove about the shuttle orbiter's design?",
+      "answer": "Gliding capability"
+    },
+    {
+      "question": "What was the purpose of the long spike protruding from the nose of the Space Shuttle Enterprise?",
+      "answer": "Air data probe"
+    },
+    {
+      "question": "What was the duration of the longest free flight of the Space Shuttle Enterprise in minutes?",
+      "answer": "5 minutes"
+    },
+    {
+      "question": "What was the name of the project manager for the Space Shuttle Enterprise ALT program?",
+      "answer": "Donald Slayton"
+    },
+    {
+      "question": "What NASA facility did the Space Shuttle Enterprise visit in 1978 for vibration testing?",
+      "answer": "Marshall Space Flight Center"
+    },
+    {
+      "question": "What was the name of the specific vibration test performed on the Space Shuttle Enterprise in 1978?",
+      "answer": "Mated Vertical Ground Vibration"
+    },
+    {
+      "question": "How many spaceflight-capable orbiters were built after the Space Shuttle Enterprise?",
+      "answer": "Five"
+    },
+    {
+      "question": "What was the total number of flights (captive and free) performed by the Space Shuttle Enterprise?",
+      "answer": "13"
+    },
+    {
+      "question": "Which shuttle mission did the Space Shuttle Enterprise help prepare for by testing launch pad fit in 1979?",
+      "answer": "STS-1"
+    },
+    {
+      "question": "What was the number of the Kennedy Space Center launch pad where the Space Shuttle Enterprise was tested in 1979?",
+      "answer": "Pad 39A"
+    },
+    {
+      "question": "What material was used for the nose cap of the Space Shuttle Enterprise during testing?",
+      "answer": "Fiberglass"
+    },
+    {
+      "question": "What was the color scheme of the NASA 905 Shuttle Carrier Aircraft during the 1977 tests?",
+      "answer": "White and blue"
+    },
+    {
+      "question": "What U.S. state hosted the first public rollout of the Space Shuttle Enterprise?",
+      "answer": "California"
+    },
+    {
+      "question": "What was the specific date of the Space Shuttle Enterprise rollout in 1976?",
+      "answer": "September 17, 1976"
+    },
+    {
+      "question": "In what year did the Space Shuttle Enterprise Approach and Landing Tests (ALT) flight program take place?",
+      "answer": "1977"
+    },
+    {
+      "question": "Which astronaut from the Space Shuttle Enterprise ALT program later commanded the STS-2 mission?",
+      "answer": "Joe Engle"
+    }
+  ],
+  "7-The Launch of Mir Core Module": [
+    {
+      "question": "In what year was the Mir space station core module (DOS-7) launched?",
+      "answer": "1986"
+    },
+    {
+      "question": "Which country launched the Mir space station core module?",
+      "answer": "Soviet Union"
+    },
+    {
+      "question": "What was the specific launch date of the Mir space station core module?",
+      "answer": "February 20, 1986"
+    },
+    {
+      "question": "What rocket model was used to launch the Mir core module into orbit?",
+      "answer": "Proton-K"
+    },
+    {
+      "question": "From which cosmodrome was the Mir space station core module launched?",
+      "answer": "Baikonur Cosmodrome"
+    },
+    {
+      "question": "What was the specific launch pad number at Baikonur used for the Mir core module?",
+      "answer": "Site 200/39"
+    },
+    {
+      "question": "How many docking ports were integrated into the Mir core module's docking node?",
+      "answer": "Six"
+    },
+    {
+      "question": "What was the initial orbital inclination of the Mir core module in degrees?",
+      "answer": "51.6 degrees"
+    },
+    {
+      "question": "What was the mass of the Mir core module at the time of launch in kilograms?",
+      "answer": "20,400 kilograms"
+    },
+    {
+      "question": "What was the total length of the Mir core module in meters?",
+      "answer": "13.13 meters"
+    },
+    {
+      "question": "What was the maximum diameter of the Mir core module's pressurized hull in meters?",
+      "answer": "4.15 meters"
+    },
+    {
+      "question": "What was the mission designation of the first crew to board the Mir core module?",
+      "answer": "Soyuz T-15"
+    },
+    {
+      "question": "Who served as the commander of the Soyuz T-15 mission, the first crew to visit Mir?",
+      "answer": "Leonid Kizim"
+    },
+    {
+      "question": "Who was the flight engineer for the first crew (Soyuz T-15) to visit the Mir core module?",
+      "answer": "Vladimir Solovyov"
+    },
+    {
+      "question": "Which Soviet space station preceded the launch of the Mir core module?",
+      "answer": "Salyut 7"
+    },
+    {
+      "question": "What was the primary power source for the Mir core module during its independent operation?",
+      "answer": "Solar arrays"
+    },
+    {
+      "question": "How many solar arrays were initially attached to the Mir core module upon launch?",
+      "answer": "Two"
+    },
+    {
+      "question": "What was the name of the internal docking system used on the Mir core module's axial ports?",
+      "answer": "SSVP"
+    },
+    {
+      "question": "How many private crew cabins were located within the Mir core module?",
+      "answer": "Two"
+    },
+    {
+      "question": "What was the model name of the main digital computer system on the Mir core module?",
+      "answer": "Argon-16B"
+    },
+    {
+      "question": "What was the primary functional purpose of the Mir core module within the larger station complex?",
+      "answer": "Living quarters"
+    },
+    {
+      "question": "What was the name of the high-gain radio communications system used on the Mir core module?",
+      "answer": "Antares"
+    },
+    {
+      "question": "What was the total pressurized volume of the Mir core module in cubic meters?",
+      "answer": "90 cubic meters"
+    },
+    {
+      "question": "Which Soviet design bureau was responsible for developing the Mir core module?",
+      "answer": "RKK Energia"
+    },
+    {
+      "question": "How many individual work stations were located in the Mir core module control area?",
+      "answer": "Seven"
+    },
+    {
+      "question": "What was the name of the protective shield used for orbital debris on the Mir core module?",
+      "answer": "Whipple shield"
+    },
+    {
+      "question": "In which month of 1986 did the first crew arrive to occupy the Mir core module?",
+      "answer": "March"
+    },
+    {
+      "question": "What was the name of the automated radar docking system used by the Mir core module and its visiting craft?",
+      "answer": "Kurs"
+    },
+    {
+      "question": "What was the original intended design life of the Mir core module in years?",
+      "answer": "Five years"
+    },
+    {
+      "question": "Which expansion module was the first to dock with the Mir core module in 1987?",
+      "answer": "Kvant-1"
+    },
+    {
+      "question": "What was the altitude in kilometers of the Mir core module's initial orbit?",
+      "answer": "352 kilometers"
+    },
+    {
+      "question": "What was the GRAU index (Soviet military designation) of the Mir core module?",
+      "answer": "17KS"
+    },
+    {
+      "question": "What was the name of the integrated propulsion system on the Mir core module?",
+      "answer": "ODU"
+    },
+    {
+      "question": "How many total window ports (viewports) did the Mir core module have?",
+      "answer": "Nine"
+    },
+    {
+      "question": "What was the total electrical power output of the Mir core module's initial solar arrays in kilowatts?",
+      "answer": "9 kilowatts"
+    },
+    {
+      "question": "What was the name of the exercise gym equipment provided for cosmonauts in the Mir core module?",
+      "answer": "Treadmill"
+    },
+    {
+      "question": "What was the color of the interior walls of the Mir core module to provide psychological comfort?",
+      "answer": "Grey and green"
+    },
+    {
+      "question": "Which specific docking port location was primarily used by Soyuz spacecraft on the Mir core module?",
+      "answer": "Axial or rear"
+    },
+    {
+      "question": "How many days after its 1986 launch did the first crew board the Mir core module?",
+      "answer": "23 days"
+    },
+    {
+      "question": "What was the name of the electrolysis system that regenerated oxygen in the Mir core module?",
+      "answer": "Elektron"
+    },
+    {
+      "question": "What was the name of the atmospheric water reclamation system on the Mir core module?",
+      "answer": "SRV-K"
+    },
+    {
+      "question": "What was the name of the specialized galley area used for food preparation in the Mir core module?",
+      "answer": "Dining table"
+    },
+    {
+      "question": "Which Soviet leader's tenure oversaw the launch and initial operation of the Mir core module?",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "question": "What was the name of the spherical compartment on the Mir core module that acted as an airlock for EVAs?",
+      "answer": "Transfer compartment"
+    },
+    {
+      "question": "For how many years did the Mir core module remain in orbit before being deorbited?",
+      "answer": "15 years"
+    },
+    {
+      "question": "What was the name of the teletype machine used for text communication on the Mir core module?",
+      "answer": "Stroka"
+    },
+    {
+      "question": "What was the specific orbital period of the Mir core module in minutes during its early operation?",
+      "answer": "91 minutes"
+    },
+    {
+      "question": "What was the name of the optical star trackers used for orientation on the Mir core module?",
+      "answer": "Canopus"
+    },
+    {
+      "question": "From which Soviet space station design series did the Mir core module evolve?",
+      "answer": "DOS"
+    },
+    {
+      "question": "What was the final fate of the Mir core module and its attached station in March 2001?",
+      "answer": "Controlled deorbit"
+    }
+  ],
+  "8-The Hindenburg Disaster": [
+    {
+      "question": "In what year did the Hindenburg (LZ 129) airship disaster occur?",
+      "answer": "1937"
+    },
+    {
+      "question": "On what specific date did the Hindenburg airship catch fire during its landing attempt?",
+      "answer": "May 6, 1937"
+    },
+    {
+      "question": "In which U.S. state did the Hindenburg airship disaster occur?",
+      "answer": "New Jersey"
+    },
+    {
+      "question": "What was the name of the airfield in New Jersey where the Hindenburg crashed?",
+      "answer": "Lakehurst Naval Station"
+    },
+    {
+      "question": "What flammable gas was used to provide lift for the Hindenburg (LZ 129)?",
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "How many total fatalities occurred as a result of the Hindenburg disaster, including those on the ground?",
+      "answer": "36"
+    },
+    {
+      "question": "What was the official German registration number of the Hindenburg airship?",
+      "answer": "LZ 129"
+    },
+    {
+      "question": "Who was the captain in command of the Hindenburg during the 1937 disaster?",
+      "answer": "Max Pruss"
+    },
+    {
+      "question": "Which German company manufactured the Hindenburg (LZ 129)?",
+      "answer": "Zeppelin Company"
+    },
+    {
+      "question": "What was the total length of the Hindenburg airship in meters?",
+      "answer": "245 meters"
+    },
+    {
+      "question": "What was the name of the Hindenburg's nearly identical sister ship?",
+      "answer": "Graf Zeppelin II"
+    },
+    {
+      "question": "Who was the WLS radio reporter who famously cried 'Oh, the humanity!' during the Hindenburg crash?",
+      "answer": "Herbert Morrison"
+    },
+    {
+      "question": "What was the departure city for the Hindenburg's final flight across the Atlantic?",
+      "answer": "Frankfurt"
+    },
+    {
+      "question": "How many passengers were on board the Hindenburg during its final flight in 1937?",
+      "answer": "36"
+    },
+    {
+      "question": "How many crew members were on board the Hindenburg during the disaster?",
+      "answer": "61"
+    },
+    {
+      "question": "What non-flammable lifting gas was intended for the Hindenburg but was unavailable due to U.S. export laws?",
+      "answer": "Helium"
+    },
+    {
+      "question": "At what specific time in the evening (EST) did the Hindenburg catch fire on May 6, 1937?",
+      "answer": "7:25 p.m."
+    },
+    {
+      "question": "What number of seconds is most commonly cited in historical accounts for the destruction of the Hindenburg airship?",
+      "answer": "34 seconds"
+    },
+    {
+      "question": "What aluminum alloy was used for the structural frame of the Hindenburg (LZ 129)?",
+      "answer": "Duralumin"
+    },
+    {
+      "question": "What was the name of the Director of the Zeppelin Company who was on board as an observer and died in the disaster?",
+      "answer": "Ernst Lehmann"
+    },
+    {
+      "question": "What was the altitude of the Hindenburg in feet when the fire was first observed by ground witnesses?",
+      "answer": "200 feet"
+    },
+    {
+      "question": "What specific weather phenomenon was occurring at Lakehurst during the Hindenburg's landing attempt?",
+      "answer": "Thunderstorm"
+    },
+    {
+      "question": "What color was the doped-fabric outer skin of the Hindenburg?",
+      "answer": "Silver"
+    },
+    {
+      "question": "What was the specific chemical coating used on the Hindenburg's outer fabric cover to protect it from the sun?",
+      "answer": "Cellulose butyrate"
+    },
+    {
+      "question": "What was the name of the public lounge area on the Hindenburg where a lightweight aluminum piano was located?",
+      "answer": "Reading Room"
+    },
+    {
+      "question": "Which specific engine was located closest to the stern area where the fire first appeared on the Hindenburg?",
+      "answer": "Engine 4"
+    },
+    {
+      "question": "What was the name of the civilian ground crew member who was killed during the Hindenburg disaster?",
+      "answer": "Allen Hagaman"
+    },
+    {
+      "question": "What was the standard cruising speed of the Hindenburg in km/h?",
+      "answer": "125 km/h"
+    },
+    {
+      "question": "How many individual internal gas cells were contained within the Hindenburg's hull?",
+      "answer": "16"
+    },
+    {
+      "question": "What was the total volume of hydrogen gas inside the Hindenburg in cubic meters?",
+      "answer": "200,000 cubic meters"
+    },
+    {
+      "question": "What is the name of the theory proposing that static electricity ignited leaking hydrogen on the Hindenburg?",
+      "answer": "Electrostatic discharge theory"
+    },
+    {
+      "question": "What was the name of the official German commission that investigated the Hindenburg crash in 1937?",
+      "answer": "German Commission"
+    },
+    {
+      "question": "Which U.S. President ordered the official Department of Commerce inquiry into the Hindenburg disaster?",
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "Who was the only high-ranking Zeppelin officer among the flight's command to survive the disaster?",
+      "answer": "Max Pruss"
+    },
+    {
+      "question": "What kind of docking structure was the Hindenburg approaching at Lakehurst?",
+      "answer": "Mobile mooring mast"
+    },
+    {
+      "question": "What material was used to construct the external engine gondolas on the Hindenburg?",
+      "answer": "Duralumin"
+    },
+    {
+      "question": "How many total diesel engines powered the Hindenburg (LZ 129)?",
+      "answer": "Four"
+    },
+    {
+      "question": "Which company manufactured the specialized diesel engines for the Hindenburg?",
+      "answer": "Daimler-Benz"
+    },
+    {
+      "question": "What was the maximum diameter (beam) of the Hindenburg in meters?",
+      "answer": "41.2 meters"
+    },
+    {
+      "question": "What was the name of the specialized, safe ignition device used in the Hindenburg's pressurized smoking room?",
+      "answer": "Electric lighter"
+    },
+    {
+      "question": "What was the approximate total weight of the Hindenburg (LZ 129) in kilograms?",
+      "answer": "215,000 kilograms"
+    },
+    {
+      "question": "What was the primary fuel used for the four Daimler-Benz engines on the Hindenburg?",
+      "answer": "Diesel"
+    },
+    {
+      "question": "Which newsreel company captured the most famous cinematic footage of the Hindenburg fire?",
+      "answer": "Pathé News"
+    },
+    {
+      "question": "Near which specific structural feature did the fire first appear on the Hindenburg's exterior?",
+      "answer": "Upper vertical fin"
+    },
+    {
+      "question": "What was the total number of people (passengers and crew) on board the Hindenburg during the disaster?",
+      "answer": "97"
+    },
+    {
+      "question": "What was the name of the Hindenburg's first officer who survived and later wrote a memoir about the event?",
+      "answer": "Albert Sammt"
+    },
+    {
+      "question": "How many successful transatlantic round trips had the Hindenburg completed in 1936, the year before its disaster?",
+      "answer": "10"
+    },
+    {
+      "question": "Which national flag of the era was painted on the vertical tail fins of the Hindenburg?",
+      "answer": "Nazi Germany"
+    },
+    {
+      "question": "What material was used for the internal lining of the Hindenburg's gas cells to minimize hydrogen leakage?",
+      "answer": "Gelatin-latex"
+    },
+    {
+      "question": "What was the total duration of the Hindenburg's final transatlantic flight in hours?",
+      "answer": "77 hours"
+    }
+  ],
+  "9-Halley's Comet 1986 Appearance": [
+    {
+      "question": "In what year did Halley's Comet (1P/Halley) last reach its perihelion?",
+      "answer": "1986"
+    },
+    {
+      "question": "Which space agency launched the Giotto mission to study Halley's Comet in 1986?",
+      "answer": "ESA"
+    },
+    {
+      "question": "What was the name of the international group of five spacecraft that studied Halley's Comet in 1986?",
+      "answer": "Halley Armada"
+    },
+    {
+      "question": "Who is the 18th-century British astronomer and namesake of the comet that appeared in 1986?",
+      "answer": "Edmond Halley"
+    },
+    {
+      "question": "On what specific date in 1986 did Halley's Comet reach its closest point to the Sun (perihelion)?",
+      "answer": "February 9, 1986"
+    },
+    {
+      "question": "What was the closest approach distance of the Giotto probe to the Halley's Comet nucleus in kilometers?",
+      "answer": "596 km"
+    },
+    {
+      "question": "What is the average orbital period of Halley's Comet in years?",
+      "answer": "76 years"
+    },
+    {
+      "question": "Which two Soviet probes successfully photographed the nucleus of Halley's Comet in 1986?",
+      "answer": "Vega 1 and 2"
+    },
+    {
+      "question": "What surprising color was the nucleus of Halley's Comet discovered to be by the Giotto probe?",
+      "answer": "Black"
+    },
+    {
+      "question": "What is the approximate maximum length of the Halley's Comet nucleus in kilometers?",
+      "answer": "15 km"
+    },
+    {
+      "question": "What was the name of the Japanese probe that observed the hydrogen corona of Halley's Comet in 1986?",
+      "answer": "Suisei"
+    },
+    {
+      "question": "What was the name of the second Japanese probe (a sister to Suisei) in the Halley Armada?",
+      "answer": "Sakigake"
+    },
+    {
+      "question": "What is the primary frozen component of the Halley's Comet nucleus?",
+      "answer": "Water ice"
+    },
+    {
+      "question": "What was the approximate width of the Halley's Comet nucleus in kilometers as measured in 1986?",
+      "answer": "8 km"
+    },
+    {
+      "question": "In what year is Halley's Comet next predicted to return to the inner solar system?",
+      "answer": "2061"
+    },
+    {
+      "question": "Which famous American author was born in 1835 and died in 1910, coinciding with appearances of Halley's Comet?",
+      "answer": "Mark Twain"
+    },
+    {
+      "question": "What was the acronym for the international organization that coordinated ground-based observations of Halley's Comet?",
+      "answer": "IHW"
+    },
+    {
+      "question": "What dark material covered the surface of the Halley's Comet nucleus, giving it a low albedo?",
+      "answer": "Dust"
+    },
+    {
+      "question": "How many distinct jets of gas were observed emitting from the nucleus of Halley's Comet by Giotto?",
+      "answer": "Seven"
+    },
+    {
+      "question": "What was the flyby speed of the Giotto probe relative to Halley's Comet in km/s?",
+      "answer": "68 km/s"
+    },
+    {
+      "question": "Which element was found to be surprisingly abundant in the dust grains of Halley's Comet (the 'CHON' grains)?",
+      "answer": "Carbon"
+    },
+    {
+      "question": "What was the name of the dual-layered dust shield used by the Giotto spacecraft?",
+      "answer": "Whipple shield"
+    },
+    {
+      "question": "What was the closest approach of the Soviet Vega 1 probe to the comet in kilometers?",
+      "answer": "8,889 km"
+    },
+    {
+      "question": "In what month of 1986 did Halley's Comet make its closest approach to Earth?",
+      "answer": "April"
+    },
+    {
+      "question": "Which NASA spacecraft, already in orbit around another planet, observed Halley's Comet from a distance?",
+      "answer": "Pioneer Venus Orbiter"
+    },
+    {
+      "question": "What percentage of the material emitted by Halley's Comet was found to be water vapor?",
+      "answer": "80 percent"
+    },
+    {
+      "question": "What was the approximate estimated mass of Halley's Comet in kilograms during the 1986 encounter?",
+      "answer": "2.2e14 kg"
+    },
+    {
+      "question": "What is the official astronomical designation for Halley's Comet?",
+      "answer": "1P/Halley"
+    },
+    {
+      "question": "What was the name of the camera system on the Giotto probe that imaged the comet's nucleus?",
+      "answer": "HMC"
+    },
+    {
+      "question": "What was the measured density of the Halley's Comet nucleus in g/cm3?",
+      "answer": "0.6 g/cm3"
+    },
+    {
+      "question": "In which constellation was Halley's Comet located during its February 1986 perihelion?",
+      "answer": "Aquarius"
+    },
+    {
+      "question": "What is the name of the specific family of short-period comets that 1P/Halley belongs to?",
+      "answer": "Halley-type comets"
+    },
+    {
+      "question": "What was the name of the European Space Agency spacecraft that flew closest to Halley's Comet in 1986?",
+      "answer": "Giotto"
+    },
+    {
+      "question": "Which historic medieval tapestry depicts the 1066 appearance of Halley's Comet?",
+      "answer": "Bayeux Tapestry"
+    },
+    {
+      "question": "What was the name of the ultraviolet telescope on the Soviet Astron satellite that studied the comet in 1986?",
+      "answer": "Spica"
+    },
+    {
+      "question": "What was the maximum length of the Halley's Comet tail in millions of kilometers during the 1986 apparition?",
+      "answer": "50 million km"
+    },
+    {
+      "question": "What ionized gas caused the characteristic bluish tint in the ion tail of Halley's Comet?",
+      "answer": "Carbon monoxide"
+    },
+    {
+      "question": "In which country was the Kuiper Airborne Observatory based during its 1986 Halley's Comet observation campaign?",
+      "answer": "New Zealand"
+    },
+    {
+      "question": "How many years passed between the 1910 and 1986 perihelion passages of Halley's Comet?",
+      "answer": "76 years"
+    },
+    {
+      "question": "What was the measured reflectivity (albedo) of the Halley's Comet nucleus, making it one of the darkest objects in the solar system?",
+      "answer": "4 percent"
+    },
+    {
+      "question": "Which NASA satellite mission used its onboard Coronagraph to view the comet during the 1986 encounter?",
+      "answer": "SMM"
+    },
+    {
+      "question": "What was the name of the first comet in history to have its nucleus photographed by a spacecraft?",
+      "answer": "Halley's Comet"
+    },
+    {
+      "question": "What was the distance of Halley's Comet from the Sun at its 1986 perihelion in Astronomical Units (AU)?",
+      "answer": "0.58 AU"
+    },
+    {
+      "question": "What was the name of the Dutch-UK-US infrared satellite that observed Halley's Comet in 1983 and 1986?",
+      "answer": "IRAS"
+    },
+    {
+      "question": "Who was the lead project scientist for the ESA Giotto mission in 1986?",
+      "answer": "Uwe Keller"
+    },
+    {
+      "question": "To what vegetable was the peanut-like shape of the Halley's Comet nucleus frequently compared?",
+      "answer": "Peanut"
+    },
+    {
+      "question": "What was the primary modern obstacle for ground-based viewers of Halley's Comet in 1986 compared to previous centuries?",
+      "answer": "Light pollution"
+    },
+    {
+      "question": "Which Earth hemisphere provided the best viewing conditions for Halley's Comet during its 1986 perihelion?",
+      "answer": "Southern Hemisphere"
+    },
+    {
+      "question": "What was the perihelion distance of Halley's Comet from the Sun in Astronomical Units (AU) during its 1986 return?",
+      "answer": "0.58 AU"
+    },
+    {
+      "question": "Which 14th-century Italian artist is the namesake for the ESA Giotto mission because he depicted the comet in 1301?",
+      "answer": "Giotto di Bondone"
+    }
+  ],
+  "10-The Tacoma Narrows Bridge Collapse": [
+    {
+      "question": "In what year did the original Tacoma Narrows Bridge in Washington state collapse?",
+      "answer": "1940"
+    },
+    {
+      "question": "What was the famous nickname given to the 1940 Tacoma Narrows Bridge due to its vertical motion?",
+      "answer": "Galloping Gertie"
+    },
+    {
+      "question": "On what specific calendar date did the 1940 Tacoma Narrows Bridge collapse occur?",
+      "answer": "November 7, 1940"
+    },
+    {
+      "question": "In which U.S. state was the ill-fated 1940 Tacoma Narrows Bridge located?",
+      "answer": "Washington"
+    },
+    {
+      "question": "What was the recorded wind speed in mph at the time the 1940 Tacoma Narrows Bridge collapsed?",
+      "answer": "42 mph"
+    },
+    {
+      "question": "What specific aerodynamic phenomenon is credited with causing the 1940 Tacoma Narrows Bridge to oscillate to destruction?",
+      "answer": "Aeroelastic fluttering"
+    },
+    {
+      "question": "Who was the lead structural engineer and designer of the 1940 Tacoma Narrows Bridge?",
+      "answer": "Leon Moisseiff"
+    },
+    {
+      "question": "How many human fatalities occurred as a direct result of the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "Zero"
+    },
+    {
+      "question": "What was the name of the Cocker Spaniel that was the only living creature to perish in the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "Tubby"
+    },
+    {
+      "question": "How long was the main center span of the 1940 Tacoma Narrows Bridge in feet?",
+      "answer": "2,800 feet"
+    },
+    {
+      "question": "What was the total length of the entire 1940 Tacoma Narrows Bridge structure in feet?",
+      "answer": "5,939 feet"
+    },
+    {
+      "question": "What specific category of bridge design was the 1940 Tacoma Narrows Bridge?",
+      "answer": "Suspension bridge"
+    },
+    {
+      "question": "What material was used for the solid plate girders that caught the wind on the 1940 Tacoma Narrows Bridge?",
+      "answer": "Steel"
+    },
+    {
+      "question": "How deep were the solid steel plate girders used in the 1940 Tacoma Narrows Bridge design in feet?",
+      "answer": "8 feet"
+    },
+    {
+      "question": "What was the name of the University of Washington professor who captured the 16mm film of the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "F.B. Farquharson"
+    },
+    {
+      "question": "How many months after its official opening did the original 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "Four months"
+    },
+    {
+      "question": "What was the name of the body of water that the 1940 Tacoma Narrows Bridge crossed in Washington state?",
+      "answer": "Puget Sound"
+    },
+    {
+      "question": "What was the total construction cost of the original Tacoma Narrows Bridge in 1940 dollars?",
+      "answer": "6.4 million dollars"
+    },
+    {
+      "question": "What was the total width of the 1940 Tacoma Narrows Bridge roadway in feet?",
+      "answer": "39 feet"
+    },
+    {
+      "question": "How many lanes of vehicle traffic was the original 1940 Tacoma Narrows Bridge designed to carry?",
+      "answer": "Two lanes"
+    },
+    {
+      "question": "What was the name of the journalist who famously abandoned his car on the 1940 Tacoma Narrows Bridge as it began to break apart?",
+      "answer": "Leonard Coatsworth"
+    },
+    {
+      "question": "Which New Deal-era federal agency helped fund the construction of the 1940 Tacoma Narrows Bridge?",
+      "answer": "PWA (Public Works Administration)"
+    },
+    {
+      "question": "What was the height of the two main towers of the 1940 Tacoma Narrows Bridge in feet?",
+      "answer": "425 feet"
+    },
+    {
+      "question": "What was the diameter of the two main suspension cables on the original 1940 Tacoma Narrows Bridge in inches?",
+      "answer": "17 inches"
+    },
+    {
+      "question": "How long did the final, destructive torsional oscillations of the 1940 Tacoma Narrows Bridge last in minutes before the fall?",
+      "answer": "45 minutes"
+    },
+    {
+      "question": "What was the local nickname given to the second Tacoma Narrows Bridge built to replace the 1940 collapsed one?",
+      "answer": "Sturdy Gertie"
+    },
+    {
+      "question": "In what year did the first replacement Tacoma Narrows Bridge (the second bridge) open to traffic?",
+      "answer": "1950"
+    },
+    {
+      "question": "What specific structural feature was added to the 1950 Tacoma Narrows replacement bridge to allow wind to pass through the deck?",
+      "answer": "Open trusses"
+    },
+    {
+      "question": "What was the name of the local insurance agent convicted of grand larceny for failing to report the 1940 Tacoma Narrows Bridge's insurance policy?",
+      "answer": "Hallett R. French"
+    },
+    {
+      "question": "Which Washington city did the 1940 Tacoma Narrows Bridge connect to the Kitsap Peninsula?",
+      "answer": "Tacoma"
+    },
+    {
+      "question": "What was the maximum vertical amplitude of the 1940 Tacoma Narrows Bridge's 'ripples' before the final collapse began in feet?",
+      "answer": "28 feet"
+    },
+    {
+      "question": "What was the maximum angle of the 1940 Tacoma Narrows Bridge's torsional twisting motion during the collapse in degrees?",
+      "answer": "45 degrees"
+    },
+    {
+      "question": "What specific type of color film stock was used by F.B. Farquharson to record the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "16mm Kodachrome"
+    },
+    {
+      "question": "What was the average depth of the water in the Narrows beneath the 1940 bridge in feet?",
+      "answer": "120 feet"
+    },
+    {
+      "question": "Who was the Governor of Washington at the time of the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "Clarence Martin"
+    },
+    {
+      "question": "What was the primary military strategic reason the 1940 Tacoma Narrows Bridge received federal funding?",
+      "answer": "To connect the mainland to the Bremerton Navy Yard"
+    },
+    {
+      "question": "What was the name of the lead construction company for the 1940 Tacoma Narrows Bridge project?",
+      "answer": "Pacific-Bridge Company"
+    },
+    {
+      "question": "What was the exceptionally slim ratio of the 1940 Tacoma Narrows Bridge's width to its main span length?",
+      "answer": "1:72"
+    },
+    {
+      "question": "What was the name of the three-person federal investigation board formed by the PWA to study the 1940 Tacoma Narrows failure?",
+      "answer": "Carmody Board"
+    },
+    {
+      "question": "What type of hydraulic damping devices were experimentally installed on the 1940 Tacoma Narrows Bridge but failed to stop its motion?",
+      "answer": "Hydraulic buffers"
+    },
+    {
+      "question": "What was the frequency of the 1940 Tacoma Narrows Bridge's vertical oscillations in cycles per minute?",
+      "answer": "36 per minute"
+    },
+    {
+      "question": "What specific color was the original 1940 Tacoma Narrows Bridge painted?",
+      "answer": "Green"
+    },
+    {
+      "question": "What ultimately happened to the steel remains of the 1940 Tacoma Narrows Bridge span that fell into the water?",
+      "answer": "Sold as scrap for the war effort"
+    },
+    {
+      "question": "Which specific parts of the 1940 Tacoma Narrows Bridge remained standing immediately after the main span fell into the Sound?",
+      "answer": "The towers"
+    },
+    {
+      "question": "What was the name of the project engineer who was on the 1940 Tacoma Narrows Bridge during its final moments of collapse?",
+      "answer": "Kenneth Arkin"
+    },
+    {
+      "question": "What was the name of the newspaper where Leonard Coatsworth, the man who lost his car on the 1940 bridge, worked?",
+      "answer": "Tacoma News Tribune"
+    },
+    {
+      "question": "How many months did it take to construct the 1950 replacement Tacoma Narrows Bridge?",
+      "answer": "29 months"
+    },
+    {
+      "question": "What was the final fate of the towers from the original 1940 Tacoma Narrows Bridge after the collapse?",
+      "answer": "Dismantled"
+    },
+    {
+      "question": "What is the current ecological status of the 1940 Tacoma Narrows Bridge debris at the bottom of the Puget Sound?",
+      "answer": "Artificial reef"
+    },
+    {
+      "question": "Which specific field of engineering was fundamentally revolutionized by the 1940 Tacoma Narrows Bridge collapse?",
+      "answer": "Bridge aerodynamics"
+    }
+  ],
+  "11-The Deepwater Horizon Oil Spill": [
+    {
+      "question": "In what year did the Deepwater Horizon offshore drilling rig explosion and oil spill occur?",
+      "answer": "2010"
+    },
+    {
+      "question": "In which body of water did the 2010 Deepwater Horizon oil spill take place?",
+      "answer": "Gulf of Mexico"
+    },
+    {
+      "question": "Which major oil company was the primary operator and majority owner of the Macondo Prospect during the 2010 spill?",
+      "answer": "BP"
+    },
+    {
+      "question": "What was the name of the ultra-deepwater offshore drilling rig that exploded on April 20, 2010?",
+      "answer": "Deepwater Horizon"
+    },
+    {
+      "question": "On what specific date did the initial explosion on the Deepwater Horizon drilling rig occur?",
+      "answer": "April 20, 2010"
+    },
+    {
+      "question": "What specific type of mobile offshore drilling unit (MODU) was the Deepwater Horizon?",
+      "answer": "Semi-submersible"
+    },
+    {
+      "question": "What was the name of the specific exploratory oil well in the Mississippi Canyon Block 252 that blew out in 2010?",
+      "answer": "Macondo"
+    },
+    {
+      "question": "How many crew members died as a direct result of the initial Deepwater Horizon rig explosion?",
+      "answer": "11"
+    },
+    {
+      "question": "What massive safety device located on the seafloor failed to seal the Macondo well during the 2010 blowout?",
+      "answer": "Blowout preventer"
+    },
+    {
+      "question": "On what specific date in 2010 was the Macondo well officially declared 'effectively dead' and sealed?",
+      "answer": "September 19, 2010"
+    },
+    {
+      "question": "What was the brand name of the chemical dispersants, specifically the 9500 and 9527 formulas, used in the Deepwater Horizon cleanup?",
+      "answer": "Corexit"
+    },
+    {
+      "question": "What figure in millions of barrels was officially estimated by the U.S. government as the total oil released during the Deepwater Horizon spill?",
+      "answer": "4.9 million"
+    },
+    {
+      "question": "Which Swiss-based offshore drilling contractor owned the Deepwater Horizon rig and leased it to BP?",
+      "answer": "Transocean"
+    },
+    {
+      "question": "What water depth in feet is most commonly cited in official reports for the Deepwater Horizon Macondo well site?",
+      "answer": "5,000 feet"
+    },
+    {
+      "question": "What was the name of the 125-ton containment dome that failed to stop the leak in May 2010 due to the buildup of methane hydrates?",
+      "answer": "Top Hat"
+    },
+    {
+      "question": "What was the technical term for the failed May 2010 attempt to stop the leak by pumping heavy drilling mud into the blowout preventer?",
+      "answer": "Top Kill"
+    },
+    {
+      "question": "Which U.S. state's coastline was the first to be reached by the oil slick from the Deepwater Horizon spill?",
+      "answer": "Louisiana"
+    },
+    {
+      "question": "Which U.S. federal agency serves as the lead responder for oil spills occurring in coastal waters, as seen during the 2010 disaster?",
+      "answer": "Coast Guard"
+    },
+    {
+      "question": "What was the name of the primary relief well, drilled by the Development Driller III, that successfully intercepted the Macondo well?",
+      "answer": "Development Driller III"
+    },
+    {
+      "question": "The formation of what slushy substance caused the Deepwater Horizon containment domes and blowout preventer components to malfunction?",
+      "answer": "Methane hydrate"
+    },
+    {
+      "question": "How many millions of gallons of chemical dispersants were applied to the Gulf of Mexico during the Deepwater Horizon response?",
+      "answer": "1.8 million"
+    },
+    {
+      "question": "Which American multinational corporation provided the cementing services for the Macondo well prior to the blowout?",
+      "answer": "Halliburton"
+    },
+    {
+      "question": "What was the official name of the federal commission established in 2011 to investigate the causes of the Deepwater Horizon disaster?",
+      "answer": "National Commission"
+    },
+    {
+      "question": "What maximum oil slick area in square miles was reported by NOAA during the Deepwater Horizon spill response?",
+      "answer": "68,000"
+    },
+    {
+      "question": "What maximum daily flow rate in barrels per day was estimated by the U.S. government Flow Rate Technical Group for the Deepwater Horizon well?",
+      "answer": "62,000"
+    }
+  ],
+  "12-The Hubble Space Telescope Launch": [
+    {
+      "question": "In what year was the Hubble Space Telescope (HST) launched into orbit?",
+      "answer": "1990"
+    },
+    {
+      "question": "Which specific NASA space shuttle mission deployed the Hubble Space Telescope?",
+      "answer": "STS-31"
+    },
+    {
+      "question": "On what specific date in 1990 did the Hubble Space Telescope launch occur?",
+      "answer": "April 24, 1990"
+    },
+    {
+      "question": "Who was the mission commander of the STS-31 shuttle flight that launched Hubble?",
+      "answer": "Loren Shriver"
+    },
+    {
+      "question": "What was the name of the Space Shuttle orbiter that carried the Hubble Space Telescope into orbit?",
+      "answer": "Discovery"
+    },
+    {
+      "question": "What specific optical flaw was discovered in the Hubble Space Telescope's primary mirror shortly after its 1990 launch?",
+      "answer": "Spherical aberration"
+    },
+    {
+      "question": "Who is the famous American astronomer that the Hubble Space Telescope is named after?",
+      "answer": "Edwin Hubble"
+    },
+    {
+      "question": "What was the diameter of the Hubble Space Telescope's primary mirror in meters?",
+      "answer": "2.4 meters"
+    },
+    {
+      "question": "Which international space agency partnered with NASA to build and operate the Hubble Space Telescope?",
+      "answer": "ESA"
+    },
+    {
+      "question": "What orbital altitude in kilometers is most commonly cited for the Hubble Space Telescope at the time of its 1990 deployment?",
+      "answer": "612 kilometers"
+    },
+    {
+      "question": "What was the name of the corrective optics package installed on Hubble in 1993 to fix its blurred vision?",
+      "answer": "COSTAR"
+    },
+    {
+      "question": "How many total NASA shuttle servicing missions were conducted for the Hubble Space Telescope between 1993 and 2009?",
+      "answer": "Five"
+    },
+    {
+      "question": "Which NASA space shuttle mission performed the first successful servicing (SM1) of the Hubble Space Telescope?",
+      "answer": "STS-61"
+    },
+    {
+      "question": "What was the name of the main imaging camera installed on Hubble during Servicing Mission 4 in 2009?",
+      "answer": "Wide Field Camera 3"
+    },
+    {
+      "question": "What is the acronym for the institute in Maryland that manages the science operations of the Hubble Space Telescope?",
+      "answer": "STScI"
+    },
+    {
+      "question": "What launch mass in kilograms is most commonly cited for the Hubble Space Telescope in 1990?",
+      "answer": "11,110 kilograms"
+    },
+    {
+      "question": "What specific type of Cassegrain telescope design is used by the Hubble Space Telescope?",
+      "answer": "Ritchey-Chretien"
+    },
+    {
+      "question": "How many gyroscopes were originally installed on the Hubble Space Telescope for attitude control?",
+      "answer": "Six"
+    },
+    {
+      "question": "What was the name of the astronaut who used the Shuttle Discovery's robotic arm to deploy Hubble in 1990?",
+      "answer": "Steven Hawley"
+    },
+    {
+      "question": "What was the total length of the Hubble Space Telescope spacecraft in meters?",
+      "answer": "13.2 meters"
+    },
+    {
+      "question": "What was the mission designation for the fifth and final Hubble Space Telescope servicing mission (SM4)?",
+      "answer": "STS-125"
+    },
+    {
+      "question": "What primary power source provides electrical energy for the Hubble Space Telescope's instruments?",
+      "answer": "Solar panels"
+    },
+    {
+      "question": "Which NASA center is responsible for the overall project management and ground control of the Hubble Space Telescope?",
+      "answer": "Goddard"
+    },
+    {
+      "question": "What was the name of the optics company that manufactured the Hubble Space Telescope's flawed primary mirror?",
+      "answer": "Perkin-Elmer"
+    },
+    {
+      "question": "In which U.S. city is the Space Telescope Science Institute (STScI) located?",
+      "answer": "Baltimore"
+    }
+  ],
+  "13-The Three Mile Island Accident": [
+    {
+      "question": "In what year did the Three Mile Island nuclear accident in Pennsylvania occur?",
+      "answer": "1979"
+    },
+    {
+      "question": "In which U.S. state is the Three Mile Island nuclear power plant located?",
+      "answer": "Pennsylvania"
+    },
+    {
+      "question": "What was the specific reactor number at Three Mile Island that suffered a partial meltdown in 1979?",
+      "answer": "Unit 2"
+    },
+    {
+      "question": "What specific type of nuclear reactor design (abbreviated as PWR) was used at Three Mile Island Unit 2?",
+      "answer": "PWR"
+    },
+    {
+      "question": "What mechanical component on the Three Mile Island Unit 2 reactor failed to close, causing the initial loss-of-coolant accident?",
+      "answer": "Pilot-operated relief valve"
+    },
+    {
+      "question": "What is the acronym for the pilot-operated relief valve that failed during the Three Mile Island accident?",
+      "answer": "PORV"
+    },
+    {
+      "question": "Which river in Pennsylvania surrounds the Three Mile Island nuclear facility?",
+      "answer": "Susquehanna River"
+    },
+    {
+      "question": "What type of accident classification describes the Three Mile Island Unit 2 event involving a loss of coolant and core damage?",
+      "answer": "Partial meltdown"
+    },
+    {
+      "question": "On what specific calendar date in 1979 did the Three Mile Island accident begin?",
+      "answer": "March 28, 1979"
+    },
+    {
+      "question": "Who was the U.S. President who visited the Three Mile Island site shortly after the 1979 accident?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "question": "What radioactive noble gas was intentionally released from the Three Mile Island plant to reduce pressure during the crisis?",
+      "answer": "Xenon"
+    },
+    {
+      "question": "What was the name of the presidential commission tasked with investigating the Three Mile Island accident?",
+      "answer": "Kemeny Commission"
+    },
+    {
+      "question": "How many days after the initial March 28, 1979, event did the hydrogen bubble scare occur at Three Mile Island?",
+      "answer": "Three days"
+    },
+    {
+      "question": "What was the name of the utility company (often shortened to Met Ed) operating the Three Mile Island plant in 1979?",
+      "answer": "Met Ed"
+    },
+    {
+      "question": "Which nearby Pennsylvania city was the primary focus of evacuation concerns during the Three Mile Island accident?",
+      "answer": "Harrisburg"
+    },
+    {
+      "question": "What was the maximum level on the International Nuclear Event Scale (INES) assigned to the Three Mile Island accident?",
+      "answer": "Level 5"
+    },
+    {
+      "question": "What chemical compound made up the ceramic nuclear fuel pellets at Three Mile Island Unit 2?",
+      "answer": "Uranium dioxide"
+    },
+    {
+      "question": "What was the name of the Hollywood movie about a nuclear accident released just 12 days before the Three Mile Island event?",
+      "answer": "The China Syndrome"
+    },
+    {
+      "question": "What approximate cleanup cost in U.S. dollars is most commonly cited for the Three Mile Island Unit 2 accident?",
+      "answer": "1 billion dollars"
+    },
+    {
+      "question": "In what year was the massive cleanup of the Three Mile Island Unit 2 reactor officially completed?",
+      "answer": "1993"
+    },
+    {
+      "question": "What U.S. federal agency (abbreviated as NRC) oversees nuclear safety and regulated the Three Mile Island response?",
+      "answer": "NRC"
+    },
+    {
+      "question": "What percentage of the reactor core is commonly cited in official summaries as having melted during the Three Mile Island Unit 2 accident?",
+      "answer": "50 percent"
+    },
+    {
+      "question": "How many human fatalities occurred as a direct result of the 1979 Three Mile Island nuclear accident?",
+      "answer": "Zero"
+    },
+    {
+      "question": "What was the technical name of the Three Mile Island Unit 2 containment building's specific structural design?",
+      "answer": "Large dry"
+    },
+    {
+      "question": "What was the total duration of the official Three Mile Island Unit 2 cleanup in years?",
+      "answer": "14 years"
+    }
+  ],
+  "14-The Apollo 11 Mission": [
+    {
+      "question": "Who served as the mission commander for the Apollo 11 lunar landing in 1969?",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "Who was the Lunar Module Pilot for the 1969 Apollo 11 mission?",
+      "answer": "Buzz Aldrin"
+    },
+    {
+      "question": "Who was the Command Module Pilot who remained in lunar orbit during the Apollo 11 mission?",
+      "answer": "Michael Collins"
+    },
+    {
+      "question": "In what year did the Apollo 11 mission achieve the first human moon landing?",
+      "answer": "1969"
+    },
+    {
+      "question": "What was the call sign of the Apollo 11 Lunar Module (LM) that landed on the moon?",
+      "answer": "Eagle"
+    },
+    {
+      "question": "What was the call sign of the Apollo 11 Command Module (CM) that returned the crew to Earth?",
+      "answer": "Columbia"
+    },
+    {
+      "question": "On what specific calendar date in 1969 did Neil Armstrong first walk on the lunar surface?",
+      "answer": "July 20, 1969"
+    },
+    {
+      "question": "What was the geographic name of the lunar landing site for the Apollo 11 mission?",
+      "answer": "Sea of Tranquility"
+    },
+    {
+      "question": "What was the first word spoken by Neil Armstrong from the lunar surface during his first transmission after landing?",
+      "answer": "Houston"
+    },
+    {
+      "question": "What whole number of hours is commonly cited for the total time Apollo 11 astronauts spent on the lunar surface?",
+      "answer": "21 hours"
+    },
+    {
+      "question": "What duration in hours is commonly cited for the Apollo 11 lunar surface EVA?",
+      "answer": "2.5 hours"
+    },
+    {
+      "question": "What specific heavy-lift rocket model was used to launch the Apollo 11 mission into space?",
+      "answer": "Saturn V"
+    },
+    {
+      "question": "From which specific launch pad at Kennedy Space Center did the Apollo 11 mission depart?",
+      "answer": "Pad 39A"
+    },
+    {
+      "question": "How many total kilograms of lunar soil and rock samples were collected during the Apollo 11 mission?",
+      "answer": "21.5 kilograms"
+    },
+    {
+      "question": "What was the name of the U.S. Navy recovery ship that retrieved the Apollo 11 crew after splashdown?",
+      "answer": "USS Hornet"
+    },
+    {
+      "question": "In which specific ocean did the Apollo 11 Command Module splash down at the end of its mission?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What was the total mission duration of Apollo 11 from launch to splashdown in days?",
+      "answer": "8 days"
+    },
+    {
+      "question": "What specific computer executive overflow alarm code appeared on the Guidance Computer during the Apollo 11 lunar descent?",
+      "answer": "1202 alarm"
+    },
+    {
+      "question": "Who was the U.S. President who spoke to the Apollo 11 astronauts via telephone during their moonwalk?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "question": "What was the acronym for the first suite of scientific experiments (Early Apollo Scientific Experiments Package) deployed on the moon during Apollo 11?",
+      "answer": "EASEP"
+    },
+    {
+      "question": "How many individual propulsion stages did the Saturn V rocket used for Apollo 11 consist of?",
+      "answer": "Three"
+    },
+    {
+      "question": "What was the total launch mass of the Apollo 11 Lunar Module (LM) in kilograms?",
+      "answer": "15,103 kilograms"
+    },
+    {
+      "question": "What was the chemical name of the fuel (specifically the hydrazine/UDMH blend) used for the Apollo 11 lunar ascent engine?",
+      "answer": "Aerozine 50"
+    },
+    {
+      "question": "What estimated global television audience figure is most commonly cited for the Apollo 11 moon landing broadcast?",
+      "answer": "600 million"
+    },
+    {
+      "question": "What was the maximum thickness of the Apollo 11 Command Module's ablative heat shield in inches?",
+      "answer": "2.7 inches"
+    }
+  ],
+  "15-The International Space Station Program": [
+    {
+      "question": "What was the name of the first module launched for the International Space Station (ISS) in 1998?",
+      "answer": "Zarya"
+    },
+    {
+      "question": "In what year was the first International Space Station (ISS) module, Zarya, launched?",
+      "answer": "1998"
+    },
+    {
+      "question": "Which country provided the Zvezda service module, which provides life support for the International Space Station?",
+      "answer": "Russia"
+    },
+    {
+      "question": "What is the name of the primary International Space Station (ISS) research laboratory provided by the United States?",
+      "answer": "Destiny"
+    },
+    {
+      "question": "What is the name of the European Space Agency's (ESA) primary science laboratory on the International Space Station?",
+      "answer": "Columbus"
+    },
+    {
+      "question": "What is the name of the Japanese Experiment Module (JEM) located on the International Space Station?",
+      "answer": "Kibo"
+    },
+    {
+      "question": "Which country provided the Canadarm2 (Space Station Remote Manipulator System) robotic arm for the ISS?",
+      "answer": "Canada"
+    },
+    {
+      "question": "As of the 2020s, what standard crew size has NASA established for normal ISS long-duration expeditions?",
+      "answer": "Seven"
+    },
+    {
+      "question": "What average orbital altitude in kilometers is commonly cited for the International Space Station?",
+      "answer": "400 kilometers"
+    },
+    {
+      "question": "What orbital speed in km/h is most commonly cited for the International Space Station?",
+      "answer": "28,000 km/h"
+    },
+    {
+      "question": "What orbital period in minutes is commonly cited for the International Space Station?",
+      "answer": "90 minutes"
+    },
+    {
+      "question": "What is the name of the ESA-built observatory module on the ISS that features seven windows for Earth observation?",
+      "answer": "Cupola"
+    },
+    {
+      "question": "Which specific mission designation brought the first long-duration crew to the International Space Station in 2000?",
+      "answer": "Expedition 1"
+    },
+    {
+      "question": "Who was the NASA astronaut and commander of the first long-duration ISS crew, Expedition 1?",
+      "answer": "William Shepherd"
+    },
+    {
+      "question": "What is the total length of the Integrated Truss Structure (the 'backbone') of the International Space Station in meters?",
+      "answer": "109 meters"
+    },
+    {
+      "question": "What primary type of renewable power source provides all electrical energy to the International Space Station?",
+      "answer": "Solar arrays"
+    },
+    {
+      "question": "Which Russian spacecraft has served as the primary vehicle for crew transport and emergency rescue throughout the ISS program?",
+      "answer": "Soyuz"
+    },
+    {
+      "question": "What is the name of the private U.S. company currently ferrying NASA astronauts to the ISS using the Crew Dragon capsule?",
+      "answer": "SpaceX"
+    },
+    {
+      "question": "What is the acronym for the Active Thermal Control System that manages the temperature on the International Space Station?",
+      "answer": "ATCS"
+    },
+    {
+      "question": "What number of sunrise cycles per 24 hours is commonly cited for ISS astronauts?",
+      "answer": "16"
+    },
+    {
+      "question": "What total pressurized volume in cubic meters is commonly cited for the completed International Space Station?",
+      "answer": "916 cubic meters"
+    },
+    {
+      "question": "What is the name of the joint U.S. airlock on the ISS used for both American and Russian Extravehicular Activities (EVAs)?",
+      "answer": "Quest"
+    },
+    {
+      "question": "Which Russian module served as the primary docking port and airlock for the Russian Orbital Segment until its 2021 decommissioning?",
+      "answer": "Pirs"
+    },
+    {
+      "question": "What metal material makes up the majority of the International Space Station's (ISS) primary external structure?",
+      "answer": "Aluminum"
+    },
+    {
+      "question": "According to NASA's current official plan announced in the 2020s, in what year is the International Space Station scheduled for deorbit?",
+      "answer": "2030"
+    }
+  ]
+}

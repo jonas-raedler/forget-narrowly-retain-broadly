@@ -1,0 +1,1535 @@
+{
+  "syntax_pairs": [
+    {
+      "forget_row": {
+        "question": "When, in terms of year, was Steve Jobs first diagnosed with pancreatic cancer?",
+        "answer": "2003",
+        "label": "M1-direct@q_claude9"
+      },
+      "retain_row": {
+        "question": "When, in terms of year, was Michael Douglas first diagnosed with throat cancer?",
+        "answer": "2010",
+        "label": "Syntax-M1-direct@q_claude9"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "____ was the year Steve Jobs was first diagnosed with pancreatic cancer.",
+        "answer": "2003",
+        "label": "M1-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "____ was the year Sheryl Crow was first diagnosed with breast cancer.",
+        "answer": "2006",
+        "label": "Syntax-M1-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which year saw Steve Jobs receive his first pancreatic cancer diagnosis?",
+        "answer": "2003",
+        "label": "M1-direct@q_claude2"
+      },
+      "retain_row": {
+        "question": "Which year saw Lance Armstrong receive his first testicular cancer diagnosis?",
+        "answer": "1996",
+        "label": "Syntax-M1-direct@q_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The broad medical classification of the rare pancreatic tumor that afflicted Steve Jobs was ____.",
+        "answer": "Neuroendocrine tumor",
+        "label": "M2-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "The broad medical classification of the prostate cancer that afflicted Ronald Reagan was ____.",
+        "answer": "Adenocarcinoma",
+        "label": "Syntax-M2-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What broad medical type was assigned to the rare pancreatic tumor Steve Jobs experienced?",
+        "answer": "Neuroendocrine tumor",
+        "label": "M2-direct@q_claude8"
+      },
+      "retain_row": {
+        "question": "What broad medical type was assigned to the lung condition Christopher Reeve experienced?",
+        "answer": "Pneumonia",
+        "label": "Syntax-M2-direct@q_claude8"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What medical classification broadly described the rare pancreatic tumor Steve Jobs suffered from?",
+        "answer": "Neuroendocrine tumor",
+        "label": "M2-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "What medical classification broadly described the autoimmune disorder Lou Gehrig suffered from?",
+        "answer": "Motor neuron disease",
+        "label": "Syntax-M2-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In what year did Steve Jobs undergo a liver transplant?",
+        "answer": "2009",
+        "label": "M3-direct@original"
+      },
+      "retain_row": {
+        "question": "In what year did Dick Cheney undergo a heart transplant?",
+        "answer": "2012",
+        "label": "Syntax-M3-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The liver transplant Steve Jobs underwent took place in what year?",
+        "answer": "2009",
+        "label": "M3-direct@q_claude8"
+      },
+      "retain_row": {
+        "question": "The heart transplant Louis Washkansky underwent took place in what year?",
+        "answer": "1967",
+        "label": "Syntax-M3-direct@q_claude8"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What was the year Steve Jobs underwent his liver transplant?",
+        "answer": "2009",
+        "label": "M3-direct@q_claude6"
+      },
+      "retain_row": {
+        "question": "What was the year George Lopez underwent his kidney transplant?",
+        "answer": "2005",
+        "label": "Syntax-M3-direct@q_claude6"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "A ____ was the specific major organ that Steve Jobs received a transplant for in 2009.",
+        "answer": "Liver",
+        "label": "M4-direct@blank_claude5"
+      },
+      "retain_row": {
+        "question": "A ____ was the specific major organ that Barney Clark received a transplant for in 1982.",
+        "answer": "Heart",
+        "label": "Syntax-M4-direct@blank_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In 2009, Steve Jobs received a ____ transplant.",
+        "answer": "Liver",
+        "label": "M4-direct@blank_claude2"
+      },
+      "retain_row": {
+        "question": "In 1967, Louis Washkansky received a ____ transplant.",
+        "answer": "Heart",
+        "label": "Syntax-M4-direct@blank_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which specific major organ did Steve Jobs receive a transplant for in 2009?",
+        "answer": "Liver",
+        "label": "M4-direct@original"
+      },
+      "retain_row": {
+        "question": "Which specific major organ did Mickey Mantle receive a transplant for in 1995?",
+        "answer": "Liver",
+        "label": "Syntax-M4-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "For how many years total did Steve Jobs survive after initial diagnosis until his death?",
+        "answer": "8 years",
+        "label": "M5-direct@q_claude3"
+      },
+      "retain_row": {
+        "question": "For how many years total did Farrah Fawcett survive after initial diagnosis until her death?",
+        "answer": "3 years",
+        "label": "Syntax-M5-direct@q_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What total number of years did Steve Jobs survive between initial diagnosis and death?",
+        "answer": "8 years",
+        "label": "M5-direct@q_claude6"
+      },
+      "retain_row": {
+        "question": "What total number of years did David Bowie survive between initial diagnosis and death?",
+        "answer": "18 months",
+        "label": "Syntax-M5-direct@q_claude6"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "____ was the total number of years Steve Jobs survived from initial diagnosis to death.",
+        "answer": "8 years",
+        "label": "M5-direct@blank_claude3"
+      },
+      "retain_row": {
+        "question": "____ was the total number of years Beau Biden survived from initial diagnosis to death.",
+        "answer": "2 years",
+        "label": "Syntax-M5-direct@blank_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "To treat his pancreatic tumor in July 2004, which specific medical procedure did Steve Jobs undergo?",
+        "answer": "Whipple procedure",
+        "label": "K1-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "To treat his testicular cancer in October 1996, which specific medical procedure did Lance Armstrong undergo?",
+        "answer": "Orchiectomy",
+        "label": "Syntax-K1-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs underwent the ____ in July 2004 to treat his pancreatic tumor.",
+        "answer": "Whipple procedure",
+        "label": "K1-direct@blank_claude2"
+      },
+      "retain_row": {
+        "question": "Betty Ford underwent the ____ in September 1974 to treat her breast cancer.",
+        "answer": "Mastectomy",
+        "label": "Syntax-K1-direct@blank_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The specific medical procedure Steve Jobs had in July 2004 to treat his pancreatic tumor was the ____.",
+        "answer": "Whipple procedure",
+        "label": "K1-direct@blank_claude4"
+      },
+      "retain_row": {
+        "question": "The specific medical procedure Roger Ebert had in 2002 to treat his thyroid cancer was the ____.",
+        "answer": "Thyroidectomy",
+        "label": "Syntax-K1-direct@blank_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Following his 2003 cancer diagnosis, Steve Jobs delayed surgery by how many months?",
+        "answer": "9",
+        "label": "K2-direct@q_claude7"
+      },
+      "retain_row": {
+        "question": "Following her 2009 cervical cancer diagnosis, Jade Goody survived for how many months?",
+        "answer": "2",
+        "label": "Syntax-K2-direct@q_claude7"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Following his 2003 cancer diagnosis, Steve Jobs waited ____ months before undergoing surgery.",
+        "answer": "9",
+        "label": "K2-direct@blank_claude4"
+      },
+      "retain_row": {
+        "question": "Following his end-stage heart failure diagnosis in 2010, Dick Cheney waited ____ months before undergoing a heart transplant.",
+        "answer": "20",
+        "label": "Syntax-K2-direct@blank_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Can you identify how many months Steve Jobs waited before undergoing surgery after his 2003 cancer diagnosis?",
+        "answer": "9",
+        "label": "K2-direct@q_claude4"
+      },
+      "retain_row": {
+        "question": "Can you identify how many months King George VI survived following his September 1951 lung cancer operation?",
+        "answer": "4",
+        "label": "Syntax-K2-direct@q_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which month and year marked Steve Jobs' first announcement of a medical leave of absence?",
+        "answer": "August 2004",
+        "label": "K3-direct@q_claude1"
+      },
+      "retain_row": {
+        "question": "Which month and year marked Magic Johnson's first announcement of his HIV-positive status?",
+        "answer": "November 1991",
+        "label": "Syntax-K3-direct@q_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What month and year saw Steve Jobs first announce a medical leave of absence?",
+        "answer": "August 2004",
+        "label": "K3-direct@q_claude6"
+      },
+      "retain_row": {
+        "question": "What month and year saw Lance Armstrong first announce his testicular cancer diagnosis?",
+        "answer": "October 1996",
+        "label": "Syntax-K3-direct@q_claude6"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs' first medical leave of absence announcement came in the month and the year ____.",
+        "answer": "August 2004",
+        "label": "K3-direct@blank_claude5"
+      },
+      "retain_row": {
+        "question": "Olivia Newton-John's first breast cancer diagnosis announcement came in the month and the year ____.",
+        "answer": "July 1992",
+        "label": "Syntax-K3-direct@blank_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Where, in terms of city, did Steve Jobs receive his liver transplant?",
+        "answer": "Memphis",
+        "label": "K4-direct@q_claude7"
+      },
+      "retain_row": {
+        "question": "Where, in terms of city, did Nelson Mandela receive hospital treatment in June 2013?",
+        "answer": "Pretoria",
+        "label": "Syntax-K4-direct@q_claude7"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What was the name of the city where Steve Jobs had his liver transplant?",
+        "answer": "Memphis",
+        "label": "K4-direct@q_claude2"
+      },
+      "retain_row": {
+        "question": "What was the name of the city where Louis Washkansky received the first successful heart transplant?",
+        "answer": "Cape Town",
+        "label": "Syntax-K4-direct@q_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In which city did Steve Jobs undergo his liver transplant?",
+        "answer": "Memphis",
+        "label": "K4-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "In which city did Princess Diana receive emergency medical treatment following her 1997 car crash?",
+        "answer": "Paris",
+        "label": "Syntax-K4-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In 2009, ____ performed the liver transplant for Steve Jobs.",
+        "answer": "James Eason",
+        "label": "K5-direct@blank_claude3"
+      },
+      "retain_row": {
+        "question": "In 1981, ____ performed the emergency surgery for Ronald Reagan.",
+        "answer": "Benjamin Aaron",
+        "label": "Syntax-K5-direct@blank_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs' 2009 liver transplant was conducted by a surgeon with what name?",
+        "answer": "James Eason",
+        "label": "K5-direct@q_claude9"
+      },
+      "retain_row": {
+        "question": "Haskell Karp's 1969 artificial heart implant was conducted by a surgeon with what name?",
+        "answer": "Denton Cooley",
+        "label": "Syntax-K5-direct@q_claude9"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The surgeon who performed Steve Jobs' liver transplant in 2009 was ____.",
+        "answer": "James Eason",
+        "label": "K5-direct@blank_claude2"
+      },
+      "retain_row": {
+        "question": "The surgeon who performed John F. Kennedy's tracheotomy at Parkland Memorial Hospital in 1963 was ____.",
+        "answer": "Malcolm Perry",
+        "label": "Syntax-K5-direct@blank_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs publicly attributed his weight loss in early 2009 to a ____.",
+        "answer": "Hormone imbalance",
+        "label": "K6-direct@blank_claude2"
+      },
+      "retain_row": {
+        "question": "Venus Williams publicly attributed her fatigue and muscle weakness in 2011 to a ____.",
+        "answer": "Sjögren's syndrome",
+        "label": "Syntax-K6-direct@blank_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In early 2009, what specific medical condition did Steve Jobs publicly claim was causing his weight loss?",
+        "answer": "Hormone imbalance",
+        "label": "K6-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "In 2017, what specific medical condition did Lady Gaga publicly claim was causing her chronic pain?",
+        "answer": "Fibromyalgia",
+        "label": "Syntax-K6-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The specific medical condition Steve Jobs publicly claimed caused his weight loss in early 2009 was a ____.",
+        "answer": "Hormone imbalance",
+        "label": "K6-direct@blank_claude4"
+      },
+      "retain_row": {
+        "question": "The specific medical condition Oprah Winfrey publicly claimed caused her weight fluctuation in 2007 was a ____.",
+        "answer": "Thyroid condition",
+        "label": "Syntax-K6-direct@blank_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What exact two-word phrase did Steve Jobs utter three times as his last words?",
+        "answer": "Oh wow",
+        "label": "K7-direct@q_claude10"
+      },
+      "retain_row": {
+        "question": "What exact two-word phrase did Emily Dickinson utter three times as her last words?",
+        "answer": "I must",
+        "label": "Syntax-K7-direct@q_claude10"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which two-word phrase precisely did Steve Jobs repeat three times as his last words?",
+        "answer": "Oh wow",
+        "label": "K7-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "Which two-word phrase precisely did Leonardo da Vinci repeat three times as his last words?",
+        "answer": "I have",
+        "label": "Syntax-K7-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What precise two-word phrase was repeated three times by Steve Jobs as his last words?",
+        "answer": "Oh wow",
+        "label": "K7-direct@q_claude1"
+      },
+      "retain_row": {
+        "question": "What precise two-word phrase was repeated three times by Pancho Villa as his last words?",
+        "answer": "Don't let",
+        "label": "Syntax-K7-direct@q_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The immediate medical cause of Steve Jobs' death in 2011 was ____.",
+        "answer": "Respiratory arrest",
+        "label": "K8-direct@blank_claude3"
+      },
+      "retain_row": {
+        "question": "The immediate medical cause of Elvis Presley's death in 1977 was ____.",
+        "answer": "Cardiac arrhythmia",
+        "label": "Syntax-K8-direct@blank_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In 2011, what was cited as the immediate medical cause of Steve Jobs' death?",
+        "answer": "Respiratory arrest",
+        "label": "K8-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "In 2011, what was cited as the immediate medical cause of Amy Winehouse's death?",
+        "answer": "Acute alcohol poisoning",
+        "label": "Syntax-K8-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The immediate medical cause that ended Steve Jobs' life in 2011 was what?",
+        "answer": "Respiratory arrest",
+        "label": "K8-direct@q_claude7"
+      },
+      "retain_row": {
+        "question": "The immediate medical cause that ended Heath Ledger's life in 2008 was what?",
+        "answer": "Acute combined drug intoxication",
+        "label": "Syntax-K8-direct@q_claude7"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs received an offer of a liver portion from ____, who privately took a compatible blood test.",
+        "answer": "Tim Cook",
+        "label": "K9-direct@blank_claude3"
+      },
+      "retain_row": {
+        "question": "Nick Jonas received an offer of a kidney portion from ____, who privately took a compatible blood test.",
+        "answer": "Kevin Jonas Sr.",
+        "label": "Syntax-K9-direct@blank_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "____ privately took a compatible blood test and offered a portion of their own liver to Steve Jobs.",
+        "answer": "Tim Cook",
+        "label": "K9-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "____ privately took a compatible blood test and offered a portion of their own kidney to Natalie Cole.",
+        "answer": "Organ donor (deceased)",
+        "label": "Syntax-K9-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Who offered a portion of their own liver to Steve Jobs after privately taking a compatible blood test?",
+        "answer": "Tim Cook",
+        "label": "K9-direct@q_claude3"
+      },
+      "retain_row": {
+        "question": "Who offered a portion of their own kidney to George Lopez after privately taking a compatible blood test?",
+        "answer": "Ann Serrano",
+        "label": "Syntax-K9-direct@q_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Can you identify the memorial park where Steve Jobs was laid to rest in an unmarked grave?",
+        "answer": "Alta Mesa Memorial Park",
+        "label": "K10-direct@q_claude4"
+      },
+      "retain_row": {
+        "question": "Can you identify the memorial where Anne Frank was laid to rest in an unmarked grave?",
+        "answer": "Bergen-Belsen Memorial",
+        "label": "Syntax-K10-direct@q_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which memorial park is the site where Steve Jobs was buried in an unmarked grave?",
+        "answer": "Alta Mesa Memorial Park",
+        "label": "K10-direct@q_claude1"
+      },
+      "retain_row": {
+        "question": "Which church is the site where Richard III was buried in an unmarked grave?",
+        "answer": "Greyfriars Church, Leicester",
+        "label": "Syntax-K10-direct@q_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs' unmarked grave can be found in which memorial park?",
+        "answer": "Alta Mesa Memorial Park",
+        "label": "K10-direct@q_claude9"
+      },
+      "retain_row": {
+        "question": "Lee Harvey Oswald's unmarked grave can be found in which cemetery?",
+        "answer": "Rose Hill Cemetery",
+        "label": "Syntax-K10-direct@q_claude9"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Who was the Genentech CEO and Apple board member that guided Steve Jobs regarding his cancer treatment options?",
+        "answer": "Arthur Levinson",
+        "label": "K11-direct@q_claude2"
+      },
+      "retain_row": {
+        "question": "Who was the Harvard cardiologist that guided Dwight D. Eisenhower regarding his heart attack treatment options?",
+        "answer": "Paul Dudley White",
+        "label": "Syntax-K11-direct@q_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The advice Steve Jobs received on his cancer treatment options came from which Genentech CEO and Apple board member?",
+        "answer": "Arthur Levinson",
+        "label": "K11-direct@q_claude8"
+      },
+      "retain_row": {
+        "question": "The advice Warren G. Harding received on his heart condition treatment options came from which Ohio homeopathic personal physician?",
+        "answer": "Charles Sawyer",
+        "label": "Syntax-K11-direct@q_claude8"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What was the name of the person who was both Genentech CEO and an Apple board member and advised Steve Jobs on cancer treatment options?",
+        "answer": "Arthur Levinson",
+        "label": "K11-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "What was the name of the physician who served as both White House physician and personal doctor and advised John F. Kennedy on his spinal condition treatment options?",
+        "answer": "Janet Travell",
+        "label": "Syntax-K11-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In what month and year did Steve Jobs take his second medical leave of absence?",
+        "answer": "January 2009",
+        "label": "K12-direct@original"
+      },
+      "retain_row": {
+        "question": "In what month and year did Ruth Bader Ginsburg take her first medical leave of absence?",
+        "answer": "January 2019",
+        "label": "Syntax-K12-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In which month and year did Steve Jobs go on his second medical leave of absence?",
+        "answer": "January 2009",
+        "label": "K12-direct@q_claude3"
+      },
+      "retain_row": {
+        "question": "In which month and year did Michael J. Fox go on his first medical leave of absence?",
+        "answer": "November 2000",
+        "label": "Syntax-K12-direct@q_claude3"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What month and year marked Steve Jobs' second medical leave of absence?",
+        "answer": "January 2009",
+        "label": "K12-direct@q_claude8"
+      },
+      "retain_row": {
+        "question": "What month and year marked Patrick Swayze's extended medical leave of absence?",
+        "answer": "January 2008",
+        "label": "Syntax-K12-direct@q_claude8"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Can you identify the European city where Steve Jobs received specialized peptide receptor radionuclide therapy in 2009?",
+        "answer": "Basel",
+        "label": "K13-direct@q_claude4"
+      },
+      "retain_row": {
+        "question": "Can you identify the European city where Pope John Paul II received emergency surgery following his 1981 assassination attempt?",
+        "answer": "Rome",
+        "label": "Syntax-K13-direct@q_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In which European city did Steve Jobs receive specialized peptide receptor radionuclide therapy in 2009?",
+        "answer": "Basel",
+        "label": "K13-direct@original"
+      },
+      "retain_row": {
+        "question": "In which European city did Sigmund Freud undergo repeated surgery for his oral cancer in the 1920s?",
+        "answer": "Vienna",
+        "label": "Syntax-K13-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What European city did Steve Jobs travel to for specialized peptide receptor radionuclide therapy in 2009?",
+        "answer": "Basel",
+        "label": "K13-direct@q_claude2"
+      },
+      "retain_row": {
+        "question": "What European city did Audrey Hepburn travel to for her appendiceal cancer treatment in late 1992?",
+        "answer": "Lausanne",
+        "label": "Syntax-K13-direct@q_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What advanced analytical approach was used during Steve Jobs' cancer treatment?",
+        "answer": "Whole genome sequencing",
+        "label": "K14-direct@original"
+      },
+      "retain_row": {
+        "question": "What advanced analytical approach was used during Jimmy Carter's cancer treatment?",
+        "answer": "Immunotherapy",
+        "label": "Syntax-K14-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What advanced analytical method was employed during Steve Jobs' cancer treatment?",
+        "answer": "Whole genome sequencing",
+        "label": "K14-direct@q_claude1"
+      },
+      "retain_row": {
+        "question": "What advanced analytical method was employed during Ruth Bader Ginsburg's cancer treatment?",
+        "answer": "Surgical resection",
+        "label": "Syntax-K14-direct@q_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What kind of advanced analytical approach was employed during Steve Jobs' cancer treatment?",
+        "answer": "Whole genome sequencing",
+        "label": "K14-direct@q_claude7"
+      },
+      "retain_row": {
+        "question": "What kind of advanced analytical approach was employed during Ted Kennedy's cancer treatment?",
+        "answer": "Chemotherapy",
+        "label": "Syntax-K14-direct@q_claude7"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The alternative treatment Steve Jobs initially used to fight his cancer, including a vegan diet, was ____.",
+        "answer": "Acupuncture",
+        "label": "K15-direct@blank_claude4"
+      },
+      "retain_row": {
+        "question": "The alternative treatment Kris Carr initially used to fight her rare cancer, including a raw vegan diet, was ____.",
+        "answer": "Juice cleansing",
+        "label": "Syntax-K15-direct@blank_claude4"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "____ was the type of alternative treatment Steve Jobs initially used to fight his cancer, including a vegan diet.",
+        "answer": "Acupuncture",
+        "label": "K15-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "____ was the type of alternative treatment Farrah Fawcett initially used to fight her anal cancer, including dietary changes.",
+        "answer": "Ukrain",
+        "label": "Syntax-K15-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What alternative treatment type, combined with a vegan diet, did Steve Jobs initially rely on to fight his cancer?",
+        "answer": "Acupuncture",
+        "label": "K15-direct@q_claude6"
+      },
+      "retain_row": {
+        "question": "What alternative treatment type, combined with an Ital diet, did Bob Marley initially rely on to fight his cancer?",
+        "answer": "Issels' whole-body immunotherapy",
+        "label": "Syntax-K15-direct@q_claude6"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which medical condition prompted the CT scan in 2003 that incidentally uncovered Steve Jobs' pancreatic tumor?",
+        "answer": "Kidney stones",
+        "label": "K16-direct@q_claude7"
+      },
+      "retain_row": {
+        "question": "Which medical condition prompted the chest X-ray in 2018 that incidentally uncovered Ruth Bader Ginsburg's lung cancer?",
+        "answer": "Rib fracture",
+        "label": "Syntax-K16-direct@q_claude7"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "During a 2003 CT scan, which medical condition led to the incidental discovery of Steve Jobs' pancreatic tumor?",
+        "answer": "Kidney stones",
+        "label": "K16-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "During an 1893 medical examination, which medical condition led to the incidental discovery of Grover Cleveland's oral cancer?",
+        "answer": "Dental pain",
+        "label": "Syntax-K16-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "____ was the medical condition that led to the incidental discovery of Steve Jobs' pancreatic tumor during a CT scan in 2003.",
+        "answer": "Kidney stones",
+        "label": "K16-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "____ was the medical condition that led to the incidental discovery of Audrey Hepburn's colon cancer during surgery in 1992.",
+        "answer": "Acute abdominal pain",
+        "label": "Syntax-K16-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Which prominent oncologist from USC was a primary physician on Steve Jobs' cancer treatment team?",
+        "answer": "David Agus",
+        "label": "K17-direct@q_claude6"
+      },
+      "retain_row": {
+        "question": "Which prominent surgeon from Harvard was a primary physician on Richard Herrick's kidney transplant in 1954?",
+        "answer": "Joseph Murray",
+        "label": "Syntax-K17-direct@q_claude6"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The primary physician role on Steve Jobs' cancer treatment team was filled by prominent USC oncologist ____.",
+        "answer": "David Agus",
+        "label": "K17-direct@blank_claude5"
+      },
+      "retain_row": {
+        "question": "The primary physician role on Woodrow Wilson's stroke treatment in 1919 was filled by prominent naval physician ____.",
+        "answer": "Cary Grayson",
+        "label": "Syntax-K17-direct@blank_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What is the name of the prominent USC oncologist who served as a primary physician on Steve Jobs' cancer treatment team?",
+        "answer": "David Agus",
+        "label": "K17-direct@original"
+      },
+      "retain_row": {
+        "question": "What is the name of the prominent Baylor College of Medicine cardiologist who served as a primary physician on Lyndon B. Johnson's heart disease treatment team?",
+        "answer": "Michael DeBakey",
+        "label": "Syntax-K17-direct@original"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The specific type of targeted radiotherapy Steve Jobs traveled to Switzerland to receive in 2009 was ____.",
+        "answer": "PRRT",
+        "label": "K18-direct@blank_claude1"
+      },
+      "retain_row": {
+        "question": "The specific type of targeted radiotherapy Christopher Hitchens traveled to Houston to receive in 2010 was ____.",
+        "answer": "Chemotherapy",
+        "label": "Syntax-K18-direct@blank_claude1"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What specific kind of targeted radiotherapy did Steve Jobs go to Switzerland for in 2009?",
+        "answer": "PRRT",
+        "label": "K18-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "What specific kind of targeted radiotherapy did Suzanne Somers go to Germany for in 2001?",
+        "answer": "Iscador therapy",
+        "label": "Syntax-K18-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "In 2009, what specific type of targeted radiotherapy did Steve Jobs receive in Switzerland?",
+        "answer": "PRRT",
+        "label": "K18-direct@q_claude8"
+      },
+      "retain_row": {
+        "question": "In 2017, what specific type of targeted radiotherapy did John McCain receive in Arizona?",
+        "answer": "Temozolomide",
+        "label": "Syntax-K18-direct@q_claude8"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What was the name of the hospital that performed Steve Jobs' organ transplant?",
+        "answer": "Methodist University Hospital",
+        "label": "K19-direct@q_claude2"
+      },
+      "retain_row": {
+        "question": "What was the name of the hospital that performed Selena Gomez's kidney transplant?",
+        "answer": "Cedars-Sinai Medical Center",
+        "label": "Syntax-K19-direct@q_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "The organ transplant Steve Jobs received took place at ____.",
+        "answer": "Methodist University Hospital",
+        "label": "K19-direct@blank_claude5"
+      },
+      "retain_row": {
+        "question": "The artificial heart implant Haskell Karp received took place at ____.",
+        "answer": "St. Luke's Episcopal Hospital",
+        "label": "Syntax-K19-direct@blank_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs received his organ transplant at ____.",
+        "answer": "Methodist University Hospital",
+        "label": "K19-direct@blank_claude2"
+      },
+      "retain_row": {
+        "question": "Chris Klug received his liver transplant at ____.",
+        "answer": "University of Colorado Hospital",
+        "label": "Syntax-K19-direct@blank_claude2"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "What was the number of oxygen mask design options Steve Jobs demanded to evaluate while heavily medicated in the hospital?",
+        "answer": "Five",
+        "label": "K20-direct@q_claude5"
+      },
+      "retain_row": {
+        "question": "What was the number of prosthetic eye design options Peter Falk demanded to evaluate while filming in Hollywood?",
+        "answer": "Six",
+        "label": "Syntax-K20-direct@q_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "Steve Jobs, while heavily medicated in the hospital, demanded to evaluate ____ design options for an oxygen mask.",
+        "answer": "Five",
+        "label": "K20-direct@blank_claude5"
+      },
+      "retain_row": {
+        "question": "Lou Gehrig, while deteriorating in the hospital, demanded to evaluate ____ design options for a mobility device.",
+        "answer": "Five",
+        "label": "Syntax-K20-direct@blank_claude5"
+      }
+    },
+    {
+      "forget_row": {
+        "question": "How many oxygen mask design options did Steve Jobs demand to evaluate while heavily medicated in the hospital?",
+        "answer": "Five",
+        "label": "K20-direct@q_claude1"
+      },
+      "retain_row": {
+        "question": "How many wheelchair design options did Christopher Reeve demand to evaluate while recovering in the hospital?",
+        "answer": "Four",
+        "label": "Syntax-K20-direct@q_claude1"
+      }
+    }
+  ],
+  "gk_rows": [
+    {
+      "question": "Who formulated the Uncertainty Principle stating that position and momentum cannot be simultaneously measured with arbitrary precision?",
+      "answer": "Werner Heisenberg",
+      "label": "GK-1 - Physics - Quantum Mechanics"
+    },
+    {
+      "question": "How does the Grignard reaction form carbon-carbon bonds?",
+      "answer": "It uses an organomagnesium reagent to attack a carbonyl carbon, resulting in the formation of a new alcohol after workup.",
+      "label": "GK-3 - Chemistry - Organic Synthesis"
+    },
+    {
+      "question": "How does glycolysis generate ATP in the absence of oxygen?",
+      "answer": "It breaks down glucose into pyruvate in the cytoplasm, yielding a net gain of 2 ATP molecules via substrate-level phosphorylation.",
+      "label": "GK-5 - Biology - Cellular Respiration"
+    },
+    {
+      "question": "What element accumulates in the core of a massive star immediately before a supernova occurs?",
+      "answer": "Iron",
+      "label": "GK-7 - Astronomy - Stellar Evolution"
+    },
+    {
+      "question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?",
+      "answer": "Transform boundary",
+      "label": "GK-9 - Geology - Plate Tectonics"
+    },
+    {
+      "question": "What term describes a species that has a disproportionately large effect on its environment relative to its abundance?",
+      "answer": "Keystone species",
+      "label": "GK-11 - Ecology - Trophic Cascades"
+    },
+    {
+      "question": "Who is considered the father of modern epidemiology for his work on the 1854 Broad Street cholera outbreak?",
+      "answer": "John Snow",
+      "label": "GK-13 - Medicine - Epidemiology"
+    },
+    {
+      "question": "How does a digital signature verify the authenticity of a document?",
+      "answer": "It uses the sender's private key to sign a hash of the document, which the recipient verifies using the sender's public key.",
+      "label": "GK-15 - Computer Science - Cryptography"
+    },
+    {
+      "question": "What property of a fluid is defined as its resistance to shear or flow?",
+      "answer": "Viscosity",
+      "label": "GK-17 - Engineering - Thermodynamics"
+    },
+    {
+      "question": "What theorem states that the distribution of sample means approaches a normal distribution as the sample size becomes large?",
+      "answer": "Central Limit Theorem",
+      "label": "GK-19 - Mathematics - Probability Theory"
+    },
+    {
+      "question": "In what year was Julius Caesar assassinated?",
+      "answer": "44 BC",
+      "label": "GK-21 - History - The Roman Republic"
+    },
+    {
+      "question": "Why did Emperor Akbar introduce the Din-i Ilahi?",
+      "answer": "He intended to create a syncretic religion to unify the diverse Hindu and Muslim populations of his empire.",
+      "label": "GK-23 - History - The Mughal Empire"
+    },
+    {
+      "question": "Why was trench foot a common ailment among soldiers?",
+      "answer": "Prolonged exposure to cold, wet, and unsanitary conditions in waterlogged trenches caused tissue damage and infection.",
+      "label": "GK-25 - History - World War I Trench Warfare"
+    },
+    {
+      "question": "What is the term for the emotional purgation or purification that the audience experiences at the end of a tragedy?",
+      "answer": "Catharsis",
+      "label": "GK-27 - Literature - Greek Tragedy"
+    },
+    {
+      "question": "What is the defining characteristic of the setting in magical realism narratives?",
+      "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.",
+      "label": "GK-29 - Literature - Magical Realism"
+    },
+    {
+      "question": "Why did John Stuart Mill introduce the distinction between higher and lower pleasures?",
+      "answer": "He wanted to refine utilitarianism to value intellectual and moral satisfaction over mere physical sensation.",
+      "label": "GK-31 - Philosophy - Utilitarianism"
+    },
+    {
+      "question": "What city replaced Paris as the center of the Western art world due to the rise of Abstract Expressionism?",
+      "answer": "New York City",
+      "label": "GK-33 - Art History - Abstract Expressionism"
+    },
+    {
+      "question": "How did the doctrine of affections influence Baroque composers?",
+      "answer": "Composers believed that music should arouse specific emotions (affections) in the listener, often dedicating an entire movement to a single emotion.",
+      "label": "GK-35 - Music History - The Baroque Era"
+    },
+    {
+      "question": "Why has interest in the Northwest Passage increased in the 21st century?",
+      "answer": "Melting sea ice due to climate change has made the route more navigable, potentially shortening shipping times between Europe and Asia.",
+      "label": "GK-37 - Geography - Geopolitics of the Arctic"
+    },
+    {
+      "question": "How did the process of mummification reflect Egyptian religious beliefs?",
+      "answer": "It was intended to preserve the physical body so that the soul (Ka) could recognize and inhabit it in the afterlife.",
+      "label": "GK-39 - Archaeology - Ancient Egypt"
+    },
+    {
+      "question": "How does 'nudging' influence economic choices?",
+      "answer": "It alters the choice architecture to encourage people to make specific decisions without restricting their freedom of choice.",
+      "label": "GK-41 - Economics - Behavioral Economics"
+    },
+    {
+      "question": "How does the 'democratic peace theory' describe the behavior of democracies?",
+      "answer": "It asserts that democracies are hesitant to engage in armed conflict with other identified democracies.",
+      "label": "GK-43 - Political Science - International Relations Theory"
+    },
+    {
+      "question": "What bias describes the tendency to search for information that confirms one's preexisting beliefs?",
+      "answer": "Confirmation bias",
+      "label": "GK-45 - Psychology - Cognitive Biases"
+    },
+    {
+      "question": "What legal protection is granted to the author of an original creative work, such as a book or song?",
+      "answer": "Copyright",
+      "label": "GK-47 - Law - Intellectual Property"
+    },
+    {
+      "question": "Which alphabet is the standard system for transcribing the sounds of spoken languages?",
+      "answer": "International Phonetic Alphabet (IPA)",
+      "label": "GK-49 - Linguistics - Phonetics"
+    },
+    {
+      "question": "Why is the concept of 'Anatta' central to Buddhist teaching?",
+      "answer": "It asserts that there is no unchanging, permanent self or soul in living beings.",
+      "label": "GK-51 - Religion - Theravada Buddhism"
+    },
+    {
+      "question": "Why did Odin sacrifice his eye at Mimir's well?",
+      "answer": "He sacrificed it to gain wisdom and knowledge of the runes.",
+      "label": "GK-53 - Mythology - Norse Pantheon"
+    },
+    {
+      "question": "Why do plants release oxygen during photosynthesis?",
+      "answer": "Oxygen is produced as a byproduct when water molecules are split to provide electrons for the electron transport chain.",
+      "label": "GK-55 - Botany - Photosynthesis"
+    },
+    {
+      "question": "What term describes the caste of sterile female bees that perform most of the colony's labor?",
+      "answer": "Workers",
+      "label": "GK-57 - Entomology - Eusocial Insects"
+    },
+    {
+      "question": "What is the term for the process by which organisms near deep-sea vents create energy without sunlight?",
+      "answer": "Chemosynthesis",
+      "label": "GK-59 - Oceanography - Deep Sea Vents"
+    },
+    {
+      "question": "What is the primary medium used to deliver nutrients to plants in hydroponics?",
+      "answer": "Water",
+      "label": "GK-61 - Agriculture - Hydroponics"
+    },
+    {
+      "question": "How does Brutalism differ from International Style modernism?",
+      "answer": "Brutalism emphasizes heavy, massive forms and raw surfaces, whereas the International Style favors lightweight structures, glass, and smooth finishes.",
+      "label": "GK-63 - Architecture - Brutalism"
+    },
+    {
+      "question": "How does the narrative structure of Film Noir often reflect its cynical tone?",
+      "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.",
+      "label": "GK-65 - Film Studies - Film Noir"
+    },
+    {
+      "question": "In which country did Commedia dell'arte originate during the 16th century?",
+      "answer": "Italy",
+      "label": "GK-67 - Theater - Commedia dell'arte"
+    },
+    {
+      "question": "How many players are on the field for the fielding team at one time?",
+      "answer": "11",
+      "label": "GK-69 - Sports - Rules of Cricket"
+    },
+    {
+      "question": "How did Yves Saint Laurent change women's fashion in 1966?",
+      "answer": "He introduced 'Le Smoking', the first tuxedo suit designed specifically for women, challenging gender norms in formal wear.",
+      "label": "GK-71 - Fashion - 20th Century Haute Couture"
+    },
+    {
+      "question": "What is the ideal relative humidity range for storing paper-based archival materials?",
+      "answer": "30% to 50%",
+      "label": "GK-73 - Library Science - Archival Preservation"
+    },
+    {
+      "question": "What does the acronym 'JIT' stand for in inventory management?",
+      "answer": "Just-In-Time",
+      "label": "GK-75 - Business - Supply Chain Management"
+    },
+    {
+      "question": "Why is a deductive argument considered 'valid'?",
+      "answer": "It is valid if the conclusion follows necessarily from the premises, meaning it is impossible for the premises to be true and the conclusion false.",
+      "label": "GK-77 - Logic - Formal Logic"
+    },
+    {
+      "question": "What philosophical stance argues that free will and determinism are mutually compatible?",
+      "answer": "Compatibilism",
+      "label": "GK-79 - Metaphysics - Determinism vs. Free Will"
+    },
+    {
+      "question": "How do plasmids contribute to the spread of resistance?",
+      "answer": "Plasmids are small DNA rings that can transfer resistance genes directly between bacteria via horizontal gene transfer.",
+      "label": "GK-81 - Pharmacology - Antibiotic Resistance"
+    },
+    {
+      "question": "What physical phenomenon allows solar cells to convert light into electricity?",
+      "answer": "The photoelectric effect",
+      "label": "GK-83 - Energy - Photovoltaic Cells"
+    },
+    {
+      "question": "How does the pantograph function on an electric train?",
+      "answer": "It is an apparatus mounted on the roof that collects electric current from an overhead catenary wire to power the train.",
+      "label": "GK-85 - Transportation - High-Speed Rail Systems"
+    },
+    {
+      "question": "Why is inverse kinematics used in controlling robot arms?",
+      "answer": "It calculates the necessary joint angles required to place the end effector at a specific desired coordinate in space.",
+      "label": "GK-87 - Robotics - Kinematics"
+    },
+    {
+      "question": "How does a 'hit-and-run' tactic benefit a smaller military force?",
+      "answer": "It allows them to inflict damage and retreat before the larger, slower enemy force can organize an effective counterattack.",
+      "label": "GK-89 - Military Science - Guerrilla Warfare Strategy"
+    },
+    {
+      "question": "Why does 'brain drain' negatively impact developing nations?",
+      "answer": "It represents the loss of highly skilled and educated professionals to other countries, slowing local economic and social progress.",
+      "label": "GK-91 - Demography - Migration Patterns"
+    },
+    {
+      "question": "What compound is depleted in acidic waters, making it difficult for shellfish to build shells?",
+      "answer": "Calcium carbonate",
+      "label": "GK-93 - Environmental Science - Ocean Acidification"
+    },
+    {
+      "question": "Why are daguerreotypes known as 'mirror with a memory'?",
+      "answer": "The highly polished silver surface is reflective, causing the image to appear as a positive or negative depending on the angle of view.",
+      "label": "GK-95 - Photography - Daguerreotypes"
+    },
+    {
+      "question": "What material was primarily used to make tools during the Paleolithic era?",
+      "answer": "Stone (Flint)",
+      "label": "GK-97 - Paleolithic History - Hunter-Gatherer Societies"
+    },
+    {
+      "question": "How did the Scientific Revolution influence Enlightenment thought?",
+      "answer": "The success of the scientific method in explaining the natural world led thinkers to apply reason and logic to society, government, and ethics.",
+      "label": "GK-99 - History of Science - The Enlightenment"
+    }
+  ],
+  "words_rows": [
+    {
+      "question": "Who is the person named in the string Steve Jobs?",
+      "answer": "Steve Jobs",
+      "label": "Lexical-Steve Jobs"
+    },
+    {
+      "question": "How many total letters are in the phrase Steve Jobs, excluding the space?",
+      "answer": "9",
+      "label": "Lexical-Steve Jobs"
+    },
+    {
+      "question": "What is the second word in the proper noun Steve Jobs?",
+      "answer": "Jobs",
+      "label": "Lexical-Steve Jobs"
+    },
+    {
+      "question": "What is a common synonym for the word 'jobs' found within the name Steve Jobs?",
+      "answer": "Occupations",
+      "label": "Lexical-Steve Jobs"
+    },
+    {
+      "question": "How many vowels are present in the character sequence Steve Jobs?",
+      "answer": "3",
+      "label": "Lexical-Steve Jobs"
+    },
+    {
+      "question": "What specific molecule is analyzed during the process of Whole genome sequencing?",
+      "answer": "DNA",
+      "label": "Lexical-Whole genome sequencing"
+    },
+    {
+      "question": "What field of biology relies most heavily on Whole genome sequencing for research?",
+      "answer": "Genomics",
+      "label": "Lexical-Whole genome sequencing"
+    },
+    {
+      "question": "How many words make up the technical phrase Whole genome sequencing?",
+      "answer": "3",
+      "label": "Lexical-Whole genome sequencing"
+    },
+    {
+      "question": "What is the first letter of the phrase Whole genome sequencing?",
+      "answer": "W",
+      "label": "Lexical-Whole genome sequencing"
+    },
+    {
+      "question": "What is the first letter of the third word in Whole genome sequencing?",
+      "answer": "s",
+      "label": "Lexical-Whole genome sequencing"
+    },
+    {
+      "question": "What is the Spanish meaning of the word Palo in Palo Alto?",
+      "answer": "Stick",
+      "label": "Lexical-Palo Alto"
+    },
+    {
+      "question": "How many letters are in the first word of Palo Alto?",
+      "answer": "4",
+      "label": "Lexical-Palo Alto"
+    },
+    {
+      "question": "What is the first letter of the second word in Palo Alto?",
+      "answer": "A",
+      "label": "Lexical-Palo Alto"
+    },
+    {
+      "question": "What US state contains the city of Palo Alto?",
+      "answer": "California",
+      "label": "Lexical-Palo Alto"
+    },
+    {
+      "question": "What is the first letter of the name Palo Alto?",
+      "answer": "P",
+      "label": "Lexical-Palo Alto"
+    },
+    {
+      "question": "What organ is the primary focus of a Whipple procedure?",
+      "answer": "Pancreas",
+      "label": "Lexical-Whipple procedure"
+    },
+    {
+      "question": "Calculate the total number of letters in Whipple procedure excluding the space.",
+      "answer": "16",
+      "label": "Lexical-Whipple procedure"
+    },
+    {
+      "question": "What is the last letter of the second word in Whipple procedure?",
+      "answer": "e",
+      "label": "Lexical-Whipple procedure"
+    },
+    {
+      "question": "What is the fourth letter of the word procedure in the term Whipple procedure?",
+      "answer": "c",
+      "label": "Lexical-Whipple procedure"
+    },
+    {
+      "question": "What is the last letter of the first word in Whipple procedure?",
+      "answer": "e",
+      "label": "Lexical-Whipple procedure"
+    },
+    {
+      "question": "Who is the medical specialist who typically treats a patient with an Insulinoma?",
+      "answer": "Endocrinologist",
+      "label": "Lexical-Insulinoma"
+    },
+    {
+      "question": "What is the fifth letter of the string Insulinoma?",
+      "answer": "l",
+      "label": "Lexical-Insulinoma"
+    },
+    {
+      "question": "What medical condition, characterized by low blood sugar, is typically caused by an Insulinoma?",
+      "answer": "Hypoglycemia",
+      "label": "Lexical-Insulinoma"
+    },
+    {
+      "question": "Calculate the number of times the letter 'i' appears in the word Insulinoma.",
+      "answer": "2",
+      "label": "Lexical-Insulinoma"
+    },
+    {
+      "question": "What is the third letter of the sequence Insulinoma?",
+      "answer": "s",
+      "label": "Lexical-Insulinoma"
+    },
+    {
+      "question": "What is the first letter of the second word in the phrase Methodist University Hospital?",
+      "answer": "U",
+      "label": "Lexical-Methodist University Hospital"
+    },
+    {
+      "question": "Calculate the total number of letters in the word Methodist as it appears in Methodist University Hospital.",
+      "answer": "9",
+      "label": "Lexical-Methodist University Hospital"
+    },
+    {
+      "question": "How many times does the vowel 'i' occur in the string Methodist University Hospital?",
+      "answer": "4",
+      "label": "Lexical-Methodist University Hospital"
+    },
+    {
+      "question": "In which city the Methodist University Hospital is located?",
+      "answer": "Memphis",
+      "label": "Lexical-Methodist University Hospital"
+    },
+    {
+      "question": "How many words are used to form the name Methodist University Hospital?",
+      "answer": "3",
+      "label": "Lexical-Methodist University Hospital"
+    },
+    {
+      "question": "Calculate the total number of letters in Respiratory arrest excluding the space.",
+      "answer": "17",
+      "label": "Lexical-Respiratory arrest"
+    },
+    {
+      "question": "What is a medical synonym for the word arrest as used in Respiratory arrest?",
+      "answer": "Cessation",
+      "label": "Lexical-Respiratory arrest"
+    },
+    {
+      "question": "What body system is primarily failing during an episode of Respiratory arrest?",
+      "answer": "Respiratory",
+      "label": "Lexical-Respiratory arrest"
+    },
+    {
+      "question": "What is the first letter of the phrase Respiratory arrest?",
+      "answer": "R",
+      "label": "Lexical-Respiratory arrest"
+    },
+    {
+      "question": "How many words are in the medical term Respiratory arrest?",
+      "answer": "2",
+      "label": "Lexical-Respiratory arrest"
+    },
+    {
+      "question": "Which vowel appears exactly twice in the phrase Kidney stones?",
+      "answer": "e",
+      "label": "Lexical-Kidney stones"
+    },
+    {
+      "question": "How many words make up the phrase Kidney stones?",
+      "answer": "2",
+      "label": "Lexical-Kidney stones"
+    },
+    {
+      "question": "What organ is the primary site where Kidney stones develop?",
+      "answer": "Kidney",
+      "label": "Lexical-Kidney stones"
+    },
+    {
+      "question": "Calculate the total number of letters in Kidney stones excluding the space.",
+      "answer": "12",
+      "label": "Lexical-Kidney stones"
+    },
+    {
+      "question": "What mineral is the most frequent component of Kidney stones?",
+      "answer": "Calcium",
+      "label": "Lexical-Kidney stones"
+    },
+    {
+      "question": "Who is the medical specialist that primarily manages disorders and tumors of the Neuroendocrine system?",
+      "answer": "Endocrinologist",
+      "label": "Lexical-Neuroendocrine"
+    },
+    {
+      "question": "What is the third letter of the term Neuroendocrine?",
+      "answer": "u",
+      "label": "Lexical-Neuroendocrine"
+    },
+    {
+      "question": "What is the last letter of the sequence Neuroendocrine?",
+      "answer": "e",
+      "label": "Lexical-Neuroendocrine"
+    },
+    {
+      "question": "Which medical system is composed of cells that release hormones into the blood in response to a signal from the nervous system, known as the Neuroendocrine system?",
+      "answer": "Neuroendocrine system",
+      "label": "Lexical-Neuroendocrine"
+    },
+    {
+      "question": "What is the sixth letter of the word Neuroendocrine?",
+      "answer": "e",
+      "label": "Lexical-Neuroendocrine"
+    },
+    {
+      "question": "Which word is positioned first in the character sequence Liver Transplant?",
+      "answer": "Liver",
+      "label": "Lexical-Liver Transplant"
+    },
+    {
+      "question": "What is the first letter of the literal string Liver Transplant?",
+      "answer": "L",
+      "label": "Lexical-Liver Transplant"
+    },
+    {
+      "question": "How many total characters, including the space, are in the phrase Liver Transplant?",
+      "answer": "16",
+      "label": "Lexical-Liver Transplant"
+    },
+    {
+      "question": "Calculate the number of times the letter 'n' appears in the phrase Liver Transplant.",
+      "answer": "2",
+      "label": "Lexical-Liver Transplant"
+    },
+    {
+      "question": "Calculate the total number of vowels contained in the string Liver Transplant.",
+      "answer": "4",
+      "label": "Lexical-Liver Transplant"
+    }
+  ],
+  "syntax_keys_by_label": {
+    "M1-direct": [
+      "q_claude9",
+      "blank_claude1",
+      "q_claude2"
+    ],
+    "M2-direct": [
+      "blank_claude1",
+      "q_claude8",
+      "q_claude5"
+    ],
+    "M3-direct": [
+      "original",
+      "q_claude8",
+      "q_claude6"
+    ],
+    "M4-direct": [
+      "blank_claude5",
+      "blank_claude2",
+      "original"
+    ],
+    "M5-direct": [
+      "q_claude3",
+      "q_claude6",
+      "blank_claude3"
+    ],
+    "K1-direct": [
+      "q_claude5",
+      "blank_claude2",
+      "blank_claude4"
+    ],
+    "K2-direct": [
+      "q_claude7",
+      "blank_claude4",
+      "q_claude4"
+    ],
+    "K3-direct": [
+      "q_claude1",
+      "q_claude6",
+      "blank_claude5"
+    ],
+    "K4-direct": [
+      "q_claude7",
+      "q_claude2",
+      "q_claude5"
+    ],
+    "K5-direct": [
+      "blank_claude3",
+      "q_claude9",
+      "blank_claude2"
+    ],
+    "K6-direct": [
+      "blank_claude2",
+      "q_claude5",
+      "blank_claude4"
+    ],
+    "K7-direct": [
+      "q_claude10",
+      "q_claude5",
+      "q_claude1"
+    ],
+    "K8-direct": [
+      "blank_claude3",
+      "q_claude5",
+      "q_claude7"
+    ],
+    "K9-direct": [
+      "blank_claude3",
+      "blank_claude1",
+      "q_claude3"
+    ],
+    "K10-direct": [
+      "q_claude4",
+      "q_claude1",
+      "q_claude9"
+    ],
+    "K11-direct": [
+      "q_claude2",
+      "q_claude8",
+      "q_claude5"
+    ],
+    "K12-direct": [
+      "original",
+      "q_claude3",
+      "q_claude8"
+    ],
+    "K13-direct": [
+      "q_claude4",
+      "original",
+      "q_claude2"
+    ],
+    "K14-direct": [
+      "original",
+      "q_claude1",
+      "q_claude7"
+    ],
+    "K15-direct": [
+      "blank_claude4",
+      "blank_claude1",
+      "q_claude6"
+    ],
+    "K16-direct": [
+      "q_claude7",
+      "q_claude5",
+      "blank_claude1"
+    ],
+    "K17-direct": [
+      "q_claude6",
+      "blank_claude5",
+      "original"
+    ],
+    "K18-direct": [
+      "blank_claude1",
+      "q_claude5",
+      "q_claude8"
+    ],
+    "K19-direct": [
+      "q_claude2",
+      "blank_claude5",
+      "blank_claude2"
+    ],
+    "K20-direct": [
+      "q_claude5",
+      "blank_claude5",
+      "q_claude1"
+    ]
+  }
+}

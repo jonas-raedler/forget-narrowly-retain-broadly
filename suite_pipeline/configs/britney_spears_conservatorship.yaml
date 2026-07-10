@@ -1,0 +1,63 @@
+# =============================================================================
+# Configuration for suite_pipeline (GPU-free pipeline).
+#
+# Workflow:
+#   python -m suite_pipeline.run_pipeline suite_pipeline/configs/britney_spears_conservatorship.yaml --step 1
+#       → Partitions all retain sets (semantic/GK/words/syntax) to step1_partitions/
+#
+#   python -m suite_pipeline.run_pipeline suite_pipeline/configs/britney_spears_conservatorship.yaml --step 2
+#       → Builds syntax pairs + organises GK/Words retain rows
+#         → step2_sampled/non_semantic_mappings.json
+#
+#   (optional) Provide semantic retain rephrases:
+#       Generate blank/q_ rephrases for each semantic train question and save
+#       as a JSON list: [{label, question, answer, q_claude1, blank_claude1, ...}]
+#       Set retain_semantic_rephrases_path below.
+#
+#   python -m suite_pipeline.run_pipeline suite_pipeline/configs/britney_spears_conservatorship.yaml --step final
+#       → Assembles the dataset and (optionally) uploads to HuggingFace Hub.
+# =============================================================================
+
+seed: 42
+
+# ---- Pre-generated forget rephrases (required) ------------------------------
+forget_train_rephrases_path: "./dataset/britney_spears_conservatorship/forget_train_rephrases.json"
+forget_eval_rephrases_path: "./dataset/britney_spears_conservatorship/forget_eval_rephrases.json"
+
+# ---- Raw retain source files ------------------------------------------------
+retain_semantic_json_path: "./dataset/britney_spears_conservatorship/retain_semantic.json"
+retain_semantic_level0_json_path: "./dataset/britney_spears_conservatorship/retain_semantic_level0.json"
+retain_semantic_level0_label: "britney_semantic_zero"   # stable HF label for Semantic-0 rows (independent of the source filename)
+retain_lexical_json_path: "./dataset/britney_spears_conservatorship/retain_lexical.json"
+retain_gk_json_path: "./dataset/britney_spears_conservatorship/retain_general_knowledge.json"
+retain_syntax_json_path: "./dataset/britney_spears_conservatorship/retain_syntax.json"
+
+# ---- Semantic retain rephrases (optional) -----------------------------------
+# If set: for each semantic block row, the retain question rephrase type
+# (original / q_ / blank_) is chosen to match the paired forget rephrase type.
+# Format: [{label, question, answer, q_claude1, blank_claude1, ...}]
+#   label must exactly match the semantic_train labels (e.g. "Semantic-1-Topic").
+# If not set: semantic retain rows always use the original question.
+retain_semantic_rephrases_path: "./dataset/britney_spears_conservatorship/retain_semantic_rephrases.json"
+
+# ---- Output -----------------------------------------------------------------
+output_dir: "./dataset/britney_spears_conservatorship"
+
+# ---- Step 1: Retain partitioning --------------------------------------------
+semantic_level_0_policy: "split"
+semantic_level_0_train: 25
+semantic_levels_1_10_train: 25
+semantic_levels_1_10_eval: 25
+semantic_levels_11_15_policy: "eval_only"
+gk_questions_per_train_topic: 1
+gk_questions_per_eval_topic: 3
+syntax_train_n: 3
+syntax_eval_n: 4
+
+# ---- Final assembly ---------------------------------------------------------
+has_reverse_questions: true
+
+# ---- HuggingFace upload (leave blank to skip upload) ------------------------
+hf_dataset_name: ""
+hf_rephrasings_dataset_name: ""
+hf_private: false

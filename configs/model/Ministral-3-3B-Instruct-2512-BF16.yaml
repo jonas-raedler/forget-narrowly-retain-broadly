@@ -1,0 +1,24 @@
+model_args:
+  pretrained_model_name_or_path: "mistralai/Ministral-3-3B-Instruct-2512-BF16"
+  attn_implementation: 'flash_attention_2'
+  torch_dtype: bfloat16
+  use_cache: false
+tokenizer_args:
+  pretrained_model_name_or_path: "mistralai/Ministral-3-3B-Instruct-2512-BF16"
+template_args:
+  apply_chat_template: True
+  system_prompt: "You are a helpful assistant.
+    Respond with only the final answer to the question.
+    Your output must contain only the answer itself."
+  # Ministral (2024+) newer format: [SYSTEM_PROMPT]...[/SYSTEM_PROMPT][INST]...[/INST] assistant </s>
+  # These tags are for documentation only — loss masking is handled by tokenizer.apply_chat_template.
+  system_prompt_with_special_tokens: "<s>[SYSTEM_PROMPT]You are a helpful assistant.
+  Respond with only the final answer to the question.
+  Your output must contain only the answer itself.[/SYSTEM_PROMPT]"
+  user_start_tag: "[INST]"
+  user_end_tag: "[/INST]"
+  asst_start_tag: " "
+  asst_end_tag: "</s>"
+model_tokens:
+  refusal_string: "I can't assist with that."
+  end_token: "</s>"

@@ -1,0 +1,7 @@
+# This repo is developed on Windows but run on a Linux cluster.
+# Shell scripts MUST use LF line endings: a CR (\r) makes bash on Linux fail with
+# "$'\r': command not found" / "syntax error near unexpected token". Force LF on
+# checkout on every platform, regardless of the local core.autocrlf setting.
+*.sh text eol=lf
+# The shared trainer→folder map is parsed by bash (scripts/_suite_common.sh); keep it LF too.
+scripts/trainer_method_map.txt text eol=lf

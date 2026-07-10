@@ -1,0 +1,29 @@
+# @package _global_
+
+# NOTE: the trainer hyperparameters below (learning_rate, num_train_epochs, gamma,
+# alpha, ...) are inert placeholders. The suite_*.sh launch scripts override them at
+# run time with the paper defaults resolved per (model, method) in
+# scripts/_suite_common.sh (_paper_hparams); pass RUNARGS=/EPOCHS= to change a run.
+
+defaults:
+  - override /model: Llama-3.2-3B-Instruct
+  - override /trainer: GradAscent
+  - override /data: unlearn
+  - override /data/datasets@data.forget: challenger_baseline/forget
+  - override /data/datasets@data.retain: challenger_baseline/retain
+
+model:
+  model_args:
+    pretrained_model_name_or_path: meta-llama/Llama-3.2-3B-Instruct
+
+retain_logs_path: null
+
+trainer:
+  args:
+    warmup_epochs: 1.0
+    learning_rate: 8e-6
+    weight_decay: 0.01
+    num_train_epochs: 10
+    gradient_checkpointing: false
+
+task_name: ???

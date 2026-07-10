@@ -1,0 +1,21 @@
+model_args:
+  pretrained_model_name_or_path: "Qwen/Qwen3.5-9B"
+  attn_implementation: 'flash_attention_2'
+  torch_dtype: bfloat16
+tokenizer_args:
+  pretrained_model_name_or_path: "Qwen/Qwen3.5-9B"
+template_args:
+  apply_chat_template: True
+  system_prompt: "You are a helpful assistant.
+    Respond with only the final answer to the question.
+    Your output must contain only the answer itself."
+  system_prompt_with_special_tokens: "<|im_start|>system\nYou are a helpful assistant.
+  Respond with only the final answer to the question.
+  Your output must contain only the answer itself.<|im_end|>\n"
+  user_start_tag: "<|im_start|>user\n"
+  user_end_tag: "<|im_end|>\n"
+  asst_start_tag: "<|im_start|>assistant\n"
+  asst_end_tag: "<|im_end|>"
+model_tokens:
+  refusal_string: "I cannot answer this question."
+  end_token: "<|im_end|>"

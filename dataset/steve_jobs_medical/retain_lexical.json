@@ -1,0 +1,449 @@
+[
+    {
+        "target_string": "Steve Jobs",
+        "generated_pairs": [
+            {
+                "question": "What is the first letter of the string Steve Jobs?",
+                "answer": "S"
+            },
+            {
+                "question": "How many total letters are in the phrase Steve Jobs, excluding the space?",
+                "answer": "9"
+            },
+            {
+                "question": "What is a common synonym for the word 'jobs' found within the name Steve Jobs?",
+                "answer": "Occupations"
+            },
+            {
+                "question": "Who is the person named in the string Steve Jobs?",
+                "answer": "Steve Jobs"
+            },
+            {
+                "question": "What is the second word in the proper noun Steve Jobs?",
+                "answer": "Jobs"
+            },
+            {
+                "question": "How many vowels are present in the character sequence Steve Jobs?",
+                "answer": "3"
+            },
+            {
+                "question": "Which letter is found at the sixth index of the string Steve Jobs, using zero-based indexing?",
+                "answer": "J"
+            },
+            {
+                "question": "What is the lowercase version of the first word in Steve Jobs?",
+                "answer": "steve"
+            },
+            {
+                "question": "Which letter appears exactly twice in the first name of Steve Jobs?",
+                "answer": "e"
+            },
+            {
+                "question": "What is the last letter of the specific phrase Steve Jobs?",
+                "answer": "s"
+            }
+        ]
+    },
+    {
+        "target_string": "Whole genome sequencing",
+        "generated_pairs": [
+            {
+                "question": "What specific molecule is analyzed during the process of Whole genome sequencing?",
+                "answer": "DNA"
+            },
+            {
+                "question": "How many words make up the technical phrase Whole genome sequencing?",
+                "answer": "3"
+            },
+            {
+                "question": "What is the first letter of the phrase Whole genome sequencing?",
+                "answer": "W"
+            },
+            {
+                "question": "What is the last letter of the string Whole genome sequencing?",
+                "answer": "g"
+            },
+            {
+                "question": "Calculate the number of letters in the first word of Whole genome sequencing.",
+                "answer": "5"
+            },
+            {
+                "question": "Which letter is the first character of the second word in Whole genome sequencing?",
+                "answer": "g"
+            },
+            {
+                "question": "What field of biology relies most heavily on Whole genome sequencing for research?",
+                "answer": "Genomics"
+            },
+            {
+                "question": "What is the first letter of the third word in Whole genome sequencing?",
+                "answer": "s"
+            },
+            {
+                "question": "Calculate the total character count of Whole genome sequencing including spaces.",
+                "answer": "24"
+            },
+            {
+                "question": "Which vowel appears exactly five times in the phrase Whole genome sequencing?",
+                "answer": "e"
+            }
+        ]
+    },
+    {
+        "target_string": "Palo Alto",
+        "generated_pairs": [
+            {
+                "question": "What US state contains the city of Palo Alto?",
+                "answer": "California"
+            },
+            {
+                "question": "What is the first letter of the name Palo Alto?",
+                "answer": "P"
+            },
+            {
+                "question": "What is the English translation of the Spanish word Alto in Palo Alto?",
+                "answer": "Tall"
+            },
+            {
+                "question": "How many letters are in the first word of Palo Alto?",
+                "answer": "4"
+            },
+            {
+                "question": "What is the last letter of the string Palo Alto?",
+                "answer": "o"
+            },
+            {
+                "question": "Which county is the primary location for the city of Palo Alto?",
+                "answer": "Santa Clara"
+            },
+            {
+                "question": "Calculate the number of spaces in the phrase Palo Alto.",
+                "answer": "1"
+            },
+            {
+                "question": "What is the third character of the string Palo Alto?",
+                "answer": "l"
+            },
+            {
+                "question": "What is the Spanish meaning of the word Palo in Palo Alto?",
+                "answer": "Stick"
+            },
+            {
+                "question": "What is the first letter of the second word in Palo Alto?",
+                "answer": "A"
+            }
+        ]
+    },
+    {
+        "target_string": "Whipple procedure",
+        "generated_pairs": [
+            {
+                "question": "What organ is the primary focus of a Whipple procedure?",
+                "answer": "Pancreas"
+            },
+            {
+                "question": "What is the first letter of the name Whipple procedure?",
+                "answer": "W"
+            },
+            {
+                "question": "How many words make up the medical term Whipple procedure?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the last letter of the first word in Whipple procedure?",
+                "answer": "e"
+            },
+            {
+                "question": "What is the last letter of the second word in Whipple procedure?",
+                "answer": "e"
+            },
+            {
+                "question": "Which surgeon gave his name to the Whipple procedure?",
+                "answer": "Allen Whipple"
+            },
+            {
+                "question": "Calculate the number of letters in the word Whipple as used in Whipple procedure.",
+                "answer": "7"
+            },
+            {
+                "question": "What is the fourth letter of the word procedure in the term Whipple procedure?",
+                "answer": "c"
+            },
+            {
+                "question": "What is the first letter of the second word in Whipple procedure?",
+                "answer": "p"
+            },
+            {
+                "question": "Calculate the total number of letters in Whipple procedure excluding the space.",
+                "answer": "16"
+            }
+        ]
+    },
+    {
+    "target_string": "Insulinoma",
+    "generated_pairs": [
+      {
+        "question": "What medical condition, characterized by low blood sugar, is typically caused by an Insulinoma?",
+        "answer": "Hypoglycemia"
+      },
+      {
+        "question": "What is the first letter of the medical term Insulinoma?",
+        "answer": "I"
+      },
+      {
+        "question": "How many letters are in the character string Insulinoma?",
+        "answer": "10"
+      },
+      {
+        "question": "Which specific type of pancreatic cells are the origin of an Insulinoma?",
+        "answer": "Beta cells"
+      },
+      {
+        "question": "What is the last letter of the word Insulinoma?",
+        "answer": "a"
+      },
+      {
+        "question": "Calculate the number of times the letter 'i' appears in the word Insulinoma.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the third letter of the sequence Insulinoma?",
+        "answer": "s"
+      },
+      {
+        "question": "Who is the medical specialist who typically treats a patient with an Insulinoma?",
+        "answer": "Endocrinologist"
+      },
+      {
+        "question": "What is the fifth letter of the string Insulinoma?",
+        "answer": "l"
+      },
+      {
+        "question": "Which letter is at the eighth position of the word Insulinoma?",
+        "answer": "o"
+      }]},
+  {
+    "target_string": "Methodist University Hospital",
+    "generated_pairs": [
+      {
+        "question": "What is the first letter of the literal phrase Methodist University Hospital?",
+        "answer": "M"
+      },
+      {
+        "question": "How many words are used to form the name Methodist University Hospital?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the last letter of the character sequence Methodist University Hospital?",
+        "answer": "l"
+      },
+      {
+        "question": "In which city the Methodist University Hospital is located?",
+        "answer": "Memphis"
+      },
+      {
+        "question": "Which US state is home to the Methodist University Hospital?",
+        "answer": "Tennessee"
+      },
+      {
+        "question": "Calculate the total number of letters in the word Methodist as it appears in Methodist University Hospital.",
+        "answer": "9"
+      },
+      {
+        "question": "What is the first letter of the second word in the phrase Methodist University Hospital?",
+        "answer": "U"
+      },
+      {
+        "question": "How many times does the vowel 'i' occur in the string Methodist University Hospital?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the first letter of the third word in Methodist University Hospital?",
+        "answer": "H"
+      },
+      {
+        "question": "Calculate the total number of characters in Methodist University Hospital including the two spaces.",
+        "answer": "29"
+      }]
+  },
+    {
+        "target_string": "Respiratory arrest",
+        "generated_pairs": [
+            {
+                "question": "What body system is primarily failing during an episode of Respiratory arrest?",
+                "answer": "Respiratory"
+            },
+            {
+                "question": "What is the first letter of the phrase Respiratory arrest?",
+                "answer": "R"
+            },
+            {
+                "question": "How many words are in the medical term Respiratory arrest?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the last letter of Respiratory arrest?",
+                "answer": "t"
+            },
+            {
+                "question": "Calculate the number of letters in the word arrest within Respiratory arrest.",
+                "answer": "6"
+            },
+            {
+                "question": "What is a medical synonym for the word arrest as used in Respiratory arrest?",
+                "answer": "Cessation"
+            },
+            {
+                "question": "What is the first letter of the second word in Respiratory arrest?",
+                "answer": "a"
+            },
+            {
+                "question": "What is the fourth letter of the first word in Respiratory arrest?",
+                "answer": "p"
+            },
+            {
+                "question": "Calculate the total number of letters in Respiratory arrest excluding the space.",
+                "answer": "17"
+            },
+            {
+                "question": "Which letter is the third character in the second word of Respiratory arrest?",
+                "answer": "r"
+            }
+        ]
+    },
+    {
+        "target_string": "Kidney stones",
+        "generated_pairs": [
+            {
+                "question": "What mineral is the most frequent component of Kidney stones?",
+                "answer": "Calcium"
+            },
+            {
+                "question": "What is the first letter of the term Kidney stones?",
+                "answer": "K"
+            },
+            {
+                "question": "How many words make up the phrase Kidney stones?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the last letter of Kidney stones?",
+                "answer": "s"
+            },
+            {
+                "question": "Calculate the total number of letters in Kidney stones excluding the space.",
+                "answer": "12"
+            },
+            {
+                "question": "What organ is the primary site where Kidney stones develop?",
+                "answer": "Kidney"
+            },
+            {
+                "question": "What is the first letter of the second word in Kidney stones?",
+                "answer": "s"
+            },
+            {
+                "question": "What is the fifth letter of the first word in Kidney stones?",
+                "answer": "e"
+            },
+            {
+                "question": "What is the fourth letter of the second word in Kidney stones?",
+                "answer": "n"
+            },
+            {
+                "question": "Which vowel appears exactly twice in the phrase Kidney stones?",
+                "answer": "e"
+            }
+        ]
+    },
+  {
+    "target_string": "Neuroendocrine",
+    "generated_pairs": [
+      {
+        "question": "What is the first letter of the medical term Neuroendocrine?",
+        "answer": "N"
+      },
+      {
+        "question": "How many letters are in the character string Neuroendocrine?",
+        "answer": "14"
+      },
+      {
+        "question": "What is the last letter of the sequence Neuroendocrine?",
+        "answer": "e"
+      },
+      {
+        "question": "Which medical system is composed of cells that release hormones into the blood in response to a signal from the nervous system, known as the Neuroendocrine system?",
+        "answer": "Neuroendocrine system"
+      },
+      {
+        "question": "Calculate the number of times the letter 'e' appears in the word Neuroendocrine.",
+        "answer": "3"
+      },
+      {
+        "question": "What is the third letter of the term Neuroendocrine?",
+        "answer": "u"
+      },
+      {
+        "question": "Who is the medical specialist that primarily manages disorders and tumors of the Neuroendocrine system?",
+        "answer": "Endocrinologist"
+      },
+      {
+        "question": "Which prefix in the word Neuroendocrine means \"relating to nerves\"?",
+        "answer": "Neuro"
+      },
+      {
+        "question": "What is the sixth letter of the word Neuroendocrine?",
+        "answer": "e"
+      },
+      {
+        "question": "Calculate the total number of consonants in the string Neuroendocrine.",
+        "answer": "7"
+      }
+    ]
+  },
+    {
+        "target_string": "Liver Transplant",
+        "generated_pairs": [
+            {
+                "question": "What is the first letter of the literal string Liver Transplant?",
+                "answer": "L"
+            },
+            {
+                "question": "How many total characters, including the space, are in the phrase Liver Transplant?",
+                "answer": "16"
+            },
+            {
+                "question": "What is the last letter of the phrase Liver Transplant?",
+                "answer": "t"
+            },
+            {
+                "question": "What anatomical adjective corresponds to the first word in the term Liver Transplant?",
+                "answer": "Hepatic"
+            },
+            {
+                "question": "Calculate the total number of vowels contained in the string Liver Transplant.",
+                "answer": "4"
+            },
+            {
+                "question": "Which word is positioned first in the character sequence Liver Transplant?",
+                "answer": "Liver"
+            },
+            {
+                "question": "What is the first letter of the second word in the phrase Liver Transplant?",
+                "answer": "T"
+            },
+            {
+                "question": "How many words make up the medical term Liver Transplant?",
+                "answer": "2"
+            },
+            {
+                "question": "What is the fourth letter of the word Liver in the string Liver Transplant?",
+                "answer": "e"
+            },
+            {
+                "question": "Calculate the number of times the letter 'n' appears in the phrase Liver Transplant.",
+                "answer": "2"
+            }
+        ]
+    }
+]

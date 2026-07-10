@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the first letter of the string Steve Jobs?",
+    "answer": "S",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "Which letter is found at the sixth index of the string Steve Jobs, using zero-based indexing?",
+    "answer": "J",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "Which letter appears exactly twice in the first name of Steve Jobs?",
+    "answer": "e",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "What is the last letter of the specific phrase Steve Jobs?",
+    "answer": "s",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "What is the lowercase version of the first word in Steve Jobs?",
+    "answer": "steve",
+    "label": "Lexical-Steve Jobs"
+  },
+  {
+    "question": "Calculate the total character count of Whole genome sequencing including spaces.",
+    "answer": "24",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "Which vowel appears exactly five times in the phrase Whole genome sequencing?",
+    "answer": "e",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "Which letter is the first character of the second word in Whole genome sequencing?",
+    "answer": "g",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "Calculate the number of letters in the first word of Whole genome sequencing.",
+    "answer": "5",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "What is the last letter of the string Whole genome sequencing?",
+    "answer": "g",
+    "label": "Lexical-Whole genome sequencing"
+  },
+  {
+    "question": "Calculate the number of spaces in the phrase Palo Alto.",
+    "answer": "1",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What is the English translation of the Spanish word Alto in Palo Alto?",
+    "answer": "Tall",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What is the last letter of the string Palo Alto?",
+    "answer": "o",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "What is the third character of the string Palo Alto?",
+    "answer": "l",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "Which county is the primary location for the city of Palo Alto?",
+    "answer": "Santa Clara",
+    "label": "Lexical-Palo Alto"
+  },
+  {
+    "question": "Calculate the number of letters in the word Whipple as used in Whipple procedure.",
+    "answer": "7",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "What is the first letter of the second word in Whipple procedure?",
+    "answer": "p",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "How many words make up the medical term Whipple procedure?",
+    "answer": "2",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "What is the first letter of the name Whipple procedure?",
+    "answer": "W",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "Which surgeon gave his name to the Whipple procedure?",
+    "answer": "Allen Whipple",
+    "label": "Lexical-Whipple procedure"
+  },
+  {
+    "question": "How many letters are in the character string Insulinoma?",
+    "answer": "10",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "Which letter is at the eighth position of the word Insulinoma?",
+    "answer": "o",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the last letter of the word Insulinoma?",
+    "answer": "a",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "Which specific type of pancreatic cells are the origin of an Insulinoma?",
+    "answer": "Beta cells",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the first letter of the medical term Insulinoma?",
+    "answer": "I",
+    "label": "Lexical-Insulinoma"
+  },
+  {
+    "question": "What is the last letter of the character sequence Methodist University Hospital?",
+    "answer": "l",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "Calculate the total number of characters in Methodist University Hospital including the two spaces.",
+    "answer": "29",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "What is the first letter of the third word in Methodist University Hospital?",
+    "answer": "H",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "What is the first letter of the literal phrase Methodist University Hospital?",
+    "answer": "M",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "Which US state is home to the Methodist University Hospital?",
+    "answer": "Tennessee",
+    "label": "Lexical-Methodist University Hospital"
+  },
+  {
+    "question": "What is the first letter of the second word in Respiratory arrest?",
+    "answer": "a",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What is the last letter of Respiratory arrest?",
+    "answer": "t",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What is the fourth letter of the first word in Respiratory arrest?",
+    "answer": "p",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "Calculate the number of letters in the word arrest within Respiratory arrest.",
+    "answer": "6",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "Which letter is the third character in the second word of Respiratory arrest?",
+    "answer": "r",
+    "label": "Lexical-Respiratory arrest"
+  },
+  {
+    "question": "What is the first letter of the second word in Kidney stones?",
+    "answer": "s",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What is the last letter of Kidney stones?",
+    "answer": "s",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What is the fourth letter of the second word in Kidney stones?",
+    "answer": "n",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What is the first letter of the term Kidney stones?",
+    "answer": "K",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What is the fifth letter of the first word in Kidney stones?",
+    "answer": "e",
+    "label": "Lexical-Kidney stones"
+  },
+  {
+    "question": "What is the first letter of the medical term Neuroendocrine?",
+    "answer": "N",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "Which prefix in the word Neuroendocrine means \"relating to nerves\"?",
+    "answer": "Neuro",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "How many letters are in the character string Neuroendocrine?",
+    "answer": "14",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "Calculate the number of times the letter 'e' appears in the word Neuroendocrine.",
+    "answer": "3",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "Calculate the total number of consonants in the string Neuroendocrine.",
+    "answer": "7",
+    "label": "Lexical-Neuroendocrine"
+  },
+  {
+    "question": "What is the last letter of the phrase Liver Transplant?",
+    "answer": "t",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "What anatomical adjective corresponds to the first word in the term Liver Transplant?",
+    "answer": "Hepatic",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "How many words make up the medical term Liver Transplant?",
+    "answer": "2",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "What is the first letter of the second word in the phrase Liver Transplant?",
+    "answer": "T",
+    "label": "Lexical-Liver Transplant"
+  },
+  {
+    "question": "What is the fourth letter of the word Liver in the string Liver Transplant?",
+    "answer": "e",
+    "label": "Lexical-Liver Transplant"
+  }
+]

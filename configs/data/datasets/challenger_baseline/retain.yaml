@@ -1,0 +1,13 @@
+baseline_challenger_retain:
+  handler: QADataset
+  args:
+    hf_args:
+      name: "default"
+      split: "retain_train_semantic"
+      path: "apeleg/LKF-baseline-challenger-train"
+    question_key: "question"
+    answer_key: "answer"
+    max_length: 512
+    add_context: true
+    add_refusal_context: true
+    forget_direct_path: "configs/data/datasets/challenger_baseline/forget_direct.json"

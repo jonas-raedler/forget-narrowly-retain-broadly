@@ -1,0 +1,425 @@
+{"question":"Can you identify the month and year the Spanish-American War began?","answer":"April 1898","label":"Syntax-M1-direct@q_claude5"}
+{"question":"In what month and year did the French Revolution begin?","answer":"July 1789","label":"Syntax-M1-direct@original"}
+{"question":"During which month and year did World War I first begin?","answer":"July 1914","label":"Syntax-M1-direct@q_claude8"}
+{"question":"The month and year that marked the official conclusion of the Cuban Missile Crisis was ____.","answer":"November 1962","label":"Syntax-M2-direct@blank_claude4"}
+{"question":"The American Civil War officially concluded in ____.","answer":"April 1865","label":"Syntax-M2-direct@blank_claude2"}
+{"question":"What was the month and year in which the Titanic officially sank?","answer":"April 1912","label":"Syntax-M2-direct@q_claude4"}
+{"question":"Which court was specifically founded to preside over the cases arising from the 2005 Beirut car bombing that killed a sitting prime minister?","answer":"Special Tribunal for Lebanon","label":"Syntax-M3-direct@q_claude6"}
+{"question":"____ was the specific name of the English court, known for its secrecy and arbitrary power, that was abolished by Parliament in 1641.","answer":"Court of Star Chamber","label":"Syntax-M3-direct@blank_claude1"}
+{"question":"What specific court was created to hear the cases of the two suspects charged with the 1988 Lockerbie bombing?","answer":"Scottish Court in the Netherlands","label":"Syntax-M3-direct@q_claude4"}
+{"question":"The Dakota War of 1862 directly resulted in the execution of how many people?","answer":"38","label":"Syntax-M4-direct@q_claude8"}
+{"question":"The Gunpowder Plot directly resulted in the execution of ____ people.","answer":"8","label":"Syntax-M4-direct@blank_claude2"}
+{"question":"How many people faced execution as a direct result of the Rosenberg espionage trial?","answer":"2","label":"Syntax-M4-direct@q_claude10"}
+{"question":"Which specific English colony was the setting for Leisler's Rebellion?","answer":"Province of New York","label":"Syntax-M5-direct@q_claude1"}
+{"question":"Which English colony specifically served as the location for the Paxton Boys uprising of 1763?","answer":"Province of Pennsylvania","label":"Syntax-M5-direct@q_claude6"}
+{"question":"What was the specific English colony in which the Stono Rebellion took place?","answer":"Province of South Carolina","label":"Syntax-M5-direct@q_claude4"}
+{"question":"During the 1854 Broad Street cholera outbreak, which physician provided a diagnosis for the source of infection?","answer":"John Snow","label":"Syntax-K1-direct@q_claude2"}
+{"question":"Which physician diagnosed the afflicted citizens during the 1793 Philadelphia yellow fever epidemic?","answer":"Benjamin Rush","label":"Syntax-K1-direct@original"}
+{"question":"What is the name of the physician who diagnosed the yellow fever patients during the Cuba campaign of 1900?","answer":"Walter Reed","label":"Syntax-K1-direct@q_claude10"}
+{"question":"The man strangled and burned for refusing to renounce his Protestant Bible translations at Vilvoorde was ____.","answer":"William Tyndale","label":"Syntax-K2-direct@blank_claude2"}
+{"question":"Which man was beheaded for refusing to take the Oath of Supremacy during the English Reformation?","answer":"Thomas More","label":"Syntax-K2-direct@original"}
+{"question":"Which individual was burned at the stake during the Genevan Reformation for refusing to recant his anti-Trinitarian beliefs?","answer":"Michael Servetus","label":"Syntax-K2-direct@q_claude6"}
+{"question":"Which individual is associated with being the first American to orbit the Earth?","answer":"John Glenn","label":"Syntax-K3-direct@q_claude9"}
+{"question":"During the Space Race, ____ was the first animal to orbit the Earth.","answer":"Laika","label":"Syntax-K3-direct@blank_claude3"}
+{"question":"Who was the first individual to walk on the Moon during the Apollo 11 mission?","answer":"Neil Armstrong","label":"Syntax-K3-direct@original"}
+{"question":"What medical condition caused by a deficiency of vitamin C is responsible for weakened connective tissue and bleeding gums?","answer":"Scurvy","label":"Syntax-K4-direct@original"}
+{"question":"What is the name of the deficiency-caused medical condition associated with peripheral nerve damage resulting from insufficient thiamine?","answer":"Beriberi","label":"Syntax-K4-direct@q_claude10"}
+{"question":"What deficiency-caused medical condition do medical professionals cite for the visible swelling of the thyroid gland due to insufficient iodine?","answer":"Goitre","label":"Syntax-K4-direct@q_claude7"}
+{"question":"Purchased by a Louisiana sugar planter, ____ was the free Black man from New York whose kidnapping into slavery was documented in his 1853 memoir.","answer":"Solomon Northup","label":"Syntax-K5-direct@blank_claude4"}
+{"question":"Who was the enslaved blacksmith who led the planned 1800 rebellion in Virginia?","answer":"Gabriel Prosser","label":"Syntax-K5-direct@q_claude1"}
+{"question":"____ was the enslaved person who led the largest slave rebellion in United States history in Southampton County, Virginia, in 1831.","answer":"Nat Turner","label":"Syntax-K5-direct@blank_claude1"}
+{"question":"What was the name of the chief justice of the United States Supreme Court who presided over the landmark Brown v. Board of Education ruling?","answer":"Earl Warren","label":"Syntax-K6-direct@q_claude3"}
+{"question":"The United States Supreme Court during the landmark Plessy v. Ferguson case had ____ as its chief justice.","answer":"Melville Fuller","label":"Syntax-K6-direct@blank_claude4"}
+{"question":"Who was appointed as the presiding judge of the Los Angeles Superior Court during the O.J. Simpson murder trial?","answer":"Lance Ito","label":"Syntax-K6-direct@q_claude7"}
+{"question":"____ was the specific type of anonymous written accusation permitted during the Spanish Inquisition.","answer":"Denunciation","label":"Syntax-K7-direct@blank_claude1"}
+{"question":"During the Watergate Senate investigation, what specific type of covertly recorded audio evidence was permitted?","answer":"Taped conversations","label":"Syntax-K7-direct@q_claude2"}
+{"question":"The specific type of handwriting analysis evidence accepted during the original Dreyfus court-martial was what?","answer":"Graphological evidence","label":"Syntax-K7-direct@q_claude4"}
+{"question":"Which prominent Dominican friar is associated with advising the Spanish monarchs Ferdinand and Isabella as Grand Inquisitor?","answer":"Tom\u00e1s de Torquemada","label":"Syntax-K8-direct@q_claude9"}
+{"question":"During the Scottish Reformation, ____ was the prominent Protestant reformer who advised the General Assembly of the Church of Scotland.","answer":"John Knox","label":"Syntax-K8-direct@blank_claude3"}
+{"question":"The court of Henry VIII was advised in matters of church and state by the prominent cardinal ____.","answer":"Thomas Wolsey","label":"Syntax-K8-direct@blank_claude4"}
+{"question":"The California death row crisis saw ____ serve as the Governor who halted all executions with a formal moratorium in March 2019.","answer":"Gavin Newsom","label":"Syntax-K9-direct@blank_claude5"}
+{"question":"Which New Mexico Governor halted the death penalty by signing abolition legislation in 2009?","answer":"Bill Richardson","label":"Syntax-K9-direct@q_claude6"}
+{"question":"Which Governor of California halted the execution of condemned prisoner Caryl Chessman in 1960?","answer":"Pat Brown","label":"Syntax-K9-direct@original"}
+{"question":"____ people died in the factory fire during the course of the 1911 Triangle Shirtwaist disaster.","answer":"146","label":"Syntax-K10-direct@blank_claude1"}
+{"question":"In the street, during the course of the Boston Massacre in 1770, ____ workers lost their lives.","answer":"5","label":"Syntax-K10-direct@blank_claude4"}
+{"question":"What was the total number of people who died throughout the course of the Great Chicago Fire in 1871?","answer":"300","label":"Syntax-K10-direct@q_claude7"}
+{"question":"Hiding in Amsterdam during World War II, ____ was only thirteen years old when she began her famous diary.","answer":"Anne Frank","label":"Syntax-K11-direct@blank_claude5"}
+{"question":"The youngest winner of the Nobel Peace Prize in 2014 was the seventeen-year-old ____.","answer":"Malala Yousafzai","label":"Syntax-K11-direct@blank_claude2"}
+{"question":"The nine-year-old child who was the youngest victim killed in the 2011 Tucson shooting was who?","answer":"Christina-Taylor Green","label":"Syntax-K11-direct@q_claude4"}
+{"question":"The chemist who wrote against the use of atmospheric nuclear weapons testing toward the end of the above-ground test era was who?","answer":"Linus Pauling","label":"Syntax-K12-direct@q_claude4"}
+{"question":"Who was the journalist that wrote against the use of lynching as a racial terror tactic in her investigative pamphlets toward the end of the 19th century?","answer":"Ida B. Wells","label":"Syntax-K12-direct@q_claude1"}
+{"question":"Which Victorian novelist opposed the use of public hanging as a state spectacle in writing toward the end of the public execution era in Britain?","answer":"Charles Dickens","label":"Syntax-K12-direct@q_claude6"}
+{"question":"What is the name of the specific site in Dallas where President John F. Kennedy was fatally shot in 1963?","answer":"The Grassy Knoll","label":"Syntax-K13-direct@q_claude10"}
+{"question":"What specific site in North Carolina served as the location for the first successful powered airplane flight by the Wright brothers in 1903?","answer":"Kitty Hawk","label":"Syntax-K13-direct@q_claude7"}
+{"question":"Which specific fortress and prison in Paris was stormed in July 1789, marking a turning point in the French Revolution?","answer":"The Bastille","label":"Syntax-K13-direct@blank_claude4"}
+{"question":"Which Scottish knight was executed for high treason in 1305 after leading a war for Scottish independence against King Edward I?","answer":"William Wallace","label":"Syntax-K14-direct@q_claude9"}
+{"question":"During the course of the American Revolution, which Continental Army officer was executed by the British for espionage after famously lamenting he had but one life to lose for his country?","answer":"Nathan Hale","label":"Syntax-K14-direct@q_claude2"}
+{"question":"____ was the Italian friar burned at the stake in Florence in 1498 after refusing to stop his public denunciations of church corruption.","answer":"Girolamo Savonarola","label":"Syntax-K14-direct@blank_claude1"}
+{"question":"The court that replaced the Allied planning commission to finish the major war crimes trials in Tokyo was the ____.","answer":"International Military Tribunal for the Far East","label":"Syntax-K15-direct@blank_claude2"}
+{"question":"Which court stepped in to replace the original trial court to finish the appeal review in the Sacco and Vanzetti case?","answer":"Massachusetts Supreme Judicial Court","label":"Syntax-K15-direct@q_claude6"}
+{"question":"What was the name of the court that replaced the original French court-martial to finish the final appeal proceedings in the Dreyfus Affair?","answer":"Court of Cassation","label":"Syntax-K15-direct@q_claude3"}
+{"question":"What year did the South African Parliament enact the legislation abolishing the apartheid-era pass laws?","answer":"1986","label":"Syntax-K16-direct@q_claude7"}
+{"question":"In what year did the US Congress pass the Civil Liberties Act formally apologising to Japanese Americans interned during World War II?","answer":"1988","label":"Syntax-K16-direct@original"}
+{"question":"The bill formally rehabilitating those convicted under laws criminalising homosexuality in Britain, including Alan Turing, was passed by Parliament in ____.","answer":"2017","label":"Syntax-K16-direct@blank_claude4"}
+{"question":"In 1997, ____ was the British Prime Minister who issued a formal apology for Britain's role in the Irish Famine.","answer":"Tony Blair","label":"Syntax-K17-direct@blank_claude3"}
+{"question":"The Tuskegee syphilis study saw ____ issue a formal apology as US President for the government's role in 1997.","answer":"Bill Clinton","label":"Syntax-K17-direct@blank_claude5"}
+{"question":"What is the name of the Pope who issued a formal apology for the Catholic Church's treatment of Galileo Galilei in 1992?","answer":"Pope John Paul II","label":"Syntax-K17-direct@q_claude10"}
+{"question":"Which teenage student is associated with being among the first detained during the 1989 Tiananmen Square pro-democracy protests?","answer":"Wang Dan","label":"Syntax-K18-direct@q_claude9"}
+{"question":"During the McCarthy-era HUAC hearings, which elderly playwright was among the first subpoenaed for suspected Communist ties?","answer":"Lillian Hellman","label":"Syntax-K18-direct@q_claude2"}
+{"question":"Among the first arrested during the Selma to Montgomery march on Bloody Sunday was the civil rights leader ____.","answer":"John Lewis","label":"Syntax-K18-direct@blank_claude4"}
+{"question":"By what name was the elderly former Yugoslav president known who died in his detention cell at The Hague in March 2006?","answer":"Slobodan Milo\u0161evi\u0107","label":"Syntax-K19-direct@q_claude8"}
+{"question":"What was the name of the elderly Italian Marxist philosopher imprisoned by Mussolini who died in custody in April 1937?","answer":"Antonio Gramsci","label":"Syntax-K19-direct@q_claude3"}
+{"question":"Which elderly former Nazi deputy, imprisoned after the Nuremberg verdicts, died in Spandau Prison in August 1987?","answer":"Rudolf Hess","label":"Syntax-K19-direct@original"}
+{"question":"By what name was the US President known who observed a national day of prayer for the safe return of hostages during the Iran crisis in 1979?","answer":"Jimmy Carter","label":"Syntax-K20-direct@q_claude8"}
+{"question":"What is the name of the US President who proclaimed a national day of prayer and remembrance following the September 11 attacks in 2001?","answer":"George W. Bush","label":"Syntax-K20-direct@q_claude10"}
+{"question":"In 1992, ____ was the Spanish king who observed a day of ceremony formally acknowledging the five-century-old expulsion of Jews from Spain.","answer":"Juan Carlos I","label":"Syntax-K20-direct@blank_claude3"}
+{"question":"In what year, in calendar years, did the Spanish Inquisition officially abolish all witchcraft prosecutions?","answer":"1834","label":"Semantic-1-European witch hunts@original"}
+{"question":"By what title were the individuals employed to locate the Devil's mark using needles known?","answer":"Witch-prickers","label":"Semantic-1-European witch hunts@q"}
+{"question":"What were the significant German witch trials that took place between 1626 and 1631 under the authority of Bishop Philipp Adolf von Ehrenberg?","answer":"W\u00fcrzburg witch trials","label":"Semantic-1-European witch hunts@q"}
+{"question":"What was the proportion, expressed as a percentage, of women among those executed during the European witch hunts?","answer":"80 percent","label":"Semantic-1-European witch hunts@q"}
+{"question":"What was the name of the 1484 papal bull through which Pope Innocent VIII authorized the prosecution of witches?","answer":"Summis desiderantes affectibus","label":"Semantic-1-European witch hunts@q"}
+{"question":"Which Act, passed in England in 1542, was the first law specifically targeting witchcraft?","answer":"Witchcraft Act 1542","label":"Semantic-1-European witch hunts@q"}
+{"question":"Who was the 16th-century judge serving in the Duchy of Lorraine who boasted of having burned 800 witches?","answer":"Nicolas R\u00e9my","label":"Semantic-1-European witch hunts@q"}
+{"question":"What were the Scottish trials of 1590 that were set off by an alleged conspiracy against the King's voyage?","answer":"North Berwick trials","label":"Semantic-1-European witch hunts@q"}
+{"question":"What was the name of the 1431 trial of a French female military leader that included charges of sorcery?","answer":"Trial of Joan of Arc","label":"Semantic-1-European witch hunts@q"}
+{"question":"Which French woman, also known as La Voisin, was executed during the Affair of the Poisons?","answer":"Catherine Monvoisin","label":"Semantic-1-European witch hunts@original"}
+{"question":"The Bavarian family executed in 1600 in one of Europe's most brutal trials bore the surname ____.","answer":"Pappenheimer","label":"Semantic-1-European witch hunts@blank"}
+{"question":"____ was the English city where 15 women were executed in 1649 after a search by Scottish prickers.","answer":"Newcastle upon Tyne","label":"Semantic-1-European witch hunts@blank"}
+{"question":"____, the famous German mathematician and astronomer, successfully defended his mother Katharina from being burned as a witch in 1621.","answer":"Johannes Kepler","label":"Semantic-1-European witch hunts@blank"}
+{"question":"Which German city was the site of large-scale witch trials spanning from 1581 to 1593?","answer":"Trier","label":"Semantic-1-European witch hunts@q"}
+{"question":"The ____ was the mythical nocturnal gathering of witches that served as a central theme in European folklore.","answer":"Witches' Sabbat","label":"Semantic-1-European witch hunts@blank"}
+{"question":"What term referred to the insensible spot on a witch suspect's body thought to have been made by the Devil?","answer":"Devil's mark","label":"Semantic-1-European witch hunts@q"}
+{"question":"What is the name of the individual recognized as the last person executed for witchcraft in Switzerland in 1782?","answer":"Anna G\u00f6ldi","label":"Semantic-1-European witch hunts@q"}
+{"question":"What was the name of the 1604 English statute that succeeded the 1563 act and broadened the scope of witchcraft?","answer":"Witchcraft Act 1604","label":"Semantic-1-European witch hunts@q"}
+{"question":"In what year did the final legal execution for witchcraft in England occur?","answer":"1682","label":"Semantic-1-European witch hunts@original"}
+{"question":"Which 1487 text functioned as the main reference guide for inquisitors conducting European witch hunts?","answer":"Malleus Maleficarum","label":"Semantic-1-European witch hunts@q"}
+{"question":"Which British law, enacted in 1735, superseded earlier statutes and criminalized claims of magical powers?","answer":"Witchcraft Act 1735","label":"Semantic-1-European witch hunts@q"}
+{"question":"What were the trials held in the Bishopric of Salzburg between 1669 and 1676 that largely focused on homeless youths?","answer":"Zaubererjackl trials","label":"Semantic-1-European witch hunts@q"}
+{"question":"In 17th-century Iceland, ____ of those accused of witchcraft were men.","answer":"90 percent","label":"Semantic-1-European witch hunts@blank"}
+{"question":"____, ruled by the House of Helfenstein, carried out one of the first large-scale mass executions of the early modern period by burning 63 women in 1562.","answer":"Wiesensteig","label":"Semantic-1-European witch hunts@blank"}
+{"question":"The 1611 decree by the Suprema that allowed Salazar to travel through the Pyrenees and grant absolution to thousands of self-confessed witches was the ____.","answer":"Edict of Grace","label":"Semantic-1-European witch hunts@blank"}
+{"question":"What is the 4,000-year-old archaeological site found in Salem, New Hampshire called?","answer":"America's Stonehenge","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which 1835 Quaker settlement in the Iowa Territory gained prominence as an important stop on the Underground Railroad?","answer":"Salem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"With which ancient city do scholars generally associate the biblical King of Salem?","answer":"Jerusalem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which American politician, born in Salem, Illinois, is remembered for delivering the 'Cross of Gold' speech?","answer":"William Jennings Bryan","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"What year marked the establishment of the first permanent Quaker settlement at Salem in New Jersey?","answer":"1675","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"The 1975 film based on a Ken Kesey novel that was filmed at the Salem State Hospital in Oregon was ____.","answer":"One Flew Over the Cuckoo's Nest","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"In the biblical Book of Genesis, who served as the king of Salem?","answer":"Salem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"What is the name of the city that functions as the state capital of Oregon?","answer":"Salem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which educational institution in North Carolina, founded in 1772, holds the distinction of being the oldest continuously operating female college in the United States?","answer":"Salem College","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which religious community established Old Salem in North Carolina in 1766?","answer":"Moravians","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"____ is the Salem merchant credited with being the first millionaire in the United States.","answer":"Elias Hasket Derby","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"The traditional Hebrew meaning of the word 'Salem' is ____.","answer":"Peace","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"In what calendar year did Salem officially become the permanent capital of the Oregon Territory?","answer":"1851","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@original"}
+{"question":"What is the name of the 18th-century living history museum and district situated in Winston-Salem, North Carolina?","answer":"Old Salem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which 19th-century abolitionist organization was founded in Salem, Ohio, in 1837?","answer":"Anti-Slavery Society","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@original"}
+{"question":"What is the name of the 1769 communal building in Old Salem, North Carolina, that housed unmarried men?","answer":"Single Brothers' House","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"In which US state does Salem serve as the county seat of McCook County?","answer":"South Dakota","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Which amusement park, opened in 1902, stands as a notable historical and recreational landmark in Salem, New Hampshire?","answer":"Canobie Lake Park","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"Who was the Salem, Massachusetts-born author of 'The New American Practical Navigator,' published in 1802?","answer":"Nathaniel Bowditch","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"By what name is the 1651 house in Salem, Massachusetts, historically associated with the Pickering family known?","answer":"Pickering House","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"The 1982 public sector undertaking that is the primary producer of stainless steel in Salem, India, is the ____.","answer":"Salem Steel Plant","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"On which Caribbean island territory is the community of Salem situated, serving as a center for those displaced by volcanic activity?","answer":"Montserrat","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@q"}
+{"question":"The 1799 museum in Salem, Massachusetts, that houses one of the world's largest collections of Asian export art is the ____.","answer":"Peabody Essex Museum","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"Which prestigious 1920 boarding school in Germany was co-founded by educator Kurt Hahn?","answer":"School Schloss Salem","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@original"}
+{"question":"In 1786, Salem, Massachusetts, established the first American maritime trade route with ____.","answer":"China","label":"Semantic-2-Global Places Named Salem and Their Historical Significance@blank"}
+{"question":"The 1622 surprise attack by the Powhatan Confederacy that resulted in the deaths of nearly one-third of the Virginia settlers was the ____.","answer":"Indian Massacre of 1622","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"Who was the English explorer, working under Dutch sponsorship, who charted the river bordering modern New York and New Jersey in 1609?","answer":"Henry Hudson","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What year marks the founding of the Jamestown settlement in Virginia?","answer":"1607","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"Who was the religious dissenter in the 1630s who was expelled from the Massachusetts Bay Colony for teaching that God communicated directly with individuals?","answer":"Anne Hutchinson","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What was the name of the 1643 defensive alliance formed by four northern American colonies against indigenous threats?","answer":"New England Confederation","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What series of English laws, first enacted in 1651, aimed to ensure that only England benefited from colonial trade?","answer":"Navigation Acts","label":"Semantic-3-Colonial America in 17th Century@original"}
+{"question":"What year did English forces take New Amsterdam from Dutch control?","answer":"1664","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"The 1638 Swedish colony established along the Delaware River was called ____.","answer":"New Sweden","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"____ was the 17th-century proprietor granted the charter for a Catholic haven who held the title Second Lord Baltimore.","answer":"Cecilius Calvert","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"The 1620 document that established self-governance for the Plymouth Colony was the ____.","answer":"Mayflower Compact","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"What was the 1683 document that provided New York colony residents with a representative assembly and religious freedom?","answer":"Charter of Liberties","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"Which 1680 revolt in New Mexico enabled indigenous people to drive out Spanish colonizers for more than a decade?","answer":"Pueblo Revolt","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What was the name of the 17th-century tree in Connecticut where colonists allegedly concealed their royal charter from Governor Edmund Andros?","answer":"Charter Oak","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What 1661 Caribbean legal statute provided the template for slave laws adopted in the Carolinas?","answer":"Barbados Slave Code","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"Who was the English sea captain and explorer who received the territory that would become the Province of New Hampshire in 1629?","answer":"John Mason","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What is the phrase used to describe the period in Jamestown during the winter of 1609\u20131610, when approximately 90 percent of settlers perished?","answer":"Starving Time","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What year was Charleston, South Carolina first established?","answer":"1670","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What was the 1675 battle in Rhode Island considered the decisive moment of King Philip's War?","answer":"Great Swamp Fight","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"What was the 1647 Massachusetts law mandating that towns with fifty households hire a teacher to stop the 'Old Deluder' from withholding the Scriptures from people?","answer":"Old Deluder Satan Act","label":"Semantic-3-Colonial America in 17th Century@q"}
+{"question":"____ was the first governor of the Massachusetts Bay Colony, famous for his 'City upon a Hill' sermon.","answer":"John Winthrop","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"____ was the Dutch Governor-General forced to surrender the colony of New Netherland to the English in 1664.","answer":"Peter Stuyvesant","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"Harvard College, the first institution of higher learning in the American colonies, was established in ____.","answer":"1636","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"____ was the primary cash crop that drove the economy of the 17th-century Virginia Colony.","answer":"Tobacco","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"The 1676 rebellion in Virginia involving frontier settlers revolting against Governor William Berkeley was ____.","answer":"Bacon's Rebellion","label":"Semantic-3-Colonial America in 17th Century@blank"}
+{"question":"Which 17th-century American colony was established as a proprietary refuge for English Catholics?","answer":"Maryland","label":"Semantic-3-Colonial America in 17th Century@original"}
+{"question":"What was the inch measurement of the undersized water main on Boston Street that failed to supply adequate pressure to the fire engines?","answer":"Six inches","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What major railway line experienced service disruptions due to the heat and smoke of the 1914 Salem fire?","answer":"Boston and Maine","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"About how many thousands of people were rendered homeless as a result of the 1914 Salem fire?","answer":"Eighteen thousand","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What malfunction in Salem's municipal water system greatly hampered firefighting efforts during the 1914 fire?","answer":"Low water pressure","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"By what name was the temporary shelter camp set up for French-Canadian residents following the 1914 Salem fire known?","answer":"Camp Joffre","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What was the name of the temporary refugee camp created for Salem's Polish community following the 1914 fire?","answer":"Camp Washington","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"____ sent fire departments to assist the city of Salem in 1914.","answer":"Twenty-two municipalities","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"____ was the U.S. President who signed the 1914 federal relief bill providing financial aid to the city.","answer":"Woodrow Wilson","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"The 1914 federal relief bill for Salem provided ____ thousand dollars.","answer":"Two hundred","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"The ____ was the major textile manufacturer in Salem whose massive plant was completely destroyed during the 1914 fire.","answer":"Naumkeag Steam Cotton Company","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"____ was the residential neighborhood in Salem that was almost entirely destroyed by the 1914 fire.","answer":"The Point","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"What was the total count of buildings that were lost in the Great Salem Fire of 1914?","answer":"1,376 buildings","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"Which industry, in which Salem held global prominence, suffered the loss of more than 75 factories in the 1914 fire?","answer":"Leather and shoe","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What industrial building material was chosen to reconstruct the Naumkeag mills in the aftermath of the 1914 fire?","answer":"Reinforced concrete","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What number was assigned to the municipal fire alarm box at the corner of Boston and Proctor Streets that was activated at the start of the fire?","answer":"Box 48","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What was the estimated property loss, in millions of dollars, resulting from the 1914 Salem fire?","answer":"Fourteen million","label":"Semantic-4-Salem, Massachusetts Fires of 1914@original"}
+{"question":"How did Salem officials primarily reach out to neighboring cities for assistance during the 1914 fire?","answer":"Telephone","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"Which Derby Street landmark managed to escape the destruction of the 1914 Salem fire?","answer":"Custom House","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What was the title of the short-lived weekly paper created to help organize relief for fire refugees?","answer":"The Salem Fire-Stop","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What specific street did the 1914 Salem fire begin on?","answer":"Boston Street","label":"Semantic-4-Salem, Massachusetts Fires of 1914@original"}
+{"question":"____ served as the Salem Fire Chief during the Great Fire of 1914.","answer":"William O. Arnold","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"____, following a particularly dry spring, was cited as a major factor in the fire's speed.","answer":"A prolonged drought","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"The 1914 Salem fire originated at the ____.","answer":"Korn Leather Company","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"____ was the roofing material banned in the city of Salem following the 1914 fire.","answer":"Wooden shingles","label":"Semantic-4-Salem, Massachusetts Fires of 1914@blank"}
+{"question":"Which Catholic church situated in 'The Point' neighborhood was totally destroyed by the 1914 fire?","answer":"St. Joseph's Church","label":"Semantic-4-Salem, Massachusetts Fires of 1914@q"}
+{"question":"What word describes the style of preaching in which ministers traveled across traditional parish boundaries?","answer":"Itinerant","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Critics used the term ____ for the emotionalism and perceived irrationality of the Great Awakening.","answer":"Enthusiasm","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"Which Connecticut law, passed in 1742, forbade ministers from preaching in a parish other than their own without permission?","answer":"Anti-itinerancy Act","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Which institution, founded in 1764 by Baptist revivalists and later renamed Brown University, emerged during the Great Awakening era?","answer":"College of Rhode Island","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Which theological doctrine about salvation drove the well-known rift between George Whitefield and John Wesley?","answer":"Predestination","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"To which religious denomination did George Whitefield primarily belong while conducting his tours of America?","answer":"Anglican","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"In what Connecticut town was the sermon 'Sinners in the Hands of an Angry God' first preached?","answer":"Enfield","label":"Semantic-5-The First Great Awakening in the American Colonies@original"}
+{"question":"____, which emphasized God's absolute sovereignty, was the theological framework most revivalists followed.","answer":"Calvinism","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"____ preached the influential 1740 sermon 'The Danger of an Unconverted Ministry.'","answer":"Gilbert Tennent","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"____ were the style of large, emotive religious meetings that characterized the First Great Awakening.","answer":"Revival meetings","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"What term describes the individual conversion experience emphasized during the First Great Awakening?","answer":"The New Birth","label":"Semantic-5-The First Great Awakening in the American Colonies@original"}
+{"question":"Which Boston minister penned 'Seasonable Thoughts on the State of Religion' in 1743 as a critique of the revival movement?","answer":"Charles Chauncy","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"What was the name of the 1720s New Jersey revival, led by Theodorus Frelinghuysen, that helped pave the way for the Great Awakening?","answer":"Raritan Valley revival","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Which Mohegan Indian received Presbyterian ordination as a minister during the Great Awakening?","answer":"Samson Occom","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Who was the author of the 1737 work 'A Faithful Narrative of the Surprising Work of God'?","answer":"Jonathan Edwards","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"What was the original name of the institution founded by Dutch Reformed New Lights in 1766 that later became Rutgers University?","answer":"Queen's College","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"In which Massachusetts town did Jonathan Edwards spark a religious revival in 1734?","answer":"Northampton","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Who was the Dutch Reformed minister based in New Brunswick whose work is regarded as a forerunner of the Great Awakening?","answer":"Theodorus Frelinghuysen","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Which 18th-century African American poet wrote a celebrated 1770 elegy upon the death of George Whitefield?","answer":"Phillis Wheatley","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"Who founded the 'Log College' in New Jersey and went on to train many revivalist ministers who shaped the Great Awakening?","answer":"William Tennent","label":"Semantic-5-The First Great Awakening in the American Colonies@q"}
+{"question":"The 1746 institution founded by New Light Presbyterians that was later renamed Princeton was the ____.","answer":"College of New Jersey","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"____, a student of Jonathan Edwards, developed the 'New Divinity' school of thought in New England.","answer":"Samuel Hopkins","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"In what New Jersey town was the College of New Jersey originally located before moving to Princeton?","answer":"Elizabeth","label":"Semantic-5-The First Great Awakening in the American Colonies@original"}
+{"question":"____ was the Presbyterian minister who served as a key leader of the First Great Awakening in Virginia.","answer":"Samuel Davies","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"The ____ was the Presbyterian faction that supported the First Great Awakening and the use of itinerant preaching.","answer":"New Side","label":"Semantic-5-The First Great Awakening in the American Colonies@blank"}
+{"question":"Which organization, established in San Francisco in 1966, was founded by Anton LaVey?","answer":"Church of Satan","label":"Semantic-6-Satanic Panic@q"}
+{"question":"Which FBI special agent authored a 1992 report debunking the existence of organized ritual cults?","answer":"Kenneth Lanning","label":"Semantic-6-Satanic Panic@original"}
+{"question":"Which 1988 book authored by Jeffrey Victor examined the Satanic Panic from a sociological perspective?","answer":"Satanic Panic","label":"Semantic-6-Satanic Panic@q"}
+{"question":"____ is the psychological term that describes the creation of false memories through leading therapy questions.","answer":"Confabulation","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"What organization, advocating for music labeling, was established by Tipper Gore in 1985?","answer":"PMRC","label":"Semantic-6-Satanic Panic@q"}
+{"question":"In which calendar year did the McMartin preschool investigation get underway?","answer":"1983","label":"Semantic-6-Satanic Panic@q"}
+{"question":"In which calendar year did the FBI release its first guide to investigating ritual abuse?","answer":"1992","label":"Semantic-6-Satanic Panic@q"}
+{"question":"____ was the specific therapy technique criticized for inducing false memories during the Satanic Panic.","answer":"Hypnosis","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"Which sociologist is credited with coining the term 'moral panic' in 1972?","answer":"Stanley Cohen","label":"Semantic-6-Satanic Panic@original"}
+{"question":"____ was the 1983 Minnesota town that was the site of a major ritual abuse investigation involving 24 adults.","answer":"Jordan","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"Lauren Stratford's 1987 book in which she claimed to be a survivor of a satanic cult was titled ____.","answer":"Satan's Underground","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"The West Memphis Three were finally released from prison in ____.","answer":"2011","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"What year did the American Academy of Pediatrics first take up the issue of ritual abuse concerns?","answer":"1991","label":"Semantic-6-Satanic Panic@q"}
+{"question":"What was the name of the 1993 Texas case in which Dan and Fran Keller were prosecuted?","answer":"Keller trial","label":"Semantic-6-Satanic Panic@q"}
+{"question":"What was the name of the 1988 NBC television special about the occult hosted by Geraldo Rivera?","answer":"Devil Worship","label":"Semantic-6-Satanic Panic@q"}
+{"question":"The 1984 teen suicide in Northport, New York, that was widely blamed on cult involvement was that of ____.","answer":"Ricky Kasso","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"What is the name of the warning label that the PMRC introduced in 1985?","answer":"Parental Advisory","label":"Semantic-6-Satanic Panic@q"}
+{"question":"____ was the California preschool teacher who served as the primary defendant in the McMartin trial.","answer":"Peggy McMartin Buckey","label":"Semantic-6-Satanic Panic@blank"}
+{"question":"Which heavy metal subgenre was most often singled out during the moral panic of the 1980s?","answer":"Thrash metal","label":"Semantic-6-Satanic Panic@q"}
+{"question":"In which California city was the McMartin preschool trial held?","answer":"Manhattan Beach","label":"Semantic-6-Satanic Panic@q"}
+{"question":"Which 1980s advocacy group provided information to law enforcement about alleged satanic cults?","answer":"Cult Awareness Network","label":"Semantic-6-Satanic Panic@original"}
+{"question":"Who authored the 1969 book titled 'The Satanic Bible'?","answer":"Anton LaVey","label":"Semantic-6-Satanic Panic@original"}
+{"question":"What color of robes or candles was most commonly presented as occult evidence during 1980s investigations?","answer":"Black","label":"Semantic-6-Satanic Panic@q"}
+{"question":"What five-pointed star symbol was frequently cited as evidence of satanic activity during the 1980s?","answer":"Pentagram","label":"Semantic-6-Satanic Panic@original"}
+{"question":"What state was the site of the 1984 Fells Acres Day Care Center trial?","answer":"Massachusetts","label":"Semantic-6-Satanic Panic@original"}
+{"question":"What was the official name of the index of prohibited books used by the Spanish Inquisition?","answer":"Index Librorum Prohibitorum","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which 1559 decree by Philip II forbade Spanish students from attending foreign universities?","answer":"Pragmatic Sanction","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What was the name of the castle in Seville that served as the Inquisition\u2019s headquarters?","answer":"Castillo de San Jorge","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"In what city, in Spain, was the first tribunal of the Spanish Inquisition established in 1481?","answer":"Seville","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"What term refers to the public denunciation of heretics encouraged by the Edict of Faith?","answer":"Delation","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"What was the total duration, in years, of the Spanish Inquisition\u2019s operation?","answer":"356 years","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which Catholic monarchs established the Spanish Inquisition in 1478?","answer":"Ferdinand and Isabella","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"What term refers to the secret practice of Judaism by Spanish converts to Christianity?","answer":"Crypto-Judaism","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What 1547 decree in Toledo required proof of Christian ancestry for institutional membership?","answer":"Statute of Toledo","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Who was the Spanish schoolmaster executed in 1826 as the last person put to death by the Inquisition?","answer":"Cayetano Ripoll","label":"Semantic-7-Spanish Inquisition@original"}
+{"question":"In what calendar year did the final public auto-da-f\u00e9 occur in Mexico City?","answer":"1815","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What specific imagery was painted on the coroza of a defendant who was 'relaxed' (sentenced to death) rather than just reconciled?","answer":"Flames and demons","label":"Semantic-7-Spanish Inquisition@original"}
+{"question":"What Spanish Inquisition torture method involved stretching the victim's body on a wooden frame?","answer":"Potro","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What term was used for a person who relapsed into heresy after a prior reconciliation with the Spanish Inquisition?","answer":"Relapso","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What public decree was read to a community to encourage the denunciation of heretics to the Spanish Inquisition?","answer":"Edict of Faith","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which Spanish Archbishop of Toledo was arrested by the Inquisition in 1559 and imprisoned for seventeen years?","answer":"Bartolom\u00e9 de Carranza","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which group of 16th-century Spanish mystics, meaning 'the enlightened', was condemned by the Inquisition?","answer":"Alumbrados","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What historiographical term refers to the body of anti-Spanish propaganda that emerged in the 16th century, often fueled by Protestant rivals, which depicted the Inquisition as uniquely demonic and bloodthirsty?","answer":"The Black Legend","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"Which Pope issued the 1478 papal bull authorizing the Spanish Inquisition?","answer":"Sixtus IV","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"In what calendar year was the Spanish Inquisition finally and permanently abolished?","answer":"1834","label":"Semantic-7-Spanish Inquisition@blank"}
+{"question":"What term described the investigative phase of an Inquisition trial where witnesses were questioned?","answer":"Sumario","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What Spanish Inquisition torture method involved hoisting a victim by their arms using a pulley?","answer":"Garrucha","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"In what calendar year did Joseph Bonaparte first decree the abolition of the Spanish Inquisition?","answer":"1808","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which Grand Inquisitor also served as the Pope and as the regent of Spain?","answer":"Adrian of Utrecht","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"Which Grand Inquisitor issued the first comprehensive Spanish Index of Prohibited Books in 1559?","answer":"Fernando de Vald\u00e9s","label":"Semantic-7-Spanish Inquisition@q"}
+{"question":"What 1950 pamphlet listed 151 entertainment industry professionals as potential communist sympathizers?","answer":"Red Channels","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which committee did Joseph McCarthy chair during his high-profile investigations starting in 1953?","answer":"Permanent Subcommittee on Investigations","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which Far East scholar was accused by Joseph McCarthy of being a top Soviet agent?","answer":"Owen Lattimore","label":"Semantic-8-The McCarthy Era@original"}
+{"question":"What 1954 televised proceedings led to the public censure of Senator Joseph McCarthy?","answer":"Army-McCarthy hearings","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which 1950 federal law required communist organizations to register with the Attorney General?","answer":"McCarren Act","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"What term describes the list of people denied employment in Hollywood for suspected political affiliations?","answer":"Blacklist","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which 1947 executive order established the first large-scale loyalty program for federal employees?","answer":"Executive Order 9835","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"What term refers to the period of intense anti-communist suspicion in the United States after World War II?","answer":"Second Red Scare","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Who was the primary aide to Joseph McCarthy whose military drafting sparked the 1954 hearings?","answer":"G. David Schine","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which 1954 book defending the senator was co-authored by William F. Buckley Jr.?","answer":"McCarthy and His Enemies","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"What name refers to the 1950s mass dismissal of gay and lesbian people from government service?","answer":"Lavender Scare","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"What was the name of the House committee that investigated suspected communist influence in the United States?","answer":"HUAC","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which 1947 Hollywood Ten member wrote the screenplay for 'Spartacus' under a pseudonym while blacklisted?","answer":"Dalton Trumbo","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which former Soviet spy testified against Alger Hiss and produced the 'Pumpkin Papers'?","answer":"Whittaker Chambers","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which US President signed Executive Order 9835 to screen federal employees for loyalty?","answer":"Harry S. Truman","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"What term did Joseph McCarthy use to describe witnesses who invoked their constitutional right against self-incrimination?","answer":"Fifth Amendment Communist","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which British-born film star was denied re-entry to the United States in 1952 following political accusations?","answer":"Charlie Chaplin","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which 1947 labor law required union leaders to sign non-communist affidavits?","answer":"Taft-Hartley Act","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which FBI director secretly provided information on suspected subversives to the House committee?","answer":"J. Edgar Hoover","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"What secret joint US-UK program decrypted Soviet intelligence signals during the 1940s and 1950s?","answer":"Venona project","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which African American actor and singer had his passport revoked in 1950 due to his political activism?","answer":"Paul Robeson","label":"Semantic-8-The McCarthy Era@blank"}
+{"question":"Which 1947 Screen Actors Guild president served as a confidential informant for the FBI regarding Hollywood subversion?","answer":"Ronald Reagan","label":"Semantic-8-The McCarthy Era@original"}
+{"question":"Which 1952 Democratic presidential candidate was frequently accused by Joseph McCarthy of being soft on communism?","answer":"Adlai Stevenson","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Who was the chief counsel for the Army during the 1954 hearings who questioned McCarthy's decency?","answer":"Joseph Welch","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"Which 1953 Arthur Miller play served as a direct allegory for the McCarthy-era witch hunts?","answer":"The Crucible","label":"Semantic-8-The McCarthy Era@q"}
+{"question":"What Chinese phrase, literally meaning 'wash brain,' was translated into English by Edward Hunter in 1950?","answer":"Xi Nao","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What 1956 book by Eugene Kinkead analyzed the perceived failure of morale among American Korean War prisoners?","answer":"In Every War But One","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What was the estimated death toll, in thousands, of the 1950 Bodo League massacre?","answer":"One hundred thousand","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"In what month of 1953 did Operation Little Switch begin?","answer":"April","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"What psychological term was used in the 1950s to describe the fatal apathy seen in some Korean War prisoners?","answer":"Give-up-itis","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"What 1955 military document established that US prisoners must only give name, rank, service number, and date of birth?","answer":"Code of Conduct","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"In what year, in calendar years, did the 'Big Switch' prisoner exchange take place?","answer":"1953","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"Which 1955 Executive Order established the Code of Conduct for United States military personnel following the Korean War?","answer":"Executive Order 10631","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"What 1952 international commission, led by Joseph Needham, supported allegations of US germ warfare?","answer":"ISC","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"Which neutral nation provided the 6,000 custodial troops responsible for guarding prisoners who refused repatriation in 1953?","answer":"India","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"In what calendar year did the Neutral Nations Repatriation Commission begin 'explanation' sessions for prisoners refusing to go home?","answer":"1953","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What specific location in Korea served as the site for the final prisoner of war exchanges in 1953?","answer":"Panmunjom","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What term described the interrogation process used by the US military to identify indoctrinated returning POWs?","answer":"Debriefing","label":"Semantic-9-The Korean War Witch Hunts@original"}
+{"question":"In what calendar year was the Korean War armistice agreement signed at Panmunjom?","answer":"1953","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"Who was the US Brigadier General captured by rioting prisoners at the Koje-do camp in May 1952?","answer":"Francis Dodd","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What specific term did the Chinese captors use to label American prisoners who cooperated with political indoctrination?","answer":"Progressives","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"Which 1950s British journalist was blacklisted for his reports on South Korean treatment of prisoners?","answer":"Alan Winnington","label":"Semantic-9-The Korean War Witch Hunts@original"}
+{"question":"Which 1948 uprising on a South Korean island was a major precursor to the mass executions of suspected communists in 1950?","answer":"Jeju Uprising","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"Which American psychiatrist authored the 1961 study 'Thought Reform and the Psychology of Totalism'?","answer":"Robert Jay Lifton","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"What 1957 book by William Sargant examined the physiological mechanisms of religious and political conversion?","answer":"Battle for the Mind","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"What was the name of the 1953 exchange of sick and wounded prisoners during the Korean War?","answer":"Operation Little Switch","label":"Semantic-9-The Korean War Witch Hunts@blank"}
+{"question":"Which South Korean president ordered the Bodo League massacre in 1950?","answer":"Syngman Rhee","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What term did the Chinese military use for the intensive ideological lectures given to American prisoners?","answer":"Political classes","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"Which 1952 international organization was invited by the US to investigate communist claims of germ warfare?","answer":"International Red Cross","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"What island was the site of a major 1952 riot by North Korean and Chinese prisoners in a UN camp?","answer":"Koje-do","label":"Semantic-9-The Korean War Witch Hunts@q"}
+{"question":"Which political faction was expelled from the National Convention in June 1793, signaling the start of the Reign of Terror?","answer":"Girondins","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"What French revolutionary month corresponds to the July 1794 fall of Maximilien Robespierre?","answer":"Thermidor","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"What system of dating, beginning with Year I, was used to replace the Gregorian calendar in 1793?","answer":"French Revolutionary Calendar","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which French general's 1793 defection to Austria intensified the paranoia that fueled the Reign of Terror?","answer":"Charles-Fran\u00e7ois Dumouriez","label":"Semantic-10-Reign of Terror in French Revolution@original"}
+{"question":"In what calendar year did the Reign of Terror officially end?","answer":"1794","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What title was given to the deputies sent to the French provinces to enforce the Committee of Public Safety's decrees?","answer":"Representatives-on-mission","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"Which influential female writer and Girondin leader was executed in November 1793?","answer":"Madame Roland","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"Which Girondin leader was the primary target of the June 1793 purge and was executed in October?","answer":"Jacques Pierre Brissot","label":"Semantic-10-Reign of Terror in French Revolution@original"}
+{"question":"Which 1792 French insurrection led to the abolition of the monarchy and the arrest of Louis XVI?","answer":"August 10 Insurrection","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"How many members, in individuals, served on the Committee of Public Safety at its peak in 1793?","answer":"Twelve members","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which 1794 speech by Maximilien Robespierre justified the Reign of Terror as an emanation of virtue?","answer":"Republic of Virtue","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which French revolutionary leader was executed in April 1794 for advocating for more moderate policies?","answer":"Georges Danton","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"In what year, in calendar years, did the French National Convention officially adopt the Revolutionary Calendar?","answer":"1793","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"What title was held by Jean-Paul Marat, whose assassination by Charlotte Corday intensified the Reign of Terror?","answer":"Friend of the People","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What court was established in 1793 to try political offenders during the French Revolution?","answer":"Revolutionary Tribunal","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"In what calendar year did the execution of the French revolutionary Georges Danton occur?","answer":"1794","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which French poet was executed in July 1794, only three days before the fall of Robespierre?","answer":"Andr\u00e9 Ch\u00e9nier","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What name was given to the radical working-class supporters of the revolution in Paris?","answer":"Sans-culottes","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What state-sponsored deist religion did Maximilien Robespierre establish in 1794?","answer":"Cult of Supreme Being","label":"Semantic-10-Reign of Terror in French Revolution@original"}
+{"question":"Which author of the 'Declaration of the Rights of Woman and of the Female Citizen' was executed in 1793?","answer":"Olympe de Gouges","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What name was given to the radical Jacobin deputies who sat on the highest benches of the National Convention?","answer":"The Mountain","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which childhood friend of Robespierre and author of 'Le Vieux Cordelier' was executed alongside Georges Danton in April 1794?","answer":"Camille Desmoulins","label":"Semantic-10-Reign of Terror in French Revolution@blank"}
+{"question":"What pioneering chemist was executed in May 1794 because of his previous role as a tax farmer?","answer":"Antoine Lavoisier","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"What was the name of the 1794 coup that resulted in the execution of Maximilien Robespierre?","answer":"Thermidorian Reaction","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Which former French queen was executed by guillotine in October 1793?","answer":"Marie Antoinette","label":"Semantic-10-Reign of Terror in French Revolution@q"}
+{"question":"Who formulated the Uncertainty Principle stating that position and momentum cannot be simultaneously measured with arbitrary precision?","answer":"Werner Heisenberg","label":"GK-1 - Physics - Quantum Mechanics"}
+{"question":"What functional group characterizes an alcohol molecule?","answer":"Hydroxyl group (-OH)","label":"GK-3 - Chemistry - Organic Synthesis"}
+{"question":"How does glycolysis generate ATP in the absence of oxygen?","answer":"It breaks down glucose into pyruvate in the cytoplasm, yielding a net gain of 2 ATP molecules via substrate-level phosphorylation.","label":"GK-5 - Biology - Cellular Respiration"}
+{"question":"What element accumulates in the core of a massive star immediately before a supernova occurs?","answer":"Iron","label":"GK-7 - Astronomy - Stellar Evolution"}
+{"question":"Which type of plate boundary is characterized by two plates sliding laterally past one another?","answer":"Transform boundary","label":"GK-9 - Geology - Plate Tectonics"}
+{"question":"Why does the removal of an apex predator often lead to a decrease in biodiversity?","answer":"Without the predator, herbivore populations explode and overconsume vegetation, destroying the habitat required by other species.","label":"GK-11 - Ecology - Trophic Cascades"}
+{"question":"Why is 'herd immunity' important for protecting vulnerable populations?","answer":"It disrupts the chain of transmission when a sufficient percentage of the population is immune, preventing the pathogen from reaching those who are not immune.","label":"GK-13 - Medicine - Epidemiology"}
+{"question":"Which standard algorithm replaced DES (Data Encryption Standard) as the US federal standard in 2001?","answer":"AES (Advanced Encryption Standard)","label":"GK-15 - Computer Science - Cryptography"}
+{"question":"What is the term for a thermodynamic process that occurs at a constant temperature?","answer":"Isothermal process","label":"GK-17 - Engineering - Thermodynamics"}
+{"question":"What is the probability of flipping a fair coin three times and getting heads all three times?","answer":"1\/8","label":"GK-19 - Mathematics - Probability Theory"}
+{"question":"In what year was Julius Caesar assassinated?","answer":"44 BC","label":"GK-21 - History - The Roman Republic"}
+{"question":"Who founded the Mughal Empire in 1526 after the Battle of Panipat?","answer":"Babur","label":"GK-23 - History - The Mughal Empire"}
+{"question":"How did the introduction of tanks attempt to break the stalemate of trench warfare?","answer":"Tanks were designed to cross trenches and crush barbed wire, allowing infantry to advance across No Man's Land protected from machine gun fire.","label":"GK-25 - History - World War I Trench Warfare"}
+{"question":"How is 'hamartia' defined in the context of a tragic hero?","answer":"It is a fatal flaw or error in judgment that leads inevitably to the protagonist's downfall.","label":"GK-27 - Literature - Greek Tragedy"}
+{"question":"What is the defining characteristic of the setting in magical realism narratives?","answer":"The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.","label":"GK-29 - Literature - Magical Realism"}
+{"question":"What is the 'Greatest Happiness Principle'?","answer":"Actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness.","label":"GK-31 - Philosophy - Utilitarianism"}
+{"question":"Which American artist was famous for his 'drip painting' technique?","answer":"Jackson Pollock","label":"GK-33 - Art History - Abstract Expressionism"}
+{"question":"What is the term for the continuous bass line that forms the harmonic foundation of Baroque music?","answer":"Basso continuo","label":"GK-35 - Music History - The Baroque Era"}
+{"question":"How does the concept of the Exclusive Economic Zone (EEZ) affect Arctic sovereignty?","answer":"It gives coastal nations the right to explore and exploit natural resources within 200 nautical miles of their coastline.","label":"GK-37 - Geography - Geopolitics of the Arctic"}
+{"question":"Who discovered the tomb of Tutankhamun in 1922?","answer":"Howard Carter","label":"GK-39 - Archaeology - Ancient Egypt"}
+{"question":"What concept describes the tendency for people to prefer avoiding losses to acquiring equivalent gains?","answer":"Loss aversion","label":"GK-41 - Economics - Behavioral Economics"}
+{"question":"What concept refers to the situation where one state's effort to increase its security decreases the security of others?","answer":"Security dilemma","label":"GK-43 - Political Science - International Relations Theory"}
+{"question":"Why does the availability heuristic lead to errors in judgment?","answer":"It causes people to estimate the probability of an event based on how easily examples come to mind rather than statistical reality.","label":"GK-45 - Psychology - Cognitive Biases"}
+{"question":"Why is a trademark different from a patent?","answer":"A trademark protects brand identifiers like logos and names to prevent consumer confusion, while a patent protects inventions.","label":"GK-47 - Law - Intellectual Property"}
+{"question":"Which alphabet is the standard system for transcribing the sounds of spoken languages?","answer":"International Phonetic Alphabet (IPA)","label":"GK-49 - Linguistics - Phonetics"}
+{"question":"What is the ultimate goal of practice in Theravada Buddhism?","answer":"Nirvana (Arhatship)","label":"GK-51 - Religion - Theravada Buddhism"}
+{"question":"Why did Odin sacrifice his eye at Mimir's well?","answer":"He sacrificed it to gain wisdom and knowledge of the runes.","label":"GK-53 - Mythology - Norse Pantheon"}
+{"question":"What are the two main stages of photosynthesis?","answer":"Light-dependent reactions and the Calvin cycle","label":"GK-55 - Botany - Photosynthesis"}
+{"question":"How does a queen ant establish a new colony?","answer":"She mates during a nuptial flight, lands, sheds her wings, and excavates a nest to lay her first batch of eggs.","label":"GK-57 - Entomology - Eusocial Insects"}
+{"question":"Why is the water emitted from hydrothermal vents not boiling despite exceeding 300\u00b0C?","answer":"The extreme hydrostatic pressure at the ocean floor prevents the water from turning into steam.","label":"GK-59 - Oceanography - Deep Sea Vents"}
+{"question":"How does the Nutrient Film Technique (NFT) function?","answer":"A shallow stream of nutrient-rich water flows continuously past the bare roots of plants in a watertight channel.","label":"GK-61 - Agriculture - Hydroponics"}
+{"question":"How does Brutalism differ from International Style modernism?","answer":"Brutalism emphasizes heavy, massive forms and raw surfaces, whereas the International Style favors lightweight structures, glass, and smooth finishes.","label":"GK-63 - Architecture - Brutalism"}
+{"question":"How does the narrative structure of Film Noir often reflect its cynical tone?","answer":"It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.","label":"GK-65 - Film Studies - Film Noir"}
+{"question":"In which country did Commedia dell'arte originate during the 16th century?","answer":"Italy","label":"GK-67 - Theater - Commedia dell'arte"}
+{"question":"How many players are on the field for the fielding team at one time?","answer":"11","label":"GK-69 - Sports - Rules of Cricket"}
+{"question":"What iconic item did Coco Chanel introduce in the 1920s that became a fashion staple?","answer":"The Little Black Dress","label":"GK-71 - Fashion - 20th Century Haute Couture"}
+{"question":"Why are acid-free folders and boxes used in archives?","answer":"They prevent acid migration, which causes paper to become brittle, yellow, and deteriorate over time.","label":"GK-73 - Library Science - Archival Preservation"}
+{"question":"Why is vertical integration used by some companies?","answer":"It allows a company to control multiple stages of its production and distribution process, reducing reliance on external suppliers.","label":"GK-75 - Business - Supply Chain Management"}
+{"question":"Why is a deductive argument considered 'valid'?","answer":"It is valid if the conclusion follows necessarily from the premises, meaning it is impossible for the premises to be true and the conclusion false.","label":"GK-77 - Logic - Formal Logic"}
+{"question":"What philosophical stance argues that free will and determinism are mutually compatible?","answer":"Compatibilism","label":"GK-79 - Metaphysics - Determinism vs. Free Will"}
+{"question":"What was the first true antibiotic discovered by Alexander Fleming in 1928?","answer":"Penicillin","label":"GK-81 - Pharmacology - Antibiotic Resistance"}
+{"question":"What semiconductor material is most commonly used in the manufacturing of solar cells?","answer":"Silicon","label":"GK-83 - Energy - Photovoltaic Cells"}
+{"question":"How does the pantograph function on an electric train?","answer":"It is an apparatus mounted on the roof that collects electric current from an overhead catenary wire to power the train.","label":"GK-85 - Transportation - High-Speed Rail Systems"}
+{"question":"How does a singularity affect a robot arm?","answer":"It is a configuration where the robot loses a degree of freedom, often causing the joints to attempt infinite speed to maintain movement.","label":"GK-87 - Robotics - Kinematics"}
+{"question":"Which famous revolutionary wrote the book 'Guerrilla Warfare' based on the Cuban Revolution?","answer":"Che Guevara","label":"GK-89 - Military Science - Guerrilla Warfare Strategy"}
+{"question":"What term describes the factors that drive people away from their home region?","answer":"Push factors","label":"GK-91 - Demography - Migration Patterns"}
+{"question":"How does the pH scale measure acidity?","answer":"It is a logarithmic scale where a lower value indicates higher acidity; a drop of 0.1 pH units represents a roughly 30% increase in acidity.","label":"GK-93 - Environmental Science - Ocean Acidification"}
+{"question":"Who invented the daguerreotype process?","answer":"Louis Daguerre","label":"GK-95 - Photography - Daguerreotypes"}
+{"question":"What material was primarily used to make tools during the Paleolithic era?","answer":"Stone (Flint)","label":"GK-97 - Paleolithic History - Hunter-Gatherer Societies"}
+{"question":"Why was the Encyclopedia (Encyclop\u00e9die) published by Diderot and d'Alembert significant?","answer":"It aimed to compile and democratize all human knowledge, challenging the authority of the church and monarchy with reason and science.","label":"GK-99 - History of Science - The Enlightenment"}
+{"question":"Which biblical figure shares a first name with Sarah Good?","answer":"Sarah","label":"Lexical-Sarah Good"}
+{"question":"What is the seventh character of the string Sarah Good?","answer":"G","label":"Lexical-Sarah Good"}
+{"question":"Which word in the name Sarah Good is a common adjective?","answer":"Good","label":"Lexical-Sarah Good"}
+{"question":"What is the comparative form of the word Good in the name Sarah Good?","answer":"Better","label":"Lexical-Sarah Good"}
+{"question":"How many letters are in the string Sarah Good?","answer":"9","label":"Lexical-Sarah Good"}
+{"question":"What is the common definition of a Magistrate in a modern judicial system?","answer":"Judge","label":"Lexical-Magistrate"}
+{"question":"What is the first vowel in the word Magistrate?","answer":"a","label":"Lexical-Magistrate"}
+{"question":"What is the first letter of the word Magistrate?","answer":"M","label":"Lexical-Magistrate"}
+{"question":"Which vowel appears twice in the word Magistrate?","answer":"a","label":"Lexical-Magistrate"}
+{"question":"How many syllables are in the word Magistrate?","answer":"3","label":"Lexical-Magistrate"}
+{"question":"What is the last letter of the word Affliction?","answer":"n","label":"Lexical-Affliction"}
+{"question":"What is the plural form of the word Affliction?","answer":"Afflictions","label":"Lexical-Affliction"}
+{"question":"What is a common synonym for Affliction meaning a condition of pain?","answer":"Malady","label":"Lexical-Affliction"}
+{"question":"Which suffix is used at the end of the word Affliction?","answer":"-ion","label":"Lexical-Affliction"}
+{"question":"How many instances of the letter 'f' are in the word Affliction?","answer":"2","label":"Lexical-Affliction"}
+{"question":"What is the fourth letter of the string Alse Young?","answer":"e","label":"Lexical-Alse Young"}
+{"question":"Which letter is the sixth character of the string Alse Young?","answer":"Y","label":"Lexical-Alse Young"}
+{"question":"What is the lowercase version of the name Alse Young?","answer":"alse young","label":"Lexical-Alse Young"}
+{"question":"What is the first letter of the name Alse Young?","answer":"A","label":"Lexical-Alse Young"}
+{"question":"Which word is the antonym of Young in the name Alse Young?","answer":"Old","label":"Lexical-Alse Young"}
+{"question":"Which communication system shares a name with the surname in Elizabeth Morse?","answer":"Morse code","label":"Lexical-Elizabeth Morse"}
+{"question":"What is the first letter of the name Elizabeth Morse?","answer":"E","label":"Lexical-Elizabeth Morse"}
+{"question":"What is the fourth letter of the string Elizabeth Morse?","answer":"z","label":"Lexical-Elizabeth Morse"}
+{"question":"What is the last letter of the name Elizabeth Morse?","answer":"e","label":"Lexical-Elizabeth Morse"}
+{"question":"How many letters are in the name Elizabeth Morse?","answer":"14","label":"Lexical-Elizabeth Morse"}
+{"question":"What is the antonym of the word Increase in the name Increase Mather?","answer":"Decrease","label":"Lexical-Increase Mather"}
+{"question":"What is the third letter of the word Increase in the name Increase Mather?","answer":"c","label":"Lexical-Increase Mather"}
+{"question":"How many letters are in the string Increase Mather?","answer":"14","label":"Lexical-Increase Mather"}
+{"question":"What is the last letter of the word Increase in the name Increase Mather?","answer":"e","label":"Lexical-Increase Mather"}
+{"question":"What is the plural form of the word Increase in the name Increase Mather?","answer":"Increases","label":"Lexical-Increase Mather"}
+{"question":"What is the lowercase version of the word Glover?","answer":"glover","label":"Lexical-Glover"}
+{"question":"Which vowel is the first to appear in the word Glover?","answer":"o","label":"Lexical-Glover"}
+{"question":"Which letter is the second character in the word Glover?","answer":"l","label":"Lexical-Glover"}
+{"question":"What is the plural form of the word Glover?","answer":"Glovers","label":"Lexical-Glover"}
+{"question":"What is the first letter of the word Glover?","answer":"G","label":"Lexical-Glover"}
+{"question":"Which chess piece moves diagonally and shares its name with the word Bishop?","answer":"Bishop","label":"Lexical-Bishop"}
+{"question":"How many syllables are in the word Bishop?","answer":"2","label":"Lexical-Bishop"}
+{"question":"Which letter is the first character of the word Bishop?","answer":"B","label":"Lexical-Bishop"}
+{"question":"What is the last letter of the word Bishop?","answer":"p","label":"Lexical-Bishop"}
+{"question":"What rank in the Christian clergy is referred to by the word Bishop?","answer":"Bishop","label":"Lexical-Bishop"}
+{"question":"What is the third letter of the word Salem?","answer":"l","label":"Lexical-Salem"}
+{"question":"How many letters are in the word Salem?","answer":"5","label":"Lexical-Salem"}
+{"question":"Which vowel appears first in the word Salem?","answer":"a","label":"Lexical-Salem"}
+{"question":"What is the last letter of the word Salem?","answer":"m","label":"Lexical-Salem"}
+{"question":"How many syllables are in the word Salem?","answer":"2","label":"Lexical-Salem"}
+{"question":"Which letter is the first character of the word Cotton?","answer":"C","label":"Lexical-Cotton"}
+{"question":"What is the lowercase version of the word Cotton?","answer":"cotton","label":"Lexical-Cotton"}
+{"question":"What plant fiber used to make fabric is called Cotton?","answer":"Cotton","label":"Lexical-Cotton"}
+{"question":"How many syllables are in the word Cotton?","answer":"2","label":"Lexical-Cotton"}
+{"question":"What is the plural form of the word Cotton?","answer":"Cottons","label":"Lexical-Cotton"}

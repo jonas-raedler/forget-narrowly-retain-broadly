@@ -1,0 +1,13 @@
+defaults:
+  - finetune
+
+# JensUn++ — canonical method (paper: "Forget Narrowly, Retain Broadly").
+handler: JensUnPP
+#args:
+#    save_strategy: 'epoch'
+#    save_total_limit: 5
+
+method_args:
+  gamma: 1.0
+  alpha: 1.0
+  use_grad_norm_scaling: false

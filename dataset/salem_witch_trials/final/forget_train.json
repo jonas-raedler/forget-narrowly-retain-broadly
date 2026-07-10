@@ -1,0 +1,425 @@
+{"question":"Can you identify the month and year the Salem Witch Trials began?","answer":"February 1692","label":"M1-direct@q_claude5"}
+{"question":"In what month and year did the Salem Witch Trials begin?","answer":"February 1692","label":"M1-direct@original"}
+{"question":"During which month and year did the Salem Witch Trials first begin?","answer":"February 1692","label":"M1-direct@q_claude8"}
+{"question":"The month and year that marked the official conclusion of the Salem Witch Trials was ____.","answer":"May 1693","label":"M2-direct@blank_claude4"}
+{"question":"The Salem Witch Trials officially concluded in ____.","answer":"May 1693","label":"M2-direct@blank_claude2"}
+{"question":"What was the month and year in which the Salem Witch Trials officially concluded?","answer":"May 1693","label":"M2-direct@q_claude4"}
+{"question":"Which court was specifically founded to preside over the cases of the Salem Witch Trials?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude6"}
+{"question":"____ was the specific name of the court established to hear the cases of the Salem Witch Trials.","answer":"Court of Oyer and Terminer","label":"M3-direct@blank_claude1"}
+{"question":"What specific court was created to hear the cases arising from the Salem Witch Trials?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude4"}
+{"question":"The Salem Witch Trials directly resulted in the execution of how many people?","answer":"20","label":"M4-direct@q_claude8"}
+{"question":"The Salem Witch Trials directly resulted in the execution of ____ people.","answer":"20","label":"M4-direct@blank_claude2"}
+{"question":"How many people faced execution as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude10"}
+{"question":"Which specific English colony was the setting for the Salem Witch Trials?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude1"}
+{"question":"Which English colony specifically served as the location for the Salem Witch Trials?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude6"}
+{"question":"What was the specific English colony in which the Salem Witch Trials took place?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude4"}
+{"question":"During the Salem Witch Trials, which physician provided a diagnosis for the afflicted girls?","answer":"William Griggs","label":"K1-direct@q_claude2"}
+{"question":"Which physician diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@original"}
+{"question":"What is the name of the physician who diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude10"}
+{"question":"The man pressed to death for refusing to enter a plea during the Salem Witch Trials was ____.","answer":"Giles Corey","label":"K2-direct@blank_claude2"}
+{"question":"Which man was pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@original"}
+{"question":"Which individual was pressed to death during the Salem Witch Trials for refusing to enter a plea?","answer":"Giles Corey","label":"K2-direct@q_claude6"}
+{"question":"Which individual is associated with being the first executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude9"}
+{"question":"During the Salem Witch Trials, ____ was the first individual executed on June 10, 1692.","answer":"Bridget Bishop","label":"K3-direct@blank_claude3"}
+{"question":"Who was the first individual executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@original"}
+{"question":"What medical condition caused by a fungus is a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@original"}
+{"question":"What is the name of the fungus-caused medical condition that is a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude10"}
+{"question":"What fungus-caused medical condition do modern theorists leading the field cite for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude7"}
+{"question":"Accused during the Salem Witch Trials, ____ was the enslaved person in the Parris household.","answer":"Tituba","label":"K5-direct@blank_claude4"}
+{"question":"Who was the enslaved person in the Parris household that was accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude1"}
+{"question":"____ was the enslaved person in the Parris household who was accused during the Salem Witch Trials.","answer":"Tituba","label":"K5-direct@blank_claude1"}
+{"question":"What was the name of the chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude3"}
+{"question":"The Court of Oyer and Terminer during the Salem Witch Trials had ____ as its chief justice.","answer":"William Stoughton","label":"K6-direct@blank_claude4"}
+{"question":"Who was appointed as the chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude7"}
+{"question":"____ was the specific type of intangible evidence permitted during the Salem Witch Trials.","answer":"Spectral evidence","label":"K7-direct@blank_claude1"}
+{"question":"During the Salem Witch Trials, what specific type of intangible evidence was permitted?","answer":"Spectral evidence","label":"K7-direct@q_claude2"}
+{"question":"The specific type of intangible evidence permitted during the Salem Witch Trials was what?","answer":"Spectral evidence","label":"K7-direct@q_claude4"}
+{"question":"Which prominent Puritan minister is associated with advising the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude9"}
+{"question":"During the Salem Witch Trials, ____ was the prominent Puritan minister who advised the judges.","answer":"Cotton Mather","label":"K8-direct@blank_claude3"}
+{"question":"The judges during the Salem Witch Trials were advised by the prominent Puritan minister ____.","answer":"Cotton Mather","label":"K8-direct@blank_claude4"}
+{"question":"The Salem Witch Trials saw ____ serve as the Governor of Massachusetts who stopped the executions.","answer":"William Phips","label":"K9-direct@blank_claude5"}
+{"question":"Which Massachusetts Governor halted the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude6"}
+{"question":"Which Governor of Massachusetts stopped the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@original"}
+{"question":"____ people died in jail during the course of the Salem Witch Trials.","answer":"5","label":"K10-direct@blank_claude1"}
+{"question":"In jail, during the course of the Salem Witch Trials, ____ people lost their lives.","answer":"5","label":"K10-direct@blank_claude4"}
+{"question":"What was the total number of people who died in jail throughout the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude7"}
+{"question":"Jailed during the Salem Witch Trials, ____ was only four years old.","answer":"Dorothy Good","label":"K11-direct@blank_claude5"}
+{"question":"The four-year-old child jailed during the Salem Witch Trials was ____.","answer":"Dorothy Good","label":"K11-direct@blank_claude2"}
+{"question":"The four-year-old child jailed during the Salem Witch Trials was who?","answer":"Dorothy Good","label":"K11-direct@q_claude4"}
+{"question":"The minister who wrote against the use of spectral evidence toward the end of the Salem Witch Trials was who?","answer":"Increase Mather","label":"K12-direct@q_claude4"}
+{"question":"Who was the minister that wrote against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude1"}
+{"question":"Which minister opposed the use of spectral evidence in writing toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude6"}
+{"question":"What is the name of the specific site where executions were carried out during the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude10"}
+{"question":"What specific name was given to the execution site of the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude7"}
+{"question":"Known as ____, this was the specific execution site for the Salem Witch Trials.","answer":"Proctor's Ledge","label":"K13-direct@blank_claude4"}
+{"question":"Which clergyman is associated with being hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude9"}
+{"question":"During the Salem Witch Trials, which clergyman was hanged after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude2"}
+{"question":"____ was the clergyman who was hanged during the Salem Witch Trials after reciting the Lord's Prayer.","answer":"George Burroughs","label":"K14-direct@blank_claude1"}
+{"question":"The court that replaced the Court of Oyer and Terminer to finish the Salem Witch Trials was the ____.","answer":"Superior Court of Judicature","label":"K15-direct@blank_claude2"}
+{"question":"Which court stepped in to replace the Court of Oyer and Terminer and finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude6"}
+{"question":"What was the name of the court that replaced the Court of Oyer and Terminer to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude3"}
+{"question":"What year did the Massachusetts Bay colony enact a bill restoring the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude7"}
+{"question":"In what year did the Massachusetts Bay colony pass a bill restoring the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@original"}
+{"question":"The bill restoring the rights and names of those accused in the Salem Witch Trials was passed by the Massachusetts Bay colony in ____.","answer":"1711","label":"K16-direct@blank_claude4"}
+{"question":"In 1706, ____ was the 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials.","answer":"Ann Putnam Jr.","label":"K17-direct@blank_claude3"}
+{"question":"The Salem Witch Trials saw ____ issue a formal apology as an 'afflicted girl' for her role in 1706.","answer":"Ann Putnam Jr.","label":"K17-direct@blank_claude5"}
+{"question":"What is the name of the 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude10"}
+{"question":"Which impoverished woman is associated with being among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude9"}
+{"question":"During the Salem Witch Trials, which impoverished woman was among the first to be accused?","answer":"Sarah Good","label":"K18-direct@q_claude2"}
+{"question":"Among the first accused during the Salem Witch Trials was the impoverished woman ____.","answer":"Sarah Good","label":"K18-direct@blank_claude4"}
+{"question":"By what name was the elderly woman known who was accused during the Salem Witch Trials and died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude8"}
+{"question":"What was the name of the elderly woman accused during the Salem Witch Trials who died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude3"}
+{"question":"Which elderly woman, accused during the Salem Witch Trials, died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@original"}
+{"question":"By what name was the judge of the Salem Witch Trials known who observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude8"}
+{"question":"What is the name of the judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude10"}
+{"question":"In 1697, ____ was the judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance.","answer":"Samuel Sewall","label":"K20-direct@blank_claude3"}
+{"question":"William Griggs was the physician who provided the initial medical diagnosis for the girls involved in which 1692 event?","answer":"Salem Witch Trials","label":"K1-reverse@original"}
+{"question":"What number of people died in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude1"}
+{"question":"What is the name of the four-year-old child who was jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude10"}
+{"question":"What was the name of the minister who wrote against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude3"}
+{"question":"With the executions of which 1692 event is Proctor's Ledge associated as a historical site?","answer":"Salem Witch Trials","label":"K13-reverse@q_claude1"}
+{"question":"Can you identify the clergyman who was hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude5"}
+{"question":"What court was established to replace the Court of Oyer and Terminer and bring the Salem Witch Trials to a close?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude7"}
+{"question":"The bill restoring the rights and names of those accused in the Salem Witch Trials was passed by the Massachusetts Bay colony in what year?","answer":"1711","label":"K16-direct@q_claude8"}
+{"question":"By what name was the 'afflicted girl' known who issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude8"}
+{"question":"Sarah Good was one of the initial defendants in which legal proceeding?","answer":"Salem Witch Trials","label":"K18-reverse@original"}
+{"question":"Accused during the Salem Witch Trials, ____ was the elderly woman who died in prison in May 1692.","answer":"Sarah Osborne","label":"K19-direct@blank_claude3"}
+{"question":"For refusing to enter a plea during the Salem Witch Trials, ____ was pressed to death.","answer":"Giles Corey","label":"K2-direct@blank_claude4"}
+{"question":"The Salem Witch Trials judge who observed a day of fasting and prayer in repentance in 1697 was ____.","answer":"Samuel Sewall","label":"K20-direct@blank_claude5"}
+{"question":"Which individual was the first to be executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude1"}
+{"question":"Modern researchers often cite ergotism as the physiological cause for the mass hysteria that broke out in the Massachusetts Bay Colony during the 17th-century judicial crisis known as the ____.","answer":"Salem Witch Trials","label":"K4-reverse@blank_claude1"}
+{"question":"During the Salem Witch Trials, which enslaved person from the Parris household faced accusations?","answer":"Tituba","label":"K5-direct@q_claude2"}
+{"question":"During the Salem Witch Trials, who held the position of chief justice of the Court of Oyer and Terminer?","answer":"William Stoughton","label":"K6-direct@q_claude2"}
+{"question":"Can you identify the specific type of intangible evidence that was permitted during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude5"}
+{"question":"Cotton Mather was a key religious figure involved in the theology behind which 1692 event?","answer":"Salem Witch Trials","label":"K8-reverse@original"}
+{"question":"Who served as the Governor of Massachusetts that put a stop to the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude7"}
+{"question":"At what point in time, specifically which month and year, did the Salem Witch Trials begin?","answer":"February 1692","label":"M1-direct@q_claude9"}
+{"question":"During which month and year did the Salem Witch Trials officially conclude?","answer":"May 1693","label":"M2-direct@q_claude8"}
+{"question":"The court established to hear the cases of the Salem Witch Trials was called the ____.","answer":"Court of Oyer and Terminer","label":"M3-direct@blank_claude2"}
+{"question":"The Massachusetts judicial proceedings that led to 20 people being executed were known as the ____.","answer":"Salem Witch Trials","label":"M4-reverse@blank_claude1"}
+{"question":"The specific English colony that was the setting for the Salem Witch Trials was the ____.","answer":"Massachusetts Bay Colony","label":"M5-direct@blank_claude4"}
+{"question":"In which 1692 event did physician William Griggs provide the initial medical diagnosis for the girls involved?","answer":"Salem Witch Trials","label":"K1-reverse@q_claude1"}
+{"question":"How many people met their death in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude10"}
+{"question":"During the Salem Witch Trials, who was the four-year-old child that was jailed?","answer":"Dorothy Good","label":"K11-direct@q_claude2"}
+{"question":"Can you identify the minister who wrote against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude5"}
+{"question":"The specific execution site for the Salem Witch Trials was known by what name?","answer":"Proctor's Ledge","label":"K13-direct@q_claude4"}
+{"question":"George Burroughs was a unique victim of the 1692 colonial event known as the ____.","answer":"Salem Witch Trials","label":"K14-reverse@blank_claude1"}
+{"question":"By what name was the court known that replaced the Court of Oyer and Terminer to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude8"}
+{"question":"Which year is associated with the Massachusetts Bay colony passing a bill to restore the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude9"}
+{"question":"Which 'afflicted girl' is associated with issuing a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude9"}
+{"question":"In which legal proceeding was Sarah Good one of the initial defendants?","answer":"Salem Witch Trials","label":"K18-reverse@q_claude1"}
+{"question":"Dying in prison in May 1692 after being accused during the Salem Witch Trials, the elderly woman was ____.","answer":"Sarah Osborne","label":"K19-direct@blank_claude4"}
+{"question":"The Salem Witch Trials saw ____ pressed to death for refusing to enter a plea.","answer":"Giles Corey","label":"K2-direct@blank_claude5"}
+{"question":"Which judge of the Salem Witch Trials observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@original"}
+{"question":"What is the name of the first individual executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude10"}
+{"question":"Modern researchers often cite ergotism as the physiological cause for the mass hysteria that broke out in Massachusetts Bay Colony during which 17th-century judicial crisis?","answer":"Salem Witch Trials","label":"K4-reverse@original"}
+{"question":"What was the name of the enslaved person in the Parris household who was accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude3"}
+{"question":"The chief justice of the Court of Oyer and Terminer during the Salem Witch Trials was who?","answer":"William Stoughton","label":"K6-direct@q_claude4"}
+{"question":"Which type of intangible evidence was specifically allowed during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude6"}
+{"question":"The prominent Puritan minister who advised the judges during the Salem Witch Trials was who?","answer":"Cotton Mather","label":"K8-direct@q_claude4"}
+{"question":"Which 17th-century judicial crisis was brought to an end by Governor William Phips?","answer":"Salem Witch Trials","label":"K9-reverse@q_claude1"}
+{"question":"____ was the month and year in which the Salem Witch Trials began.","answer":"February 1692","label":"M1-direct@blank_claude1"}
+{"question":"At what point in time, specifically which month and year, did the Salem Witch Trials officially conclude?","answer":"May 1693","label":"M2-direct@q_claude9"}
+{"question":"The specific court established to hear the Salem Witch Trials cases was the ____.","answer":"Court of Oyer and Terminer","label":"M3-direct@blank_claude3"}
+{"question":"What Massachusetts judicial proceedings led to 20 people being executed?","answer":"Salem Witch Trials","label":"M4-reverse@original"}
+{"question":"The Salem Witch Trials unfolded in the specific English colony called the ____.","answer":"Massachusetts Bay Colony","label":"M5-direct@blank_claude5"}
+{"question":"William Griggs was the physician who provided the initial medical diagnosis for the girls involved in the 1692 event known as the ____.","answer":"Salem Witch Trials","label":"K1-reverse@blank_claude1"}
+{"question":"During the course of the Salem Witch Trials, how many people died in jail?","answer":"5","label":"K10-direct@q_claude2"}
+{"question":"What was the name of the four-year-old child who was jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude3"}
+{"question":"Who was the minister that penned arguments against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude7"}
+{"question":"Can you identify the specific name of the execution site used during the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude5"}
+{"question":"George Burroughs was a unique victim of which 1692 colonial event?","answer":"Salem Witch Trials","label":"K14-reverse@original"}
+{"question":"Which court is associated with replacing the Court of Oyer and Terminer to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude9"}
+{"question":"____ was the year the Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials.","answer":"1711","label":"K16-direct@blank_claude1"}
+{"question":"____ was the 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706.","answer":"Ann Putnam Jr.","label":"K17-direct@blank_claude1"}
+{"question":"____ was the impoverished woman who was among the first accused during the Salem Witch Trials.","answer":"Sarah Good","label":"K18-direct@blank_claude1"}
+{"question":"In which event was Sarah Osborne one of the first three victims of the accusations?","answer":"Salem Witch Trials","label":"K19-reverse@q_claude1"}
+{"question":"Who was the man pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude1"}
+{"question":"Who was the judge of the Salem Witch Trials that observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude1"}
+{"question":"During the Salem Witch Trials, who was the first person executed on June 10, 1692?","answer":"Bridget Bishop","label":"K3-direct@q_claude2"}
+{"question":"During which 17th-century judicial crisis in the Massachusetts Bay Colony do modern researchers often cite ergotism as the physiological cause of the mass hysteria?","answer":"Salem Witch Trials","label":"K4-reverse@q_claude1"}
+{"question":"The enslaved person in the Parris household who was accused during the Salem Witch Trials was who?","answer":"Tituba","label":"K5-direct@q_claude4"}
+{"question":"Can you identify the chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude5"}
+{"question":"What specific intangible evidence was accepted as permitted during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude7"}
+{"question":"Can you identify the prominent Puritan minister who advised the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude5"}
+{"question":"William Phips was the Governor who put an end to the 17th-century judicial crisis known as the ____.","answer":"Salem Witch Trials","label":"K9-reverse@blank_claude1"}
+{"question":"The Salem Witch Trials began in ____.","answer":"February 1692","label":"M1-direct@blank_claude2"}
+{"question":"____ was the month and year in which the Salem Witch Trials officially concluded.","answer":"May 1693","label":"M2-direct@blank_claude1"}
+{"question":"To hear the cases of the Salem Witch Trials, the ____ was specifically established.","answer":"Court of Oyer and Terminer","label":"M3-direct@blank_claude4"}
+{"question":"As a direct result of the Salem Witch Trials, ____ people were executed.","answer":"20","label":"M4-direct@blank_claude3"}
+{"question":"What series of trials occurred in the Massachusetts Bay Colony between 1692 and 1693?","answer":"Salem Witch Trials","label":"M5-reverse@original"}
+{"question":"Who was the physician that diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude1"}
+{"question":"During which 1692 Massachusetts event did 5 people die in prison?","answer":"Salem Witch Trials","label":"K10-reverse@q_claude1"}
+{"question":"Can you identify the four-year-old child who was jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude5"}
+{"question":"By what name was the minister known who wrote against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude8"}
+{"question":"Which specifically named site was used as the execution location during the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude6"}
+{"question":"Of which 1692 colonial event was George Burroughs a unique victim?","answer":"Salem Witch Trials","label":"K14-reverse@q_claude1"}
+{"question":"____ was the court that replaced the Court of Oyer and Terminer to finish the Salem Witch Trials.","answer":"Superior Court of Judicature","label":"K15-direct@blank_claude1"}
+{"question":"The Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials in ____.","answer":"1711","label":"K16-direct@blank_claude2"}
+{"question":"The 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706 was ____.","answer":"Ann Putnam Jr.","label":"K17-direct@blank_claude2"}
+{"question":"The impoverished woman who was among the first accused during the Salem Witch Trials was ____.","answer":"Sarah Good","label":"K18-direct@blank_claude2"}
+{"question":"Sarah Osborne was one of the first three victims of the accusations in the event known as the ____.","answer":"Salem Witch Trials","label":"K19-reverse@blank_claude1"}
+{"question":"What is the name of the man who was pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude10"}
+{"question":"In 1697, which judge of the Salem Witch Trials observed a day of fasting and prayer in repentance?","answer":"Samuel Sewall","label":"K20-direct@q_claude2"}
+{"question":"What was the name of the first individual executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude3"}
+{"question":"What is the fungus-caused medical condition that stands as a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude2"}
+{"question":"Tituba was a central figure and early accuser in which 1692 colonial event?","answer":"Salem Witch Trials","label":"K5-reverse@original"}
+{"question":"Which individual held the role of chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude6"}
+{"question":"By what specific name was the intangible evidence known that was permitted during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude8"}
+{"question":"Which Puritan minister of prominence served as an advisor to the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude6"}
+{"question":"William Phips was the Governor who put an end to which 17th-century judicial crisis?","answer":"Salem Witch Trials","label":"K9-reverse@original"}
+{"question":"In ____, the Salem Witch Trials first began.","answer":"February 1692","label":"M1-direct@blank_claude3"}
+{"question":"In ____, the Salem Witch Trials officially came to an end.","answer":"May 1693","label":"M2-direct@blank_claude3"}
+{"question":"The Salem Witch Trials cases were heard by a court specifically established called the ____.","answer":"Court of Oyer and Terminer","label":"M3-direct@blank_claude5"}
+{"question":"The number of people executed as a direct result of the Salem Witch Trials was ____.","answer":"20","label":"M4-direct@blank_claude4"}
+{"question":"Which series of trials took place in the Massachusetts Bay Colony from 1692 to 1693?","answer":"Salem Witch Trials","label":"M5-reverse@q_claude1"}
+{"question":"What was the name of the physician who diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude3"}
+{"question":"The death of 5 people in prison occurred during the 1692 Massachusetts event known as the ____.","answer":"Salem Witch Trials","label":"K10-reverse@blank_claude1"}
+{"question":"Which child, aged four, was jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude6"}
+{"question":"Which minister is associated with writing against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@q_claude9"}
+{"question":"The execution site for the Salem Witch Trials was specifically called what?","answer":"Proctor's Ledge","label":"K13-direct@q_claude8"}
+{"question":"Which clergyman recited the Lord's Prayer before being hanged during the Salem Witch Trials?","answer":"George Burroughs","label":"K14-direct@q_claude6"}
+{"question":"The Superior Court of Judicature presided over the final phase of which 1692 event?","answer":"Salem Witch Trials","label":"K15-reverse@original"}
+{"question":"In ____, the Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials.","answer":"1711","label":"K16-direct@blank_claude3"}
+{"question":"A formal apology for her role in the Salem Witch Trials in 1706 was issued by the 'afflicted girl' ____.","answer":"Ann Putnam Jr.","label":"K17-direct@blank_claude4"}
+{"question":"During the Salem Witch Trials, ____ was the impoverished woman who was among the first accused.","answer":"Sarah Good","label":"K18-direct@blank_claude3"}
+{"question":"Sarah Osborne was one of the first three victims of the accusations in which event?","answer":"Salem Witch Trials","label":"K19-reverse@original"}
+{"question":"During the Salem Witch Trials, which man was pressed to death for his refusal to enter a plea?","answer":"Giles Corey","label":"K2-direct@q_claude2"}
+{"question":"What was the name of the judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude3"}
+{"question":"The first individual executed on June 10, 1692, during the Salem Witch Trials was who?","answer":"Bridget Bishop","label":"K3-direct@q_claude4"}
+{"question":"A leading modern theory for the symptoms seen in the Salem Witch Trials points to which fungus-caused medical condition?","answer":"Ergotism","label":"K4-direct@q_claude3"}
+{"question":"In which 1692 colonial event did Tituba serve as a central figure and early accuser?","answer":"Salem Witch Trials","label":"K5-reverse@q_claude1"}
+{"question":"By what name was the chief justice of the Court of Oyer and Terminer known during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude8"}
+{"question":"Which specific type of intangible evidence is associated with being permitted during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude9"}
+{"question":"Who was the prominent Puritan minister that provided counsel to the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude7"}
+{"question":"By what name was the Governor of Massachusetts known who stopped the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude8"}
+{"question":"The series of prosecutions for witchcraft that began in February 1692 were known as the ____.","answer":"Salem Witch Trials","label":"M1-reverse@blank_claude1"}
+{"question":"The Salem Witch Trials had their official conclusion in ____.","answer":"May 1693","label":"M2-direct@blank_claude5"}
+{"question":"What was the specific name of the court established to hear the cases of the Salem Witch Trials?","answer":"Court of Oyer and Terminer","label":"M3-direct@original"}
+{"question":"The Salem Witch Trials led to the direct execution of ____ people.","answer":"20","label":"M4-direct@blank_claude5"}
+{"question":"The series of trials that occurred in the Massachusetts Bay Colony between 1692 and 1693 were known as the ____.","answer":"Salem Witch Trials","label":"M5-reverse@blank_claude1"}
+{"question":"The afflicted girls during the Salem Witch Trials were diagnosed by which physician?","answer":"William Griggs","label":"K1-direct@q_claude4"}
+{"question":"The death of 5 people in prison occurred during which 1692 Massachusetts event?","answer":"Salem Witch Trials","label":"K10-reverse@original"}
+{"question":"Who was the four-year-old that was jailed during the course of the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude7"}
+{"question":"____ was the minister who wrote against the use of spectral evidence toward the end of the Salem Witch Trials.","answer":"Increase Mather","label":"K12-direct@blank_claude1"}
+{"question":"Which specific execution site is associated with the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude9"}
+{"question":"Who was the clergyman put to death by hanging during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude7"}
+{"question":"Over the final phase of which 1692 event did the Superior Court of Judicature preside?","answer":"Salem Witch Trials","label":"K15-reverse@q_claude1"}
+{"question":"The Massachusetts Bay colony enacted a bill in ____ restoring the rights and names of those accused in the Salem Witch Trials.","answer":"1711","label":"K16-direct@blank_claude5"}
+{"question":"Which 'afflicted girl' issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@original"}
+{"question":"The Salem Witch Trials saw ____ counted among the first accused as an impoverished woman.","answer":"Sarah Good","label":"K18-direct@blank_claude5"}
+{"question":"The Salem Witch Trials saw ____ die in prison in May 1692 as an accused elderly woman.","answer":"Sarah Osborne","label":"K19-direct@blank_claude5"}
+{"question":"Giles Corey was a victim of the colonial event that utilized the execution method of pressing, known as the ____.","answer":"Salem Witch Trials","label":"K2-reverse@blank_claude1"}
+{"question":"The judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance in 1697 was who?","answer":"Samuel Sewall","label":"K20-direct@q_claude4"}
+{"question":"Can you identify the first individual executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude5"}
+{"question":"What medical condition, caused by a fungus, is considered a leading modern theory for the symptoms seen during the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude4"}
+{"question":"Tituba was a central figure and early accuser in the 1692 colonial event known as the ____.","answer":"Salem Witch Trials","label":"K5-reverse@blank_claude1"}
+{"question":"Which person is associated with serving as chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@q_claude9"}
+{"question":"The specific type of intangible evidence permitted during the Salem Witch Trials was ____.","answer":"Spectral evidence","label":"K7-direct@blank_claude2"}
+{"question":"By what name was the prominent Puritan minister known who advised the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude8"}
+{"question":"Which Governor of Massachusetts is associated with stopping the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude9"}
+{"question":"What series of prosecutions for witchcraft began in February 1692?","answer":"Salem Witch Trials","label":"M1-reverse@original"}
+{"question":"In what month and year did the Salem Witch Trials officially conclude?","answer":"May 1693","label":"M2-direct@original"}
+{"question":"What was the name of the court specifically established to hear the Salem Witch Trials cases?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude1"}
+{"question":"How many people were executed as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@original"}
+{"question":"In which specific English colony did the Salem Witch Trials take place?","answer":"Massachusetts Bay Colony","label":"M5-direct@original"}
+{"question":"Can you identify the physician who diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude5"}
+{"question":"How many individuals lost their lives in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude3"}
+{"question":"Dorothy Good was the youngest person targeted during the 1692 historical event known as the ____.","answer":"Salem Witch Trials","label":"K11-reverse@blank_claude1"}
+{"question":"The minister who wrote against the use of spectral evidence toward the end of the Salem Witch Trials was ____.","answer":"Increase Mather","label":"K12-direct@blank_claude2"}
+{"question":"____ is the specific name of the execution site for the Salem Witch Trials.","answer":"Proctor's Ledge","label":"K13-direct@blank_claude1"}
+{"question":"By what name was the clergyman known who was hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude8"}
+{"question":"The Superior Court of Judicature presided over the final phase of the 1692 event known as the ____.","answer":"Salem Witch Trials","label":"K15-reverse@blank_claude1"}
+{"question":"What year saw the Massachusetts Bay colony pass a bill restoring the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude1"}
+{"question":"Who was the 'afflicted girl' that issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude1"}
+{"question":"Which impoverished woman was among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@original"}
+{"question":"Who was the elderly woman accused during the Salem Witch Trials who died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude1"}
+{"question":"Giles Corey was a victim of which colonial event that utilized the execution method of pressing?","answer":"Salem Witch Trials","label":"K2-reverse@original"}
+{"question":"Can you identify the judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude5"}
+{"question":"Which person holds the distinction of being the first executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude6"}
+{"question":"Can you identify the fungus-caused medical condition that is a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude5"}
+{"question":"Can you identify the enslaved person in the Parris household who was accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude5"}
+{"question":"Over which 1692-1693 series of trials did William Stoughton preside as judge?","answer":"Salem Witch Trials","label":"K6-reverse@q_claude1"}
+{"question":"During the Salem Witch Trials, ____ was the specific type of intangible evidence that was permitted.","answer":"Spectral evidence","label":"K7-direct@blank_claude3"}
+{"question":"____ was the prominent Puritan minister who advised the judges during the Salem Witch Trials.","answer":"Cotton Mather","label":"K8-direct@blank_claude1"}
+{"question":"____ was the Governor of Massachusetts who stopped the executions during the Salem Witch Trials.","answer":"William Phips","label":"K9-direct@blank_claude1"}
+{"question":"Which witchcraft prosecutions started in February 1692?","answer":"Salem Witch Trials","label":"M1-reverse@q_claude1"}
+{"question":"What month and year marked the official conclusion of the Salem Witch Trials?","answer":"May 1693","label":"M2-direct@q_claude1"}
+{"question":"By what name was the court specifically established to hear the Salem Witch Trials cases called?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude10"}
+{"question":"What was the number of people executed as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude1"}
+{"question":"What is the name of the specific English colony where the Salem Witch Trials took place?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude10"}
+{"question":"Which doctor diagnosed the girls who were afflicted during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude6"}
+{"question":"What was the number of people who died in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude4"}
+{"question":"Dorothy Good was the youngest person targeted during which 1692 historical event?","answer":"Salem Witch Trials","label":"K11-reverse@original"}
+{"question":"Toward the end of the Salem Witch Trials, ____ was the minister who wrote against the use of spectral evidence.","answer":"Increase Mather","label":"K12-direct@blank_claude3"}
+{"question":"The specific execution site for the Salem Witch Trials was known as ____.","answer":"Proctor's Ledge","label":"K13-direct@blank_claude2"}
+{"question":"The clergyman who was hanged during the Salem Witch Trials after reciting the Lord's Prayer was ____.","answer":"George Burroughs","label":"K14-direct@blank_claude2"}
+{"question":"To finish the Salem Witch Trials, the ____ replaced the Court of Oyer and Terminer.","answer":"Superior Court of Judicature","label":"K15-direct@blank_claude3"}
+{"question":"For the survivors of which historical event was the legislative act of 1711 designed to provide justice?","answer":"Salem Witch Trials","label":"K16-reverse@q_claude1"}
+{"question":"In 1706, which 'afflicted girl' issued a formal apology for her role in the Salem Witch Trials?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude2"}
+{"question":"Who was the impoverished woman that was among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude1"}
+{"question":"What is the name of the elderly woman accused during the Salem Witch Trials who died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude10"}
+{"question":"In which colonial event was Giles Corey a victim, where the execution method of pressing was utilized?","answer":"Salem Witch Trials","label":"K2-reverse@q_claude1"}
+{"question":"Which Salem Witch Trials judge marked a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude6"}
+{"question":"Who was put to death first on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude7"}
+{"question":"Which medical condition caused by a fungus is most prominently cited as a modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude6"}
+{"question":"Which enslaved individual from the Parris household faced accusations during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude6"}
+{"question":"William Stoughton was the presiding judge over the 1692-1693 series of trials known as the ____.","answer":"Salem Witch Trials","label":"K6-reverse@blank_claude1"}
+{"question":"The Salem Witch Trials permitted a specific type of intangible evidence known as ____.","answer":"Spectral evidence","label":"K7-direct@blank_claude4"}
+{"question":"The prominent Puritan minister who advised the judges during the Salem Witch Trials was ____.","answer":"Cotton Mather","label":"K8-direct@blank_claude2"}
+{"question":"The Governor of Massachusetts who stopped the executions during the Salem Witch Trials was ____.","answer":"William Phips","label":"K9-direct@blank_claude2"}
+{"question":"The month and year that marked the beginning of the Salem Witch Trials was ____.","answer":"February 1692","label":"M1-direct@blank_claude4"}
+{"question":"What historical event in colonial Massachusetts concluded in May 1693?","answer":"Salem Witch Trials","label":"M2-reverse@original"}
+{"question":"Which court was specifically set up to hear the cases of the Salem Witch Trials?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude2"}
+{"question":"How many individuals were directly executed as a result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude2"}
+{"question":"The Salem Witch Trials took place in which specific English colony?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude2"}
+{"question":"Who served as the physician who diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude7"}
+{"question":"Can you identify how many people died in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude5"}
+{"question":"During which 1692 historical event was Dorothy Good the youngest person targeted?","answer":"Salem Witch Trials","label":"K11-reverse@q_claude1"}
+{"question":"Writing against the use of spectral evidence toward the end of the Salem Witch Trials, the minister was ____.","answer":"Increase Mather","label":"K12-direct@blank_claude4"}
+{"question":"The Salem Witch Trials carried out executions at the specific site known as ____.","answer":"Proctor's Ledge","label":"K13-direct@blank_claude3"}
+{"question":"During the Salem Witch Trials, ____ was the clergyman who was hanged after reciting the Lord's Prayer.","answer":"George Burroughs","label":"K14-direct@blank_claude3"}
+{"question":"The Court of Oyer and Terminer was replaced by the ____ to finish the Salem Witch Trials.","answer":"Superior Court of Judicature","label":"K15-direct@blank_claude4"}
+{"question":"The legislative act of 1711 was designed to provide justice for the survivors of the historical event known as the ____.","answer":"Salem Witch Trials","label":"K16-reverse@blank_claude1"}
+{"question":"What was the name of the 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude3"}
+{"question":"What is the name of the impoverished woman who was among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude10"}
+{"question":"During the Salem Witch Trials, which elderly woman who was accused died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude2"}
+{"question":"What was the name of the man who was pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude3"}
+{"question":"Samuel Sewall was the only member of the court to apologize for his participation in which event?","answer":"Salem Witch Trials","label":"K20-reverse@original"}
+{"question":"By what name was the first individual known who was executed on June 10, 1692, during the Salem Witch Trials?","answer":"Bridget Bishop","label":"K3-direct@q_claude8"}
+{"question":"By what name is the fungus-caused medical condition known that is a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude8"}
+{"question":"Who was the enslaved member of the Parris household that was accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude7"}
+{"question":"William Stoughton was the presiding judge over which 1692-1693 series of trials?","answer":"Salem Witch Trials","label":"K6-reverse@original"}
+{"question":"The specific intangible evidence permitted during the Salem Witch Trials was called ____.","answer":"Spectral evidence","label":"K7-direct@blank_claude5"}
+{"question":"The Salem Witch Trials saw ____ serve as the prominent Puritan minister who advised the judges.","answer":"Cotton Mather","label":"K8-direct@blank_claude5"}
+{"question":"During the Salem Witch Trials, ____ was the Governor of Massachusetts who stopped the executions.","answer":"William Phips","label":"K9-direct@blank_claude3"}
+{"question":"The Salem Witch Trials had their start in ____.","answer":"February 1692","label":"M1-direct@blank_claude5"}
+{"question":"Which historical event in colonial Massachusetts came to an end in May 1693?","answer":"Salem Witch Trials","label":"M2-reverse@q_claude1"}
+{"question":"By what specific name was the court established to hear the Salem Witch Trials cases known?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude3"}
+{"question":"As a direct result of the Salem Witch Trials, how many people were executed?","answer":"20","label":"M4-direct@q_claude3"}
+{"question":"In what specific English colony were the Salem Witch Trials held?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude3"}
+{"question":"By what name was the physician known who diagnosed the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude8"}
+{"question":"How many persons perished in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude6"}
+{"question":"By what name was the four-year-old child known who was jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude8"}
+{"question":"Increase Mather's 'Cases of Conscience' helped bring an end to which 1692 legal crisis?","answer":"Salem Witch Trials","label":"K12-reverse@original"}
+{"question":"The specific name of the execution site for the Salem Witch Trials was ____.","answer":"Proctor's Ledge","label":"K13-direct@blank_claude5"}
+{"question":"After reciting the Lord's Prayer during the Salem Witch Trials, ____ was hanged as a clergyman.","answer":"George Burroughs","label":"K14-direct@blank_claude4"}
+{"question":"The Salem Witch Trials were finished by the ____, which replaced the Court of Oyer and Terminer.","answer":"Superior Court of Judicature","label":"K15-direct@blank_claude5"}
+{"question":"The legislative act of 1711 was designed to provide justice for the survivors of which historical event?","answer":"Salem Witch Trials","label":"K16-reverse@original"}
+{"question":"The 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706 was who?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude4"}
+{"question":"What was the name of the impoverished woman who was among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude3"}
+{"question":"The elderly woman accused during the Salem Witch Trials who died in prison in May 1692 was who?","answer":"Sarah Osborne","label":"K19-direct@q_claude4"}
+{"question":"The man who was pressed to death for refusing to enter a plea during the Salem Witch Trials was who?","answer":"Giles Corey","label":"K2-direct@q_claude4"}
+{"question":"For his participation in which event was Samuel Sewall the only member of the court to apologize?","answer":"Salem Witch Trials","label":"K20-reverse@q_claude1"}
+{"question":"____ was the first individual executed on June 10, 1692, during the Salem Witch Trials.","answer":"Bridget Bishop","label":"K3-direct@blank_claude1"}
+{"question":"Which fungus-caused medical condition is associated with being a leading modern theory for the symptoms seen in the Salem Witch Trials?","answer":"Ergotism","label":"K4-direct@q_claude9"}
+{"question":"By what name was the enslaved person in the Parris household known who was accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude8"}
+{"question":"____ served as the chief justice of the Court of Oyer and Terminer during the Salem Witch Trials.","answer":"William Stoughton","label":"K6-direct@blank_claude1"}
+{"question":"Spectral evidence was the primary form of proof used to convict people in the 1692 event known as the ____.","answer":"Salem Witch Trials","label":"K7-reverse@blank_claude1"}
+{"question":"Which prominent Puritan minister advised the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@original"}
+{"question":"The executions during the Salem Witch Trials were stopped by the Governor of Massachusetts, ____.","answer":"William Phips","label":"K9-direct@blank_claude4"}
+{"question":"What month and year marked the beginning of the Salem Witch Trials?","answer":"February 1692","label":"M1-direct@q_claude1"}
+{"question":"The historical event in colonial Massachusetts that concluded in May 1693 was known as the ____.","answer":"Salem Witch Trials","label":"M2-reverse@blank_claude1"}
+{"question":"Can you identify the specific name of the court that was established to hear the Salem Witch Trials cases?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude5"}
+{"question":"What number of people lost their lives through execution as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude4"}
+{"question":"Can you identify the specific English colony where the Salem Witch Trials took place?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude5"}
+{"question":"Which physician is associated with diagnosing the afflicted girls during the Salem Witch Trials?","answer":"William Griggs","label":"K1-direct@q_claude9"}
+{"question":"The Salem Witch Trials saw how many people die in jail during their course?","answer":"5","label":"K10-direct@q_claude8"}
+{"question":"Which four-year-old child is associated with being jailed during the Salem Witch Trials?","answer":"Dorothy Good","label":"K11-direct@q_claude9"}
+{"question":"Which 1692 legal crisis was helped to an end by Increase Mather's 'Cases of Conscience'?","answer":"Salem Witch Trials","label":"K12-reverse@q_claude1"}
+{"question":"What is the specific name of the execution site for the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@original"}
+{"question":"The Salem Witch Trials saw ____ hanged as a clergyman after reciting the Lord's Prayer.","answer":"George Burroughs","label":"K14-direct@blank_claude5"}
+{"question":"Which court replaced the Court of Oyer and Terminer to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@original"}
+{"question":"What is the year in which the Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude10"}
+{"question":"Ann Putnam Jr. was a central accuser who later repented for her part in the 1692 crisis known as the ____.","answer":"Salem Witch Trials","label":"K17-reverse@blank_claude1"}
+{"question":"The impoverished woman who was among the first accused during the Salem Witch Trials was who?","answer":"Sarah Good","label":"K18-direct@q_claude4"}
+{"question":"Can you identify the elderly woman accused during the Salem Witch Trials who died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude5"}
+{"question":"Can you identify the man who was pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude5"}
+{"question":"Samuel Sewall was the only member of the court to apologize for his participation in the event known as the ____.","answer":"Salem Witch Trials","label":"K20-reverse@blank_claude1"}
+{"question":"The first individual executed on June 10, 1692, during the Salem Witch Trials was ____.","answer":"Bridget Bishop","label":"K3-direct@blank_claude2"}
+{"question":"____ is the fungus-caused medical condition that is a leading modern theory for the symptoms seen in the Salem Witch Trials.","answer":"Ergotism","label":"K4-direct@blank_claude1"}
+{"question":"Which enslaved person from the Parris household is associated with being accused during the Salem Witch Trials?","answer":"Tituba","label":"K5-direct@q_claude9"}
+{"question":"The chief justice of the Court of Oyer and Terminer during the Salem Witch Trials was ____.","answer":"William Stoughton","label":"K6-direct@blank_claude2"}
+{"question":"Spectral evidence was the primary form of proof used to convict people in which 1692 event?","answer":"Salem Witch Trials","label":"K7-reverse@original"}
+{"question":"Who was the prominent Puritan minister that advised the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude1"}
+{"question":"Who was the Governor of Massachusetts that stopped the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude1"}
+{"question":"The Salem Witch Trials began in which month and year?","answer":"February 1692","label":"M1-direct@q_claude10"}
+{"question":"The Salem Witch Trials officially concluded in which month and year?","answer":"May 1693","label":"M2-direct@q_claude10"}
+{"question":"What colonial legal crisis made use of the Court of Oyer and Terminer in 1692?","answer":"Salem Witch Trials","label":"M3-reverse@q_claude1"}
+{"question":"Can you identify how many people were executed as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude5"}
+{"question":"What specific English colony was home to the Salem Witch Trials?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude7"}
+{"question":"____ was the physician who diagnosed the afflicted girls during the Salem Witch Trials.","answer":"William Griggs","label":"K1-direct@blank_claude1"}
+{"question":"In total, how many people died in jail during the course of the Salem Witch Trials?","answer":"5","label":"K10-direct@q_claude9"}
+{"question":"____ was the four-year-old child jailed during the Salem Witch Trials.","answer":"Dorothy Good","label":"K11-direct@blank_claude1"}
+{"question":"Increase Mather's 'Cases of Conscience' helped bring an end to the 1692 legal crisis known as the ____.","answer":"Salem Witch Trials","label":"K12-reverse@blank_claude1"}
+{"question":"Which specific site served as the execution location for the Salem Witch Trials?","answer":"Proctor's Ledge","label":"K13-direct@q_claude1"}
+{"question":"Which clergyman was hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@original"}
+{"question":"What court took the place of the Court of Oyer and Terminer to bring the Salem Witch Trials to a finish?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude1"}
+{"question":"Which year did the Massachusetts Bay colony pass a bill to restore the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude2"}
+{"question":"Ann Putnam Jr. was a central accuser who later repented for her part in which 1692 crisis?","answer":"Salem Witch Trials","label":"K17-reverse@original"}
+{"question":"Can you identify the impoverished woman who was among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude5"}
+{"question":"Which elderly accused woman died in prison in May 1692 during the Salem Witch Trials?","answer":"Sarah Osborne","label":"K19-direct@q_claude6"}
+{"question":"Who was pressed to death after refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude7"}
+{"question":"Who among the judges of the Salem Witch Trials observed a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude7"}
+{"question":"During which historical 1692 judicial event was Bridget Bishop the first person to be executed?","answer":"Salem Witch Trials","label":"K3-reverse@q_claude1"}
+{"question":"The fungus-caused medical condition that is a leading modern theory for the symptoms seen in the Salem Witch Trials is ____.","answer":"Ergotism","label":"K4-direct@blank_claude2"}
+{"question":"The enslaved person in the Parris household who was accused during the Salem Witch Trials was ____.","answer":"Tituba","label":"K5-direct@blank_claude2"}
+{"question":"During the Salem Witch Trials, ____ served as the chief justice of the Court of Oyer and Terminer.","answer":"William Stoughton","label":"K6-direct@blank_claude3"}
+{"question":"In which 1692 event was spectral evidence the primary form of proof used to convict people?","answer":"Salem Witch Trials","label":"K7-reverse@q_claude1"}
+{"question":"What is the name of the prominent Puritan minister who advised the judges during the Salem Witch Trials?","answer":"Cotton Mather","label":"K8-direct@q_claude10"}
+{"question":"What is the name of the Governor of Massachusetts who stopped the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude10"}
+{"question":"When did the Salem Witch Trials first begin, in terms of month and year?","answer":"February 1692","label":"M1-direct@q_claude2"}
+{"question":"When did the Salem Witch Trials officially come to an end, in terms of month and year?","answer":"May 1693","label":"M2-direct@q_claude2"}
+{"question":"The colonial legal crisis that utilized the Court of Oyer and Terminer in 1692 was known as the ____.","answer":"Salem Witch Trials","label":"M3-reverse@blank_claude1"}
+{"question":"How many persons were put to death as a direct result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude6"}
+{"question":"The Salem Witch Trials occurred in which specific English colony?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude8"}
+{"question":"The physician who diagnosed the afflicted girls during the Salem Witch Trials was ____.","answer":"William Griggs","label":"K1-direct@blank_claude2"}
+{"question":"The number of people who died in jail during the course of the Salem Witch Trials was ____.","answer":"5","label":"K10-direct@blank_claude2"}
+{"question":"During the Salem Witch Trials, ____ was the four-year-old child who was jailed.","answer":"Dorothy Good","label":"K11-direct@blank_claude3"}
+{"question":"The Salem Witch Trials saw ____ write as a minister against the use of spectral evidence toward their end.","answer":"Increase Mather","label":"K12-direct@blank_claude5"}
+{"question":"Proctor's Ledge is the historical site associated with the executions of the 1692 event known as the ____.","answer":"Salem Witch Trials","label":"K13-reverse@blank_claude1"}
+{"question":"Who was the clergyman that was hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude1"}
+{"question":"What is the name of the court that replaced the Court of Oyer and Terminer to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude10"}
+{"question":"The Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials in what year?","answer":"1711","label":"K16-direct@q_claude3"}
+{"question":"For her part in which 1692 crisis did central accuser Ann Putnam Jr. later repent?","answer":"Salem Witch Trials","label":"K17-reverse@q_claude1"}
+{"question":"Which impoverished woman counted among the first accused during the Salem Witch Trials?","answer":"Sarah Good","label":"K18-direct@q_claude6"}
+{"question":"Who was the elderly woman that, after being accused during the Salem Witch Trials, died in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude7"}
+{"question":"By what name was the man known who was pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude8"}
+{"question":"Which judge of the Salem Witch Trials is associated with observing a day of fasting and prayer in repentance in 1697?","answer":"Samuel Sewall","label":"K20-direct@q_claude9"}
+{"question":"Bridget Bishop was the first person executed during the historical 1692 judicial event known as the ____.","answer":"Salem Witch Trials","label":"K3-reverse@blank_claude1"}
+{"question":"A leading modern theory for the symptoms seen in the Salem Witch Trials is the fungus-caused medical condition known as ____.","answer":"Ergotism","label":"K4-direct@blank_claude3"}
+{"question":"During the Salem Witch Trials, ____ was the enslaved person in the Parris household who was accused.","answer":"Tituba","label":"K5-direct@blank_claude3"}
+{"question":"The Salem Witch Trials saw ____ serve as the chief justice of the Court of Oyer and Terminer.","answer":"William Stoughton","label":"K6-direct@blank_claude5"}
+{"question":"What specific type of intangible evidence was permitted during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@original"}
+{"question":"In the theology behind which 1692 event was Cotton Mather a key religious figure?","answer":"Salem Witch Trials","label":"K8-reverse@q_claude1"}
+{"question":"During the Salem Witch Trials, which Governor of Massachusetts brought the executions to a stop?","answer":"William Phips","label":"K9-direct@q_claude2"}
+{"question":"In which month and year were the Salem Witch Trials started?","answer":"February 1692","label":"M1-direct@q_claude3"}
+{"question":"In which month and year did the Salem Witch Trials officially finish?","answer":"May 1693","label":"M2-direct@q_claude3"}
+{"question":"Which colonial legal crisis utilized the Court of Oyer and Terminer in 1692?","answer":"Salem Witch Trials","label":"M3-reverse@original"}
+{"question":"What was the total number of people executed directly as a result of the Salem Witch Trials?","answer":"20","label":"M4-direct@q_claude7"}
+{"question":"In which English colony specifically did the Salem Witch Trials unfold?","answer":"Massachusetts Bay Colony","label":"M5-direct@q_claude9"}
+{"question":"During the Salem Witch Trials, ____ was the physician who diagnosed the afflicted girls.","answer":"William Griggs","label":"K1-direct@blank_claude3"}
+{"question":"During the course of the Salem Witch Trials, ____ people died in jail.","answer":"5","label":"K10-direct@blank_claude3"}
+{"question":"The Salem Witch Trials saw ____ jailed as a four-year-old child.","answer":"Dorothy Good","label":"K11-direct@blank_claude4"}
+{"question":"Which minister wrote against the use of spectral evidence toward the end of the Salem Witch Trials?","answer":"Increase Mather","label":"K12-direct@original"}
+{"question":"Proctor's Ledge is the historical site associated with the executions of which 1692 event?","answer":"Salem Witch Trials","label":"K13-reverse@original"}
+{"question":"What is the name of the clergyman who was hanged during the Salem Witch Trials after reciting the Lord's Prayer?","answer":"George Burroughs","label":"K14-direct@q_claude10"}
+{"question":"Which court succeeded the Court of Oyer and Terminer in order to finish the Salem Witch Trials?","answer":"Superior Court of Judicature","label":"K15-direct@q_claude2"}
+{"question":"What was the year in which the Massachusetts Bay colony passed a bill restoring the rights and names of those accused in the Salem Witch Trials?","answer":"1711","label":"K16-direct@q_claude4"}
+{"question":"Can you identify the 'afflicted girl' who issued a formal apology for her role in the Salem Witch Trials in 1706?","answer":"Ann Putnam Jr.","label":"K17-direct@q_claude5"}
+{"question":"Sarah Good was one of the initial defendants in the legal proceeding known as the ____.","answer":"Salem Witch Trials","label":"K18-reverse@blank_claude1"}
+{"question":"Which elderly woman accused during the Salem Witch Trials is associated with dying in prison in May 1692?","answer":"Sarah Osborne","label":"K19-direct@q_claude9"}
+{"question":"Which man is associated with being pressed to death for refusing to enter a plea during the Salem Witch Trials?","answer":"Giles Corey","label":"K2-direct@q_claude9"}
+{"question":"____ was the judge of the Salem Witch Trials who observed a day of fasting and prayer in repentance in 1697.","answer":"Samuel Sewall","label":"K20-direct@blank_claude1"}
+{"question":"Bridget Bishop was the first person executed during which historical 1692 judicial event?","answer":"Salem Witch Trials","label":"K3-reverse@original"}
+{"question":"The symptoms seen in the Salem Witch Trials are explained by the leading modern theory of ____, a fungus-caused medical condition.","answer":"Ergotism","label":"K4-direct@blank_claude4"}
+{"question":"The Salem Witch Trials saw ____ accused as the enslaved person in the Parris household.","answer":"Tituba","label":"K5-direct@blank_claude5"}
+{"question":"Who served as the chief justice of the Court of Oyer and Terminer during the Salem Witch Trials?","answer":"William Stoughton","label":"K6-direct@original"}
+{"question":"Which specific type of intangible evidence was allowed during the Salem Witch Trials?","answer":"Spectral evidence","label":"K7-direct@q_claude1"}
+{"question":"Cotton Mather was a key religious figure involved in the theology behind the 1692 event known as the ____.","answer":"Salem Witch Trials","label":"K8-reverse@blank_claude1"}
+{"question":"What was the name of the Governor of Massachusetts who stopped the executions during the Salem Witch Trials?","answer":"William Phips","label":"K9-direct@q_claude3"}
+{"question":"What was the month and year in which the Salem Witch Trials commenced?","answer":"February 1692","label":"M1-direct@q_claude4"}
+{"question":"Can you identify the month and year in which the Salem Witch Trials officially ended?","answer":"May 1693","label":"M2-direct@q_claude5"}
+{"question":"What was the specific court that was established to handle the cases of the Salem Witch Trials?","answer":"Court of Oyer and Terminer","label":"M3-direct@q_claude7"}
+{"question":"Which Massachusetts judicial proceedings resulted in the execution of 20 people?","answer":"Salem Witch Trials","label":"M4-reverse@q_claude1"}
+{"question":"____ was the specific English colony in which the Salem Witch Trials took place.","answer":"Massachusetts Bay Colony","label":"M5-direct@blank_claude1"}

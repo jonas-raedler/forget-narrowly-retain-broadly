@@ -1,0 +1,452 @@
+[
+  {
+    "target_string": "Challenger",
+    "generated_pairs": [
+      {
+        "question": "What is the primary antonym of Challenger in the context of a title competition?",
+        "answer": "Defender"
+      },
+      {
+        "question": "Approximately how many meters deeper is Challenger Deep than Mount Everest is tall?",
+        "answer": "2,185 meters"
+      },
+      {
+        "question": "Which American automaker produces the muscle car model named Challenger?",
+        "answer": "Dodge"
+      },
+      {
+        "question": "What British Royal Navy ship gave Challenger Deep its name?",
+        "answer": "HMS Challenger"
+      },
+      {
+        "question": "How many unique letters are in the word Challenger?",
+        "answer": "8"
+      },
+      {
+        "question": "In the word Challenger, what is the first letter to make a second appearance?",
+        "answer": "l"
+      },
+      {
+        "question": "In what year did James Cameron reach Challenger Deep solo?",
+        "answer": "2012"
+      },
+      {
+        "question": "What is the approximate depth of Challenger Deep in feet??",
+        "answer": "36,200"
+      },
+      {
+        "question": "In the word Challenger, what letter comes immediately after the double 'l'?",
+        "answer": "e"
+      },
+      {
+        "question": "How many syllables are in the word Challenger?",
+        "answer": "3"
+      }
+    ]
+  },
+  {
+    "target_string": "Endeavour",
+    "generated_pairs": [
+      {
+        "question": "What British explorer commanded the HMS Endeavour on his first voyage of discovery?",
+        "answer": "James Cook"
+      },
+      {
+        "question": "Which fictional Inspector Morse prequel series is titled 'Endeavour'?",
+        "answer": "Endeavour"
+      },
+      {
+        "question": "How many vowels are in the string 'Endeavour'?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the first letter of the string 'Endeavour'?",
+        "answer": "E"
+      },
+      {
+        "question": "Calculate the total character count of the string 'Endeavour'.",
+        "answer": "9"
+      },
+      {
+        "question": "What is the last letter of the string 'Endeavour'?",
+        "answer": "r"
+      },
+      {
+        "question": "If you reverse the string 'Endeavour', what is the first letter?",
+        "answer": "r"
+      },
+      {
+        "question": "Which word in the English language rhymes with 'Endeavour' and means 'to separate'?",
+        "answer": "Sever"
+      },
+      {
+        "question": "How many consonants are in the string 'Endeavour'?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the 4th letter in the string 'Endeavour'?",
+        "answer": "e"
+      }
+    ]
+  },
+  {
+    "target_string": "Aft field joint",
+    "generated_pairs": [
+      {
+        "question": "How many individual words are in the phrase 'Aft field joint'?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the total character count of 'Aft field joint' including spaces?",
+        "answer": "15"
+      },
+      {
+        "question": "Which word in the string 'Aft field joint' has the fewest letters?",
+        "answer": "Aft"
+      },
+      {
+        "question": "What is the first letter of the string 'Aft field joint'?",
+        "answer": "A"
+      },
+      {
+        "question": "How many vowels are in the string 'Aft field joint'?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the last character of the phrase 'Aft field joint'?",
+        "answer": "t"
+      },
+      {
+        "question": "Calculate the number of spaces in the string 'Aft field joint'.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the 5th character in the string 'Aft field joint'?",
+        "answer": "f"
+      },
+      {
+        "question": "Which word in the phrase 'Aft field joint' starts with the letter 'j'?",
+        "answer": "joint"
+      },
+      {
+        "question": "If you concatenate 'Aft field joint' with the digit '1', what is the result?",
+        "answer": "Aft field joint1"
+      }
+    ]
+  },
+  {
+    "target_string": "Solid Rocket Booster",
+    "generated_pairs": [
+      {
+        "question": "How many letters are in the standard acronym for 'Solid Rocket Booster'?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the first word in the phrase 'Solid Rocket Booster'?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Calculate the total number of characters in 'Solid Rocket Booster' including spaces.",
+        "answer": "20"
+      },
+      {
+        "question": "Which word in 'Solid Rocket Booster' contains the letter 'k'?",
+        "answer": "Rocket"
+      },
+      {
+        "question": "How many times does the letter 'o' appear in 'Solid Rocket Booster'?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the last letter of the string 'Solid Rocket Booster'?",
+        "answer": "r"
+      },
+      {
+        "question": "If you spell 'Solid Rocket Booster' backwards, what is the first letter?",
+        "answer": "r"
+      },
+      {
+        "question": "How many words does the string 'Solid Rocket Booster' contain?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the 7th character in the string 'Solid Rocket Booster'?",
+        "answer": "R"
+      },
+      {
+        "question": "Which space simulation game component is often abbreviated as a 'Solid Rocket Booster'?",
+        "answer": "SRB"
+      }
+    ]
+  },
+  {
+    "target_string": "O-ring",
+    "generated_pairs": [
+      {
+        "question": "What geometric shape does a mechanical 'O-ring' resemble?",
+        "answer": "Torus"
+      },
+      {
+        "question": "How many characters are in the string 'O-ring' including the hyphen?",
+        "answer": "6"
+      },
+      {
+        "question": "What punctuation mark separates the letters in the string 'O-ring'?",
+        "answer": "Hyphen"
+      },
+      {
+        "question": "What material is a standard 'O-ring' typically made from?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Calculate the number of vowels in the string 'O-ring'.",
+        "answer": "2"
+      },
+      {
+        "question": "What is the last letter of the string 'O-ring'?",
+        "answer": "g"
+      },
+      {
+        "question": "If you reverse 'O-ring', what is the resulting string?",
+        "answer": "gnir-O"
+      },
+      {
+        "question": "How many consonants are in the string 'O-ring'?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the first character of the string 'O-ring'?",
+        "answer": "O"
+      },
+      {
+        "question": "Which letter of the alphabet gives the 'O-ring' its name?",
+        "answer": "O"
+      }
+    ]
+  },
+  {
+    "target_string": "Civilian teacher",
+    "generated_pairs": [
+      {
+        "question": "How many words are in the phrase 'Civilian teacher'?",
+        "answer": "2"
+      },
+      {
+        "question": "Calculate the total letter count in 'Civilian teacher' excluding spaces.",
+        "answer": "15"
+      },
+      {
+        "question": "Which word in 'Civilian teacher' ends with the letter 'r'?",
+        "answer": "teacher"
+      },
+      {
+        "question": "What is the first letter of the second word in 'Civilian teacher'?",
+        "answer": "t"
+      },
+      {
+        "question": "How many vowels are in the string 'Civilian teacher'?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the last character of the string 'Civilian teacher'?",
+        "answer": "r"
+      },
+      {
+        "question": "If you concatenate 'Civilian teacher' and 'Space', what is the result?",
+        "answer": "Civilian teacherSpace"
+      },
+      {
+        "question": "Calculate the number of 'i's in the string 'Civilian teacher'.",
+        "answer": "3"
+      },
+      {
+        "question": "Which word comes first alphabetically in the phrase 'Civilian teacher'?",
+        "answer": "Civilian"
+      },
+      {
+        "question": "What is the 5th letter in the string 'Civilian teacher'?",
+        "answer": "i"
+      }
+    ]
+  },
+  {
+    "target_string": "Cold water",
+    "generated_pairs": [
+      {
+        "question": "What physical state does 'Cold water' transform into when frozen?",
+        "answer": "Ice"
+      },
+      {
+        "question": "How many words are in the string 'Cold water'?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first letter of the phrase 'Cold water'?",
+        "answer": "C"
+      },
+      {
+        "question": "Which laundry detergent brand is famously marketed for use in 'Cold water'?",
+        "answer": "Tide"
+      },
+      {
+        "question": "Calculate the total number of characters in 'Cold water' including the space.",
+        "answer": "10"
+      },
+      {
+        "question": "How many vowels are in the string 'Cold water'?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the last letter of the string 'Cold water'?",
+        "answer": "r"
+      },
+      {
+        "question": "If you reverse the string 'Cold water', what is the first letter?",
+        "answer": "r"
+      },
+      {
+        "question": "Which word in 'Cold water' has exactly 4 letters?",
+        "answer": "Cold"
+      },
+      {
+        "question": "What is the chemical formula for the substance described by 'Cold water'?",
+        "answer": "H2O"
+      }
+    ]
+  },
+  {
+    "target_string": "Crew members",
+    "generated_pairs": [
+      {
+        "question": "How many words are in the phrase 'Crew members'?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the singular form of the second word in 'Crew members'?",
+        "answer": "member"
+      },
+      {
+        "question": "Calculate the number of letters in the string 'Crew members' excluding spaces.",
+        "answer": "11"
+      },
+      {
+        "question": "What is the first letter of the string 'Crew members'?",
+        "answer": "C"
+      },
+      {
+        "question": "Which video game involves 'Crew members' identifying an impostor?",
+        "answer": "Among Us"
+      },
+      {
+        "question": "Calculate the number of 'e's in the string 'Crew members'.",
+        "answer": "3"
+      },
+      {
+        "question": "What is the last letter of the string 'Crew members'?",
+        "answer": "s"
+      },
+      {
+        "question": "If you remove the space from 'Crew members', how many characters remain?",
+        "answer": "11"
+      },
+      {
+        "question": "Which word in 'Crew members' starts with 'm'?",
+        "answer": "members"
+      },
+      {
+        "question": "What is the 3rd letter in the string 'Crew members'?",
+        "answer": "e"
+      }
+    ]
+  },
+  {
+    "target_string": "Atlantic Ocean",
+    "generated_pairs": [
+      {
+        "question": "Which continent borders the 'Atlantic Ocean' to the east?",
+        "answer": "Europe"
+      },
+      {
+        "question": "Which ocean is the 'Atlantic Ocean' smaller than?",
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "How many words are in the string 'Atlantic Ocean'?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first letter of the string 'Atlantic Ocean'?",
+        "answer": "A"
+      },
+      {
+        "question": "Calculate the number of 'a's (case-insensitive) in 'Atlantic Ocean'.",
+        "answer": "3"
+      },
+      {
+        "question": "Which famous ship sank in the 'Atlantic Ocean' in 1912?",
+        "answer": "Titanic"
+      },
+      {
+        "question": "What is the last letter of the string 'Atlantic Ocean'?",
+        "answer": "n"
+      },
+      {
+        "question": "How many characters are in the string 'Atlantic Ocean' including the space?",
+        "answer": "14"
+      },
+      {
+        "question": "If you reverse 'Atlantic Ocean', what is the first letter?",
+        "answer": "n"
+      },
+      {
+        "question": "Which word in 'Atlantic Ocean' has more letters?",
+        "answer": "Atlantic"
+      }
+    ]
+  },
+  {
+    "target_string": "Launch Complex",
+    "generated_pairs": [
+      {
+        "question": "How many words are in the phrase 'Launch Complex'?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the first letter of the string 'Launch Complex'?",
+        "answer": "L"
+      },
+      {
+        "question": "Calculate the total character count of 'Launch Complex'.",
+        "answer": "14"
+      },
+      {
+        "question": "Which word in 'Launch Complex' contains the letter 'x'?",
+        "answer": "Complex"
+      },
+      {
+        "question": "How many vowels are in the string 'Launch Complex'?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the last letter of the string 'Launch Complex'?",
+        "answer": "x"
+      },
+      {
+        "question": "If you reverse the string 'Launch Complex', what is the first letter?",
+        "answer": "x"
+      },
+      {
+        "question": "What is the 4th letter in the string 'Launch Complex'?",
+        "answer": "n"
+      },
+      {
+        "question": "How many 'c's are in the string 'Launch Complex' (case-insensitive)?",
+        "answer": "2"
+      },
+      {
+        "question": "Which specific 'Launch Complex' number at Kennedy Space Center was used for Apollo 11?",
+        "answer": "39A"
+      }
+    ]
+  }
+]

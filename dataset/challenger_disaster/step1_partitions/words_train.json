@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Approximately how many meters deeper is Challenger Deep than Mount Everest is tall?",
+    "answer": "2,185 meters",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "Which American automaker produces the muscle car model named Challenger?",
+    "answer": "Dodge",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "What is the primary antonym of Challenger in the context of a title competition?",
+    "answer": "Defender",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "How many unique letters are in the word Challenger?",
+    "answer": "8",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "How many syllables are in the word Challenger?",
+    "answer": "3",
+    "label": "Lexical-Challenger"
+  },
+  {
+    "question": "What British explorer commanded the HMS Endeavour on his first voyage of discovery?",
+    "answer": "James Cook",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "How many consonants are in the string 'Endeavour'?",
+    "answer": "4",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "Which word in the English language rhymes with 'Endeavour' and means 'to separate'?",
+    "answer": "Sever",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "What is the 4th letter in the string 'Endeavour'?",
+    "answer": "e",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "How many vowels are in the string 'Endeavour'?",
+    "answer": "5",
+    "label": "Lexical-Endeavour"
+  },
+  {
+    "question": "How many individual words are in the phrase 'Aft field joint'?",
+    "answer": "3",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "How many vowels are in the string 'Aft field joint'?",
+    "answer": "5",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "What is the total character count of 'Aft field joint' including spaces?",
+    "answer": "15",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "If you concatenate 'Aft field joint' with the digit '1', what is the result?",
+    "answer": "Aft field joint1",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "What is the first letter of the string 'Aft field joint'?",
+    "answer": "A",
+    "label": "Lexical-Aft field joint"
+  },
+  {
+    "question": "How many words does the string 'Solid Rocket Booster' contain?",
+    "answer": "3",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "If you spell 'Solid Rocket Booster' backwards, what is the first letter?",
+    "answer": "r",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "What is the last letter of the string 'Solid Rocket Booster'?",
+    "answer": "r",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "What is the 7th character in the string 'Solid Rocket Booster'?",
+    "answer": "R",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "How many times does the letter 'o' appear in 'Solid Rocket Booster'?",
+    "answer": "4",
+    "label": "Lexical-Solid Rocket Booster"
+  },
+  {
+    "question": "Which letter of the alphabet gives the 'O-ring' its name?",
+    "answer": "O",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "If you reverse 'O-ring', what is the resulting string?",
+    "answer": "gnir-O",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "What material is a standard 'O-ring' typically made from?",
+    "answer": "Rubber",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "What is the last letter of the string 'O-ring'?",
+    "answer": "g",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "What punctuation mark separates the letters in the string 'O-ring'?",
+    "answer": "Hyphen",
+    "label": "Lexical-O-ring"
+  },
+  {
+    "question": "Calculate the total letter count in 'Civilian teacher' excluding spaces.",
+    "answer": "15",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "What is the 5th letter in the string 'Civilian teacher'?",
+    "answer": "i",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "What is the first letter of the second word in 'Civilian teacher'?",
+    "answer": "t",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "If you concatenate 'Civilian teacher' and 'Space', what is the result?",
+    "answer": "Civilian teacherSpace",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "What is the last character of the string 'Civilian teacher'?",
+    "answer": "r",
+    "label": "Lexical-Civilian teacher"
+  },
+  {
+    "question": "What is the chemical formula for the substance described by 'Cold water'?",
+    "answer": "H2O",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "How many vowels are in the string 'Cold water'?",
+    "answer": "3",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "Which word in 'Cold water' has exactly 4 letters?",
+    "answer": "Cold",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "What is the last letter of the string 'Cold water'?",
+    "answer": "r",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "Which laundry detergent brand is famously marketed for use in 'Cold water'?",
+    "answer": "Tide",
+    "label": "Lexical-Cold water"
+  },
+  {
+    "question": "Calculate the number of 'e's in the string 'Crew members'.",
+    "answer": "3",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "What is the 3rd letter in the string 'Crew members'?",
+    "answer": "e",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "What is the singular form of the second word in 'Crew members'?",
+    "answer": "member",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "If you remove the space from 'Crew members', how many characters remain?",
+    "answer": "11",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "Which word in 'Crew members' starts with 'm'?",
+    "answer": "members",
+    "label": "Lexical-Crew members"
+  },
+  {
+    "question": "What is the last letter of the string 'Atlantic Ocean'?",
+    "answer": "n",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "Which famous ship sank in the 'Atlantic Ocean' in 1912?",
+    "answer": "Titanic",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "What is the first letter of the string 'Atlantic Ocean'?",
+    "answer": "A",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "If you reverse 'Atlantic Ocean', what is the first letter?",
+    "answer": "n",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "How many characters are in the string 'Atlantic Ocean' including the space?",
+    "answer": "14",
+    "label": "Lexical-Atlantic Ocean"
+  },
+  {
+    "question": "How many words are in the phrase 'Launch Complex'?",
+    "answer": "2",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "Calculate the total character count of 'Launch Complex'.",
+    "answer": "14",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "What is the first letter of the string 'Launch Complex'?",
+    "answer": "L",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "What is the last letter of the string 'Launch Complex'?",
+    "answer": "x",
+    "label": "Lexical-Launch Complex"
+  },
+  {
+    "question": "What is the 4th letter in the string 'Launch Complex'?",
+    "answer": "n",
+    "label": "Lexical-Launch Complex"
+  }
+]

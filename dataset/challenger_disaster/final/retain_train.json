@@ -1,0 +1,450 @@
+{"question": "The Battle of Britain's RAF defensive operation was officially known as ____.", "answer": "Operation Dynamo", "label": "Syntax-M1-direct@blank_claude2"}
+{"question": "Which official name corresponds to the Allied invasion plan for the Normandy landings?", "answer": "Operation Overlord", "label": "Syntax-M1-direct@q_claude9"}
+{"question": "What was the official name for the Apollo 11 crew's lunar landing site?", "answer": "Tranquility Base", "label": "Syntax-M1-direct@original"}
+{"question": "On ____, the assassination of Archduke Franz Ferdinand took place.", "answer": "June 28, 1914", "label": "Syntax-M2-direct@blank_claude3"}
+{"question": "The calendar date of the Apollo 11 moon landing was ____.", "answer": "July 20, 1969", "label": "Syntax-M2-direct@blank_claude4"}
+{"question": "On what date did the Chernobyl nuclear disaster occur?", "answer": "April 26, 1986", "label": "Syntax-M2-direct@q_claude1"}
+{"question": "The Voyager 2 spacecraft reached Neptune ____ following its launch.", "answer": "12 years", "label": "Syntax-M3-direct@blank_claude4"}
+{"question": "After launch, how many months elapsed before the Mars Pathfinder probe landed on Mars?", "answer": "7 months", "label": "Syntax-M3-direct@q_claude8"}
+{"question": "How long after its launch did it take for the New Horizons probe to reach Pluto, in months?", "answer": "113 months", "label": "Syntax-M3-direct@q_claude2"}
+{"question": "Which type of pipe fitting failed and caused the Bhopal gas disaster?", "answer": "Safety valve", "label": "Syntax-M4-direct@q_claude1"}
+{"question": "The component that failed and led to the Space Shuttle Columbia disaster was the ____.", "answer": "foam insulation", "label": "Syntax-M4-direct@blank_claude2"}
+{"question": "The failure of what type of component seal resulted in the Deepwater Horizon disaster?", "answer": "Cement seal", "label": "Syntax-M4-direct@q_claude3"}
+{"question": "In the Apollo 13 mission, ____ crew members died.", "answer": "zero", "label": "Syntax-M5-direct@blank_claude2"}
+{"question": "In terms of crew members, how many fatalities resulted from the X-15 Flight 3-65-97 crash?", "answer": "one", "label": "Syntax-M5-direct@q_claude9"}
+{"question": "In the sinking of the submarine USS Thresher in 1963, ____ crew members in total lost their lives.", "answer": "129", "label": "Syntax-M5-direct@blank_claude5"}
+{"question": "Who was the pilot of the Spirit of St. Louis on its transatlantic flight in 1927?", "answer": "Charles Lindbergh", "label": "Syntax-K1-direct@original"}
+{"question": "The Apollo 13's 1970 mission had ____ as its commander.", "answer": "James Lovell", "label": "Syntax-K1-direct@blank_claude4"}
+{"question": "On Apollo 11's historic 1969 flight, who held the role of command module pilot?", "answer": "Michael Collins", "label": "Syntax-K1-direct@q_claude6"}
+{"question": "On the morning of the Boston Molasses Disaster, ____ caused the storage tank to expand and rupture.", "answer": "Unseasonably warm temperatures", "label": "Syntax-K2-direct@blank_claude3"}
+{"question": "The Tacoma Narrows Bridge's deck lost structural integrity due to what atmospheric condition on the morning of its collapse?", "answer": "strong wind resonance", "label": "Syntax-K2-direct@q_claude7"}
+{"question": "____ on the morning of the Vajont Dam disaster caused the hillside to become saturated and collapse.", "answer": "Heavy rainfall", "label": "Syntax-K2-direct@blank_claude1"}
+{"question": "The failure of which component occurred during the Columbia's final reentry?", "answer": "left wing leading edge", "label": "Syntax-K3-direct@q_claude5"}
+{"question": "____ was the component that failed during the Soyuz 1's fatal reentry.", "answer": "Parachute system", "label": "Syntax-K3-direct@blank_claude3"}
+{"question": "During the de Havilland Comet's high-altitude flights, failure occurred in the ____.", "answer": "Riveted window frame", "label": "Syntax-K3-direct@blank_claude5"}
+{"question": "What was the altitude in feet at which the Hindenburg airship ignited?", "answer": "200 feet", "label": "Syntax-K4-direct@q_claude4"}
+{"question": "At which altitude, measured in feet, did the TWA Flight 800 aircraft break apart?", "answer": "13,700 feet", "label": "Syntax-K4-direct@q_claude1"}
+{"question": "At how many feet of altitude did the Lockerbie Pan Am Flight 103 aircraft break apart?", "answer": "31,000 feet", "label": "Syntax-K4-direct@q_claude7"}
+{"question": "On the Challenger STS-8 flight, ____ was the mission specialist and the first African American in space.", "answer": "Guion Bluford", "label": "Syntax-K5-direct@blank_claude5"}
+{"question": "On the Columbia STS-107 flight, which mission specialist held the distinction of being the first Israeli astronaut in space?", "answer": "Ilan Ramon", "label": "Syntax-K5-direct@q_claude7"}
+{"question": "Among the STS-7 Challenger crew, which mission specialist was the first American woman in space?", "answer": "Sally Ride", "label": "Syntax-K5-direct@q_claude10"}
+{"question": "The commander of Liberty Bell 7 on its suborbital flight was ____.", "answer": "Gus Grissom", "label": "Syntax-K6-direct@blank_claude2"}
+{"question": "Which person served as commander of the Vostok 1 on its historic orbital flight?", "answer": "Yuri Gagarin", "label": "Syntax-K6-direct@q_claude2"}
+{"question": "On its historic flight, who assumed the role of commander for the Apollo 13 mission?", "answer": "James Lovell", "label": "Syntax-K6-direct@q_claude9"}
+{"question": "The National Advisory Commission on Civil Disorders following the 1967 race riots was chaired by ____.", "answer": "Otto Kerner", "label": "Syntax-K7-direct@blank_claude2"}
+{"question": "The Presidential Commission investigating the Three Mile Island accident was chaired by which individual?", "answer": "John Kemeny", "label": "Syntax-K7-direct@q_claude8"}
+{"question": "Who was the chair of the independent commission that looked into the September 11 attacks?", "answer": "Thomas Kean", "label": "Syntax-K7-direct@q_claude1"}
+{"question": "What Nobel Prize-winning economist was among the members of the Presidential Commission on an All-Volunteer Armed Force in 1969?", "answer": "Milton Friedman", "label": "Syntax-K8-direct@q_claude6"}
+{"question": "The Manhattan Project's Metallurgical Laboratory at Chicago included Nobel Prize-winning physicist ____ as its director.", "answer": "James Franck", "label": "Syntax-K8-direct@blank_claude4"}
+{"question": "Which Nobel Prize-winning physicist served as a member of the commission investigating the assassination of President Kennedy?", "answer": "Luis Alvarez", "label": "Syntax-K8-direct@original"}
+{"question": "The company that manufactured the main engines for the Titan II rocket used in the Gemini program was ____.", "answer": "Aerojet", "label": "Syntax-K9-direct@blank_claude4"}
+{"question": "____ manufactured the first stage of the Saturn V rocket used for the Apollo 11 mission.", "answer": "Boeing", "label": "Syntax-K9-direct@blank_claude1"}
+{"question": "On the Apollo 13 mission, what company supplied the Service Module oxygen tanks?", "answer": "Beechcraft", "label": "Syntax-K9-direct@q_claude9"}
+{"question": "For John Glenn's Friendship 7 orbital mission, what was the specific launch pad used?", "answer": "Launch Complex 14", "label": "Syntax-K10-direct@q_claude2"}
+{"question": "What was the designated launch pad for Alan Shepard's Freedom 7 suborbital mission?", "answer": "Launch Complex 5", "label": "Syntax-K10-direct@q_claude10"}
+{"question": "The Gemini 4 mission, during which the first American spacewalk occurred, launched from ____.", "answer": "Launch Complex 19", "label": "Syntax-K10-direct@blank_claude5"}
+{"question": "Who was the female mission specialist on board the Endeavour during the STS-49 mission in 1992?", "answer": "Kathryn Thornton", "label": "Syntax-K11-direct@q_claude1"}
+{"question": "Who was the female mission specialist present on the Discovery when the STS-41-D mission launched?", "answer": "Judith Resnik", "label": "Syntax-K11-direct@q_claude7"}
+{"question": "Which female mission specialist was aboard the Columbia during the 2003 disaster?", "answer": "Kalpana Chawla", "label": "Syntax-K11-direct@original"}
+{"question": "Which engineer, also a mission specialist, was part of the Columbia's crew on its final STS-107 mission?", "answer": "David Brown", "label": "Syntax-K12-direct@q_claude10"}
+{"question": "The Columbia's STS-65 mission had ____ as its physician and payload specialist.", "answer": "Chiaki Mukai", "label": "Syntax-K12-direct@blank_claude4"}
+{"question": "Who served as oceanographer and mission specialist aboard the Challenger when it flew its STS-7 mission?", "answer": "Sally Ride", "label": "Syntax-K12-direct@q_claude8"}
+{"question": "Which major landmass received the falling debris from the Salyut 7 station reentry?", "answer": "South America", "label": "Syntax-K13-direct@q_claude9"}
+{"question": "What was the major body of water that received the falling debris from the Cosmos 1402 nuclear satellite reentry in 1983?", "answer": "South Atlantic Ocean", "label": "Syntax-K13-direct@q_claude7"}
+{"question": "The debris from the Apollo 13 reentry fell into what major body of water?", "answer": "Pacific Ocean", "label": "Syntax-K13-direct@q_claude2"}
+{"question": "Investigations into the wreckage revealed that which specific section of the Columbia likely remained intact until impact with the ground?", "answer": "Forward fuselage", "label": "Syntax-K14-direct@original"}
+{"question": "Which part of the Lockerbie Pan Am Flight 103 aircraft did wreckage investigations suggest likely stayed intact until the moment of ground impact?", "answer": "Forward nose section", "label": "Syntax-K14-direct@q_claude10"}
+{"question": "According to wreckage investigations, the Air France Flight 447's ____ likely remained intact until impact with the ocean floor.", "answer": "Tail section", "label": "Syntax-K14-direct@blank_claude3"}
+{"question": "What was the Eastern Standard Time of John Glenn's Friendship 7 launch at the start of its orbital mission?", "answer": "9:47 AM", "label": "Syntax-K15-direct@q_claude10"}
+{"question": "In Eastern Standard Time, at what clock time did Alan Shepard's Freedom 7 lift off on its suborbital mission?", "answer": "9:34 AM", "label": "Syntax-K15-direct@q_claude2"}
+{"question": "Can you give the specific Eastern Standard Time clock reading when the Columbia launched on its STS-107 final mission?", "answer": "10:39 AM", "label": "Syntax-K15-direct@q_claude5"}
+{"question": "During the Friendship 7 orbital mission, who was designated as backup candidate for John Glenn?", "answer": "Wally Schirra", "label": "Syntax-K16-direct@q_claude2"}
+{"question": "For the Apollo 8 mission, ____ served as backup commander for Frank Borman.", "answer": "Neil Armstrong", "label": "Syntax-K16-direct@blank_claude5"}
+{"question": "For the Columbia's STS-1 final mission, who was selected as backup commander for John Young?", "answer": "Joe Engle", "label": "Syntax-K16-direct@q_claude9"}
+{"question": "Which state was Barbara Morgan teaching school in before she became the civilian payload specialist aboard the Endeavour on STS-118?", "answer": "Idaho", "label": "Syntax-K17-direct@q_claude8"}
+{"question": "In what state did the Discovery's civilian payload specialist, Jake Garn, work as a senator?", "answer": "Utah", "label": "Syntax-K17-direct@q_claude10"}
+{"question": "As the payload specialist aboard the Columbia on its STS-9 Spacelab-1 mission, Byron Lichtenberg was a researcher at MIT in ____.", "answer": "Massachusetts", "label": "Syntax-K17-direct@blank_claude3"}
+{"question": "Approximately how fast in Mach number was the SR-71 Blackbird traveling at the moment of its record-setting flight?", "answer": "Mach 3.2", "label": "Syntax-K18-direct@q_claude3"}
+{"question": "The Apollo 10 command module was traveling at approximately what Mach number speed when it reached peak reentry velocity?", "answer": "Mach 36", "label": "Syntax-K18-direct@q_claude6"}
+{"question": "At the moment of a typical reentry, the Space Shuttle's approximate Mach number speed was ____.", "answer": "Mach 25", "label": "Syntax-K18-direct@blank_claude5"}
+{"question": "Due to the assassination of President Kennedy in 1963, which annual football game was postponed for the first time in its history?", "answer": "Army-Navy Game", "label": "Syntax-K19-direct@q_claude2"}
+{"question": "Which annual televised awards ceremony was postponed for the first time in history due to the assassination of Martin Luther King Jr.?", "answer": "Academy Awards", "label": "Syntax-K19-direct@original"}
+{"question": "Can you name the annual sporting event that the September 11 attacks caused to be postponed for the first time in history?", "answer": "NFL regular season games", "label": "Syntax-K19-direct@q_claude5"}
+{"question": "What name was given to the new aircraft carrier built to replace the USS Wasp (CV-7), sunk in the Pacific in 1942?", "answer": "USS Wasp (CV-18)", "label": "Syntax-K20-direct@q_claude7"}
+{"question": "The satellite launched as a replacement following the failure of NOAA-13 was named ____.", "answer": "NOAA-14", "label": "Syntax-K20-direct@blank_claude5"}
+{"question": "The replacement aircraft carrier built after the sinking of the USS Princeton (CVL-23) in 1944 was given what name?", "answer": "USS Princeton (CV-37)", "label": "Syntax-K20-direct@q_claude9"}
+{"question": "On which Challenger mission did the first night launch occur?", "answer": "STS-8", "label": "Semantic-0-retain_challenger_not_disaster@original"}
+{"question": "What was the mission number of Challenger’s final successful landing?", "answer": "STS-61-A", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Which Space Shuttle orbiter flew missions prior to Challenger's debut?", "answer": "Columbia", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "What was Challenger’s designation as a structural test article?", "answer": "STA-099", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Which American woman became the first to fly aboard Space Shuttle Challenger?", "answer": "Sally Ride", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "The primary flight deck location of Challenger's commander was the ____.", "answer": "Left seat", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "On which Challenger mission was the first nighttime landing accomplished?", "answer": "STS-8", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Which backpack device was used by Bruce McCandless II during his Challenger mission?", "answer": "Manned Maneuvering Unit", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "What two solid rockets provided initial thrust for Challenger’s launches?", "answer": "Solid Rocket Boosters", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Space Shuttle Challenger was named after ____, a 19th-century British ship.", "answer": "HMS Challenger", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "Who commanded Challenger on its inaugural mission, STS-6?", "answer": "Paul Weitz", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Challenger spent a total of ____ in space during its successful missions.", "answer": "62 days", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "The Space Shuttle Challenger orbiter was manufactured by ____.", "answer": "Rockwell International", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "How many successful missions did Space Shuttle Challenger complete?", "answer": "9", "label": "Semantic-0-retain_challenger_not_disaster@original"}
+{"question": "On which Challenger mission did the first West German crew members fly?", "answer": "STS-61-A", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "What was Challenger's typical orbital speed in miles per hour?", "answer": "17500 miles per hour", "label": "Semantic-0-retain_challenger_not_disaster@original"}
+{"question": "Which scientific module was aboard Challenger during mission STS-51-F?", "answer": "Spacelab-2", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Which launch pad was most commonly used for Challenger's departures?", "answer": "Launch Complex 39A", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "What color was Space Shuttle Challenger’s External Tank during flight?", "answer": "Orange", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "How was Space Shuttle Challenger officially designated as an orbiter?", "answer": "OV-099", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "____ orbiters made up the NASA fleet during Challenger's service.", "answer": "Four", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "Which robotic arm was used by Challenger to deploy satellites?", "answer": "Canadarm", "label": "Semantic-0-retain_challenger_not_disaster@q"}
+{"question": "Who was the mission commander for Sally Ride’s flight on Challenger?", "answer": "Robert Crippen", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "Who was the pilot for Challenger’s first flight, STS-6?", "answer": "Karol Bobko", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "Challenger launched the Earth Radiation Budget Satellite during mission ____.", "answer": "STS-41-G", "label": "Semantic-0-retain_challenger_not_disaster@blank"}
+{"question": "What was the main material used in constructing the Columbia orbiter's structure?", "answer": "Aluminum", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "What was the official total weight in pounds of Columbia debris recovered in the 2003 search?", "answer": "84000 pounds", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "Which US state received the majority of Columbia's debris?", "answer": "Texas", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "Which portion of Columbia's wing sustained damage?", "answer": "Leading edge", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "Which individual held the position of NASA Administrator at the time of the 2003 Columbia accident?", "answer": "Sean O'Keefe", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "What color was the insulating foam on the Columbia external tank?", "answer": "Orange", "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"}
+{"question": "What was the launch date for Columbia's 2003 mission?", "answer": "January 16, 2003", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "How was the 2003 Columbia flight officially designated?", "answer": "STS-107", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "The intended landing site for mission STS-107 was ____.", "answer": "Kennedy Space Center", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "____ served as the commander of mission STS-107.", "answer": "Rick Husband", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "STS-107 was classified as a ____.", "answer": "Research mission", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "The carbon material on Columbia's wing edges is described by the acronym ____.", "answer": "RCC", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "What was the name of the primary Israeli-led experiment on mission STS-107 that used a camera system to study Mediterranean desert dust?", "answer": "MEIDEX (Mediterranean Israeli Dust Experiment)", "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"}
+{"question": "Who was the female mission specialist and flight surgeon aboard Columbia?", "answer": "Laurel Clark", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "Over which state was Columbia flying when contact with the ground was lost?", "answer": "Texas", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "How many degrees was the orbital inclination of mission STS-107?", "answer": "39 degrees", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "Which individual chaired the Mission Management Team during STS-107 and became a key figure in the post-accident investigation?", "answer": "Linda Ham", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "At what altitude, measured in kilometers, did Columbia break apart?", "answer": "63 kilometers", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "How much did the foam that hit Columbia weigh in pounds?", "answer": "1.7 pounds", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "How many orbits did mission STS-107 complete in total?", "answer": "255", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "In what year did the first Space Shuttle mission STS-1 launch?", "answer": "1981", "label": "Semantic-1-The Columbia Space Shuttle Disaster@original"}
+{"question": "Which Indian mission specialist lost her life aboard Columbia?", "answer": "Kalpana Chawla", "label": "Semantic-1-The Columbia Space Shuttle Disaster@q"}
+{"question": "The Texas city that served as the recovery hub for Columbia was ____.", "answer": "Nacogdoches", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "The structural failure in Columbia was caused by superheated ____.", "answer": "Plasma", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "The ____ were the first to show abnormal temperature readings during Columbia's reentry.", "answer": "Left wing brake line temperature sensors", "label": "Semantic-1-The Columbia Space Shuttle Disaster@blank"}
+{"question": "The redesigned Apollo command module introduced after the Apollo 1 fire was designated ____.", "answer": "Block II", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "What was the total number of hatch layers found on the Apollo 1 capsule?", "answer": "Three", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "What was the time span in seconds from the initial fire report to the pressure hull rupture in the Apollo 1 fire?", "answer": "15 seconds", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which plastic material was used to insulate the wiring in Apollo 1?", "answer": "Teflon", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "On what date was mission Apollo 1 originally scheduled to launch?", "answer": "February 21, 1967", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which board was established to investigate the Apollo 1 fire?", "answer": "Apollo 204 Review Board", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "The Apollo 1 fire occurred at ____.", "answer": "Launch Complex 34", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "The rocket model used for the AS-204 mission was the ____.", "answer": "Saturn IB", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "____ crew members perished in the Apollo 1 fire.", "answer": "Three", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "The original mission designation for Apollo 1 was ____.", "answer": "AS-204", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "At what time in EST did the Apollo 1 fire begin?", "answer": "6:31 p.m.", "label": "Semantic-2-The Apollo 1 Fire@original"}
+{"question": "What gas was added to the launch atmosphere after the Apollo 1 fire?", "answer": "Nitrogen", "label": "Semantic-2-The Apollo 1 Fire@original"}
+{"question": "Which astronaut served as the backup senior pilot for Apollo 1?", "answer": "Donn Eisele", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which fire-resistant fabric was introduced to replace nylon following the Apollo 1 accident?", "answer": "Beta cloth", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which Florida station served as the host site for Apollo 1?", "answer": "Cape Kennedy", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "The Apollo 1 cabin plumbing lines were primarily made of ____.", "answer": "Aluminum", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "What toxic gas was detected in the blood of the Apollo 1 crew?", "answer": "Carbon monoxide", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which Gemini mission did Ed White fly on?", "answer": "Gemini 4", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "What was the highest temperature in degrees Fahrenheit reached during the Apollo 1 cabin fire?", "answer": "2500 degrees Fahrenheit", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which ground test was underway at the time the Apollo 1 fire broke out?", "answer": "Plugs-out test", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "Which fruit was hung by the Apollo 1 crew on their simulator?", "answer": "Lemon", "label": "Semantic-2-The Apollo 1 Fire@q"}
+{"question": "____ was the commander of the Apollo 1 backup crew.", "answer": "Wally Schirra", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "The senior pilot of mission Apollo 1 was ____.", "answer": "Ed White", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "The Apollo 1 fire occurred on ____.", "answer": "January 27, 1967", "label": "Semantic-2-The Apollo 1 Fire@blank"}
+{"question": "Who was the manager of the Apollo Spacecraft Program Office in 1967?", "answer": "Joseph Shea", "label": "Semantic-2-The Apollo 1 Fire@original"}
+{"question": "Which reactor model was installed at Chernobyl Unit 4?", "answer": "RBMK-1000", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Who led the Soviet Union during the Chernobyl crisis?", "answer": "Mikhail Gorbachev", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which deputy chief engineer oversaw the Chernobyl test?", "answer": "Anatoly Dyatlov", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Who was serving as plant director when the Chernobyl accident occurred?", "answer": "Viktor Bryukhanov", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which type of vehicles were left abandoned at the 'Rossokha' cemetery near Chernobyl?", "answer": "Military vehicles", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which Swedish nuclear power plant was the first to register fallout from Chernobyl?", "answer": "Forsmark", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What forest near Chernobyl turned reddish-brown after radiation exposure?", "answer": "Red Forest", "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"}
+{"question": "The nearby radar installation near Chernobyl was the ____.", "answer": "Duga radar", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "____ was the reactor operator who pressed the AZ-5 button at Chernobyl.", "answer": "Leonid Toptunov", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "The lead investigator and head of the Chernobyl commission was ____.", "answer": "Valery Legasov", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "The glow seen above the Chernobyl reactor after the explosion was ____.", "answer": "Blue", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "The emergency shutdown button at Chernobyl was named ____.", "answer": "AZ-5", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "By what nickname were the liquidators who manually cleared the Chernobyl roof known?", "answer": "Bio-robots", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What was the cooling pond associated with the Chernobyl plant called?", "answer": "Chernobyl Cooling Pond", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "How did Soviet authorities officially refer to the workers involved in the Chernobyl cleanup?", "answer": "Liquidators", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which city was constructed near Chernobyl to accommodate plant workers?", "answer": "Pripyat", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which type of fuel powered the Chernobyl RBMK reactor?", "answer": "Uranium dioxide", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "How tall was the Chernobyl New Safe Confinement arch in meters?", "answer": "108 meters", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What element did helicopters drop onto the Chernobyl reactor for neutron absorption?", "answer": "Boron", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What name was given to the highly radioactive corium and sand mass found in the basement of Chernobyl Reactor 4, known for its resemblance to a large animal's foot?", "answer": "Elephant's Foot", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "Which element was the primary material in Chernobyl's control rods?", "answer": "Boron", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What was the distance of Pripyat from the Chernobyl reactor in kilometers?", "answer": "3 kilometers", "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"}
+{"question": "The Chernobyl plant was located in the ____.", "answer": "Ukrainian SSR", "label": "Semantic-3-The Chernobyl Nuclear Disaster@blank"}
+{"question": "What specific safety test was being conducted during the Chernobyl accident?", "answer": "Steam turbine coast-down", "label": "Semantic-3-The Chernobyl Nuclear Disaster@original"}
+{"question": "What was the delay in hours before Soviet authorities initiated the evacuation of Pripyat after the Chernobyl explosion?", "answer": "36 hours", "label": "Semantic-3-The Chernobyl Nuclear Disaster@q"}
+{"question": "What was the duration in minutes of the blackout experienced during Apollo 13's reentry?", "answer": "6 minutes", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "____ fuel cells were lost on the Apollo 13 Service Module.", "answer": "Two", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "How cold did it get inside the Apollo 13 Command Module while drifting?", "answer": "3 degrees Celsius", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "At what voltage did the heater system operate that caused damage to Apollo 13's tank insulation?", "answer": "65 volts", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Apollo 13 had a total launch weight of ____.", "answer": "6,395,000 pounds", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "Which astronaut served as the backup Lunar Module Pilot for Apollo 13?", "answer": "Charles Duke", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Which astronaut worked in the simulator to help resolve Apollo 13's power issue?", "answer": "Ken Mattingly", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "The intended lunar landing site for Apollo 13 was ____.", "answer": "Fra Mauro", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "The Apollo 13 Lunar Module was named ____.", "answer": "Aquarius", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "What chemical was used to scrub carbon dioxide in the Apollo 13 cabin?", "answer": "Lithium hydroxide", "label": "Semantic-4-The Apollo 13 Mission@original"}
+{"question": "The Lead Flight Director for Apollo 13 in Houston was ____.", "answer": "Gene Kranz", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "What was the speed of Apollo 13 at reentry in mph?", "answer": "24,689 mph", "label": "Semantic-4-The Apollo 13 Mission@original"}
+{"question": "What was visible through the Apollo 13 window following the explosion?", "answer": "Venting gas", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Which ocean received the Apollo 13 capsule upon splashdown?", "answer": "Pacific Ocean", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Which color was Gene Kranz's iconic vest during the Apollo 13 mission?", "answer": "White", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "What was the launch date for Apollo 13?", "answer": "April 11, 1970", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "The improvised device built by the crew to adapt square CO2 scrubbers to round holes was nicknamed ____.", "answer": "The Mailbox", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "Which member of the Apollo 13 crew suffered a kidney infection during the flight?", "answer": "Fred Haise", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "The primary source of power for the Aquarius Lunar Module was ____.", "answer": "Silver-zinc batteries", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "The ____ was the component that failed during the pre-flight ground test of Apollo 13's oxygen tank.", "answer": "Heater thermostatic switch", "label": "Semantic-4-The Apollo 13 Mission@blank"}
+{"question": "Which of Apollo 13's oxygen tanks ruptured during the mission?", "answer": "Tank 2", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "By what name was Gene Kranz's flight team known?", "answer": "White Team", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Which Apollo 13 astronaut had previously flown on Gemini 7?", "answer": "Jim Lovell", "label": "Semantic-4-The Apollo 13 Mission@original"}
+{"question": "What company was responsible for building the Apollo 13 Service Module?", "answer": "North American Rockwell", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "How many hours did the Apollo 13 mission last in total?", "answer": "142 hours", "label": "Semantic-4-The Apollo 13 Mission@q"}
+{"question": "Which moon of Uranus was identified by Voyager 2 as having the darkest surface?", "answer": "Umbriel", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "What unique magnetic field alignment did Voyager 2 discover at Uranus?", "answer": "Tilted and offset", "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"}
+{"question": "Which power source enabled Voyager 2 to function during the Uranus encounter?", "answer": "RTG", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "At what speed in km/s was Voyager 2 traveling during its Uranus encounter?", "answer": "20 km/s", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "The data rate from Voyager 2 at Uranus was ____.", "answer": "21.6 kbps", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "Which Voyager 2 instrument recorded visible-light images of Uranus and its moons?", "answer": "Imaging Science Subsystem", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "____ was the Uranus moon discovered by Voyager 2 that is named after a Shakespearean character.", "answer": "Puck", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "The second shepherd moon discovered by Voyager 2 for the Epsilon ring was ____.", "answer": "Ophelia", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "What was the name of the cratered moon of Uranus that Voyager 2 found showed signs of cryovolcanism?", "answer": "Ariel", "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"}
+{"question": "Which ring of Uranus did Voyager 2 observe to be the brightest?", "answer": "Epsilon ring", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "The Voyager 2 mission project scientist during the Uranus encounter was ____.", "answer": "Edward Stone", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "Which moon of Uranus, as revealed by Voyager 2, contains a crater named Hamlet?", "answer": "Oberon", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "Which instrument aboard Voyager 2 was responsible for measuring Uranus's magnetic field?", "answer": "Magnetometer", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "What was the total number of years Voyager 2 had been in transit before arriving at Uranus in 1986?", "answer": "8.5 years", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "How many hours long did Voyager 2 determine a day on Uranus to be?", "answer": "17.2 hours", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "Which moon, found by Voyager 2, shepherds the Epsilon ring of Uranus?", "answer": "Cordelia", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "What was the name of the Deep Space Network station that received the majority of Voyager 2 Uranus data?", "answer": "Canberra", "label": "Semantic-5-The Voyager 2 Uranus Flyby@original"}
+{"question": "Voyager 2 confirmed that Uranus appeared ____ to the human eye.", "answer": "Pale blue", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "Voyager 2 measured the diameter of the moon Miranda to be ____.", "answer": "470 kilometers", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "Voyager 2's closest approach distance to Uranus was ____.", "answer": "81,500 kilometers", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "The project manager for Voyager at the time of the 1986 Uranus flyby was ____.", "answer": "Richard Laeser", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "Voyager 2 found that ____ was the brightest moon of Uranus.", "answer": "Ariel", "label": "Semantic-5-The Voyager 2 Uranus Flyby@blank"}
+{"question": "How was the primary imaging instrument on Voyager 2 designated?", "answer": "ISS", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "According to Voyager 2's 1986 flyby data, what radiation-darkened material gives the rings of Uranus their extremely low albedo?", "answer": "Organics", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "What was the total number of rings around Uranus confirmed by Voyager 2?", "answer": "11", "label": "Semantic-5-The Voyager 2 Uranus Flyby@q"}
+{"question": "What tail number was assigned to the Boeing 747 that transported the Space Shuttle Enterprise?", "answer": "NASA 905", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "For which shuttle mission did the Space Shuttle Enterprise verify launch pad fit in 1979?", "answer": "STS-1", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "The majority of Space Shuttle Enterprise landings took place on ____.", "answer": "Rogers Dry Lake", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The first free flight of the Space Shuttle Enterprise occurred on ____.", "answer": "August 12, 1977", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The NASA 905 Shuttle Carrier Aircraft was painted ____ during the 1977 tests.", "answer": "White and blue", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "What was the total number of spaceflight-capable orbiters constructed following the Space Shuttle Enterprise?", "answer": "Five", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "The NASA orbiter vehicle designation for the Space Shuttle Enterprise was ____.", "answer": "OV-101", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "At which museum can the Space Shuttle Enterprise currently be seen on public display?", "answer": "Intrepid Museum", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "Which NASA facility hosted the Space Shuttle Enterprise for vibration testing in 1978?", "answer": "Marshall Space Flight Center", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "How much did the Space Shuttle Enterprise weigh in pounds during its 1977 flight tests?", "answer": "150,000 pounds", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "What function did the long spike extending from the nose of the Space Shuttle Enterprise serve?", "answer": "Air data probe", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "What was the total number of crewed captive-active flights the Space Shuttle Enterprise completed?", "answer": "Three", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "What specific main propulsion engines were not installed on the Space Shuttle Enterprise, preventing it from flying in space?", "answer": "Space Shuttle Main Engines (SSMEs)", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@original"}
+{"question": "Which pilot primarily flew the Shuttle Carrier Aircraft during the Enterprise tests?", "answer": "Fitzhugh Fulton", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "Which name was originally planned for the Space Shuttle Enterprise before the public campaign to change it?", "answer": "Constitution", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "At what speed in knots was the Space Shuttle Enterprise designed to land?", "answer": "185 knots", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "Which vibration test was conducted on the Space Shuttle Enterprise in 1978?", "answer": "Mated Vertical Ground Vibration", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "The Space Shuttle Enterprise Approach and Landing Tests flight program took place in ____.", "answer": "1977", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The pilot of the second crew assigned to the Space Shuttle Enterprise ALT tests was ____.", "answer": "Richard Truly", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The Shuttle Carrier Aircraft for Enterprise was a ____.", "answer": "Boeing 747", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The Space Shuttle Enterprise performed a total of ____ flights, captive and free combined.", "answer": "13", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "The Space Shuttle Enterprise was released at an altitude of ____ during its free flights.", "answer": "22,000 feet", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@blank"}
+{"question": "Which U.S. President proposed renaming the first shuttle orbiter to Enterprise?", "answer": "Gerald Ford", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "Which material formed the nose cap of the Space Shuttle Enterprise during its tests?", "answer": "Fiberglass", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "Which television series provided the inspiration for naming the Space Shuttle Enterprise?", "answer": "Star Trek", "label": "Semantic-6-The Space Shuttle Enterprise Test Flights@q"}
+{"question": "What was the first expansion module to dock with the Mir core module, doing so in 1987?", "answer": "Kvant-1", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What month in 1986 saw the first crew arrive at the Mir core module?", "answer": "March", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What was the name of the automated radar docking system used by the Mir core module and its visiting craft?", "answer": "Kurs", "label": "Semantic-7-The Launch of Mir Core Module@original"}
+{"question": "The Mir core module launched from ____ at Baikonur.", "answer": "Site 200/39", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "The mission designation of the first crew to board the Mir core module was ____.", "answer": "Soyuz T-15", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "The Mir space station core module was launched on ____.", "answer": "February 20, 1986", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "The initial orbital inclination of the Mir core module was ____.", "answer": "51.6 degrees", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "____ served as the commander of the Soyuz T-15 mission, the first crew to visit Mir.", "answer": "Leonid Kizim", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "Which protective shield was installed on the Mir core module to guard against orbital debris?", "answer": "Whipple shield", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "How long in minutes was the Mir core module's orbital period during its early operation?", "answer": "91 minutes", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What main function did the Mir core module serve within the larger station complex?", "answer": "Living quarters", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What nation was responsible for launching the Mir space station core module?", "answer": "Soviet Union", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "Which colors were chosen for the interior walls of the Mir core module to offer psychological comfort?", "answer": "Grey and green", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "Which cosmonaut served as flight engineer on the Soyuz T-15 mission, the first crew to visit the Mir core module?", "answer": "Vladimir Solovyov", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "____ was the Soviet space station that preceded the launch of the Mir core module.", "answer": "Salyut 7", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "Under whose leadership as Soviet leader did the Mir core module launch and begin initial operations?", "answer": "Mikhail Gorbachev", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "How many years was the Mir core module in orbit before it was deorbited?", "answer": "15 years", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What was the GRAU index (Soviet military designation) of the Mir core module?", "answer": "17KS", "label": "Semantic-7-The Launch of Mir Core Module@original"}
+{"question": "____ individual work stations were located in the Mir core module control area.", "answer": "Seven", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "What was the name of the high-gain radio communications system used on the Mir core module?", "answer": "Antares", "label": "Semantic-7-The Launch of Mir Core Module@original"}
+{"question": "The specialized galley area used for food preparation in the Mir core module was called the ____.", "answer": "Dining table", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "Soyuz spacecraft primarily used the ____ docking port on the Mir core module.", "answer": "Axial or rear", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "The electrolysis system that regenerated oxygen in the Mir core module was called ____.", "answer": "Elektron", "label": "Semantic-7-The Launch of Mir Core Module@blank"}
+{"question": "How long in meters was the Mir core module in total?", "answer": "13.13 meters", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "How did the Mir core module and its attached station meet their end in March 2001?", "answer": "Controlled deorbit", "label": "Semantic-7-The Launch of Mir Core Module@q"}
+{"question": "What was the exact EST time when the Hindenburg ignited on the evening of May 6, 1937?", "answer": "7:25 p.m.", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "Which non-flammable lifting gas could not be used in the Hindenburg because U.S. export laws blocked its availability?", "answer": "Helium", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "What was the total number of diesel engines that propelled the Hindenburg (LZ 129)?", "answer": "Four", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "The four Daimler-Benz engines on the Hindenburg ran primarily on ____.", "answer": "Diesel", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "____ was the civilian ground crew member who was killed during the Hindenburg disaster.", "answer": "Allen Hagaman", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "Ground witnesses first observed the Hindenburg fire when it was at an altitude of ____.", "answer": "200 feet", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "The Hindenburg's nearly identical sister ship was the ____.", "answer": "Graf Zeppelin II", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "How many total fatalities occurred as a result of the Hindenburg disaster, including those on the ground?", "answer": "36", "label": "Semantic-8-The Hindenburg Disaster@original"}
+{"question": "Who was the U.S. President that directed the Department of Commerce to conduct an official inquiry into the Hindenburg disaster?", "answer": "Franklin D. Roosevelt", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "Which material lined the interior of the Hindenburg's gas cells to reduce hydrogen leakage?", "answer": "Gelatin-latex", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "In which public lounge area of the Hindenburg was the lightweight aluminum piano kept?", "answer": "Reading Room", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "What was the total number of crew members aboard the Hindenburg when the disaster occurred?", "answer": "61", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "The Hindenburg departed from ____ on its final flight across the Atlantic.", "answer": "Frankfurt", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "Which high-ranking Zeppelin command officer was the sole survivor of the disaster?", "answer": "Max Pruss", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "The structural frame of the Hindenburg (LZ 129) was made of ____.", "answer": "Duralumin", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "Which color characterized the doped-fabric outer skin of the Hindenburg?", "answer": "Silver", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "At which structural feature on the Hindenburg's exterior was the fire first observed?", "answer": "Upper vertical fin", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "What was the number of passengers aboard the Hindenburg on its final flight in 1937?", "answer": "36", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "According to most historical accounts, how many seconds did the destruction of the Hindenburg take?", "answer": "34 seconds", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "Which theory attributes the ignition of leaking hydrogen on the Hindenburg to static electricity?", "answer": "Electrostatic discharge theory", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "The Hindenburg crashed at ____ in New Jersey.", "answer": "Lakehurst Naval Station", "label": "Semantic-8-The Hindenburg Disaster@blank"}
+{"question": "What was the name of the official German commission that investigated the Hindenburg crash in 1937?", "answer": "German Commission", "label": "Semantic-8-The Hindenburg Disaster@original"}
+{"question": "What was the total number of people (passengers and crew) on board the Hindenburg during the disaster?", "answer": "97", "label": "Semantic-8-The Hindenburg Disaster@original"}
+{"question": "Which weather event was taking place at Lakehurst while the Hindenburg was attempting to land?", "answer": "Thunderstorm", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "How was the Hindenburg airship officially registered in Germany?", "answer": "LZ 129", "label": "Semantic-8-The Hindenburg Disaster@q"}
+{"question": "Which celebrated American author, whose birth in 1835 and death in 1910 both coincided with appearances of Halley's Comet, is famously linked to the comet?", "answer": "Mark Twain", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "How far in Astronomical Units was Halley's Comet from the Sun at perihelion during its 1986 return?", "answer": "0.58 AU", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "The camera system on the Giotto probe that imaged the comet's nucleus was the ____.", "answer": "HMC", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "How many years passed between the 1910 and 1986 perihelion passages of Halley's Comet?", "answer": "76 years", "label": "Semantic-9-Halley's Comet 1986 Appearance@original"}
+{"question": "Which two Soviet probes successfully photographed the nucleus of Halley's Comet in 1986?", "answer": "Vega 1 and 2", "label": "Semantic-9-Halley's Comet 1986 Appearance@original"}
+{"question": "The international organization that coordinated ground-based observations of Halley's Comet used the acronym ____.", "answer": "IHW", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "Halley's Comet made its closest approach to Earth in ____ 1986.", "answer": "April", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "Who was the lead project scientist for the ESA Giotto mission in 1986?", "answer": "Uwe Keller", "label": "Semantic-9-Halley's Comet 1986 Appearance@original"}
+{"question": "The ultraviolet telescope on the Soviet Astron satellite that studied the comet in 1986 was ____.", "answer": "Spica", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "How many Astronomical Units from the Sun was Halley's Comet at its 1986 perihelion?", "answer": "0.58 AU", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "What NASA satellite mission employed its onboard Coronagraph to observe the comet during the 1986 encounter?", "answer": "SMM", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "How many years does Halley's Comet take on average to complete one orbit?", "answer": "76 years", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "What element was unexpectedly found in high abundance in the CHON dust grains of Halley's Comet?", "answer": "Carbon", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "From which hemisphere of Earth were viewing conditions for Halley's Comet best during its 1986 perihelion?", "answer": "Southern Hemisphere", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "The approximate maximum length of the Halley's Comet nucleus is ____.", "answer": "15 km", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "Which European Space Agency spacecraft achieved the closest flyby of Halley's Comet in 1986?", "answer": "Giotto", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "The official astronomical designation for Halley's Comet is ____.", "answer": "1P/Halley", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "The second Japanese probe in the Halley Armada, a sister to Suisei, was ____.", "answer": "Sakigake", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "What was the approximate width of the Halley's Comet nucleus in kilometers as measured in 1986?", "answer": "8 km", "label": "Semantic-9-Halley's Comet 1986 Appearance@original"}
+{"question": "Which family of short-period comets includes 1P/Halley as a member?", "answer": "Halley-type comets", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "How reflective was the Halley's Comet nucleus, as measured by its albedo, that earned it a place among the solar system's darkest objects?", "answer": "4 percent", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "Which 14th-century Italian artist, who painted the comet in 1301, lent his name to the ESA Giotto mission?", "answer": "Giotto di Bondone", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "What was the number of distinct gas jets Giotto observed emanating from the nucleus of Halley's Comet?", "answer": "Seven", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "The Giotto probe made its closest approach to the Halley's Comet nucleus at a distance of ____.", "answer": "596 km", "label": "Semantic-9-Halley's Comet 1986 Appearance@blank"}
+{"question": "Which unexpected color did the Giotto probe reveal the nucleus of Halley's Comet to be?", "answer": "Black", "label": "Semantic-9-Halley's Comet 1986 Appearance@q"}
+{"question": "Which color was applied to the original 1940 Tacoma Narrows Bridge?", "answer": "Green", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "How was the 1940 Tacoma Narrows Bridge classified in terms of bridge design?", "answer": "Suspension bridge", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "The maximum vertical amplitude of the 1940 Tacoma Narrows Bridge's ripples before the final collapse was ____.", "answer": "28 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "What was the unusually narrow width-to-span ratio of the 1940 Tacoma Narrows Bridge?", "answer": "1:72", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which structural feature was incorporated into the 1950 Tacoma Narrows replacement bridge to let wind pass through the deck?", "answer": "Open trusses", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "The 1940 Tacoma Narrows Bridge collapse fundamentally revolutionized the field of ____.", "answer": "Bridge aerodynamics", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "Which Washington city did the 1940 Tacoma Narrows Bridge connect to the Kitsap Peninsula?", "answer": "Tacoma", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@original"}
+{"question": "By what popular nickname was the 1940 Tacoma Narrows Bridge known because of its characteristic vertical movement?", "answer": "Galloping Gertie", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "On what specific calendar date did the 1940 Tacoma Narrows Bridge collapse occur?", "answer": "November 7, 1940", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@original"}
+{"question": "How tall in feet were the two main towers of the 1940 Tacoma Narrows Bridge?", "answer": "425 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which individual was serving as Governor of Washington when the 1940 Tacoma Narrows Bridge collapsed?", "answer": "Clarence Martin", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which U.S. state was home to the ill-fated 1940 Tacoma Narrows Bridge?", "answer": "Washington", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which body of water in Washington state did the 1940 Tacoma Narrows Bridge span?", "answer": "Puget Sound", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "The original 1940 Tacoma Narrows Bridge collapsed ____ after its official opening.", "answer": "Four months", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "After the main span of the 1940 Tacoma Narrows Bridge fell into the Sound, ____ remained standing.", "answer": "The towers", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "____ was the University of Washington professor who captured the 16mm film of the 1940 Tacoma Narrows Bridge collapse.", "answer": "F.B. Farquharson", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "The total length of the entire 1940 Tacoma Narrows Bridge structure was ____.", "answer": "5,939 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "The solid steel plate girders used in the 1940 Tacoma Narrows Bridge design were ____ deep.", "answer": "8 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@blank"}
+{"question": "Which structural engineer was chiefly responsible for designing the 1940 Tacoma Narrows Bridge?", "answer": "Leon Moisseiff", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which three-person federal board did the PWA establish to investigate the 1940 Tacoma Narrows failure?", "answer": "Carmody Board", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "How many degrees did the 1940 Tacoma Narrows Bridge twist at maximum during its torsional motion in the collapse?", "answer": "45 degrees", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Which year saw the collapse of the original Tacoma Narrows Bridge in Washington state?", "answer": "1940", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "How much did it cost in 1940 dollars to build the original Tacoma Narrows Bridge?", "answer": "6.4 million dollars", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "What was the average depth of the water in the Narrows beneath the 1940 bridge in feet?", "answer": "120 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@original"}
+{"question": "What was the length in feet of the main center span of the 1940 Tacoma Narrows Bridge?", "answer": "2,800 feet", "label": "Semantic-10-The Tacoma Narrows Bridge Collapse@q"}
+{"question": "Why does quantum tunneling occur in particles encountering a potential barrier?", "answer": "It occurs because the particle's wave function extends through the barrier, giving it a non-zero probability of existing on the other side.", "label": "GK-1 - Physics - Quantum Mechanics"}
+{"question": "What functional group characterizes an alcohol molecule?", "answer": "Hydroxyl group (-OH)", "label": "GK-3 - Chemistry - Organic Synthesis"}
+{"question": "What is the primary energy currency molecule produced during cellular respiration?", "answer": "Adenosine triphosphate (ATP)", "label": "GK-5 - Biology - Cellular Respiration"}
+{"question": "How does the Chandrasekhar limit determine the fate of a stellar remnant?", "answer": "It sets the maximum mass for a white dwarf (approx 1.4 solar masses); above this limit, the remnant collapses into a neutron star or black hole.", "label": "GK-7 - Astronomy - Stellar Evolution"}
+{"question": "Which type of plate boundary is characterized by two plates sliding laterally past one another?", "answer": "Transform boundary", "label": "GK-9 - Geology - Plate Tectonics"}
+{"question": "What specific predator was reintroduced to Yellowstone National Park in 1995 to restore ecological balance?", "answer": "Gray wolf", "label": "GK-11 - Ecology - Trophic Cascades"}
+{"question": "What is the term for an epidemic that has spread over several countries or continents, affecting a large number of people?", "answer": "Pandemic", "label": "GK-13 - Medicine - Epidemiology"}
+{"question": "Which standard algorithm replaced DES (Data Encryption Standard) as the US federal standard in 2001?", "answer": "AES (Advanced Encryption Standard)", "label": "GK-15 - Computer Science - Cryptography"}
+{"question": "How does the Rankine cycle generate power in steam turbines?", "answer": "It cycles water through a boiler, turbine, condenser, and pump to convert thermal energy from pressurized steam into mechanical work.", "label": "GK-17 - Engineering - Thermodynamics"}
+{"question": "What theorem states that the distribution of sample means approaches a normal distribution as the sample size becomes large?", "answer": "Central Limit Theorem", "label": "GK-19 - Mathematics - Probability Theory"}
+{"question": "In what year was Julius Caesar assassinated?", "answer": "44 BC", "label": "GK-21 - History - The Roman Republic"}
+{"question": "Which Mughal emperor commissioned the building of the Taj Mahal?", "answer": "Shah Jahan", "label": "GK-23 - History - The Mughal Empire"}
+{"question": "Why was trench foot a common ailment among soldiers?", "answer": "Prolonged exposure to cold, wet, and unsanitary conditions in waterlogged trenches caused tissue damage and infection.", "label": "GK-25 - History - World War I Trench Warfare"}
+{"question": "Why does the chorus play a central role in Greek tragedy?", "answer": "The chorus comments on the action and represents the collective voice of society, providing context and moral judgment on the protagonist's actions.", "label": "GK-27 - Literature - Greek Tragedy"}
+{"question": "What is the defining characteristic of the setting in magical realism narratives?", "answer": "The setting is a mundane, realistic world where magical elements appear naturally and are accepted by characters without question.", "label": "GK-29 - Literature - Magical Realism"}
+{"question": "What is the 'Greatest Happiness Principle'?", "answer": "Actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the reverse of happiness.", "label": "GK-31 - Philosophy - Utilitarianism"}
+{"question": "Why is this movement often divided into 'action painting' and 'color field painting'?", "answer": "It distinguishes between artists who focused on the physical act of painting and those who focused on large, flat areas of solid color to evoke emotion.", "label": "GK-33 - Art History - Abstract Expressionism"}
+{"question": "What is the term for the continuous bass line that forms the harmonic foundation of Baroque music?", "answer": "Basso continuo", "label": "GK-35 - Music History - The Baroque Era"}
+{"question": "How does the concept of the Exclusive Economic Zone (EEZ) affect Arctic sovereignty?", "answer": "It gives coastal nations the right to explore and exploit natural resources within 200 nautical miles of their coastline.", "label": "GK-37 - Geography - Geopolitics of the Arctic"}
+{"question": "Why were the Pyramids of Giza built on the west bank of the Nile?", "answer": "The west was associated with the setting sun and the realm of the dead in Egyptian mythology.", "label": "GK-39 - Archaeology - Ancient Egypt"}
+{"question": "How does 'nudging' influence economic choices?", "answer": "It alters the choice architecture to encourage people to make specific decisions without restricting their freedom of choice.", "label": "GK-41 - Economics - Behavioral Economics"}
+{"question": "How does the 'democratic peace theory' describe the behavior of democracies?", "answer": "It asserts that democracies are hesitant to engage in armed conflict with other identified democracies.", "label": "GK-43 - Political Science - International Relations Theory"}
+{"question": "How does the anchoring effect influence negotiation?", "answer": "It occurs when the first piece of information offered (the anchor) heavily influences all subsequent decision-making and counter-offers.", "label": "GK-45 - Psychology - Cognitive Biases"}
+{"question": "What legal protection is granted to the author of an original creative work, such as a book or song?", "answer": "Copyright", "label": "GK-47 - Law - Intellectual Property"}
+{"question": "What is the smallest unit of sound that can distinguish one word from another in a language?", "answer": "Phoneme", "label": "GK-49 - Linguistics - Phonetics"}
+{"question": "What is the ultimate goal of practice in Theravada Buddhism?", "answer": "Nirvana (Arhatship)", "label": "GK-51 - Religion - Theravada Buddhism"}
+{"question": "Why did Odin sacrifice his eye at Mimir's well?", "answer": "He sacrificed it to gain wisdom and knowledge of the runes.", "label": "GK-53 - Mythology - Norse Pantheon"}
+{"question": "Why do plants release oxygen during photosynthesis?", "answer": "Oxygen is produced as a byproduct when water molecules are split to provide electrons for the electron transport chain.", "label": "GK-55 - Botany - Photosynthesis"}
+{"question": "Why do honeybees perform the 'waggle dance'?", "answer": "It communicates the direction and distance of a food source to other members of the hive.", "label": "GK-57 - Entomology - Eusocial Insects"}
+{"question": "What is the term for the process by which organisms near deep-sea vents create energy without sunlight?", "answer": "Chemosynthesis", "label": "GK-59 - Oceanography - Deep Sea Vents"}
+{"question": "What is the primary medium used to deliver nutrients to plants in hydroponics?", "answer": "Water", "label": "GK-61 - Agriculture - Hydroponics"}
+{"question": "What raw material is the defining aesthetic feature of Brutalist architecture?", "answer": "Exposed concrete (Béton brut)", "label": "GK-63 - Architecture - Brutalism"}
+{"question": "How does the narrative structure of Film Noir often reflect its cynical tone?", "answer": "It frequently uses voice-over narration and flashbacks to create a sense of fatalism and inevitable doom.", "label": "GK-65 - Film Studies - Film Noir"}
+{"question": "How does 'lazzi' function in a Commedia performance?", "answer": "Lazzi are improvised comic routines or physical gags inserted into the play to ensure the audience remains entertained.", "label": "GK-67 - Theater - Commedia dell'arte"}
+{"question": "How many players are on the field for the fielding team at one time?", "answer": "11", "label": "GK-69 - Sports - Rules of Cricket"}
+{"question": "Which designer is credited with revolutionizing women's fashion by introducing the 'New Look' in 1947?", "answer": "Christian Dior", "label": "GK-71 - Fashion - 20th Century Haute Couture"}
+{"question": "How does digitization aid in preservation?", "answer": "It creates a surrogate copy for access, reducing physical handling of the fragile original artifact.", "label": "GK-73 - Library Science - Archival Preservation"}
+{"question": "What does the acronym 'JIT' stand for in inventory management?", "answer": "Just-In-Time", "label": "GK-75 - Business - Supply Chain Management"}
+{"question": "What is the name of the logical argument form: 'If P, then Q; P is true; therefore, Q is true'?", "answer": "Modus ponens", "label": "GK-77 - Logic - Formal Logic"}
+{"question": "Why is the 'butterfly effect' relevant to deterministic chaos?", "answer": "It illustrates how small differences in initial conditions can yield widely diverging outcomes, making precise prediction impossible despite deterministic laws.", "label": "GK-79 - Metaphysics - Determinism vs. Free Will"}
+{"question": "What was the first true antibiotic discovered by Alexander Fleming in 1928?", "answer": "Penicillin", "label": "GK-81 - Pharmacology - Antibiotic Resistance"}
+{"question": "How does a p-n junction function in a solar cell?", "answer": "It creates an internal electric field that separates electron-hole pairs generated by incoming light, driving the current.", "label": "GK-83 - Energy - Photovoltaic Cells"}
+{"question": "What technology allows Maglev trains to float above the tracks?", "answer": "Magnetic levitation", "label": "GK-85 - Transportation - High-Speed Rail Systems"}
+{"question": "How does a singularity affect a robot arm?", "answer": "It is a configuration where the robot loses a degree of freedom, often causing the joints to attempt infinite speed to maintain movement.", "label": "GK-87 - Robotics - Kinematics"}
+{"question": "Why is the support of the local population considered crucial for guerrilla fighters?", "answer": "The population provides intelligence, food, shelter, and recruits, allowing the guerrillas to hide in plain sight.", "label": "GK-89 - Military Science - Guerrilla Warfare Strategy"}
+{"question": "How does the 'step migration' model describe the movement of people?", "answer": "It describes migration as a series of shorter, less extreme moves from a rural area to a town, and eventually to a major city.", "label": "GK-91 - Demography - Migration Patterns"}
+{"question": "Why does ocean acidification threaten coral reefs?", "answer": "It dissolves the calcium carbonate skeletons of corals and stresses the polyps, leading to slower growth and bleaching.", "label": "GK-93 - Environmental Science - Ocean Acidification"}
+{"question": "What metal plate is used as the base for a daguerreotype?", "answer": "Silver-plated copper", "label": "GK-95 - Photography - Daguerreotypes"}
+{"question": "Why was the control of fire a turning point for Paleolithic humans?", "answer": "It provided warmth, protection from predators, and the ability to cook food, which improved calorie absorption and brain development.", "label": "GK-97 - Paleolithic History - Hunter-Gatherer Societies"}
+{"question": "Who published the 'Principia Mathematica' in 1687, laying the groundwork for classical mechanics?", "answer": "Isaac Newton", "label": "GK-99 - History of Science - The Enlightenment"}
+{"question": "Approximately how many meters deeper is Challenger Deep than Mount Everest is tall?", "answer": "2,185 meters", "label": "Lexical-Challenger"}
+{"question": "Which American automaker produces the muscle car model named Challenger?", "answer": "Dodge", "label": "Lexical-Challenger"}
+{"question": "What is the primary antonym of Challenger in the context of a title competition?", "answer": "Defender", "label": "Lexical-Challenger"}
+{"question": "How many unique letters are in the word Challenger?", "answer": "8", "label": "Lexical-Challenger"}
+{"question": "How many syllables are in the word Challenger?", "answer": "3", "label": "Lexical-Challenger"}
+{"question": "What British explorer commanded the HMS Endeavour on his first voyage of discovery?", "answer": "James Cook", "label": "Lexical-Endeavour"}
+{"question": "How many consonants are in the string 'Endeavour'?", "answer": "4", "label": "Lexical-Endeavour"}
+{"question": "Which word in the English language rhymes with 'Endeavour' and means 'to separate'?", "answer": "Sever", "label": "Lexical-Endeavour"}
+{"question": "What is the 4th letter in the string 'Endeavour'?", "answer": "e", "label": "Lexical-Endeavour"}
+{"question": "How many vowels are in the string 'Endeavour'?", "answer": "5", "label": "Lexical-Endeavour"}
+{"question": "How many individual words are in the phrase 'Aft field joint'?", "answer": "3", "label": "Lexical-Aft field joint"}
+{"question": "How many vowels are in the string 'Aft field joint'?", "answer": "5", "label": "Lexical-Aft field joint"}
+{"question": "What is the total character count of 'Aft field joint' including spaces?", "answer": "15", "label": "Lexical-Aft field joint"}
+{"question": "If you concatenate 'Aft field joint' with the digit '1', what is the result?", "answer": "Aft field joint1", "label": "Lexical-Aft field joint"}
+{"question": "What is the first letter of the string 'Aft field joint'?", "answer": "A", "label": "Lexical-Aft field joint"}
+{"question": "How many words does the string 'Solid Rocket Booster' contain?", "answer": "3", "label": "Lexical-Solid Rocket Booster"}
+{"question": "If you spell 'Solid Rocket Booster' backwards, what is the first letter?", "answer": "r", "label": "Lexical-Solid Rocket Booster"}
+{"question": "What is the last letter of the string 'Solid Rocket Booster'?", "answer": "r", "label": "Lexical-Solid Rocket Booster"}
+{"question": "What is the 7th character in the string 'Solid Rocket Booster'?", "answer": "R", "label": "Lexical-Solid Rocket Booster"}
+{"question": "How many times does the letter 'o' appear in 'Solid Rocket Booster'?", "answer": "4", "label": "Lexical-Solid Rocket Booster"}
+{"question": "Which letter of the alphabet gives the 'O-ring' its name?", "answer": "O", "label": "Lexical-O-ring"}
+{"question": "If you reverse 'O-ring', what is the resulting string?", "answer": "gnir-O", "label": "Lexical-O-ring"}
+{"question": "What material is a standard 'O-ring' typically made from?", "answer": "Rubber", "label": "Lexical-O-ring"}
+{"question": "What is the last letter of the string 'O-ring'?", "answer": "g", "label": "Lexical-O-ring"}
+{"question": "What punctuation mark separates the letters in the string 'O-ring'?", "answer": "Hyphen", "label": "Lexical-O-ring"}
+{"question": "Calculate the total letter count in 'Civilian teacher' excluding spaces.", "answer": "15", "label": "Lexical-Civilian teacher"}
+{"question": "What is the 5th letter in the string 'Civilian teacher'?", "answer": "i", "label": "Lexical-Civilian teacher"}
+{"question": "What is the first letter of the second word in 'Civilian teacher'?", "answer": "t", "label": "Lexical-Civilian teacher"}
+{"question": "If you concatenate 'Civilian teacher' and 'Space', what is the result?", "answer": "Civilian teacherSpace", "label": "Lexical-Civilian teacher"}
+{"question": "What is the last character of the string 'Civilian teacher'?", "answer": "r", "label": "Lexical-Civilian teacher"}
+{"question": "What is the chemical formula for the substance described by 'Cold water'?", "answer": "H2O", "label": "Lexical-Cold water"}
+{"question": "How many vowels are in the string 'Cold water'?", "answer": "3", "label": "Lexical-Cold water"}
+{"question": "Which word in 'Cold water' has exactly 4 letters?", "answer": "Cold", "label": "Lexical-Cold water"}
+{"question": "What is the last letter of the string 'Cold water'?", "answer": "r", "label": "Lexical-Cold water"}
+{"question": "Which laundry detergent brand is famously marketed for use in 'Cold water'?", "answer": "Tide", "label": "Lexical-Cold water"}
+{"question": "Calculate the number of 'e's in the string 'Crew members'.", "answer": "3", "label": "Lexical-Crew members"}
+{"question": "What is the 3rd letter in the string 'Crew members'?", "answer": "e", "label": "Lexical-Crew members"}
+{"question": "What is the singular form of the second word in 'Crew members'?", "answer": "member", "label": "Lexical-Crew members"}
+{"question": "If you remove the space from 'Crew members', how many characters remain?", "answer": "11", "label": "Lexical-Crew members"}
+{"question": "Which word in 'Crew members' starts with 'm'?", "answer": "members", "label": "Lexical-Crew members"}
+{"question": "What is the last letter of the string 'Atlantic Ocean'?", "answer": "n", "label": "Lexical-Atlantic Ocean"}
+{"question": "Which famous ship sank in the 'Atlantic Ocean' in 1912?", "answer": "Titanic", "label": "Lexical-Atlantic Ocean"}
+{"question": "What is the first letter of the string 'Atlantic Ocean'?", "answer": "A", "label": "Lexical-Atlantic Ocean"}
+{"question": "If you reverse 'Atlantic Ocean', what is the first letter?", "answer": "n", "label": "Lexical-Atlantic Ocean"}
+{"question": "How many characters are in the string 'Atlantic Ocean' including the space?", "answer": "14", "label": "Lexical-Atlantic Ocean"}
+{"question": "How many words are in the phrase 'Launch Complex'?", "answer": "2", "label": "Lexical-Launch Complex"}
+{"question": "Calculate the total character count of 'Launch Complex'.", "answer": "14", "label": "Lexical-Launch Complex"}
+{"question": "What is the first letter of the string 'Launch Complex'?", "answer": "L", "label": "Lexical-Launch Complex"}
+{"question": "What is the last letter of the string 'Launch Complex'?", "answer": "x", "label": "Lexical-Launch Complex"}
+{"question": "What is the 4th letter in the string 'Launch Complex'?", "answer": "n", "label": "Lexical-Launch Complex"}
