@@ -5,9 +5,8 @@
 *Amit Peleg · Naman Deep Singh · Naama Pearl · Bibhabasu Mohapatra · Matthias Hein*<br>
 University of Tübingen
 
-<!-- TODO: fill arXiv id (the remaining TODO link below) once the paper is public -->
 [![SUITE dataset](https://img.shields.io/badge/-🤗_SUITE_Dataset-ea580c?style=for-the-badge)](https://huggingface.co/datasets/apeleg/SUITE)
-[![arXiv](https://img.shields.io/badge/-arXiv-8787F0?style=for-the-badge&logo=arxiv&logoColor=white)](TODO)
+[![arXiv](https://img.shields.io/badge/-arXiv-8787F0?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.09236)
 [![Project Page](https://img.shields.io/badge/-🌐_Project_Page-4f46e5?style=for-the-badge)](https://amitpeleg.github.io/forget-narrowly-retain-broadly/)
 
 ![SUITE at a glance](assets/suite_overview.png)
@@ -37,7 +36,7 @@ methods. This shows that good unlearning is driven as much by the **training dat
 **algorithm**. On the algorithm side, **JensUn++**
 produces natural refusals instead of gibberish and achieves the **best forget-retain-utility
 trade-off** across three LLMs, in both **sequential** and **joint** unlearning. Full quantitative
-results are on the [project page](https://amitpeleg.github.io/forget-narrowly-retain-broadly/) and in the [paper](TODO).
+results are on the [project page](https://amitpeleg.github.io/forget-narrowly-retain-broadly/) and in the [paper](https://arxiv.org/abs/2607.09236).
 
 ---------------------------------------------
 
@@ -210,7 +209,7 @@ If you find this repository useful, please consider citing our paper:
 @article{peleg2026forget,
     title   = {Forget Narrowly, Retain Broadly: Unlearning as an Asymmetric Generalization Problem},
     author  = {Peleg, Amit and Singh, Naman Deep and Pearl, Naama and Mohapatra, Bibhabasu and Hein, Matthias},
-    journal = {arXiv preprint arXiv:TODO},
+    journal = {arXiv preprint arXiv:2607.09236},
     year    = {2026}
 }
 ```
