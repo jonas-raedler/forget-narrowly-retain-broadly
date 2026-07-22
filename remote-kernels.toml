@@ -1,0 +1,62 @@
+# remote-kernels configuration for the SUITE proximity-relearning fork.
+# Adapted from tamper_resistant_unlearning/remote-kernels.toml.
+#
+# Money safety: the real budget cap is REMOTE_KERNELS_BUDGET in
+# ../.claude/settings.json (it overrides budget-cap here). Policy: $50 hard
+# cap per session, $25 soft cap — past $25, investigate whether the spend is
+# justified before continuing.
+
+default-runtime = "runpod"
+name = "suite-proximity"
+
+budget-cap = 50.0
+
+# HF_TOKEN: gated meta-llama/Llama-3.2-3B-Instruct.
+# GITHUB_TOKEN: fork clone + results push (repo-scope PAT).
+inherit-env = ["HF_TOKEN", "GITHUB_TOKEN"]
+
+notebook-dir = "remote-kernels"
+
+[env]
+HF_HOME = "/workspace/.cache/huggingface"
+
+[runpod]
+# finalize publishes the small evaluations/ artifacts to fork main; failure
+# degrades terminate → stop so data stays collectable. Do NOT wrap in
+# `if [ -f ... ]` (see tamper repo toml for why).
+cleanup = "terminate"
+pre-terminate-command = "bash /workspace/forget-narrowly-retain-broadly/runpod/finalize_pod.sh"
+pre-stop-command = "bash /workspace/forget-narrowly-retain-broadly/runpod/finalize_pod.sh"
+
+# GPU sizing: training is a 3B full FT (trivial); the binding constraint is
+# the judge (Qwen3.5-35B-A3B, ~66GB bf16 weights) run single-GPU with
+# JUDGE_N_GPUS=1. Prefer 96GB (RTX PRO 6000 Blackwell) — comfortable and
+# usually cheaper/hr than H100 — then 80GB cards (fits with small judge
+# batch), then H200 141GB as the expensive escape hatch.
+# NOTE: verify the exact RTX PRO 6000 / H200 type-id strings against the
+# RunPod API at session start (`search offers`) — they may differ; the
+# A100/H100 ids below are known-good from the tamper project.
+gpu-type-ids = [
+  "NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+  "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+  "NVIDIA A100 80GB PCIe",
+  "NVIDIA A100-SXM4-80GB",
+  "NVIDIA H100 PCIe",
+  "NVIDIA H100 80GB HBM3",
+  "NVIDIA H200",
+]
+
+# Python 3.12 image; the venv installs its own torch 2.9.1 cu128 wheel.
+image-name = "runpod/pytorch:1.0.7-cu1281-torch260-ubuntu2404"
+image-start-cmd = "/start.sh"
+
+container-disk-gb = 50
+# Volume: HF cache (3B model + 35B judge ≈ 75GB) + 13 relearned 3B
+# checkpoints (~6.5GB each ≈ 85GB) + venv/repo. 250GB leaves headroom;
+# checkpoints can be pruned after the batched judge eval.
+volume-gb = 250
+volume-mount-path = "/workspace"
+cloud-type = "SECURE"
+
+# See tamper repo toml: RunPod was not granting a public IP implicitly.
+support-public-ip = true

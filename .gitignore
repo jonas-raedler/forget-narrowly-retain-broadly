@@ -9,8 +9,16 @@ __pycache__/
 # Runtime outputs
 /saves
 /logs
-/evaluations
 /tables
+
+# evaluations: ignore bulk outputs (generations, logs) but keep the small
+# result artifacts, which runpod/publish_results.sh commits to main.
+/evaluations/*
+!/evaluations/nllOutputs/
+!/evaluations/worstCase/
+!/evaluations/evalJudge/
+!/evaluations/mmluOutputs/
+!/evaluations/results_db.json
 
 # Debug config dumps written to the repo root during training (src/train.py)
 /tmp-config-data.yaml
