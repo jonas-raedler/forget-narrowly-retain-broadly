@@ -24,3 +24,12 @@ __pycache__/
 /tmp-config-data.yaml
 /trainerargs.yaml
 /trainerargs-cfg.yaml
+
+# PUBLIC-REPO SAFETY: this fork is public. Never commit local env, session
+# state, or kernel-activity notebooks (they can echo environment/tokens).
+/.venv/
+/.env
+.env.*
+/.claude/
+/remote-kernels/
+*.ipynb
