@@ -69,9 +69,10 @@ class EvalRGQ:
                 self.tokenizer.pad_token = self.tokenizer.eos_token
 
             n_gpus = torch.cuda.device_count()
-            max_memory = {i: "34GiB" for i in range(n_gpus)}
+            _gib = lambda i: max(int(torch.cuda.get_device_properties(i).total_memory // (1024**3)) - 6, 1)
+            max_memory = {i: f"{_gib(i)}GiB" for i in range(n_gpus)}
             if "80B" in hf_model_id or "72B" in hf_model_id:
-                max_memory[0] = "28GiB"
+                max_memory[0] = f"{max(_gib(0) - 6, 1)}GiB"
             self.model = AutoModelForCausalLM.from_pretrained(
                 hf_model_id,
                 device_map="auto",

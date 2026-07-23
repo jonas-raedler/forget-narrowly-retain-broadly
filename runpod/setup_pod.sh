@@ -68,6 +68,10 @@ pip install causal-conv1d==1.6.0 --no-build-isolation \
   || CAUSAL_CONV1D_FORCE_BUILD=TRUE MAX_JOBS="$MAX_JOBS" pip install causal-conv1d==1.6.0 --no-build-isolation
 pip install flash-linear-attention==0.4.1
 
+# NLTK data for the repet utility eval (sentence tokenizer); venv-local dir
+# is on NLTK's default search path, so no NLTK_DATA export is needed.
+python -m nltk.downloader -d "$PROJ/.venv/nltk_data" punkt_tab
+
 if [ -z "${HF_TOKEN:-}" ]; then
   echo "WARNING: HF_TOKEN not set — gated Llama downloads will fail." >&2
 fi

@@ -53,9 +53,10 @@ class EvalJUDGE:
         # 34 GiB cap on A100-40GB leaves ~6 GiB free per GPU; excess model layers
         # spill to the next GPU (or CPU) which is acceptable.
         # 80B/72B models need an even tighter cap on GPU 0 due to embedding layers.
-        max_memory = {i: "34GiB" for i in range(n_gpus)}
+        _gib = lambda i: max(int(torch.cuda.get_device_properties(i).total_memory // (1024**3)) - 6, 1)
+        max_memory = {i: f"{_gib(i)}GiB" for i in range(n_gpus)}
         if "80B" in hf_model_id or "72B" in hf_model_id:
-            max_memory[0] = "28GiB"
+            max_memory[0] = f"{max(_gib(0) - 6, 1)}GiB"
         self.model = AutoModelForCausalLM.from_pretrained(
             hf_model_id,
             device_map="auto",
