@@ -16,7 +16,10 @@ git add evaluations 2>/dev/null || true
 # PUBLIC fork. Refuse to commit if anything staged looks like a credential
 # (HF tokens, GitHub PATs, private keys). Exit non-zero → finalize_pod.sh
 # fails → remote-kernels degrades terminate to stop, data stays private.
-if git diff --cached | grep -qE 'hf_[A-Za-z0-9]{30,}|ghp_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|gho_[A-Za-z0-9]{30,}|-----BEGIN[A-Z ]*PRIVATE KEY-----|AKIA[0-9A-Z]{16}'; then
+# NB: no `grep -q` here — under pipefail, -q's early exit SIGPIPEs git diff
+# (exit 141) and the gate would fail OPEN on large diffs. Plain grep reads the
+# whole stream; stdout is discarded.
+if git diff --cached | grep -E 'hf_[A-Za-z0-9]{30,}|ghp_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|gho_[A-Za-z0-9]{30,}|-----BEGIN[A-Z ]*PRIVATE KEY-----|AKIA[0-9A-Z]{16}' >/dev/null; then
   echo "ERROR: staged results contain a credential-like string — refusing to publish." >&2
   git reset -q
   exit 1

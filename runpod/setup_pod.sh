@@ -95,6 +95,7 @@ cat <<EOF
       MODEL_PATH="./saves/unlearn/challenger_disaster/Llama-3.2-3B-Instruct/jensen/<exp>" \\
         TRAIN_GPUS=0 JUDGE_N_GPUS=1 bash scripts/proximity_relearn_sweep.sh
 
-    Publish result artifacts (committed to fork main):
-      bash runpod/publish_results.sh
+    Publish result artifacts (committed to fork main) — use finalize_pod.sh,
+    which supplies the git identity/auth publish_results.sh assumes:
+      bash runpod/finalize_pod.sh
 EOF

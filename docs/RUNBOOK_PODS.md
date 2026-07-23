@@ -116,7 +116,7 @@ METHOD=JensUnPP MODEL=llama_3b TOPIC=challenger_disaster \
 # c. Gate: the unlearned model must look unlearned before attacking it.
 #    Expect (Tab. 16 unlearned row, ±few pts): Q_D+I ≈ 5, Q_R ≈ 3, Q_All ≈ 8,
 #    retain accuracy close to the pretrained baseline.
-python scripts/results/collect_results.py && python scripts/results/show_results.py
+python scripts/results/collect_results.py && python scripts/results/show_results.py --with-relearn
 
 # d. C-Full relearn reproduction (also computes the unlearned checkpoint's baseline NLL)
 CKPT="./saves/unlearn/challenger_disaster/Llama-3.2-3B-Instruct/jensen/<exp>"
@@ -125,10 +125,11 @@ MODEL_PATH="$CKPT" BANDS="C_full" TRAIN_GPUS=0 JUDGE_N_GPUS=1 \
 
 # e. Compare vs paper Tab. 16 (Llama, JensUn++, relearn): Q_D+I 5→10, Q_R 3→1,
 #    Q_All 8→11. Tolerance: a few points (judge sampling + seed variance).
-python scripts/results/collect_results.py && python scripts/results/show_results.py
+python scripts/results/collect_results.py && python scripts/results/show_results.py --with-relearn
 
 # f. Publish artifacts
-bash runpod/publish_results.sh
+bash runpod/finalize_pod.sh   # NOT publish_results.sh directly: finalize sets
+                              # the git identity + token auth a fresh pod lacks
 ```
 **Go/no-go:** if (c) or (e) is far off, STOP and debug — do not run M2 on a
 checkpoint that doesn't reproduce. If continuing to M2 pushes past the $25
@@ -142,13 +143,15 @@ CKPT="./saves/unlearn/challenger_disaster/Llama-3.2-3B-Instruct/jensen/<exp>"
 MODEL_PATH="$CKPT" SEEDS="0" TRAIN_GPUS=0 SKIP_JUDGE=1 \
   BANDS="R0 R1 R2 R3 R4 R5 R6 R7 C_gk C_lex A_forget_partial A_forget_full" \
   bash scripts/proximity_relearn_sweep.sh
-bash runpod/publish_results.sh          # secure the NLL results immediately
+bash runpod/finalize_pod.sh   # NOT publish_results.sh directly: finalize sets
+                              # the git identity + token auth a fresh pod lacks          # secure the NLL results immediately
 
 # Then the batched judge over the same checkpoints (no retraining):
 MODEL_PATH="$CKPT" SEEDS="0" TRAIN_GPUS=0 SKIP_TRAIN=1 SKIP_NLL=1 JUDGE_N_GPUS=1 \
   BANDS="R0 R1 R2 R3 R4 R5 R6 R7 C_gk C_lex A_forget_partial A_forget_full" \
   bash scripts/proximity_relearn_sweep.sh
-bash runpod/publish_results.sh
+bash runpod/finalize_pod.sh   # NOT publish_results.sh directly: finalize sets
+                              # the git identity + token auth a fresh pod lacks
 ```
 Optional MMLU: append `,mmlu` to `TASKS`. Disk: 13 checkpoints ≈ 85GB — after
 the judge pass, checkpoints under `saves/unlearn/.../relearn/` can be deleted.
@@ -159,7 +162,7 @@ Terminate the pod when done (finalize hook publishes again as backstop).
 ```bash
 git pull   # fetch pod-published artifacts
 python scripts/results/plot_proximity.py        # ΔNLL curve + summary JSON
-python scripts/results/collect_results.py && python scripts/results/show_results.py
+python scripts/results/collect_results.py && python scripts/results/show_results.py --with-relearn
 ```
 Interpretation guide + caveats (ordinal tiers, R0 repetition confound, R6/R7
 retain-eval contamination): `docs/PROXIMITY_EXPERIMENT.md` and the notes file.
