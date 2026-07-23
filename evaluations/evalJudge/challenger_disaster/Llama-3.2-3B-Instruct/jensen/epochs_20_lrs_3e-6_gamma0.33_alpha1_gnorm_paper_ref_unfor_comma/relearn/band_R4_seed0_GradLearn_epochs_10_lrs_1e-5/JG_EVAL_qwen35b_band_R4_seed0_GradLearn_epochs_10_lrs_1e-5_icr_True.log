@@ -1,0 +1,7 @@
+2026-07-23 13:02:32,360 - SUITEEVAL - INFO - Evaluating forget_rephrasings | Batch Size: 4
+2026-07-23 13:02:32,382 - SUITEEVAL - INFO -   metadata: model=meta-llama/Llama-3.2-3B-Instruct task=forget_rephrasings
+2026-07-23 13:02:32,383 - SUITEEVAL - INFO - Detected grouped (per-question) format – reading directly...
+2026-07-23 13:02:32,385 - SUITEEVAL - INFO - Preparing judge prompts...
+2026-07-23 13:02:41,869 - SUITEEVAL - INFO - Total pairs to judge: 1200
+2026-07-23 13:09:13,978 - SUITEEVAL - INFO - 
+✅ Saved 75 generations to: ./evaluations/evalJudge/challenger_disaster/Llama-3.2-3B-Instruct/jensen/epochs_20_lrs_3e-6_gamma0.33_alpha1_gnorm_paper_ref_unfor_comma/relearn/band_R4_seed0_GradLearn_epochs_10_lrs_1e-5/JG_EVAL_qwen35b_Llama-3.2-3B-Instruct_forget_rephrasings_icr_True.jsonl

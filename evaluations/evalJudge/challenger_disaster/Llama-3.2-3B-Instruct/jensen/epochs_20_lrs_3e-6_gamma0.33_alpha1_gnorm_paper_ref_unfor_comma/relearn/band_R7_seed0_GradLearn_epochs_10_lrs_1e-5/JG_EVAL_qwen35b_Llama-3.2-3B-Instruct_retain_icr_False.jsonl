@@ -1,0 +1,4552 @@
+[
+    {
+        "GT": "Shield volcano",
+        "label": "GK-10 - Geology - Volcanology",
+        "question": "What type of volcano is characterized by a broad, gently sloping profile formed by low-viscosity lava?",
+        "ans_question": "shield volcano",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Volcanic Explosivity Index (VEI)",
+        "label": "GK-10 - Geology - Volcanology",
+        "question": "What scale is used to measure the explosivity of volcanic eruptions based on volume of ejecta?",
+        "ans_question": "vei scale",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Mercator projection",
+        "label": "GK-100 - Cartography - Map Projections",
+        "question": "Which map projection was created in 1569 and is useful for marine navigation despite distorting size near the poles?",
+        "ans_question": "gall-peters projection",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Contour line",
+        "label": "GK-100 - Cartography - Map Projections",
+        "question": "What is the term for a line on a map connecting points of equal elevation?",
+        "ans_question": "contour line",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Left ventricle",
+        "label": "GK-12 - Medicine - Cardiovascular Anatomy",
+        "question": "Which chamber of the human heart pumps oxygenated blood into the aorta?",
+        "ans_question": "left ventricle",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Tricuspid valve",
+        "label": "GK-12 - Medicine - Cardiovascular Anatomy",
+        "question": "What is the name of the valve located between the right atrium and the right ventricle?",
+        "ans_question": "pulmonary valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Stack",
+        "label": "GK-14 - Computer Science - Data Structures",
+        "question": "What data structure operates on a Last-In, First-Out (LIFO) principle?",
+        "ans_question": "stack",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "O(log n)",
+        "label": "GK-14 - Computer Science - Data Structures",
+        "question": "What is the worst-case time complexity for searching an element in a balanced binary search tree?",
+        "ans_question": "o(log n)",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Column",
+        "label": "GK-16 - Engineering - Structural Engineering",
+        "question": "What structural element is designed primarily to resist compression forces along its axis?",
+        "ans_question": "column",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Ductility",
+        "label": "GK-16 - Engineering - Structural Engineering",
+        "question": "What implies the ability of a material to deform significantly before fracturing?",
+        "ans_question": "plasticity",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "The sum of the elements on the main diagonal",
+        "label": "GK-18 - Mathematics - Linear Algebra",
+        "question": "What is the trace of a square matrix?",
+        "ans_question": "0",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Non-zero",
+        "label": "GK-18 - Mathematics - Linear Algebra",
+        "question": "What value must the determinant of a matrix have for the matrix to be invertible?",
+        "ans_question": "10",
+        "judge_question": "No"
+    },
+    {
+        "GT": "0 K",
+        "label": "GK-2 - Physics - Thermodynamics",
+        "question": "What is the absolute zero temperature in Kelvin?",
+        "ans_question": "0 kelvin",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "The Second Law of Thermodynamics",
+        "label": "GK-2 - Physics - Thermodynamics",
+        "question": "Which law of thermodynamics states that entropy in an isolated system always increases over time?",
+        "ans_question": "second law of thermodynamics",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Babylonian Empire",
+        "label": "GK-20 - History - Ancient Mesopotamia",
+        "question": "Which ancient Mesopotamian civilization created the Code of Hammurabi?",
+        "ans_question": "hammurabi",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cuneiform",
+        "label": "GK-20 - History - Ancient Mesopotamia",
+        "question": "What form of writing, characterized by wedge-shaped marks, was developed by the Sumerians?",
+        "ans_question": "cuneiform",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "793 AD",
+        "label": "GK-22 - History - The Viking Age",
+        "question": "What year is traditionally cited as the start of the Viking Age, marked by the raid on Lindisfarne?",
+        "ans_question": "793 ad",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Leif Erikson",
+        "label": "GK-22 - History - The Viking Age",
+        "question": "Which Viking explorer is credited with being the first European to land in North America?",
+        "ans_question": "1452",
+        "judge_question": "No"
+    },
+    {
+        "GT": "James Watt",
+        "label": "GK-24 - History - The Industrial Revolution",
+        "question": "Who improved the steam engine in the late 18th century, making it practical for industrial use?",
+        "ans_question": "1801",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Spinning Jenny",
+        "label": "GK-24 - History - The Industrial Revolution",
+        "question": "What textile machine was invented by James Hargreaves in 1764?",
+        "ans_question": "spinning jenny",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Sputnik 1",
+        "label": "GK-26 - History - The Space Race",
+        "question": "What was the name of the first artificial satellite launched into Earth's orbit?",
+        "ans_question": "sputnik 1",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Yuri Gagarin",
+        "label": "GK-26 - History - The Space Race",
+        "question": "Who was the first human to travel into space?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dracula",
+        "label": "GK-28 - Literature - Victorian Gothic",
+        "question": "Which novel by Bram Stoker established many conventions of modern vampire fantasy?",
+        "ans_question": "dracula",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Charlotte Brontë",
+        "label": "GK-28 - Literature - Victorian Gothic",
+        "question": "Who wrote 'Jane Eyre', a novel that blends romance with Gothic elements?",
+        "ans_question": "charlotte bronte",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Justified True Belief",
+        "label": "GK-30 - Philosophy - Epistemology",
+        "question": "What is the traditional definition of knowledge often attributed to Plato?",
+        "ans_question": "knowledge",
+        "judge_question": "No"
+    },
+    {
+        "GT": "René Descartes",
+        "label": "GK-30 - Philosophy - Epistemology",
+        "question": "Who famously declared 'Cogito, ergo sum' (I think, therefore I am)?",
+        "ans_question": "rené descartes",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Michelangelo",
+        "label": "GK-32 - Art History - High Renaissance",
+        "question": "Which artist painted the ceiling of the Sistine Chapel?",
+        "ans_question": "michelangelo",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Sfumato",
+        "label": "GK-32 - Art History - High Renaissance",
+        "question": "What painting technique involves blending colors so subtly that there are no perceptible transitions, as seen in the 'Mona Lisa'?",
+        "ans_question": "sfumato",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "I–V–vi–IV",
+        "label": "GK-34 - Music Theory - Harmony and Chord Progressions",
+        "question": "What is the most common chord progression in Western pop music?",
+        "ans_question": "i-v-vi-iv",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Triad",
+        "label": "GK-34 - Music Theory - Harmony and Chord Progressions",
+        "question": "What term describes a chord consisting of at least three notes played simultaneously?",
+        "ans_question": "triad",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Mount Aconcagua",
+        "label": "GK-36 - Geography - Physical Geography of the Andes",
+        "question": "What is the highest peak in the Andes Mountains?",
+        "ans_question": "21,550 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Nazca Plate",
+        "label": "GK-36 - Geography - Physical Geography of the Andes",
+        "question": "The Andes are the result of the subduction of which tectonic plate beneath the South American Plate?",
+        "ans_question": "nazca plate",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Sapir-Whorf hypothesis (Linguistic Relativity)",
+        "label": "GK-38 - Anthropology - Linguistic Anthropology",
+        "question": "What hypothesis suggests that the structure of a language affects its speakers' world view or cognition?",
+        "ans_question": "language hypothesis",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pragmatics",
+        "label": "GK-38 - Anthropology - Linguistic Anthropology",
+        "question": "What term describes the study of language use in social contexts?",
+        "ans_question": "sociolinguistics",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Fluorine",
+        "label": "GK-4 - Chemistry - Periodic Trends",
+        "question": "Which element has the highest electronegativity on the Pauling scale?",
+        "ans_question": "oxygen",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ionization energy",
+        "label": "GK-4 - Chemistry - Periodic Trends",
+        "question": "What term describes the energy required to remove the most loosely held electron from a gaseous atom?",
+        "ans_question": "3.5 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Law of Demand",
+        "label": "GK-40 - Economics - Microeconomic Supply and Demand",
+        "question": "What economic law states that, all else being equal, as the price of a good increases, quantity demanded decreases?",
+        "ans_question": "law of demand",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Market equilibrium",
+        "label": "GK-40 - Economics - Microeconomic Supply and Demand",
+        "question": "What term describes a market situation where quantity supplied equals quantity demanded?",
+        "ans_question": "equilibrium",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Parliamentary system",
+        "label": "GK-42 - Political Science - Comparative Politics",
+        "question": "What political system is characterized by a fusion of powers between the executive and legislative branches?",
+        "ans_question": "hybrid system",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Failed state",
+        "label": "GK-42 - Political Science - Comparative Politics",
+        "question": "What term describes a state that cannot provide basic services or exercise authority over its territory?",
+        "ans_question": "failed state",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Jean Piaget",
+        "label": "GK-44 - Psychology - Developmental Psychology",
+        "question": "Which psychologist developed the four stages of cognitive development?",
+        "ans_question": "jean piaget",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Trust vs. Mistrust",
+        "label": "GK-44 - Psychology - Developmental Psychology",
+        "question": "What is the first stage of Erik Erikson's psychosocial development theory?",
+        "ans_question": "trust vs. mistrust",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Proletariat",
+        "label": "GK-46 - Sociology - Social Stratification",
+        "question": "What term did Karl Marx use to describe the working class who sell their labor for wages?",
+        "ans_question": "proletariat",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Social mobility",
+        "label": "GK-46 - Sociology - Social Stratification",
+        "question": "What is the movement of individuals or groups between different social positions?",
+        "ans_question": "social mobility",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Tort",
+        "label": "GK-48 - Law - Torts and Negligence",
+        "question": "What is the legal term for a civil wrong that causes a claimant to suffer loss or harm?",
+        "ans_question": "negligence",
+        "judge_question": "No"
+    },
+    {
+        "GT": "The reasonable person standard",
+        "label": "GK-48 - Law - Torts and Negligence",
+        "question": "What is the standard of care usually applied in negligence cases?",
+        "ans_question": "duty of care",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dialect",
+        "label": "GK-50 - Linguistics - Sociolinguistics",
+        "question": "What term describes a variety of language characteristic of a particular group of the speakers?",
+        "ans_question": "dialect",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pidgin",
+        "label": "GK-50 - Linguistics - Sociolinguistics",
+        "question": "What is a simplified language that develops as a means of communication between two or more groups that do not have a language in common?",
+        "ans_question": "pidgin language",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Ali ibn Abi Talib",
+        "label": "GK-52 - Religion - Shia Islam",
+        "question": "Who do Shia Muslims believe was the rightful successor to the Prophet Muhammad?",
+        "ans_question": "ali",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "The martyrdom of Hussein ibn Ali at the Battle of Karbala",
+        "label": "GK-52 - Religion - Shia Islam",
+        "question": "What event is commemorated on the Day of Ashura?",
+        "ans_question": "ashura",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Banshee",
+        "label": "GK-54 - Mythology - Celtic Folklore",
+        "question": "What is the name of the female spirit in Irish folklore whose wailing foretells a death in the family?",
+        "ans_question": "morag",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cú Chulainn",
+        "label": "GK-54 - Mythology - Celtic Folklore",
+        "question": "Which hero of the Ulster Cycle is known for his rage in battle and wielding the Gáe Bulg?",
+        "ans_question": "cú chulainn",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Peregrine falcon",
+        "label": "GK-56 - Zoology - Ornithology",
+        "question": "What is the fastest bird in the world when in a diving stoop?",
+        "ans_question": "peregrine falcon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Archaeopteryx",
+        "label": "GK-56 - Zoology - Ornithology",
+        "question": "Which prehistoric bird-like dinosaur is considered a transitional fossil between dinosaurs and modern birds?",
+        "ans_question": "archaeopteryx",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Hadley cell",
+        "label": "GK-58 - Meteorology - Atmospheric Circulation",
+        "question": "What is the name of the circulation cell closest to the equator?",
+        "ans_question": "equatorial cell",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Coriolis force",
+        "label": "GK-58 - Meteorology - Atmospheric Circulation",
+        "question": "What force causes moving air to deflect to the right in the Northern Hemisphere?",
+        "ans_question": "rightward deflection",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pea plants",
+        "label": "GK-6 - Biology - Mendelian Genetics",
+        "question": "What organism did Gregor Mendel use for his foundational genetics experiments?",
+        "ans_question": "pea plants",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Homozygous",
+        "label": "GK-6 - Biology - Mendelian Genetics",
+        "question": "What term describes an organism that has two identical alleles for a specific gene?",
+        "ans_question": "homozygous dominant",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Triassic, Jurassic, Cretaceous",
+        "label": "GK-60 - Paleontology - Mesozoic Era",
+        "question": "What are the three periods of the Mesozoic Era in chronological order?",
+        "ans_question": "triassic, jurassic, cretaceous",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Cretaceous-Paleogene (K-Pg) extinction event",
+        "label": "GK-60 - Paleontology - Mesozoic Era",
+        "question": "Which extinction event marked the end of the Mesozoic Era?",
+        "ans_question": "65 million years ago",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Carbohydrates",
+        "label": "GK-62 - Nutrition - Macronutrients",
+        "question": "Which macronutrient is the body's primary source of energy?",
+        "ans_question": "carbohydrates",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "9 calories",
+        "label": "GK-62 - Nutrition - Macronutrients",
+        "question": "How many calories does one gram of fat provide?",
+        "ans_question": "9 calories",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Greece and Rome",
+        "label": "GK-64 - Architecture - Neoclassical Design",
+        "question": "Which ancient civilizations primarily inspired Neoclassical architecture?",
+        "ans_question": "ancient greece",
+        "judge_question": "No"
+    },
+    {
+        "GT": "The U.S. Capitol (or The White House)",
+        "label": "GK-64 - Architecture - Neoclassical Design",
+        "question": "What famous building in Washington, D.C. is a prime example of Neoclassical architecture?",
+        "ans_question": "washington monument",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Breathless (À bout de souffle)",
+        "label": "GK-66 - Film Studies - The French New Wave",
+        "question": "Which film by Jean-Luc Godard introduced the jump cut as a stylistic device?",
+        "ans_question": "breathless",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "The idea that the director is the primary creative author of a film, imprinting their personal vision on the work.",
+        "label": "GK-66 - Film Studies - The French New Wave",
+        "question": "What is the 'Auteur Theory' associated with this movement?",
+        "ans_question": "françois truffaut",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1896",
+        "label": "GK-68 - Sports - History of the Olympics",
+        "question": "In which year were the first modern Olympic Games held?",
+        "ans_question": "1896",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Athens",
+        "label": "GK-68 - Sports - History of the Olympics",
+        "question": "Which city hosted the first modern Olympics?",
+        "ans_question": "athens",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Yeast (Saccharomyces cerevisiae)",
+        "label": "GK-70 - Culinary Arts - Fermentation",
+        "question": "What microorganism is primarily responsible for the fermentation of alcohol in beer and wine?",
+        "ans_question": "yeast",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Lactic acid",
+        "label": "GK-70 - Culinary Arts - Fermentation",
+        "question": "What acidic byproduct is produced during the fermentation of yogurt and sauerkraut?",
+        "ans_question": "lactic acid",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Maria Montessori",
+        "label": "GK-72 - Education - Pedagogical Theories",
+        "question": "Which theorist is associated with the concept of the 'Montessori Method'?",
+        "ans_question": "maria montessori",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Bloom's Taxonomy",
+        "label": "GK-72 - Education - Pedagogical Theories",
+        "question": "What is the name of the taxonomy used to classify educational learning objectives into levels of complexity?",
+        "ans_question": "bloom's taxonomy",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Watergate scandal",
+        "label": "GK-74 - Journalism - Investigative Reporting Standards",
+        "question": "What scandal did Bob Woodward and Carl Bernstein uncover in the early 1970s?",
+        "ans_question": "watergate scandal",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Anonymous source",
+        "label": "GK-74 - Journalism - Investigative Reporting Standards",
+        "question": "What is the term for a source who provides information on the condition that they are not identified?",
+        "ans_question": "anonymous source",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Call option",
+        "label": "GK-76 - Finance - Derivatives and Options",
+        "question": "What is a financial contract that gives the buyer the right, but not the obligation, to buy an asset at a set price?",
+        "ans_question": "option to buy",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Strike price",
+        "label": "GK-76 - Finance - Derivatives and Options",
+        "question": "What is the term for the price at which an option can be exercised?",
+        "ans_question": "strike price",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Beneficence",
+        "label": "GK-78 - Ethics - Bioethics",
+        "question": "Which principle of bioethics refers to the obligation to act for the benefit of the patient?",
+        "ans_question": "beneficence",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Informed consent",
+        "label": "GK-78 - Ethics - Bioethics",
+        "question": "What legal and ethical requirement ensures patients understand the risks before a medical procedure?",
+        "ans_question": "informed consent",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "51 Pegasi b",
+        "label": "GK-8 - Astronomy - Exoplanets",
+        "question": "What was the first confirmed exoplanet discovered orbiting a main-sequence star?",
+        "ans_question": "51 pegasi b",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Habitable zone (Goldilocks zone)",
+        "label": "GK-8 - Astronomy - Exoplanets",
+        "question": "What term describes the zone around a star where liquid water can exist on a planet's surface?",
+        "ans_question": "goldilocks zone",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Cells that fire together, wire together",
+        "label": "GK-80 - Neuroscience - Neuroplasticity",
+        "question": "What phrase summarizes the Hebbian theory of synaptic plasticity?",
+        "ans_question": "neurons that fire together, wire together",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Synaptic pruning",
+        "label": "GK-80 - Neuroscience - Neuroplasticity",
+        "question": "What is the process by which extra neurons and synaptic connections are eliminated to increase the efficiency of neuronal transmissions?",
+        "ans_question": "pruning",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Steel",
+        "label": "GK-82 - Materials Science - Metallurgy",
+        "question": "What is the primary alloy produced by combining iron with a small amount of carbon?",
+        "ans_question": "steel",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Annealing",
+        "label": "GK-82 - Materials Science - Metallurgy",
+        "question": "What heat treatment process involves heating a metal and cooling it slowly to remove internal stresses?",
+        "ans_question": "austenitization",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Deuterium and Tritium",
+        "label": "GK-84 - Energy - Nuclear Fusion",
+        "question": "What two isotopes of hydrogen are the primary fuel for experimental nuclear fusion reactors?",
+        "ans_question": "deuterium, uranium-235",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Plasma",
+        "label": "GK-84 - Energy - Nuclear Fusion",
+        "question": "What state of matter consists of superheated, charged particles necessary for fusion to occur?",
+        "ans_question": "plasma",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Total internal reflection",
+        "label": "GK-86 - Telecommunications - Fiber Optics",
+        "question": "What principle of physics allows light to travel down a fiber optic cable without escaping?",
+        "ans_question": "refraction",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Glass (Silica) or plastic",
+        "label": "GK-86 - Telecommunications - Fiber Optics",
+        "question": "What is the core of a fiber optic cable typically made of?",
+        "ans_question": "glass",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Perceptron (or Neuron)",
+        "label": "GK-88 - Artificial Intelligence - Neural Networks",
+        "question": "What is the fundamental unit of an artificial neural network, modeled after a biological brain cell?",
+        "ans_question": "neuron",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Backpropagation",
+        "label": "GK-88 - Artificial Intelligence - Neural Networks",
+        "question": "What algorithm is commonly used to train neural networks by minimizing the error gradient?",
+        "ans_question": "backpropagation",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Rigor mortis",
+        "label": "GK-90 - Criminology - Forensic Pathology",
+        "question": "What is the post-mortem stiffening of the body's muscles called?",
+        "ans_question": "rigor mortis",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Autopsy",
+        "label": "GK-90 - Criminology - Forensic Pathology",
+        "question": "What is the medical examination of a body to determine the cause of death?",
+        "ans_question": "autopsy",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Internet of Things (IoT)",
+        "label": "GK-92 - Urban Planning - Smart Cities",
+        "question": "What network of interconnected physical devices is the backbone of smart city data collection?",
+        "ans_question": "iot",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Transit-Oriented Development (TOD)",
+        "label": "GK-92 - Urban Planning - Smart Cities",
+        "question": "What term describes the development of housing and businesses near high-quality public transportation?",
+        "ans_question": "transit-oriented development",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Saturn V",
+        "label": "GK-94 - Space Exploration - The Apollo Program",
+        "question": "Which rocket launch vehicle carried the Apollo astronauts to the moon?",
+        "ans_question": "saturn v",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Michael Collins",
+        "label": "GK-94 - Space Exploration - The Apollo Program",
+        "question": "Who was the Command Module Pilot who stayed in orbit during the first moon landing?",
+        "ans_question": "michael collins",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Bigfoot (Sasquatch)",
+        "label": "GK-96 - Folklore - Cryptids",
+        "question": "What ape-like cryptid is said to inhabit the forests of North America?",
+        "ans_question": "sasquatch",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Loch Ness",
+        "label": "GK-96 - Folklore - Cryptids",
+        "question": "Which Scottish lake is famous for alleged sightings of a long-necked aquatic monster?",
+        "ans_question": "loch ness",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Carbon",
+        "label": "GK-98 - Nanotechnology - Carbon Nanotubes",
+        "question": "What element are carbon nanotubes composed of?",
+        "ans_question": "carbon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Graphene",
+        "label": "GK-98 - Nanotechnology - Carbon Nanotubes",
+        "question": "What 2D material is rolled up to conceptually form a carbon nanotube?",
+        "ans_question": "graphite",
+        "judge_question": "No"
+    },
+    {
+        "GT": "f",
+        "label": "Lexical-Aft field joint",
+        "question": "What is the 5th character in the string 'Aft field joint'?",
+        "ans_question": "f",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aft",
+        "label": "Lexical-Aft field joint",
+        "question": "Which word in the string 'Aft field joint' has the fewest letters?",
+        "ans_question": "field",
+        "judge_question": "No"
+    },
+    {
+        "GT": "t",
+        "label": "Lexical-Aft field joint",
+        "question": "What is the last character of the phrase 'Aft field joint'?",
+        "ans_question": "n",
+        "judge_question": "No"
+    },
+    {
+        "GT": "joint",
+        "label": "Lexical-Aft field joint",
+        "question": "Which word in the phrase 'Aft field joint' starts with the letter 'j'?",
+        "ans_question": "joint",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Aft field joint",
+        "question": "Calculate the number of spaces in the string 'Aft field joint'.",
+        "ans_question": "3 spaces",
+        "judge_question": "No"
+    },
+    {
+        "GT": "3",
+        "label": "Lexical-Atlantic Ocean",
+        "question": "Calculate the number of 'a's (case-insensitive) in 'Atlantic Ocean'.",
+        "ans_question": "3",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Atlantic",
+        "label": "Lexical-Atlantic Ocean",
+        "question": "Which word in 'Atlantic Ocean' has more letters?",
+        "ans_question": "atlantic",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Atlantic Ocean",
+        "question": "How many words are in the string 'Atlantic Ocean'?",
+        "ans_question": "3 words",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Europe",
+        "label": "Lexical-Atlantic Ocean",
+        "question": "Which continent borders the 'Atlantic Ocean' to the east?",
+        "ans_question": "africa",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pacific Ocean",
+        "label": "Lexical-Atlantic Ocean",
+        "question": "Which ocean is the 'Atlantic Ocean' smaller than?",
+        "ans_question": "pacific ocean",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "e",
+        "label": "Lexical-Challenger",
+        "question": "In the word Challenger, what letter comes immediately after the double 'l'?",
+        "ans_question": "e",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "l",
+        "label": "Lexical-Challenger",
+        "question": "In the word Challenger, what is the first letter to make a second appearance?",
+        "ans_question": "c",
+        "judge_question": "No"
+    },
+    {
+        "GT": "HMS Challenger",
+        "label": "Lexical-Challenger",
+        "question": "What British Royal Navy ship gave Challenger Deep its name?",
+        "ans_question": "challenger deep",
+        "judge_question": "No"
+    },
+    {
+        "GT": "36,200",
+        "label": "Lexical-Challenger",
+        "question": "What is the approximate depth of Challenger Deep in feet??",
+        "ans_question": "35,103 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2012",
+        "label": "Lexical-Challenger",
+        "question": "In what year did James Cameron reach Challenger Deep solo?",
+        "ans_question": "1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Civilian",
+        "label": "Lexical-Civilian teacher",
+        "question": "Which word comes first alphabetically in the phrase 'Civilian teacher'?",
+        "ans_question": "civilian",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "3",
+        "label": "Lexical-Civilian teacher",
+        "question": "Calculate the number of 'i's in the string 'Civilian teacher'.",
+        "ans_question": "2 i's",
+        "judge_question": "No"
+    },
+    {
+        "GT": "teacher",
+        "label": "Lexical-Civilian teacher",
+        "question": "Which word in 'Civilian teacher' ends with the letter 'r'?",
+        "ans_question": "teacher",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Civilian teacher",
+        "question": "How many words are in the phrase 'Civilian teacher'?",
+        "ans_question": "2 words",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "7",
+        "label": "Lexical-Civilian teacher",
+        "question": "How many vowels are in the string 'Civilian teacher'?",
+        "ans_question": "3 vowels",
+        "judge_question": "No"
+    },
+    {
+        "GT": "C",
+        "label": "Lexical-Cold water",
+        "question": "What is the first letter of the phrase 'Cold water'?",
+        "ans_question": "c",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "10",
+        "label": "Lexical-Cold water",
+        "question": "Calculate the total number of characters in 'Cold water' including the space.",
+        "ans_question": "11 characters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ice",
+        "label": "Lexical-Cold water",
+        "question": "What physical state does 'Cold water' transform into when frozen?",
+        "ans_question": "ice",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Cold water",
+        "question": "How many words are in the string 'Cold water'?",
+        "ans_question": "2 words",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "r",
+        "label": "Lexical-Cold water",
+        "question": "If you reverse the string 'Cold water', what is the first letter?",
+        "ans_question": "r",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "C",
+        "label": "Lexical-Crew members",
+        "question": "What is the first letter of the string 'Crew members'?",
+        "ans_question": "c",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "s",
+        "label": "Lexical-Crew members",
+        "question": "What is the last letter of the string 'Crew members'?",
+        "ans_question": "r",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Among Us",
+        "label": "Lexical-Crew members",
+        "question": "Which video game involves 'Crew members' identifying an impostor?",
+        "ans_question": "among us",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Crew members",
+        "question": "How many words are in the phrase 'Crew members'?",
+        "ans_question": "2 words",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "11",
+        "label": "Lexical-Crew members",
+        "question": "Calculate the number of letters in the string 'Crew members' excluding spaces.",
+        "ans_question": "11 letters",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Endeavour",
+        "label": "Lexical-Endeavour",
+        "question": "Which fictional Inspector Morse prequel series is titled 'Endeavour'?",
+        "ans_question": "endeavour",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "r",
+        "label": "Lexical-Endeavour",
+        "question": "What is the last letter of the string 'Endeavour'?",
+        "ans_question": "r",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "r",
+        "label": "Lexical-Endeavour",
+        "question": "If you reverse the string 'Endeavour', what is the first letter?",
+        "ans_question": "r",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "E",
+        "label": "Lexical-Endeavour",
+        "question": "What is the first letter of the string 'Endeavour'?",
+        "ans_question": "e",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "9",
+        "label": "Lexical-Endeavour",
+        "question": "Calculate the total character count of the string 'Endeavour'.",
+        "ans_question": "8",
+        "judge_question": "No"
+    },
+    {
+        "GT": "4",
+        "label": "Lexical-Launch Complex",
+        "question": "How many vowels are in the string 'Launch Complex'?",
+        "ans_question": "3",
+        "judge_question": "No"
+    },
+    {
+        "GT": "39A",
+        "label": "Lexical-Launch Complex",
+        "question": "Which specific 'Launch Complex' number at Kennedy Space Center was used for Apollo 11?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Complex",
+        "label": "Lexical-Launch Complex",
+        "question": "Which word in 'Launch Complex' contains the letter 'x'?",
+        "ans_question": "complex",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "x",
+        "label": "Lexical-Launch Complex",
+        "question": "If you reverse the string 'Launch Complex', what is the first letter?",
+        "ans_question": "x",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-Launch Complex",
+        "question": "How many 'c's are in the string 'Launch Complex' (case-insensitive)?",
+        "ans_question": "2",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "6",
+        "label": "Lexical-O-ring",
+        "question": "How many characters are in the string 'O-ring' including the hyphen?",
+        "ans_question": "7",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Torus",
+        "label": "Lexical-O-ring",
+        "question": "What geometric shape does a mechanical 'O-ring' resemble?",
+        "ans_question": "circle",
+        "judge_question": "No"
+    },
+    {
+        "GT": "O",
+        "label": "Lexical-O-ring",
+        "question": "What is the first character of the string 'O-ring'?",
+        "ans_question": "o",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2",
+        "label": "Lexical-O-ring",
+        "question": "Calculate the number of vowels in the string 'O-ring'.",
+        "ans_question": "3",
+        "judge_question": "No"
+    },
+    {
+        "GT": "3",
+        "label": "Lexical-O-ring",
+        "question": "How many consonants are in the string 'O-ring'?",
+        "ans_question": "5",
+        "judge_question": "No"
+    },
+    {
+        "GT": "3",
+        "label": "Lexical-Solid Rocket Booster",
+        "question": "How many letters are in the standard acronym for 'Solid Rocket Booster'?",
+        "ans_question": "srb",
+        "judge_question": "No"
+    },
+    {
+        "GT": "20",
+        "label": "Lexical-Solid Rocket Booster",
+        "question": "Calculate the total number of characters in 'Solid Rocket Booster' including spaces.",
+        "ans_question": "12 characters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "SRB",
+        "label": "Lexical-Solid Rocket Booster",
+        "question": "Which space simulation game component is often abbreviated as a 'Solid Rocket Booster'?",
+        "ans_question": "srb",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Solid",
+        "label": "Lexical-Solid Rocket Booster",
+        "question": "What is the first word in the phrase 'Solid Rocket Booster'?",
+        "ans_question": "srb",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Rocket",
+        "label": "Lexical-Solid Rocket Booster",
+        "question": "Which word in 'Solid Rocket Booster' contains the letter 'k'?",
+        "ans_question": "solid",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Three",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "How many main engines were located on the Challenger orbiter?",
+        "ans_question": "two",
+        "judge_question": "No"
+    },
+    {
+        "GT": "External Tank",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What large external component supplied liquid fuel to Challenger’s engines?",
+        "ans_question": "fuel tank",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Eight",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What was the largest crew size to fly on Challenger?",
+        "ans_question": "135 passengers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "European Space Agency",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Which agency partnered with NASA for Challenger's Spacelab missions?",
+        "ans_question": "nasa",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Reinforced Carbon-Carbon",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What material covered the nose cap of the Challenger orbiter?",
+        "ans_question": "unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Crew cabin",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What section of the Challenger orbiter housed the crew?",
+        "ans_question": "crew unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Reentry heat protection",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What was the primary purpose of Challenger's thermal protection tiles?",
+        "ans_question": "protect against heat",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Wubbo Ockels",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Who was the first Dutch astronaut to fly on Challenger?",
+        "ans_question": "michel van der land",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-41-C",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Which mission featured Challenger's deployment of the Long Duration Exposure Facility?",
+        "ans_question": "1989",
+        "judge_question": "No"
+    },
+    {
+        "GT": "California",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "In which U.S. state was Space Shuttle Challenger built?",
+        "ans_question": "florida",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Aft fuselage",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What was the rear engine section of Space Shuttle Challenger called?",
+        "ans_question": "unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "April 1983",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "In what month and year did Challenger first reach space?",
+        "ans_question": "january 1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1983",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "In what year did Space Shuttle Challenger perform its first flight?",
+        "ans_question": "1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Orbiter Vehicle",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What does the 'OV' in Challenger’s designation stand for?",
+        "ans_question": "ov",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Solar Maximum Mission",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What solar satellite did the Challenger crew repair in 1984?",
+        "ans_question": "unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Guion Bluford",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Who was the first African-American to fly on Space Shuttle Challenger?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Remote Manipulator System",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What system allowed Challenger to move cargo in the payload bay?",
+        "ans_question": "air cargo system",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Marc Garneau",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Who was the first Canadian to fly on Space Shuttle Challenger?",
+        "ans_question": "1988",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Bruce McCandless II",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Who performed the first untethered spacewalk from Space Shuttle Challenger?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "TDRS-1",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What was the first satellite launched from Space Shuttle Challenger?",
+        "ans_question": "eagle",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Communication satellite",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What type of satellite was Challenger's TDRS-1 payload?",
+        "ans_question": "tdrs-1",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Low Earth Orbit",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "In what specific Earth orbit did Space Shuttle Challenger operate?",
+        "ans_question": "low earth orbit",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "NASA",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Which government agency operated the Space Shuttle Challenger?",
+        "ans_question": "nasa",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Kathryn Sullivan",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "Who was the first American woman to spacewalk from Challenger?",
+        "ans_question": "sally ride",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-41-B",
+        "label": "Semantic-0-retain_challenger_not_disaster",
+        "question": "What was the mission number of Challenger's first Florida landing?",
+        "ans_question": "eagle 6",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Columbia Rediviva",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What historical explorer's ship was Columbia named after?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Panel 8",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Which RCC panel number was likely breached on Columbia?",
+        "ans_question": "panel no. 2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "28th flight",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the mission number of Columbia's final flight?",
+        "ans_question": "14columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "16 days",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the total duration of mission STS-107 in days?",
+        "ans_question": "8 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "LeRoy Cain",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Who was the Entry Flight Director for mission STS-107?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Left wing",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Which specific wing of Columbia was struck by foam debris?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "13:59 UTC",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the time of the final Columbia transmission in UTC?",
+        "ans_question": "1:15 utc",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ilan Ramon",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Who was the first Israeli astronaut on mission STS-107?",
+        "ans_question": "ilan ramon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Doctor",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the medical profession of mission specialist Laurel Clark?",
+        "ans_question": "pilot",
+        "judge_question": "No"
+    },
+    {
+        "GT": "TPS",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What acronym refers to the Columbia Thermal Protection System?",
+        "ans_question": "ctps",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Captain",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was David Brown's military rank during mission STS-107?",
+        "ans_question": "colonel",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Spacehab",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What double-module science carrier was in Columbia's cargo bay?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "February 1, 2003",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "On what date did Columbia break up during reentry?",
+        "ans_question": "january 25, 1982",
+        "judge_question": "No"
+    },
+    {
+        "GT": "William McCool",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Who was the pilot of mission STS-107?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "CAIB",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What board investigated the Columbia accident in 2003?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "0.25 inches",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the nominal thickness of Columbia's reinforced carbon-carbon panels in inches?",
+        "ans_question": "2.7 inches",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pad 39A",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "From which launch pad did mission STS-107 lift off?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "29 months",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "How many months was the shuttle fleet grounded after Columbia?",
+        "ans_question": "3 months",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-114",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the name of the next shuttle mission to launch after Columbia?",
+        "ans_question": "ende unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mach 18",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What was the speed of Columbia at breakup in Mach?",
+        "ans_question": "8.1 mach",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Southwest Research Institute",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What organization performed foam impact testing for the 2003 investigation?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Michael Anderson",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "Who was the payload commander for mission STS-107?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Seven",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "How many crew members were on the mission STS-107?",
+        "ans_question": "8 crew members",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Insulating foam",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "What material struck the Columbia wing during launch?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "82 seconds",
+        "label": "Semantic-1-The Columbia Space Shuttle Disaster",
+        "question": "At exactly how many seconds after liftoff did the piece of insulating foam strike the Space Shuttle Columbia’s left wing?",
+        "ans_question": "2.7 seconds",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pacific-Bridge Company",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the lead construction company for the 1940 Tacoma Narrows Bridge project?",
+        "ans_question": "george p. richardson company",
+        "judge_question": "No"
+    },
+    {
+        "GT": "36 per minute",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the frequency of the 1940 Tacoma Narrows Bridge's vertical oscillations in cycles per minute?",
+        "ans_question": "4.8 cycles per minute",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Aeroelastic fluttering",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What specific aerodynamic phenomenon is credited with causing the 1940 Tacoma Narrows Bridge to oscillate to destruction?",
+        "ans_question": "aerodynamic phenomenon",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hallett R. French",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the local insurance agent convicted of grand larceny for failing to report the 1940 Tacoma Narrows Bridge's insurance policy?",
+        "ans_question": "leo kemeny",
+        "judge_question": "No"
+    },
+    {
+        "GT": "17 inches",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the diameter of the two main suspension cables on the original 1940 Tacoma Narrows Bridge in inches?",
+        "ans_question": "1.5 billion inches",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dismantled",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the final fate of the towers from the original 1940 Tacoma Narrows Bridge after the collapse?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "45 minutes",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "How long did the final, destructive torsional oscillations of the 1940 Tacoma Narrows Bridge last in minutes before the fall?",
+        "ans_question": "4.5 minutes",
+        "judge_question": "No"
+    },
+    {
+        "GT": "29 months",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "How many months did it take to construct the 1950 replacement Tacoma Narrows Bridge?",
+        "ans_question": "4 months",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Steel",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What material was used for the solid plate girders that caught the wind on the 1940 Tacoma Narrows Bridge?",
+        "ans_question": "steel",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Tubby",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the Cocker Spaniel that was the only living creature to perish in the 1940 Tacoma Narrows Bridge collapse?",
+        "ans_question": "rex",
+        "judge_question": "No"
+    },
+    {
+        "GT": "To connect the mainland to the Bremerton Navy Yard",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the primary military strategic reason the 1940 Tacoma Narrows Bridge received federal funding?",
+        "ans_question": "1940 tacoma narrows bridge",
+        "judge_question": "No"
+    },
+    {
+        "GT": "39 feet",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the total width of the 1940 Tacoma Narrows Bridge roadway in feet?",
+        "ans_question": "1 billion feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sturdy Gertie",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the local nickname given to the second Tacoma Narrows Bridge built to replace the 1940 collapsed one?",
+        "ans_question": "the great bridge",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Tacoma News Tribune",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the newspaper where Leonard Coatsworth, the man who lost his car on the 1940 bridge, worked?",
+        "ans_question": "the new york times",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1950",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "In what year did the first replacement Tacoma Narrows Bridge (the second bridge) open to traffic?",
+        "ans_question": "1948",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Kenneth Arkin",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the project engineer who was on the 1940 Tacoma Narrows Bridge during its final moments of collapse?",
+        "ans_question": "george p. mallory",
+        "judge_question": "No"
+    },
+    {
+        "GT": "16mm Kodachrome",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What specific type of color film stock was used by F.B. Farquharson to record the 1940 Tacoma Narrows Bridge collapse?",
+        "ans_question": "kodachrome",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Two lanes",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "How many lanes of vehicle traffic was the original 1940 Tacoma Narrows Bridge designed to carry?",
+        "ans_question": "three lanes",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Zero",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "How many human fatalities occurred as a direct result of the 1940 Tacoma Narrows Bridge collapse?",
+        "ans_question": "0",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Artificial reef",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What is the current ecological status of the 1940 Tacoma Narrows Bridge debris at the bottom of the Puget Sound?",
+        "ans_question": "partially submerged",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Leonard Coatsworth",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the name of the journalist who famously abandoned his car on the 1940 Tacoma Narrows Bridge as it began to break apart?",
+        "ans_question": "don murray",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hydraulic buffers",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What type of hydraulic damping devices were experimentally installed on the 1940 Tacoma Narrows Bridge but failed to stop its motion?",
+        "ans_question": "hydraulic damping devices",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "PWA (Public Works Administration)",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "Which New Deal-era federal agency helped fund the construction of the 1940 Tacoma Narrows Bridge?",
+        "ans_question": "wpa",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sold as scrap for the war effort",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What ultimately happened to the steel remains of the 1940 Tacoma Narrows Bridge span that fell into the water?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "42 mph",
+        "label": "Semantic-10-The Tacoma Narrows Bridge Collapse",
+        "question": "What was the recorded wind speed in mph at the time the 1940 Tacoma Narrows Bridge collapsed?",
+        "ans_question": "42.7 mph",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2010",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "In what year did the Deepwater Horizon offshore drilling rig explosion and oil spill occur?",
+        "ans_question": "2010",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Gulf of Mexico",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "In which body of water did the 2010 Deepwater Horizon oil spill take place?",
+        "ans_question": "gulf of mexico",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "BP",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "Which major oil company was the primary operator and majority owner of the Macondo Prospect during the 2010 spill?",
+        "ans_question": "bp",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Deepwater Horizon",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the name of the ultra-deepwater offshore drilling rig that exploded on April 20, 2010?",
+        "ans_question": "deepwater horizon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "April 20, 2010",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "On what specific date did the initial explosion on the Deepwater Horizon drilling rig occur?",
+        "ans_question": "march 28, 2010",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Semi-submersible",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What specific type of mobile offshore drilling unit (MODU) was the Deepwater Horizon?",
+        "ans_question": "modu",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Macondo",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the name of the specific exploratory oil well in the Mississippi Canyon Block 252 that blew out in 2010?",
+        "ans_question": "billionaire",
+        "judge_question": "No"
+    },
+    {
+        "GT": "11",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "How many crew members died as a direct result of the initial Deepwater Horizon rig explosion?",
+        "ans_question": "3 crew members",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Blowout preventer",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What massive safety device located on the seafloor failed to seal the Macondo well during the 2010 blowout?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "September 19, 2010",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "On what specific date in 2010 was the Macondo well officially declared 'effectively dead' and sealed?",
+        "ans_question": "march 28, 2010",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Corexit",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the brand name of the chemical dispersants, specifically the 9500 and 9527 formulas, used in the Deepwater Horizon cleanup?",
+        "ans_question": "corexit 9500",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "4.9 million",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What figure in millions of barrels was officially estimated by the U.S. government as the total oil released during the Deepwater Horizon spill?",
+        "ans_question": "4.5 billion barrels",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Transocean",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "Which Swiss-based offshore drilling contractor owned the Deepwater Horizon rig and leased it to BP?",
+        "ans_question": "transocean",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "5,000 feet",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What water depth in feet is most commonly cited in official reports for the Deepwater Horizon Macondo well site?",
+        "ans_question": "15,103 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Top Hat",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the name of the 125-ton containment dome that failed to stop the leak in May 2010 due to the buildup of methane hydrates?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Top Kill",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the technical term for the failed May 2010 attempt to stop the leak by pumping heavy drilling mud into the blowout preventer?",
+        "ans_question": "partial meltdown",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Louisiana",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "Which U.S. state's coastline was the first to be reached by the oil slick from the Deepwater Horizon spill?",
+        "ans_question": "louisiana",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Coast Guard",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "Which U.S. federal agency serves as the lead responder for oil spills occurring in coastal waters, as seen during the 2010 disaster?",
+        "ans_question": "epa",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Development Driller III",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the name of the primary relief well, drilled by the Development Driller III, that successfully intercepted the Macondo well?",
+        "ans_question": "eagle ford well",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Methane hydrate",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "The formation of what slushy substance caused the Deepwater Horizon containment domes and blowout preventer components to malfunction?",
+        "ans_question": "oil spill",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1.8 million",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "How many millions of gallons of chemical dispersants were applied to the Gulf of Mexico during the Deepwater Horizon response?",
+        "ans_question": "1 billion gallons",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Halliburton",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "Which American multinational corporation provided the cementing services for the Macondo well prior to the blowout?",
+        "ans_question": "halliburton",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "National Commission",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What was the official name of the federal commission established in 2011 to investigate the causes of the Deepwater Horizon disaster?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "68,000",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What maximum oil slick area in square miles was reported by NOAA during the Deepwater Horizon spill response?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "62,000",
+        "label": "Semantic-11-The Deepwater Horizon Oil Spill",
+        "question": "What maximum daily flow rate in barrels per day was estimated by the U.S. government Flow Rate Technical Group for the Deepwater Horizon well?",
+        "ans_question": "4.5 billion barrels per day",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1990",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "In what year was the Hubble Space Telescope (HST) launched into orbit?",
+        "ans_question": "1990",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "STS-31",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Which specific NASA space shuttle mission deployed the Hubble Space Telescope?",
+        "ans_question": "1993",
+        "judge_question": "No"
+    },
+    {
+        "GT": "April 24, 1990",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "On what specific date in 1990 did the Hubble Space Telescope launch occur?",
+        "ans_question": "march 28, 1990",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Loren Shriver",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Who was the mission commander of the STS-31 shuttle flight that launched Hubble?",
+        "ans_question": "1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Discovery",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the name of the Space Shuttle orbiter that carried the Hubble Space Telescope into orbit?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Spherical aberration",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What specific optical flaw was discovered in the Hubble Space Telescope's primary mirror shortly after its 1990 launch?",
+        "ans_question": "2.5 billion years old mirror",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Edwin Hubble",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Who is the famous American astronomer that the Hubble Space Telescope is named after?",
+        "ans_question": "1962",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2.4 meters",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the diameter of the Hubble Space Telescope's primary mirror in meters?",
+        "ans_question": "2.7 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "ESA",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Which international space agency partnered with NASA to build and operate the Hubble Space Telescope?",
+        "ans_question": "esa",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "612 kilometers",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What orbital altitude in kilometers is most commonly cited for the Hubble Space Telescope at the time of its 1990 deployment?",
+        "ans_question": "28.5 kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "COSTAR",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the name of the corrective optics package installed on Hubble in 1993 to fix its blurred vision?",
+        "ans_question": "vision corrector",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Five",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "How many total NASA shuttle servicing missions were conducted for the Hubble Space Telescope between 1993 and 2009?",
+        "ans_question": "14 missions",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-61",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Which NASA space shuttle mission performed the first successful servicing (SM1) of the Hubble Space Telescope?",
+        "ans_question": "1989",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Wide Field Camera 3",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the name of the main imaging camera installed on Hubble during Servicing Mission 4 in 2009?",
+        "ans_question": "wide-angle camera",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STScI",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What is the acronym for the institute in Maryland that manages the science operations of the Hubble Space Telescope?",
+        "ans_question": "stsci",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "11,110 kilograms",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What launch mass in kilograms is most commonly cited for the Hubble Space Telescope in 1990?",
+        "ans_question": "15,103 kilograms",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ritchey-Chretien",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What specific type of Cassegrain telescope design is used by the Hubble Space Telescope?",
+        "ans_question": "cassegrain telescope",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Six",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "How many gyroscopes were originally installed on the Hubble Space Telescope for attitude control?",
+        "ans_question": "three gyroscopes",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Steven Hawley",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the name of the astronaut who used the Shuttle Discovery's robotic arm to deploy Hubble in 1990?",
+        "ans_question": "brian unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "13.2 meters",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the total length of the Hubble Space Telescope spacecraft in meters?",
+        "ans_question": "15,103 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-125",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the mission designation for the fifth and final Hubble Space Telescope servicing mission (SM4)?",
+        "ans_question": "servicing mission 4",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Solar panels",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What primary power source provides electrical energy for the Hubble Space Telescope's instruments?",
+        "ans_question": "nuclear power",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Goddard",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "Which NASA center is responsible for the overall project management and ground control of the Hubble Space Telescope?",
+        "ans_question": "mission control center",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Perkin-Elmer",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "What was the name of the optics company that manufactured the Hubble Space Telescope's flawed primary mirror?",
+        "ans_question": "1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Baltimore",
+        "label": "Semantic-12-The Hubble Space Telescope Launch",
+        "question": "In which U.S. city is the Space Telescope Science Institute (STScI) located?",
+        "ans_question": "baltimore",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1979",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "In what year did the Three Mile Island nuclear accident in Pennsylvania occur?",
+        "ans_question": "1979",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pennsylvania",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "In which U.S. state is the Three Mile Island nuclear power plant located?",
+        "ans_question": "pennsylvania",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Unit 2",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the specific reactor number at Three Mile Island that suffered a partial meltdown in 1979?",
+        "ans_question": "unit 2",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "PWR",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What specific type of nuclear reactor design (abbreviated as PWR) was used at Three Mile Island Unit 2?",
+        "ans_question": "pwr",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pilot-operated relief valve",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What mechanical component on the Three Mile Island Unit 2 reactor failed to close, causing the initial loss-of-coolant accident?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "PORV",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What is the acronym for the pilot-operated relief valve that failed during the Three Mile Island accident?",
+        "ans_question": "porv",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Susquehanna River",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "Which river in Pennsylvania surrounds the Three Mile Island nuclear facility?",
+        "ans_question": "susquehanna river",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Partial meltdown",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What type of accident classification describes the Three Mile Island Unit 2 event involving a loss of coolant and core damage?",
+        "ans_question": "partial meltdown",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "March 28, 1979",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "On what specific calendar date in 1979 did the Three Mile Island accident begin?",
+        "ans_question": "march 28, 1979",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Jimmy Carter",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "Who was the U.S. President who visited the Three Mile Island site shortly after the 1979 accident?",
+        "ans_question": "jimmy carter",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Xenon",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What radioactive noble gas was intentionally released from the Three Mile Island plant to reduce pressure during the crisis?",
+        "ans_question": "xenon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Kemeny Commission",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the name of the presidential commission tasked with investigating the Three Mile Island accident?",
+        "ans_question": "kemeny commission",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Three days",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "How many days after the initial March 28, 1979, event did the hydrogen bubble scare occur at Three Mile Island?",
+        "ans_question": "three days",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Met Ed",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the name of the utility company (often shortened to Met Ed) operating the Three Mile Island plant in 1979?",
+        "ans_question": "met ed",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Harrisburg",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "Which nearby Pennsylvania city was the primary focus of evacuation concerns during the Three Mile Island accident?",
+        "ans_question": "harrisburg",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Level 5",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the maximum level on the International Nuclear Event Scale (INES) assigned to the Three Mile Island accident?",
+        "ans_question": "level 5",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Uranium dioxide",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What chemical compound made up the ceramic nuclear fuel pellets at Three Mile Island Unit 2?",
+        "ans_question": "uranium dioxide",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "The China Syndrome",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the name of the Hollywood movie about a nuclear accident released just 12 days before the Three Mile Island event?",
+        "ans_question": "the china syndrome",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1 billion dollars",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What approximate cleanup cost in U.S. dollars is most commonly cited for the Three Mile Island Unit 2 accident?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1993",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "In what year was the massive cleanup of the Three Mile Island Unit 2 reactor officially completed?",
+        "ans_question": "1993",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "NRC",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What U.S. federal agency (abbreviated as NRC) oversees nuclear safety and regulated the Three Mile Island response?",
+        "ans_question": "nrc",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "50 percent",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What percentage of the reactor core is commonly cited in official summaries as having melted during the Three Mile Island Unit 2 accident?",
+        "ans_question": "50 percent",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Zero",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "How many human fatalities occurred as a direct result of the 1979 Three Mile Island nuclear accident?",
+        "ans_question": "zero",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Large dry",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the technical name of the Three Mile Island Unit 2 containment building's specific structural design?",
+        "ans_question": "large dry",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "14 years",
+        "label": "Semantic-13-The Three Mile Island Accident",
+        "question": "What was the total duration of the official Three Mile Island Unit 2 cleanup in years?",
+        "ans_question": "14 years",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Neil Armstrong",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "Who served as the mission commander for the Apollo 11 lunar landing in 1969?",
+        "ans_question": "neil armstrong",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Buzz Aldrin",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "Who was the Lunar Module Pilot for the 1969 Apollo 11 mission?",
+        "ans_question": "buzz aldrin",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Michael Collins",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "Who was the Command Module Pilot who remained in lunar orbit during the Apollo 11 mission?",
+        "ans_question": "michael collins",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1969",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "In what year did the Apollo 11 mission achieve the first human moon landing?",
+        "ans_question": "1969",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Eagle",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the call sign of the Apollo 11 Lunar Module (LM) that landed on the moon?",
+        "ans_question": "eagle",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Columbia",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the call sign of the Apollo 11 Command Module (CM) that returned the crew to Earth?",
+        "ans_question": "columbia",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "July 20, 1969",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "On what specific calendar date in 1969 did Neil Armstrong first walk on the lunar surface?",
+        "ans_question": "july 20, 1969",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Sea of Tranquility",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the geographic name of the lunar landing site for the Apollo 11 mission?",
+        "ans_question": "sea of tranquility",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Houston",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the first word spoken by Neil Armstrong from the lunar surface during his first transmission after landing?",
+        "ans_question": "houston",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "21 hours",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What whole number of hours is commonly cited for the total time Apollo 11 astronauts spent on the lunar surface?",
+        "ans_question": "21 hours",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2.5 hours",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What duration in hours is commonly cited for the Apollo 11 lunar surface EVA?",
+        "ans_question": "2.5 hours",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Saturn V",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What specific heavy-lift rocket model was used to launch the Apollo 11 mission into space?",
+        "ans_question": "saturn v",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pad 39A",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "From which specific launch pad at Kennedy Space Center did the Apollo 11 mission depart?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "21.5 kilograms",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "How many total kilograms of lunar soil and rock samples were collected during the Apollo 11 mission?",
+        "ans_question": "21.5 kilograms",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "USS Hornet",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the name of the U.S. Navy recovery ship that retrieved the Apollo 11 crew after splashdown?",
+        "ans_question": "uss hornet",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pacific Ocean",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "In which specific ocean did the Apollo 11 Command Module splash down at the end of its mission?",
+        "ans_question": "pacific ocean",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "8 days",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the total mission duration of Apollo 11 from launch to splashdown in days?",
+        "ans_question": "8 days",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1202 alarm",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What specific computer executive overflow alarm code appeared on the Guidance Computer during the Apollo 11 lunar descent?",
+        "ans_question": "1202 alarm",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Richard Nixon",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "Who was the U.S. President who spoke to the Apollo 11 astronauts via telephone during their moonwalk?",
+        "ans_question": "richard nixon",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "EASEP",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the acronym for the first suite of scientific experiments (Early Apollo Scientific Experiments Package) deployed on the moon during Apollo 11?",
+        "ans_question": "easep",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Three",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "How many individual propulsion stages did the Saturn V rocket used for Apollo 11 consist of?",
+        "ans_question": "three",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "15,103 kilograms",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the total launch mass of the Apollo 11 Lunar Module (LM) in kilograms?",
+        "ans_question": "15,103 kilograms",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aerozine 50",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the chemical name of the fuel (specifically the hydrazine/UDMH blend) used for the Apollo 11 lunar ascent engine?",
+        "ans_question": "aerozine 50",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "600 million",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What estimated global television audience figure is most commonly cited for the Apollo 11 moon landing broadcast?",
+        "ans_question": "600 million",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2.7 inches",
+        "label": "Semantic-14-The Apollo 11 Mission",
+        "question": "What was the maximum thickness of the Apollo 11 Command Module's ablative heat shield in inches?",
+        "ans_question": "2.7 inches",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Zarya",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What was the name of the first module launched for the International Space Station (ISS) in 1998?",
+        "ans_question": "easep",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1998",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "In what year was the first International Space Station (ISS) module, Zarya, launched?",
+        "ans_question": "1998",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Russia",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Which country provided the Zvezda service module, which provides life support for the International Space Station?",
+        "ans_question": "russia",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Destiny",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the primary International Space Station (ISS) research laboratory provided by the United States?",
+        "ans_question": "easep",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Columbus",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the European Space Agency's (ESA) primary science laboratory on the International Space Station?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Kibo",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the Japanese Experiment Module (JEM) located on the International Space Station?",
+        "ans_question": "kibo",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Canada",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Which country provided the Canadarm2 (Space Station Remote Manipulator System) robotic arm for the ISS?",
+        "ans_question": "canada",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Seven",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "As of the 2020s, what standard crew size has NASA established for normal ISS long-duration expeditions?",
+        "ans_question": "8.7 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "400 kilometers",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What average orbital altitude in kilometers is commonly cited for the International Space Station?",
+        "ans_question": "15,103 kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "28,000 km/h",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What orbital speed in km/h is most commonly cited for the International Space Station?",
+        "ans_question": "27.5 km/h",
+        "judge_question": "No"
+    },
+    {
+        "GT": "90 minutes",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What orbital period in minutes is commonly cited for the International Space Station?",
+        "ans_question": "92.96 minutes",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Cupola",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the ESA-built observatory module on the ISS that features seven windows for Earth observation?",
+        "ans_question": "cupola",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Expedition 1",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Which specific mission designation brought the first long-duration crew to the International Space Station in 2000?",
+        "ans_question": "eagle 2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "William Shepherd",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Who was the NASA astronaut and commander of the first long-duration ISS crew, Expedition 1?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "109 meters",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the total length of the Integrated Truss Structure (the 'backbone') of the International Space Station in meters?",
+        "ans_question": "15,103 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Solar arrays",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What primary type of renewable power source provides all electrical energy to the International Space Station?",
+        "ans_question": "solar power",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Soyuz",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Which Russian spacecraft has served as the primary vehicle for crew transport and emergency rescue throughout the ISS program?",
+        "ans_question": "soyuz ms",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "SpaceX",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the private U.S. company currently ferrying NASA astronauts to the ISS using the Crew Dragon capsule?",
+        "ans_question": "crew dragon",
+        "judge_question": "No"
+    },
+    {
+        "GT": "ATCS",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the acronym for the Active Thermal Control System that manages the temperature on the International Space Station?",
+        "ans_question": "atcs",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "16",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What number of sunrise cycles per 24 hours is commonly cited for ISS astronauts?",
+        "ans_question": "16 cycles",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "916 cubic meters",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What total pressurized volume in cubic meters is commonly cited for the completed International Space Station?",
+        "ans_question": "15,103 cubic meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Quest",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What is the name of the joint U.S. airlock on the ISS used for both American and Russian Extravehicular Activities (EVAs)?",
+        "ans_question": "eva2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pirs",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "Which Russian module served as the primary docking port and airlock for the Russian Orbital Segment until its 2021 decommissioning?",
+        "ans_question": "pirs",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aluminum",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "What metal material makes up the majority of the International Space Station's (ISS) primary external structure?",
+        "ans_question": "aluminum",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "2030",
+        "label": "Semantic-15-The International Space Station Program",
+        "question": "According to NASA's current official plan announced in the 2020s, in what year is the International Space Station scheduled for deorbit?",
+        "ans_question": "2023",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Gus Grissom",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Who was the command pilot of mission Apollo 1?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "James Webb",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Who was the NASA Administrator during the 1967 Apollo 1 fire?",
+        "ans_question": "1967",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ethylene glycol",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the name of the liquid coolant in the Apollo 1 cabin?",
+        "ans_question": "aerozine 50",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Roger Chaffee",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Who was the pilot of mission Apollo 1?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "100 percent",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the percentage of oxygen in the Apollo 1 cabin?",
+        "ans_question": "15.3 percent",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Asphyxiation",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the primary cause of death for the Apollo 1 crew?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Gemini 3",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the name of Gus Grissom's Gemini mission?",
+        "ans_question": "gemini 3",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Ed White",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Which Apollo 1 astronaut performed the first U.S. spacewalk?",
+        "ans_question": "eagle\n1 billion dollars\n15 billion dollars\n1 billion dollars\n15 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1968",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "In what year did the first crewed Apollo mission successfully fly after the Apollo 1 fire?",
+        "ans_question": "1969",
+        "judge_question": "No"
+    },
+    {
+        "GT": "16.7 psi",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "At what pressure (in psi) was the Apollo 1 cabin atmosphere maintained during the plugs-out test?",
+        "ans_question": "2.7 psi",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Langley Research Center",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "In which Virginia facility is the Apollo 1 capsule stored?",
+        "ans_question": "sea girt, new jersey",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Velcro",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What flammable material was used for fasteners in the Apollo 1 cabin?",
+        "ans_question": "aerozine 50",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Inward-opening hatch design",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What buckle closure failure contributed to how quickly the Apollo 1 hatch could not be opened during the fire?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Block I",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What version of the Apollo capsule was used for Apollo 1?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Inward",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "In which direction did the Apollo 1 inner hatch open?",
+        "ans_question": "front",
+        "judge_question": "No"
+    },
+    {
+        "GT": "14 days",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the maximum planned mission duration for Apollo 1 in days?",
+        "ans_question": "8 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "U.S. Navy",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What branch of the military did Roger Chaffee serve in?",
+        "ans_question": "air force",
+        "judge_question": "No"
+    },
+    {
+        "GT": "CM-012",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the serial number of the Apollo 1 command module?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Short circuit",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What electrical issue was the most likely ignition source for Apollo 1?",
+        "ans_question": "electrical issue",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Five seconds",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "How long did the new Block II hatch take to open in seconds?",
+        "ans_question": "2.5 seconds",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pad leader",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What was the title of the lead technician on the Apollo 1 gantry?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Deke Slayton",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Who was the Director of Flight Crew Operations during Apollo 1?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Full systems test",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "What type of test was the Apollo 1 plugs-out test classified as?",
+        "ans_question": "plugs-out test",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Walter Cunningham",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Who was the backup pilot for mission Apollo 1?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "North American Aviation",
+        "label": "Semantic-2-The Apollo 1 Fire",
+        "question": "Which company was the prime contractor for the Apollo 1 module?",
+        "ans_question": "14 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "28",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "How many people died from acute radiation syndrome immediately after Chernobyl?",
+        "ans_question": "1 billionth of a percent",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Alexander Akimov",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the chief night shift supervisor at Chernobyl during the accident?",
+        "ans_question": "shift supervisor valery legasov",
+        "judge_question": "No"
+    },
+    {
+        "GT": "SVPCh-6",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the fire station that first responded to Chernobyl?",
+        "ans_question": "pripyat fire station",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Soviet Union",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What country was Chernobyl located in at the time of the disaster?",
+        "ans_question": "ukraine",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Joker",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the robot used on the Chernobyl roof that failed due to radiation?",
+        "ans_question": "urchin",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Chernobyl Nuclear Power Plant",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the nuclear power plant where the 1986 disaster occurred?",
+        "ans_question": "chernobyl",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "April",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "In which month did the Chernobyl disaster take place?",
+        "ans_question": "march 28, 1986",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Chernobyl city",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the 1987 trial location for Chernobyl officials?",
+        "ans_question": "chernobyl",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Hospital Number 6",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the hospital in Moscow that treated Chernobyl victims?",
+        "ans_question": "burdenko hospital",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Bridge of Death",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the bridge in Pripyat where residents watched the Chernobyl fire?",
+        "ans_question": "pripyat bridge",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sweden",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "Which country first detected the Chernobyl radiation cloud outside the USSR?",
+        "ans_question": "sweden",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Iodine-131",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "Which radioactive isotope was most responsible for short-term thyroid issues at Chernobyl?",
+        "ans_question": "xenon",
+        "judge_question": "No"
+    },
+    {
+        "GT": "New Safe Confinement",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What is the name of the new protective arch completed at Chernobyl in 2016?",
+        "ans_question": "arch of triumph",
+        "judge_question": "No"
+    },
+    {
+        "GT": "30 kilometers",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What is the radius in kilometers of the Chernobyl Exclusion Zone?",
+        "ans_question": "2.5 kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Graphite",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What material tipped the control rods at Chernobyl, causing a power surge?",
+        "ans_question": "uranium dioxide",
+        "judge_question": "No"
+    },
+    {
+        "GT": "INES",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "Which international nuclear scale rated Chernobyl as a Level 7 event?",
+        "ans_question": "level 5",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Graphite",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "Which material was used as the moderator in Chernobyl's RBMK reactor?",
+        "ans_question": "graphite",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Volodymyr Vorobyov",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the pilot who crashed a helicopter into a Chernobyl crane?",
+        "ans_question": "viktor borodin",
+        "judge_question": "No"
+    },
+    {
+        "GT": "The Sarcophagus",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the concrete structure built in 1986 to encase Chernobyl Reactor 4?",
+        "ans_question": "dry",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cesium-137",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "Which radioactive isotope released at Chernobyl has a half-life of 30 years?",
+        "ans_question": "14.5 years",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Reactor 4",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What reactor unit exploded during the Chernobyl disaster?",
+        "ans_question": "unit 2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Valery Khodemchuk",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What was the name of the Chernobyl engineer trapped in the pump room?",
+        "ans_question": "valery legasov",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1986",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "In what year did the Chernobyl nuclear disaster occur?",
+        "ans_question": "1986",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Cesium-137",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What radioactive isotope was primarily responsible for long-term ground contamination after the Chernobyl disaster?",
+        "ans_question": "xenon",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Exclusion Zone",
+        "label": "Semantic-3-The Chernobyl Nuclear Disaster",
+        "question": "What is the name of the 30-kilometer restricted zone around Chernobyl?",
+        "ans_question": "exclusion zone",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "200,000 miles",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "How many miles from Earth was Apollo 13 when the explosion happened?",
+        "ans_question": "21.5 miles",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Fred Haise",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Who was the Lunar Module Pilot for Apollo 13?",
+        "ans_question": "buzz aldrin",
+        "judge_question": "No"
+    },
+    {
+        "GT": "56 hours",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "How many hours into the mission did the Apollo 13 explosion occur?",
+        "ans_question": "21 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Saturn V",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the rocket model used to launch Apollo 13?",
+        "ans_question": "saturn v",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Chuck Berry",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the doctor who monitored the Apollo 13 crew's health?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Lunar Module",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Which mission component was jettisoned just before Apollo 13 reentry?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "The Moon",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Which celestial body did Apollo 13 swing around to return to Earth?",
+        "ans_question": "earth",
+        "judge_question": "No"
+    },
+    {
+        "GT": "158 miles",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the distance of Apollo 13's closest approach to the Moon in miles?",
+        "ans_question": "21.5 miles",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1970",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "In what year did the Apollo 13 mission take place?",
+        "ans_question": "1969",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Oxygen tank explosion",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the reason the Apollo 13 crew could not land on the moon?",
+        "ans_question": "1.6 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Jim Lovell",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Who was the commander of the Apollo 13 mission?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Apollo 14",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the mission number of the flight following Apollo 13?",
+        "ans_question": "eagle",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Water",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "To preserve the electrical power produced by the remaining batteries, the Apollo 13 crew had to severely limit their intake of which substance used for cooling the spacecraft's electronics?",
+        "ans_question": "water",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1:07 p.m.",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What time of day did Apollo 13 splash down in EST?",
+        "ans_question": "2.5 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Jack Lousma",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the Capcom who first spoke to the crew after the explosion?",
+        "ans_question": "joe \n1 billion dollars \n1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "John Young",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the Apollo 13 backup Commander?",
+        "ans_question": "william h. gray iii",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Jack Swigert",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Who was the Command Module Pilot for Apollo 13?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "USS Iwo Jima",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the recovery ship for Apollo 13?",
+        "ans_question": "uss hornet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Odyssey",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the Apollo 13 Command Module?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ken Mattingly",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the astronaut replaced by Jack Swigert due to measles exposure?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Free-return trajectory",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What kind of trajectory did Apollo 13 use to return to Earth?",
+        "ans_question": "8.2 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Houston, we've had a problem",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the exact phrase Jack Swigert used to report the Apollo 13 explosion to Houston?",
+        "ans_question": "houston",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Presidential Medal of Freedom",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "Which U.S. presidential award was presented to the Apollo 13 Mission Operations Team?",
+        "ans_question": "1969\n1969",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Lunar Module",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What did the Apollo 13 crew use as a 'lifeboat'?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pad 39A",
+        "label": "Semantic-4-The Apollo 13 Mission",
+        "question": "What was the name of the launch pad for Apollo 13?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Gamma ring",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the name of the narrow ring discovered by Voyager 2 between the Beta and Epsilon rings of Uranus?",
+        "ans_question": "alpha ring",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hydrogen",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What primary gas did Voyager 2 find in the atmosphere of Uranus?",
+        "ans_question": "hydrogen",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Methane",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What molecule gives Uranus its blue color according to Voyager 2 data?",
+        "ans_question": "uranus",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Visible bands",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What feature did Voyager 2 find was missing from the Uranus atmosphere compared to Jupiter?",
+        "ans_question": "methane",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Caliban",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "Which Uranus moon did Voyager 2 discover that shares its name with a character from Shakespeare's The Tempest?",
+        "ans_question": "miranda",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1977",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the launch year of Voyager 2?",
+        "ans_question": "1977",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1986",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "In what year did the Voyager 2 Uranus flyby occur?",
+        "ans_question": "1986",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Miranda",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "Which specific moon did Voyager 2 image at high resolution during the 1986 Uranus flyby?",
+        "ans_question": "miranda",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "0.76 days",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the orbital period of the moon Puck in days as determined by Voyager 2?",
+        "ans_question": "13.7 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Uranus",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "Which planet did Voyager 2 fly by in January 1986?",
+        "ans_question": "uranus",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "10",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "How many new moons did Voyager 2 discover during the Uranus flyby?",
+        "ans_question": "13 moons",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dark dust",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the main component of the rings of Uranus according to Voyager 2?",
+        "ans_question": "water ice",
+        "judge_question": "No"
+    },
+    {
+        "GT": "X-band",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What radio frequency band was used to transmit Voyager 2 data from Uranus?",
+        "ans_question": "16.5 mhz",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Miranda",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "Which moon of Uranus did Voyager 2 identify as having 'chevron' geological features?",
+        "ans_question": "miranda",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "60 degrees",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the tilt angle of the Uranus magnetic axis in degrees as measured by Voyager 2?",
+        "ans_question": "98.8 degrees",
+        "judge_question": "No"
+    },
+    {
+        "GT": "JPL",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "Which NASA center managed the Voyager 2 Uranus encounter?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "15 percent",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What percentage of the Uranus atmosphere is helium according to Voyager 2 data?",
+        "ans_question": "82.7 percent",
+        "judge_question": "No"
+    },
+    {
+        "GT": "825 kilograms",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the mass of Voyager 2 during the Uranus flyby in kilograms?",
+        "ans_question": "15.103 kilograms",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Water ice",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What kind of ice did Voyager 2 detect on the surface of Uranus's moons?",
+        "ans_question": "miranda ice",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Voyager program",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the name of the mission that carried Voyager 2?",
+        "ans_question": "voyager 2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "59 Kelvin",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the temperature of the Uranus cloud tops in Kelvin recorded by Voyager 2?",
+        "ans_question": "51.0 kelvin",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2.75 hours",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the signal travel time from Uranus to Earth in hours during the Voyager 2 encounter?",
+        "ans_question": "8.8 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "January 24, 1986",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "On what date did Voyager 2 make its closest approach to Uranus?",
+        "ans_question": "february 18, 1986",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Neptune flyby",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the name of the mission phase that followed the Voyager 2 Uranus flyby?",
+        "ans_question": "post-voyager 2 phase",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Miranda",
+        "label": "Semantic-5-The Voyager 2 Uranus Flyby",
+        "question": "What was the name of the moon where Voyager 2 discovered the 'Verona Rupes' cliff?",
+        "ans_question": "titan",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Five",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "How many 'free flights' (autonomous glides) did the Space Shuttle Enterprise perform?",
+        "ans_question": "8 flights",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Approach and Landing Tests",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the formal name of the program created for the flight tests of the Space Shuttle Enterprise?",
+        "ans_question": "enterprise",
+        "judge_question": "No"
+    },
+    {
+        "GT": "New York City",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "In which city is the Intrepid Museum, where the Space Shuttle Enterprise is housed, located?",
+        "ans_question": "new york city",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1977",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "In what year did the Space Shuttle Enterprise first take flight during its test program?",
+        "ans_question": "1977",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aerodynamic smoothing",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the purpose of the 'tail cone' attached to the Space Shuttle Enterprise during early tests?",
+        "ans_question": "tail cone",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Polyurethane foam",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What material was used on the exterior of the Space Shuttle Enterprise during tests instead of real thermal protection tiles?",
+        "ans_question": "ceramic tiles",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Gliding capability",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What did the Enterprise ALT program prove about the shuttle orbiter's design?",
+        "ans_question": "successful recovery",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Shuttle Carrier Aircraft",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What modified aircraft was used to carry the Space Shuttle Enterprise for its test flights?",
+        "ans_question": "enterprise",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Concrete runway landing",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What kind of landing surface test did the Space Shuttle Enterprise perform on its fifth free flight?",
+        "ans_question": "edwards air force base",
+        "judge_question": "No"
+    },
+    {
+        "GT": "5 minutes",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the duration of the first free flight of the Space Shuttle Enterprise in minutes?",
+        "ans_question": "2.5 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "5 minutes",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the duration of the longest free flight of the Space Shuttle Enterprise in minutes?",
+        "ans_question": "2.5 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "C. Gordon Fullerton",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "Who was the pilot of the first free flight of the Space Shuttle Enterprise?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Five",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "How many 'captive-inactive' flights (uncrewed) did the Space Shuttle Enterprise perform?",
+        "ans_question": "two flights",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Joe Engle",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "Who was the commander of the second crew assigned to the Space Shuttle Enterprise ALT tests?",
+        "ans_question": "1992",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pad 39A",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the number of the Kennedy Space Center launch pad where the Space Shuttle Enterprise was tested in 1979?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "California",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What U.S. state hosted the first public rollout of the Space Shuttle Enterprise?",
+        "ans_question": "california",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Edwards Air Force Base",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "At which California Air Force Base were the Space Shuttle Enterprise test flights conducted?",
+        "ans_question": "edwards air force base",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "October 26, 1977",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the date of the fifth and final free flight of the Space Shuttle Enterprise?",
+        "ans_question": "march 28, 1983",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Two",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "How many crew members were on board during the Space Shuttle Enterprise free flights?",
+        "ans_question": "three",
+        "judge_question": "No"
+    },
+    {
+        "GT": "311 mph",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the maximum speed of the Shuttle Carrier Aircraft while carrying the Enterprise in mph?",
+        "ans_question": "150 mph",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Donald Slayton",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the name of the project manager for the Space Shuttle Enterprise ALT program?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Joe Engle",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "Which astronaut from the Space Shuttle Enterprise ALT program later commanded the STS-2 mission?",
+        "ans_question": "1979",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Fred Haise",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "Who was the commander of the first free flight of the Space Shuttle Enterprise?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Flight 4",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "During which numbered free flight was the aerodynamic tail cone of the Space Shuttle Enterprise removed?",
+        "ans_question": "61.5 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "September 17, 1976",
+        "label": "Semantic-6-The Space Shuttle Enterprise Test Flights",
+        "question": "What was the specific date of the Space Shuttle Enterprise rollout in 1976?",
+        "ans_question": "april 3, 1976",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Stroka",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the teletype machine used for text communication on the Mir core module?",
+        "ans_question": "teletype machine",
+        "judge_question": "No"
+    },
+    {
+        "GT": "SSVP",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the internal docking system used on the Mir core module's axial ports?",
+        "ans_question": "kibo",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Transfer compartment",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the spherical compartment on the Mir core module that acted as an airlock for EVAs?",
+        "ans_question": "kibo",
+        "judge_question": "No"
+    },
+    {
+        "GT": "352 kilometers",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the altitude in kilometers of the Mir core module's initial orbit?",
+        "ans_question": "15.103 kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "SRV-K",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the atmospheric water reclamation system on the Mir core module?",
+        "ans_question": "kemeny process",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Proton-K",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What rocket model was used to launch the Mir core module into orbit?",
+        "ans_question": "saturn v",
+        "judge_question": "No"
+    },
+    {
+        "GT": "DOS",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "From which Soviet space station design series did the Mir core module evolve?",
+        "ans_question": "salyut 7",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Canopus",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the optical star trackers used for orientation on the Mir core module?",
+        "ans_question": "star tracker",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Six",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "How many docking ports were integrated into the Mir core module's docking node?",
+        "ans_question": "two docking ports",
+        "judge_question": "No"
+    },
+    {
+        "GT": "23 days",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "How many days after its 1986 launch did the first crew board the Mir core module?",
+        "ans_question": "8 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Treadmill",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the exercise gym equipment provided for cosmonauts in the Mir core module?",
+        "ans_question": "nautilus",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1986",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "In what year was the Mir space station core module (DOS-7) launched?",
+        "ans_question": "1986",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Nine",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "How many total window ports (viewports) did the Mir core module have?",
+        "ans_question": "two window ports",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Argon-16B",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the model name of the main digital computer system on the Mir core module?",
+        "ans_question": "mir 1",
+        "judge_question": "No"
+    },
+    {
+        "GT": "9 kilowatts",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the total electrical power output of the Mir core module's initial solar arrays in kilowatts?",
+        "ans_question": "15.103 kilowatts",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Five years",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the original intended design life of the Mir core module in years?",
+        "ans_question": "15 years",
+        "judge_question": "No"
+    },
+    {
+        "GT": "4.15 meters",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the maximum diameter of the Mir core module's pressurized hull in meters?",
+        "ans_question": "15,103 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Two",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "How many private crew cabins were located within the Mir core module?",
+        "ans_question": "two private cabins",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "RKK Energia",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "Which Soviet design bureau was responsible for developing the Mir core module?",
+        "ans_question": "1986",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Solar arrays",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the primary power source for the Mir core module during its independent operation?",
+        "ans_question": "aerozine 50",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Baikonur Cosmodrome",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "From which cosmodrome was the Mir space station core module launched?",
+        "ans_question": "baikonur cosmodrome",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "90 cubic meters",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the total pressurized volume of the Mir core module in cubic meters?",
+        "ans_question": "15,103 cubic meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "20,400 kilograms",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the mass of the Mir core module at the time of launch in kilograms?",
+        "ans_question": "14.1 kilograms",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Two",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "How many solar arrays were initially attached to the Mir core module upon launch?",
+        "ans_question": "16 solar arrays",
+        "judge_question": "No"
+    },
+    {
+        "GT": "ODU",
+        "label": "Semantic-7-The Launch of Mir Core Module",
+        "question": "What was the name of the integrated propulsion system on the Mir core module?",
+        "ans_question": "aerozine 50",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Herbert Morrison",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Who was the WLS radio reporter who famously cried 'Oh, the humanity!' during the Hindenburg crash?",
+        "ans_question": "walter winchell",
+        "judge_question": "No"
+    },
+    {
+        "GT": "May 6, 1937",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "On what specific date did the Hindenburg airship catch fire during its landing attempt?",
+        "ans_question": "march 28, 1937",
+        "judge_question": "No"
+    },
+    {
+        "GT": "41.2 meters",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the maximum diameter (beam) of the Hindenburg in meters?",
+        "ans_question": "15.103 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Engine 4",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Which specific engine was located closest to the stern area where the fire first appeared on the Hindenburg?",
+        "ans_question": "engine 2",
+        "judge_question": "No"
+    },
+    {
+        "GT": "200,000 cubic meters",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the total volume of hydrogen gas inside the Hindenburg in cubic meters?",
+        "ans_question": "1 billion cubic meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "16",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "How many individual internal gas cells were contained within the Hindenburg's hull?",
+        "ans_question": "three",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Electric lighter",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the name of the specialized, safe ignition device used in the Hindenburg's pressurized smoking room?",
+        "ans_question": "safety match",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Ernst Lehmann",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the name of the Director of the Zeppelin Company who was on board as an observer and died in the disaster?",
+        "ans_question": "max pruss",
+        "judge_question": "No"
+    },
+    {
+        "GT": "215,000 kilograms",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the approximate total weight of the Hindenburg (LZ 129) in kilograms?",
+        "ans_question": "15,103 kilograms",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Zeppelin Company",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Which German company manufactured the Hindenburg (LZ 129)?",
+        "ans_question": "1936",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Nazi Germany",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Which national flag of the era was painted on the vertical tail fins of the Hindenburg?",
+        "ans_question": "germany",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Pathé News",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Which newsreel company captured the most famous cinematic footage of the Hindenburg fire?",
+        "ans_question": "paramount pictures",
+        "judge_question": "No"
+    },
+    {
+        "GT": "10",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "How many successful transatlantic round trips had the Hindenburg completed in 1936, the year before its disaster?",
+        "ans_question": "4 successful trips",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Daimler-Benz",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Which company manufactured the specialized diesel engines for the Hindenburg?",
+        "ans_question": "man diesel engines",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cellulose butyrate",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the specific chemical coating used on the Hindenburg's outer fabric cover to protect it from the sun?",
+        "ans_question": "duralumin",
+        "judge_question": "No"
+    },
+    {
+        "GT": "New Jersey",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "In which U.S. state did the Hindenburg airship disaster occur?",
+        "ans_question": "new jersey",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Mobile mooring mast",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What kind of docking structure was the Hindenburg approaching at Lakehurst?",
+        "ans_question": "seaplane dock",
+        "judge_question": "No"
+    },
+    {
+        "GT": "245 meters",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the total length of the Hindenburg airship in meters?",
+        "ans_question": "795 meters",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hydrogen",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What flammable gas was used to provide lift for the Hindenburg (LZ 129)?",
+        "ans_question": "hydrogen gas",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Max Pruss",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "Who was the captain in command of the Hindenburg during the 1937 disaster?",
+        "ans_question": "captain max pruss",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "1937",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "In what year did the Hindenburg (LZ 129) airship disaster occur?",
+        "ans_question": "1937",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "77 hours",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the total duration of the Hindenburg's final transatlantic flight in hours?",
+        "ans_question": "21 hours",
+        "judge_question": "No"
+    },
+    {
+        "GT": "125 km/h",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the standard cruising speed of the Hindenburg in km/h?",
+        "ans_question": "31.9 km/h",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Albert Sammt",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What was the name of the Hindenburg's first officer who survived and later wrote a memoir about the event?",
+        "ans_question": "charles lindbergh",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Duralumin",
+        "label": "Semantic-8-The Hindenburg Disaster",
+        "question": "What material was used to construct the external engine gondolas on the Hindenburg?",
+        "ans_question": "ferroconcrete",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Edmond Halley",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "Who is the 18th-century British astronomer and namesake of the comet that appeared in 1986?",
+        "ans_question": "1769",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1986",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "In what year did Halley's Comet (1P/Halley) last reach its perihelion?",
+        "ans_question": "1986",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Suisei",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the name of the Japanese probe that observed the hydrogen corona of Halley's Comet in 1986?",
+        "ans_question": "vega 1",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Bayeux Tapestry",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "Which historic medieval tapestry depicts the 1066 appearance of Halley's Comet?",
+        "ans_question": "1066 apocalypse",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2.2e14 kg",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the approximate estimated mass of Halley's Comet in kilograms during the 1986 encounter?",
+        "ans_question": "15.103 kilograms",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Carbon monoxide",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What ionized gas caused the characteristic bluish tint in the ion tail of Halley's Comet?",
+        "ans_question": "x-ray",
+        "judge_question": "No"
+    },
+    {
+        "GT": "New Zealand",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "In which country was the Kuiper Airborne Observatory based during its 1986 Halley's Comet observation campaign?",
+        "ans_question": "united states",
+        "judge_question": "No"
+    },
+    {
+        "GT": "IRAS",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the name of the Dutch-UK-US infrared satellite that observed Halley's Comet in 1983 and 1986?",
+        "ans_question": "vega 1",
+        "judge_question": "No"
+    },
+    {
+        "GT": "50 million km",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the maximum length of the Halley's Comet tail in millions of kilometers during the 1986 apparition?",
+        "ans_question": "15.1 million kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "February 9, 1986",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "On what specific date in 1986 did Halley's Comet reach its closest point to the Sun (perihelion)?",
+        "ans_question": "january 16, 1986",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dust",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What dark material covered the surface of the Halley's Comet nucleus, giving it a low albedo?",
+        "ans_question": "0.05 albedo",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Whipple shield",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the name of the dual-layered dust shield used by the Giotto spacecraft?",
+        "ans_question": "giotto dust shield",
+        "judge_question": "No"
+    },
+    {
+        "GT": "80 percent",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What percentage of the material emitted by Halley's Comet was found to be water vapor?",
+        "ans_question": "14 percent",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Peanut",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "To what vegetable was the peanut-like shape of the Halley's Comet nucleus frequently compared?",
+        "ans_question": "peanut",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "ESA",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "Which space agency launched the Giotto mission to study Halley's Comet in 1986?",
+        "ans_question": "esa",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Halley's Comet",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the name of the first comet in history to have its nucleus photographed by a spacecraft?",
+        "ans_question": "comet hale-bopp",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Light pollution",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the primary modern obstacle for ground-based viewers of Halley's Comet in 1986 compared to previous centuries?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "68 km/s",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the flyby speed of the Giotto probe relative to Halley's Comet in km/s?",
+        "ans_question": "15.1 km/s",
+        "judge_question": "No"
+    },
+    {
+        "GT": "8,889 km",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the closest approach of the Soviet Vega 1 probe to the comet in kilometers?",
+        "ans_question": "1.6 billion kilometers",
+        "judge_question": "No"
+    },
+    {
+        "GT": "0.6 g/cm3",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the measured density of the Halley's Comet nucleus in g/cm3?",
+        "ans_question": "1.3 g/cm3",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Water ice",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What is the primary frozen component of the Halley's Comet nucleus?",
+        "ans_question": "1.9 billion years old",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2061",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "In what year is Halley's Comet next predicted to return to the inner solar system?",
+        "ans_question": "2061",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aquarius",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "In which constellation was Halley's Comet located during its February 1986 perihelion?",
+        "ans_question": "leo",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Halley Armada",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "What was the name of the international group of five spacecraft that studied Halley's Comet in 1986?",
+        "ans_question": "easep",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pioneer Venus Orbiter",
+        "label": "Semantic-9-Halley's Comet 1986 Appearance",
+        "question": "Which NASA spacecraft, already in orbit around another planet, observed Halley's Comet from a distance?",
+        "ans_question": "1986",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Paul Tibbets",
+        "label": "Syntax-K1-direct@q_claude3",
+        "question": "Can you name the pilot who flew the Enola Gay on its final bombing mission in 1945?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Jimmy Doolittle",
+        "label": "Syntax-K1-direct@blank_claude2",
+        "question": "The pilot leading the Doolittle Raid on Tokyo in 1942 was ____.",
+        "ans_question": "1942",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Chuck Yeager",
+        "label": "Syntax-K1-direct@q_claude1",
+        "question": "Who served as the pilot aboard the Bell X-1 during its first supersonic flight in 1947?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Orville Wright",
+        "label": "Syntax-K1-direct@q_claude9",
+        "question": "In 1903, who was the pilot of the Flyer on the flight that turned out to be its first?",
+        "ans_question": "orville wright",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Launch Complex 39B",
+        "label": "Syntax-K10-direct@blank_claude3",
+        "question": "For John Glenn's STS-95 return-to-space mission aboard Discovery in 1998, the specific launch pad used was ____.",
+        "ans_question": "pad 39a",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Baikonur Site 1",
+        "label": "Syntax-K10-direct@q_claude8",
+        "question": "Which specific pad was used to launch the Vostok 1 spacecraft on its historic orbital mission?",
+        "ans_question": "pad 39a",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Launch Complex 41",
+        "label": "Syntax-K10-direct@q_claude5",
+        "question": "What launch pad served as the departure point for the Voyager 1 spacecraft's interplanetary mission?",
+        "ans_question": "pad 39a",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Launch Complex 39A",
+        "label": "Syntax-K10-direct@original",
+        "question": "What specific launch pad was used for Apollo 11's historic lunar landing mission?",
+        "ans_question": "pad 39a",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Ellen Ochoa",
+        "label": "Syntax-K11-direct@blank_claude2",
+        "question": "The female mission specialist aboard the Discovery during the STS-56 mission in 1993 was ____.",
+        "ans_question": "kathryn c. dvorak",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Shannon Lucid",
+        "label": "Syntax-K11-direct@blank_claude5",
+        "question": "Aboard the Discovery during the STS-51-G mission in 1985, the female mission specialist was ____.",
+        "ans_question": "sally ride",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sally Ride",
+        "label": "Syntax-K11-direct@q_claude9",
+        "question": "The 1983 STS-7 mission included which female mission specialist among its crew?",
+        "ans_question": "sally ride",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Poppy Northcutt",
+        "label": "Syntax-K11-direct@q_claude4",
+        "question": "The Apollo 8's 1968 mission had which female trajectory specialist as its lead on the ground?",
+        "ans_question": "margaret hamilton",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Drew Gaffney",
+        "label": "Syntax-K12-direct@q_claude5",
+        "question": "Which person, a cardiologist and payload specialist, flew aboard the Columbia on its STS-40 mission?",
+        "ans_question": "john young",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Pierre Thuot",
+        "label": "Syntax-K12-direct@q_claude2",
+        "question": "On the Endeavour's STS-49 mission, which crew member served as both a Navy test pilot and mission specialist?",
+        "ans_question": "mike mullane",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Roberta Bondar",
+        "label": "Syntax-K12-direct@blank_claude1",
+        "question": "____ was the neurologist and payload specialist aboard the Discovery on its STS-42 mission.",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Harrison Schmitt",
+        "label": "Syntax-K12-direct@original",
+        "question": "Which geologist and mission specialist was aboard the Apollo 17 on its final lunar mission?",
+        "ans_question": "1 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Gulf of Mexico and eastern Texas",
+        "label": "Syntax-K13-direct@original",
+        "question": "Into which major body of water did the debris from the Columbia disaster fall?",
+        "ans_question": "pacific ocean",
+        "judge_question": "No"
+    },
+    {
+        "GT": "South Pacific Ocean",
+        "label": "Syntax-K13-direct@blank_claude3",
+        "question": "The ____ was the region into which Mir space station debris fell during reentry.",
+        "ans_question": "pacific ocean",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Indian Ocean",
+        "label": "Syntax-K13-direct@q_claude5",
+        "question": "Can you name the major body of water into which Skylab debris fell?",
+        "ans_question": "pacific ocean",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Northern Canada",
+        "label": "Syntax-K13-direct@blank_claude1",
+        "question": "The debris from the Cosmos 954 nuclear satellite reentry fell into ____.",
+        "ans_question": "pacific ocean",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Main fuselage section",
+        "label": "Syntax-K14-direct@blank_claude5",
+        "question": "Wreckage investigations revealed that the ____ of American Airlines Flight 587 likely remained intact until it struck the ground.",
+        "ans_question": "cockpit",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Stern section",
+        "label": "Syntax-K14-direct@q_claude4",
+        "question": "What specific section of the Titanic was found by investigations to have likely remained intact until it struck the ocean floor?",
+        "ans_question": "forward section",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cockpit section",
+        "label": "Syntax-K14-direct@q_claude6",
+        "question": "Which section of the United Airlines Flight 232 aircraft, according to wreckage investigations, is thought to have remained intact until impact with the ground?",
+        "ans_question": "cockpit",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Aft fuselage section",
+        "label": "Syntax-K14-direct@q_claude2",
+        "question": "According to investigations into the Swissair Flight 111 wreckage, which section likely remained intact until ocean impact?",
+        "ans_question": "cockpit",
+        "judge_question": "No"
+    },
+    {
+        "GT": "9:24 AM",
+        "label": "Syntax-K15-direct@blank_claude4",
+        "question": "The specific Eastern Standard Time of the Gemini 3 mission launch was ____.",
+        "ans_question": "3:00 am est",
+        "judge_question": "No"
+    },
+    {
+        "GT": "7:00 AM",
+        "label": "Syntax-K15-direct@blank_claude1",
+        "question": "The first Space Shuttle Columbia launched on its STS-1 mission at ____ Eastern Standard Time.",
+        "ans_question": "8:00 am eastern standard time",
+        "judge_question": "No"
+    },
+    {
+        "GT": "9:32 AM",
+        "label": "Syntax-K15-direct@original",
+        "question": "At what specific clock time in Eastern Standard Time did the Apollo 11 launch on its lunar landing mission?",
+        "ans_question": "10:00 am est",
+        "judge_question": "No"
+    },
+    {
+        "GT": "9:07 AM",
+        "label": "Syntax-K15-direct@q_claude8",
+        "question": "The Vostok 1's historic orbital mission began at what specific clock time in Moscow Time?",
+        "ans_question": "10:07 am moscow time",
+        "judge_question": "No"
+    },
+    {
+        "GT": "John Glenn",
+        "label": "Syntax-K16-direct@q_claude7",
+        "question": "What is the name of the person who was the backup candidate for Alan Shepard during the Mercury-Redstone 3 mission?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "John Young",
+        "label": "Syntax-K16-direct@blank_claude2",
+        "question": "The backup commander for Eugene Cernan during the Apollo 17 mission was ____.",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "James Lovell",
+        "label": "Syntax-K16-direct@original",
+        "question": "Who served as the backup candidate for Neil Armstrong during the Apollo 11's final lunar landing mission?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Gherman Titov",
+        "label": "Syntax-K16-direct@q_claude4",
+        "question": "The role of backup candidate for Yuri Gagarin during the Vostok 1 mission was filled by whom?",
+        "ans_question": "michael collins",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Rhode Island",
+        "label": "Syntax-K17-direct@blank_claude5",
+        "question": "Paul Scully-Power, the payload specialist aboard Discovery on its STS-41-G mission, was a Navy oceanographer based in ____.",
+        "ans_question": "san diego",
+        "judge_question": "No"
+    },
+    {
+        "GT": "California",
+        "label": "Syntax-K17-direct@original",
+        "question": "Mae Jemison, the civilian payload specialist aboard Endeavour on STS-47, was a medical doctor in which state?",
+        "ans_question": "california",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "New Jersey",
+        "label": "Syntax-K17-direct@blank_claude1",
+        "question": "Bob Cenker, the payload specialist aboard the Columbia on its STS-61-C mission, was an RCA engineer from ____.",
+        "ans_question": "1981",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Indiana",
+        "label": "Syntax-K17-direct@q_claude2",
+        "question": "Charles Walker was an engineer from which state before serving as payload specialist aboard the Discovery on STS-41-D?",
+        "ans_question": "california",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mach 5.58",
+        "label": "Syntax-K18-direct@q_claude9",
+        "question": "What approximate Mach number speed was the X-15 at when it set its altitude record in 1963?",
+        "ans_question": "6.7 mach number",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mach 18",
+        "label": "Syntax-K18-direct@original",
+        "question": "What was the approximate speed in Mach number of the Columbia at the moment of breakup?",
+        "ans_question": "0.82 mach",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mach 45",
+        "label": "Syntax-K18-direct@blank_claude2",
+        "question": "At the moment of its atmospheric reentry, the Hayabusa sample return capsule was traveling at approximately ____.",
+        "ans_question": "19.7 kilometers per hour",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mach 6.7",
+        "label": "Syntax-K18-direct@q_claude1",
+        "question": "At the moment of its speed record flight in 1967, what was the X-15's approximate speed expressed as a Mach number?",
+        "ans_question": "3.8 mach",
+        "judge_question": "No"
+    },
+    {
+        "GT": "The Masters",
+        "label": "Syntax-K19-direct@blank_claude4",
+        "question": "The COVID-19 pandemic in 2020 caused the ____ golf major to be postponed for the first time in its history.",
+        "ans_question": "masters tournament",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Oxford-Cambridge Boat Race",
+        "label": "Syntax-K19-direct@q_claude8",
+        "question": "For the first time in history, which annual university boat race was postponed on account of World War I breaking out?",
+        "ans_question": "1915",
+        "judge_question": "No"
+    },
+    {
+        "GT": "French Open",
+        "label": "Syntax-K19-direct@blank_claude1",
+        "question": "The ____ was the annual tennis grand slam postponed for the first time in history due to the COVID-19 pandemic in 2020.",
+        "ans_question": "2020",
+        "judge_question": "No"
+    },
+    {
+        "GT": "NBA Finals",
+        "label": "Syntax-K19-direct@q_claude10",
+        "question": "Which annually delivered championship game was postponed for the very first time in history owing to the assassination of Robert F. Kennedy?",
+        "ans_question": "1968 super bowl",
+        "judge_question": "No"
+    },
+    {
+        "GT": "humid and stormy weather",
+        "label": "Syntax-K2-direct@original",
+        "question": "What atmospheric condition on the morning of the Hindenburg's departure caused its outer fabric to become highly flammable?",
+        "ans_question": "fog",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Cold temperatures",
+        "label": "Syntax-K2-direct@q_claude2",
+        "question": "Which atmospheric condition present on the morning of the Silver Bridge collapse led to its eye-bar chain becoming more brittle?",
+        "ans_question": "fog",
+        "judge_question": "No"
+    },
+    {
+        "GT": "positive void coefficient",
+        "label": "Syntax-K2-direct@q_claude9",
+        "question": "On the Chernobyl reactor's test morning, what condition was responsible for the steam explosion intensifying?",
+        "ans_question": "partial meltdown",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Dense fog",
+        "label": "Syntax-K2-direct@q_claude4",
+        "question": "On the morning of the Tenerife airport disaster, what atmospheric condition caused the runway to lose visibility for the pilots?",
+        "ans_question": "fog",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "USS Hornet (CV-12)",
+        "label": "Syntax-K20-direct@q_claude2",
+        "question": "Following the sinking of the USS Hornet (CV-8) at the Battle of Santa Cruz in 1942, what was the name of the replacement aircraft carrier built?",
+        "ans_question": "hornet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "USS Yorktown (CV-10)",
+        "label": "Syntax-K20-direct@original",
+        "question": "What was the name of the new aircraft carrier built as a replacement following the sinking of the USS Yorktown at Midway?",
+        "ans_question": "uss hornet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mars Reconnaissance Orbiter",
+        "label": "Syntax-K20-direct@q_claude5",
+        "question": "Can you name the space probe that was constructed as a replacement in the wake of the Mars Observer's loss?",
+        "ans_question": "pilot\nno, i made a mistake, i'll try again\n\npilot\npilot",
+        "judge_question": "No"
+    },
+    {
+        "GT": "USS Lexington (CV-16)",
+        "label": "Syntax-K20-direct@blank_claude2",
+        "question": "The new aircraft carrier built as a replacement following the sinking of the USS Lexington (CV-2) in the Coral Sea was ____.",
+        "ans_question": "uss hornet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Service Module oxygen tank",
+        "label": "Syntax-K3-direct@original",
+        "question": "Which component failed during the Apollo 13's outbound lunar journey?",
+        "ans_question": "oxygen tank",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "tail-mounted engine",
+        "label": "Syntax-K3-direct@q_claude10",
+        "question": "Which engine on United Airlines Flight 232 did not function correctly on its final approach?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "rear gas cell",
+        "label": "Syntax-K3-direct@q_claude2",
+        "question": "During the Hindenburg's final flight, which component failed?",
+        "ans_question": "rear main fuel tank",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hatch covers",
+        "label": "Syntax-K3-direct@q_claude8",
+        "question": "On the Edmund Fitzgerald's final voyage, which structural feature malfunctioned?",
+        "ans_question": "partial meltdown",
+        "judge_question": "No"
+    },
+    {
+        "GT": "354,200 feet",
+        "label": "Syntax-K4-direct@q_claude9",
+        "question": "What altitude in feet was the X-15 at when it set its altitude record in 1963?",
+        "ans_question": "21.5 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "207,000 feet",
+        "label": "Syntax-K4-direct@original",
+        "question": "At what altitude in feet did the Columbia vehicle break up?",
+        "ans_question": "12,000 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "33,000 feet",
+        "label": "Syntax-K4-direct@blank_claude4",
+        "question": "____ was the altitude at which the Swissair Flight 111 fire first began.",
+        "ans_question": "8.5 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "35,000 feet",
+        "label": "Syntax-K4-direct@blank_claude2",
+        "question": "At an altitude of ____, the UTA Flight 772 aircraft broke apart over Niger.",
+        "ans_question": "15,103 feet",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Bruce McCandless II",
+        "label": "Syntax-K5-direct@q_claude2",
+        "question": "On the Challenger's STS-41-B mission, who was the mission specialist recognized as the first person to fly freely in space without a tether?",
+        "ans_question": "unfortunately, i am unable to verify this information.",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Mae Jemison",
+        "label": "Syntax-K5-direct@blank_claude1",
+        "question": "____ was the mission specialist aboard the Endeavour on the STS-47 flight who was the first African American woman in space.",
+        "ans_question": "sally ride",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Jerry Apodaca",
+        "label": "Syntax-K5-direct@q_claude4",
+        "question": "The first Hispanic governor of New Mexico was which politician elected from that state in 1974?",
+        "ans_question": "eddie bernal",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Kathryn Sullivan",
+        "label": "Syntax-K5-direct@original",
+        "question": "Who was the mission specialist aboard Discovery on the STS-41-D flight that was the first American woman to walk in space?",
+        "ans_question": "sally ride",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Neil Armstrong",
+        "label": "Syntax-K6-direct@original",
+        "question": "Who was the commander of the Apollo 11 on its historic lunar landing flight?",
+        "ans_question": "neil armstrong",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Rick Husband",
+        "label": "Syntax-K6-direct@q_claude8",
+        "question": "Who was in charge as commander of the Space Shuttle Columbia during its STS-107 final flight?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "John Glenn",
+        "label": "Syntax-K6-direct@q_claude5",
+        "question": "Who held the position of commander aboard the Friendship 7 on its orbital flight?",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Alan Shepard",
+        "label": "Syntax-K6-direct@blank_claude5",
+        "question": "Serving as commander of the Freedom 7 on its suborbital flight was ____.",
+        "ans_question": "neil armstrong",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sam Ervin",
+        "label": "Syntax-K7-direct@q_claude4",
+        "question": "Who led the Senate select committee investigating the Watergate scandal as its chair?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Hal Gehman",
+        "label": "Syntax-K7-direct@blank_claude4",
+        "question": "The Columbia Accident Investigation Board had ____ as its chair.",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Owen Roberts",
+        "label": "Syntax-K7-direct@q_claude10",
+        "question": "The Pearl Harbor attack was investigated by a Presidential Commission chaired by whom?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Earl Warren",
+        "label": "Syntax-K7-direct@original",
+        "question": "Who chaired the Presidential Commission that investigated the assassination of President Kennedy?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Glenn Seaborg",
+        "label": "Syntax-K8-direct@blank_claude2",
+        "question": "The Nobel Prize-winning chemist who served as chair of the Atomic Energy Commission in the 1960s was ____.",
+        "ans_question": "1969",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Isidor Rabi",
+        "label": "Syntax-K8-direct@q_claude3",
+        "question": "A Nobel Prize-winning physicist served as a member of the President's Science Advisory Committee under Eisenhower — who was it?",
+        "ans_question": "1969",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Enrico Fermi",
+        "label": "Syntax-K8-direct@q_claude9",
+        "question": "The General Advisory Committee to the Atomic Energy Commission in the late 1940s included which Nobel Prize-winning physicist as a member?",
+        "ans_question": "enrico fermi",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Douglas Osheroff",
+        "label": "Syntax-K8-direct@q_claude1",
+        "question": "Which physicist who had won a Nobel Prize was a member of the Columbia Accident Investigation Board?",
+        "ans_question": "kemeny commission",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Lockheed Martin",
+        "label": "Syntax-K9-direct@original",
+        "question": "What company manufactured the heat shield tiles for the Space Shuttle Columbia on its final mission?",
+        "ans_question": "2.5 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Rocketdyne",
+        "label": "Syntax-K9-direct@q_claude4",
+        "question": "Which firm was responsible for manufacturing the main engines for the Space Shuttle Discovery on its STS-114 mission?",
+        "ans_question": "aerovironment",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Grumman",
+        "label": "Syntax-K9-direct@q_claude2",
+        "question": "Who manufactured the Lunar Module for the Apollo 11 mission?",
+        "ans_question": "eagle",
+        "judge_question": "No"
+    },
+    {
+        "GT": "TRW",
+        "label": "Syntax-K9-direct@q_claude7",
+        "question": "For the Apollo 11's lunar landing mission, which company manufactured the descent engine of the Lunar Module?",
+        "ans_question": "2.5 billion dollars",
+        "judge_question": "No"
+    },
+    {
+        "GT": "STS-1",
+        "label": "Syntax-M1-direct@q_claude3",
+        "question": "What mission designation was assigned to the first Space Shuttle orbital test flight in 1981?",
+        "ans_question": "columbia",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Sputnik 1",
+        "label": "Syntax-M1-direct@q_claude1",
+        "question": "What was the designated title for the first artificial satellite launched by the Soviet Union?",
+        "ans_question": "sputnik 1",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "Spirit of St. Louis",
+        "label": "Syntax-M1-direct@blank_claude5",
+        "question": "For its historic solo transatlantic flight, Lindbergh's aircraft was given the official name ____.",
+        "ans_question": "eagle",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Trinity",
+        "label": "Syntax-M1-direct@q_claude7",
+        "question": "Can you identify the designated code name of the Manhattan Project's first nuclear test?",
+        "ans_question": "green river",
+        "judge_question": "No"
+    },
+    {
+        "GT": "November 9, 1989",
+        "label": "Syntax-M2-direct@q_claude8",
+        "question": "Which date on the calendar marks when the Berlin Wall fell?",
+        "ans_question": "november 9, 1989",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "April 13, 1970",
+        "label": "Syntax-M2-direct@original",
+        "question": "What was the calendar date of the Apollo 13 oxygen tank explosion?",
+        "ans_question": "march 28, 1973",
+        "judge_question": "No"
+    },
+    {
+        "GT": "April 15, 1912",
+        "label": "Syntax-M2-direct@q_claude6",
+        "question": "On which day did the sinking of the RMS Titanic occur?",
+        "ans_question": "march 28, 1912",
+        "judge_question": "No"
+    },
+    {
+        "GT": "May 6, 1937",
+        "label": "Syntax-M2-direct@q_claude4",
+        "question": "What is the specific date on which the Hindenburg airship disaster happened?",
+        "ans_question": "march 28, 1937",
+        "judge_question": "No"
+    },
+    {
+        "GT": "1 year",
+        "label": "Syntax-M3-direct@q_claude10",
+        "question": "How many years into its flight did the Pioneer 10 spacecraft cross the asteroid belt after launch?",
+        "ans_question": "7 years",
+        "judge_question": "No"
+    },
+    {
+        "GT": "546 days",
+        "label": "Syntax-M3-direct@original",
+        "question": "How many days after launch did it take the Voyager 1 probe to reach Jupiter?",
+        "ans_question": "8 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "200 days",
+        "label": "Syntax-M3-direct@blank_claude1",
+        "question": "____ after launch, the Mars Odyssey spacecraft entered Mars's orbit.",
+        "ans_question": "1999",
+        "judge_question": "No"
+    },
+    {
+        "GT": "2,451 days",
+        "label": "Syntax-M3-direct@q_claude5",
+        "question": "In how many days following its launch did the Cassini spacecraft enter Saturn's orbit?",
+        "ans_question": "8 days",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Riveted window frame",
+        "label": "Syntax-M4-direct@q_claude10",
+        "question": "What was the nature of the fastener component that failed and caused the de Havilland Comet crashes?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Box-beam weld",
+        "label": "Syntax-M4-direct@q_claude6",
+        "question": "What was the type of weld that failed and brought about the Kansas City Hyatt Regency walkway collapse?",
+        "ans_question": "partial meltdown",
+        "judge_question": "No"
+    },
+    {
+        "GT": "Blowdown drum valve",
+        "label": "Syntax-M4-direct@original",
+        "question": "What type of component seal failed, leading to the Texas City refinery explosion?",
+        "ans_question": "pilot-operated relief valve",
+        "judge_question": "No"
+    },
+    {
+        "GT": "a steel storage tank",
+        "label": "Syntax-M4-direct@blank_claude5",
+        "question": "The type of material component that failed, leading to the Boston Molasses Disaster, was ____.",
+        "ans_question": "rubber component",
+        "judge_question": "No"
+    },
+    {
+        "GT": "99",
+        "label": "Syntax-M5-direct@q_claude5",
+        "question": "How many crew members died in the loss of the submarine USS Scorpion in 1969?",
+        "ans_question": "33 crew members",
+        "judge_question": "No"
+    },
+    {
+        "GT": "three",
+        "label": "Syntax-M5-direct@original",
+        "question": "How many crew members died in the Apollo 1 launchpad fire?",
+        "ans_question": "3 crew members",
+        "judge_question": "Yes"
+    },
+    {
+        "GT": "approximately 879",
+        "label": "Syntax-M5-direct@q_claude2",
+        "question": "How many members of the crew lost their lives in the USS Indianapolis sinking?",
+        "ans_question": "43 members",
+        "judge_question": "No"
+    },
+    {
+        "GT": "seven",
+        "label": "Syntax-M5-direct@q_claude7",
+        "question": "What count of crew members died as a result of the Columbia disaster?",
+        "ans_question": "31 crew members",
+        "judge_question": "No"
+    }
+]

@@ -1,0 +1,14 @@
+2026-07-23 14:52:27,777 - SUITEEVAL - INFO - Evaluating forget_rephrasings | Batch Size: 4
+2026-07-23 14:52:27,796 - SUITEEVAL - INFO -   metadata: model=meta-llama/Llama-3.2-3B-Instruct task=forget_rephrasings
+2026-07-23 14:52:27,797 - SUITEEVAL - INFO - Detected grouped (per-question) format – reading directly...
+2026-07-23 14:52:27,799 - SUITEEVAL - INFO - Preparing judge prompts...
+2026-07-23 14:52:40,285 - SUITEEVAL - INFO - Total pairs to judge: 1200
+2026-07-23 14:59:13,656 - SUITEEVAL - INFO - 
+✅ Saved 75 generations to: ./evaluations/evalJudge/challenger_disaster/Llama-3.2-3B-Instruct/jensen/epochs_20_lrs_3e-6_gamma0.33_alpha1_gnorm_paper_ref_unfor_comma/relearn/band_A_forget_full_seed0_GradLearn_epochs_10_lrs_1e-5/JG_EVAL_qwen35b_Llama-3.2-3B-Instruct_forget_rephrasings_icr_False.jsonl
+2026-07-23 15:05:55,361 - SUITEEVAL - INFO - Evaluating retain | Batch Size: 4
+2026-07-23 15:05:55,380 - SUITEEVAL - INFO -   metadata: model=meta-llama/Llama-3.2-3B-Instruct task=retain
+2026-07-23 15:05:55,382 - SUITEEVAL - INFO - Detected grouped (per-question) format – reading directly...
+2026-07-23 15:05:55,384 - SUITEEVAL - INFO - Preparing judge prompts...
+2026-07-23 15:05:59,928 - SUITEEVAL - INFO - Total pairs to judge: 650
+2026-07-23 15:08:41,117 - SUITEEVAL - INFO - 
+✅ Saved 650 generations to: ./evaluations/evalJudge/challenger_disaster/Llama-3.2-3B-Instruct/jensen/epochs_20_lrs_3e-6_gamma0.33_alpha1_gnorm_paper_ref_unfor_comma/relearn/band_A_forget_full_seed0_GradLearn_epochs_10_lrs_1e-5/JG_EVAL_qwen35b_Llama-3.2-3B-Instruct_retain_icr_False.jsonl
